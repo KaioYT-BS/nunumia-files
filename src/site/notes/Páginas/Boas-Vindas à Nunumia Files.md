@@ -16,8 +16,7 @@ Nunumia: Files também abriga as campanhas de RPG de Nunumia, como [[Campanhas/N
 | ![OUTRPG BANNER.png\|500](/img/user/0-Assets/Images/OUTRPG%20BANNER.png)<br>[[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro\|Nunumia - O Último Tesouro]] |
 | :-----------------------------------------------------------: |
 
-
-# Personagens ([[Páginas/Personagens#Protagonistas\|Protagonistas]] • [[Páginas/Personagens#Organizações\|Por Organização]])
+# Personagens
 ---
 ## [[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro\|Nunumia - O Último Tesouro]]
 
