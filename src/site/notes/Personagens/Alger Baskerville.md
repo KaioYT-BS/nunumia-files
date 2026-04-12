@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/personagens/alger-baskerville/","dg-note-properties":{}}
 ---
 
-
 #Personagens #Personagens_Principais_em_OUTRPG #Waifus_do_Caribe  #Destinados
 Para sua transformação, veja [[Personagens/Têmpera\|Têmpera]]
 
