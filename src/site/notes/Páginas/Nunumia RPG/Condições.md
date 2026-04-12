@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/paginas/nunumia-rpg/condicoes/","dg-note-properties":{}}
 ---
 
-
 #Páginas 
 # Em Chamas
 O personagem está pegando fogo. No início de seus turnos, sofre 1d4 pontos de dano. O personagem pode gastar uma ação padrão para apagar o fogo com as mãos. Caso haja imersão em água as chamas são apagadas.
