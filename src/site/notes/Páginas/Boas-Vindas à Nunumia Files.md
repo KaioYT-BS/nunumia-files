@@ -16,8 +16,9 @@ Nunumia: Files também abriga as campanhas de RPG de Nunumia, como [[Campanhas/N
 | ![OUTRPG BANNER.png\|500](/img/user/0-Assets/Images/OUTRPG%20BANNER.png)<br>[[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro\|Nunumia - O Último Tesouro]] |
 | :-----------------------------------------------------------: |
 
-# Personagens ([[Páginas/Personagens#Protagonistas\|Protagonistas]] - [[Páginas/Personagens#Organizações\|Por Organização]])
+# Personagens (Protagonistas - Por Organização)
 ---
+[[Páginas/Personagens#Protagonistas\|Protagonistas]] - [[Páginas/Personagens#Organizações\|Por Organização]]
 ## [[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro\|Nunumia - O Último Tesouro]]
 
 | ![Alger.png\|200](/img/user/0-Assets/Images/Icons/Personagens/Alger.png)<br>[[Personagens/Alger Baskerville\|Alger Baskerville]]<br>**[[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro\|OUTRPG]]** | ![Emily.png\|200](/img/user/0-Assets/Images/Icons/Personagens/Emily.png)<br>[[Personagens/Emily Speavers Baskerville\|Emily Speavers Baskerville]]<br>**[[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro\|OUTRPG]]** | ![Amon.png\|200](/img/user/0-Assets/Images/Icons/Personagens/Amon.png)<br>[[Personagens/Amon Vaelor\|Amon Vaelor]]<br>**[[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro\|OUTRPG]]** | ![Morgan.png\|200](/img/user/0-Assets/Images/Icons/Personagens/Morgan.png)<br>[[Personagens/Morgan Voreal\|Morgan Voreal]]<br>**[[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro\|OUTRPG]]** |
