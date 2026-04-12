@@ -17,7 +17,6 @@ Lendas e conspirações da época afirmavam que as Tecelãs eram uma raça com p
 
 Com o tempo, descobriu-se que o verdadeiro motivo por trás da caça não era apenas medo. Era **a seda**.
 
-
 # Boatos
 ---
 Muito antes da própria guerra, boatos circulavam há décadas sobre as [[Raças/Tecelãs\|Tecelãs]]. Elas eram uma raça naturalmente isolada, conhecida por possuir habilidades únicas. Se elfos podiam viver mais tempo e orcs possuíam grande força física, as Tecelãs eram capazes de **criar a seda**. A seda produzida por elas não era um material comum. Além de ser leve, resistente e extremamente maleável, **possuía propriedades regenerativas raras para Humanos**.
