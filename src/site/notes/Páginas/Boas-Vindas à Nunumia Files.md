@@ -9,6 +9,11 @@
 
 Nunumia: Files também abriga as campanhas de RPG de Nunumia, como [[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro\|Nunumia - O Último Tesouro]] ou [[Campanhas/Nunumia - O Sol da Meia-Noite/Nunumia - O Sol da Meia-Noite\|Nunumia - O Sol da Meia-Noite]].
 
+# Artigo em Destaque!
+---
+
+| ![OUTRPG BANNER.png\|500](/img/user/0-Assets/Images/OUTRPG%20BANNER.png)<br>[[As Nações de Nunumia/Sete Grandes Nações de Nunumia/Imperium Diamante\|Imperium Diamante]] | [[Campanhas/Nunumia - O Último Tesouro/OUTRPG - EPISÓDIO 1 - O TESTE\|OUTRPG - EPISÓDIO 1 - O TESTE]] |
+| :--------------------------------------------------: | --------------------------------- |
 
 # Campanhas
 ---
