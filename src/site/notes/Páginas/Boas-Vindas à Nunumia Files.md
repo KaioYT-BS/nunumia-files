@@ -58,7 +58,5 @@ O Primeiro pacote de ***Nunumia: Files*** tem o Tema de [[Campanhas/Nunumia - O 
 - [[Personagens/Alger Baskerville\|Alger Baskerville]] (Parcial - 1/3)
 - [[Personagens/Cassidy Mazedy\|Cassidy Mazedy]] (Parcial - 1/3)
 - [[Personagens/Evan Pale Archin\|Evan Pale Archin]] (Parcial - 2/3)
-- [[Personagens/Morgan Voreal\|Morgan Voreal]] (Parcial - 1/3)
 - [[Campanhas/Nunumia - O Último Tesouro/OUTRPG - EPISÓDIO 1 - O TESTE\|OUTRPG - EPISÓDIO 1 - O TESTE]] (Completo)
-- [[ARG do Ilusionista\|ARG do Ilusionista]] (Completo)
 
