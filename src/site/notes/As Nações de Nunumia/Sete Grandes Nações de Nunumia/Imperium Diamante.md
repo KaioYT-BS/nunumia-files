@@ -192,3 +192,16 @@ O Glacianismo Moderno constitui a forma oficial e institucional da religião, pr
 As demais vertentes do [[Religiões/Précalamismo\|Précalamismo]] representam uma pequena parcela da população, enquanto o número de indivíduos sem religião é praticamente residual, refletindo a forte influência espiritual e cultural do glacianismo no império.
 
 Antes da separação da [[Republica del Diamante\|Republica del Diamante]], existia uma grande quantidade de fieis de [[Thunderia\|Thunderia]] e [[Arenismo\|Arenismo]] graças aos territórios de [[Azarr\|Azarr]] e [[Fulminária\|Fulminária]].
+
+## Cultura
+A cultura do [[As Nações de Nunumia/Sete Grandes Nações de Nunumia/Imperium Diamante\|Imperium Diamante]] é fortemente marcada pela influência de [[Cryodiam\|Cryodiam]] e pelos valores do [[Religiões/Glacianismo\|Glacianismo]], refletindo uma sociedade baseada em disciplina, estabilidade e controle emocional. Esses princípios moldam não apenas o comportamento individual, mas também as instituições e a organização social do império.
+
+Entre os [[Povos Diamantes\|Povos Diamantes]], há uma valorização profunda da resistência — tanto física quanto mental — sendo o frio frequentemente interpretado como símbolo de força e pureza. Essa visão está presente em diversas expressões culturais, como arquitetura, vestimentas e tradições cerimoniais.
+
+A arquitetura imperial é caracterizada por estruturas monumentais, geométricas e simétricas, muitas vezes utilizando pedra clara, metais frios e, em regiões específicas, gelo tratado. Cidades como [[Cryodiam\|Cryodiam]] refletem essa estética, transmitindo uma sensação de ordem e permanência.
+
+Culturalmente, o império tende a desencorajar excessos emocionais e manifestações caóticas, priorizando comportamentos considerados racionais e controlados. Ainda assim, formas de arte existem, geralmente associadas à precisão, repetição e significado simbólico, como esculturas, padrões geométricos e música de ritmo cadenciado.
+
+Apesar de sua forte identidade central, o [[As Nações de Nunumia/Sete Grandes Nações de Nunumia/Imperium Diamante\|Imperium Diamante]] abriga influências de regiões incorporadas ao longo de sua expansão, como [[Azahor Oriental\|Azahor Oriental]], resultando em variações culturais locais. Nessas áreas, tradições regionais coexistem com a cultura imperial, criando identidades híbridas.
+
+No geral, a cultura do império é vista como uma extensão direta de sua ideologia: silenciosa, rígida e duradoura, refletindo os ideais de [[Clacies\|Clacies]] e a busca constante pela permanência.
