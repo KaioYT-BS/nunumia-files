@@ -32,7 +32,7 @@ Nunumia: Files também abriga as campanhas de RPG de Nunumia, como [[Campanhas/N
   
 # Pacotes de Nunumia: Files
 ---
-Para o Artigo completo, Veja: [[Páginas/Nunumia - Files\|Nunumia - Files]]
+> Para o Artigo completo, Veja: [[Páginas/Nunumia - Files\|Nunumia - Files]]
 
 ## Pacote 0 (Março de 2026): **A Guerra da Seda**
 
