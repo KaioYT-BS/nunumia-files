@@ -4,7 +4,7 @@
 
 #Campanha #Especial
 
-| **Elenco**                  | [[Páginas/Jogadores/Kaiositos\|Kaiositos]] (Mestre)<br>[[Páginas/Jogadores/Ash\|Ash]] (S)<br>[[Páginas/Jogadores/Maacuja\|Maacuja]] (S)<br>[[Davi\|Davi]] (S)<br>[[Páginas/Jogadores/Aguiar\|Aguiar]] (+/-)<br>[[Páginas/Jogadores/Garcia\|Garcia]] (C)<br>[[Páginas/Jogadores/Guixy\|Guixy]] (S)  <br>[[Páginas/Jogadores/Hanna\|Hanna]] (+/-)<br>liam (+/-)<br>[[Tomás Durão\|Tomás Durão]] (S) |
+| **Elenco**                  | [[Páginas/Jogadores/Kaiositos\|Kaiositos]] (Mestre)<br>[[Páginas/Jogadores/Ash\|Ash]] (S)<br>[[Páginas/Jogadores/Maacuja\|Maacuja]] (S)<br>[[Páginas/Jogadores/Davi\|Davi]] (S)<br>[[Páginas/Jogadores/Aguiar\|Aguiar]] (+/-)<br>[[Páginas/Jogadores/Garcia\|Garcia]] (C)<br>[[Páginas/Jogadores/Guixy\|Guixy]] (S)  <br>[[Páginas/Jogadores/Hanna\|Hanna]] (+/-)<br>liam (+/-)<br>[[Tomás Durão\|Tomás Durão]] (S) |
 | --------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Participações Especiais** | [[Páginas/Nathaniel Balbino da Costa Rieger\|Nathaniel Balbino da Costa Rieger]] ([[Personagens/Anne Psina (A Profeta)\|Anne Psina (A Profeta)]])                                                                                                                        |
 | **Nº de partes**            | 2                                                                                                                                                                                         |

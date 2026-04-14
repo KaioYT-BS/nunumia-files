@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/paginas/jogadores/maacuja/","dg-note-properties":{}}
 ---
 
-#Jogadores 
+#Jogadores #Jogadores_em_OUTRPG
 > "_pq os planetas pararam di ser ?"
 > — Manuella Pontes_
 

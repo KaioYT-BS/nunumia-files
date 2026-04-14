@@ -204,4 +204,4 @@ Culturalmente, o império tende a desencorajar excessos emocionais e manifestaç
 
 Apesar de sua forte identidade central, o [[As Nações de Nunumia/Sete Grandes Nações de Nunumia/Imperium Diamante\|Imperium Diamante]] abriga influências de regiões incorporadas ao longo de sua expansão, como [[Azahor Oriental\|Azahor Oriental]], resultando em variações culturais locais. Nessas áreas, tradições regionais coexistem com a cultura imperial, criando identidades híbridas.
 
-No geral, a cultura do império é vista como uma extensão direta de sua ideologia: silenciosa, rígida e duradoura, refletindo os ideais de [[Clacies\|Clacies]] e a busca constante pela permanência.
+No geral, a cultura do império é vista como uma extensão direta de sua ideologia: silenciosa, rígida e duradoura, refletindo os ideais de [[Religiões/Deuses de Nunumia/Clacies\|Clacies]] e a busca constante pela permanência.

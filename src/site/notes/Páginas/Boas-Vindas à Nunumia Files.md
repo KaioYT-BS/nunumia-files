@@ -18,7 +18,7 @@ Nunumia: Files também abriga as campanhas de RPG de Nunumia, como [[Campanhas/N
 
 |                     Principal Artigo em Destaque                     |                                                 Nunumia: Files - 2<br>[[As Nações de Nunumia/Sete Grandes Nações de Nunumia/Imperium Diamante\|Imperium Diamante]]                                                 |
 | :------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------: |
-| ![Bandeira do Imperium Diamante.png\|500](/img/user/Bandeira%20do%20Imperium%20Diamante.png)<br>[[As Nações de Nunumia/Sete Grandes Nações de Nunumia/Imperium Diamante\|Imperium Diamante]] | - [[Clacies\|Clacies]], o Deus do Gelo<br>- [[Raças/Lobos\|Lobos]]<br>-[[As Nações de Nunumia/Sete Grandes Nações de Nunumia/Azahor#Colonização Oriental\| Colonização Oriental de Azahor]] <br>- [[Religiões/Glacianismo\|Glacianismo]]<br> |
+| ![Bandeira do Imperium Diamante.png\|500](/img/user/Bandeira%20do%20Imperium%20Diamante.png)<br>[[As Nações de Nunumia/Sete Grandes Nações de Nunumia/Imperium Diamante\|Imperium Diamante]] | - [[Religiões/Deuses de Nunumia/Clacies\|Clacies]], o Deus do Gelo<br>- [[Raças/Lobos\|Lobos]]<br>-[[As Nações de Nunumia/Sete Grandes Nações de Nunumia/Azahor#Colonização Oriental\| Colonização Oriental de Azahor]] <br>- [[Religiões/Glacianismo\|Glacianismo]]<br> |
 
 # Campanhas
 ---
