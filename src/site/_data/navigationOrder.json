@@ -1,0 +1,64 @@
+{
+  "/": [
+    "Páginas",
+    "As Nações de Nunumia",
+    "Campanhas",
+    "Eventos",
+    "Locais",
+    "Personagens",
+    "Raças",
+    "Religiões",
+    "Clacies"
+  ],
+  "/Páginas": [
+    "Jogadores",
+    "Nunumia RPG",
+    "Boas-Vindas à Nunumia Files"
+  ],
+  "/Páginas/Jogadores": [
+    "Maacuja"
+  ],
+  "/Páginas/Nunumia RPG": [
+    "Classes de Nunumia - RPG",
+    "Condições"
+  ],
+  "/As Nações de Nunumia": [
+    "Sete Grandes Nações de Nunumia"
+  ],
+  "/As Nações de Nunumia/Sete Grandes Nações de Nunumia": [
+    "Azahor",
+    "Imperium Diamante"
+  ],
+  "/Campanhas": [
+    "Especial - Nunumia - Euphoria",
+    "Nunumia - O Último Tesouro"
+  ],
+  "/Campanhas/Especial - Nunumia - Euphoria": [
+    "Especial - Nunumia - Euphoria"
+  ],
+  "/Campanhas/Nunumia - O Último Tesouro": [
+    "OUTRPG - EPISÓDIO 1 - O TESTE"
+  ],
+  "/Eventos": [
+    "A Guerra da Seda"
+  ],
+  "/Locais": [
+    "Unova",
+    "Numia"
+  ],
+  "/Locais/Unova": [
+    "Pyraminx (Local)",
+    "Santuário da Seda"
+  ],
+  "/Personagens": [
+    "Alger Baskerville",
+    "Cassidy Mazedy"
+  ],
+  "/Raças": [
+    "Lobos",
+    "Tecelãs"
+  ],
+  "/Religiões": [
+    "Glacianismo"
+  ]
+}
