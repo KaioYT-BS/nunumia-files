@@ -9,6 +9,10 @@
 
 Nunumia: Files também abriga as campanhas de RPG de Nunumia, como [[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro\|Nunumia - O Último Tesouro]] ou [[Campanhas/Nunumia - O Sol da Meia-Noite/Nunumia - O Sol da Meia-Noite\|Nunumia - O Sol da Meia-Noite]].
 
+# Eventos
+---
+- 14/04 - Feliz Aniversário, [[Páginas/Jogadores/Maacuja\|Maacuja]]! 
+- 19/04 - [[Campanhas/Nunumia - O Último Tesouro/OUTRPG - EPISÓDIO 6 - FRAGMENTOS\|OUTRPG - EPISÓDIO 6 - FRAGMENTOS]]
 # Artigos em Destaque!
 ---
 
@@ -60,3 +64,4 @@ O Primeiro pacote de ***Nunumia: Files*** tem o Tema de [[Campanhas/Nunumia - O 
 - [[Personagens/Evan Pale Archin\|Evan Pale Archin]] (Parcial - 2/3)
 - [[Campanhas/Nunumia - O Último Tesouro/OUTRPG - EPISÓDIO 1 - O TESTE\|OUTRPG - EPISÓDIO 1 - O TESTE]] (Completo)
 
+_"pq os planetas pararam di ser ?"_
