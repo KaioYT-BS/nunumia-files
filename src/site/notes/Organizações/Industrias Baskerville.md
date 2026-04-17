@@ -4,7 +4,7 @@
 
 #Organizações #Locais_em_Zaun
 
-> _"Consuma, compre e confie das Industrias Baskerville"
+> _"Consuma, compre e confie nas Industrias Baskerville"
 > — Slogan das Industrias Baskerville Comercio & Exportação LTDA_
 
 | **Razão Social:** | Industrias Baskerville Comercio & Exportação LTDA                                                                                                                                               |
