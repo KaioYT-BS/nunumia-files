@@ -8,12 +8,12 @@
 > Os acontecimentos desse episódio são considerados parcialmente canônicos em [[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro\|Nunumia - O Último Tesouro]] por causa do [[Eventos/Reinicio\|Reinicio]].
 > 
 
->"_A ilusão nunca falha."
->— [[Personagens/O Ilusionista\|O Ilusionista]]
+>_"A ilusão nunca falha."
+>— [[Personagens/O Ilusionista\|O Ilusionista]]_
 
 | **Campanha**                | [[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro\|Nunumia - O Último Tesouro]]                                                                                                                                                                                                                                                                                                |
 | --------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Elenco**                  | [[Páginas/Jogadores/Kaiositos\|Kaiositos]] (Mestre)<br>[[Páginas/Jogadores/Maacuja\|Maacuja]] ([[Personagens/Alger Baskerville\|Alger Baskerville]])<br>[[Páginas/Jogadores/Aguiar\|Aguiar]] ([[Personagens/O Ilusionista\|O Ilusionista]])<br>[[Páginas/Jogadores/Ash\|Ash]]  ([[Personagens/Amon Vaelor\|Amon Vaelor]])<br>[[Páginas/Jogadores/Guixy\|Guixy]] ([[Personagens/Morgan Voreal\|Morgan Voreal]])<br>[[Páginas/Jogadores/Garcia\|Garcia]] ([[Personagens/Cassidy Mazedy\|Cassidy Mazedy]])<br>[[Tomás Durão\|Tomás Durão]] ([[Personagens/Evan Pale Archin\|Evan Pale Archin]])                                                               |
+| **Elenco**                  | [[Páginas/Jogadores/Kaiositos\|Kaiositos]] (Mestre)<br>[[Páginas/Jogadores/Maacuja\|Maacuja]] ([[Personagens/Alger Baskerville\|Alger Baskerville]])<br>[[Páginas/Jogadores/Aguiar\|Aguiar]] ([[Personagens/O Ilusionista\|O Ilusionista]])<br>[[Páginas/Jogadores/Ash\|Ash]]  ([[Personagens/Amon Vaelor\|Amon Vaelor]])<br>[[Páginas/Jogadores/Guixy\|Guixy]] ([[Personagens/Morgan Voreal\|Morgan Voreal]])<br>[[Páginas/Jogadores/Garcia\|Garcia]] ([[Personagens/Cassidy Mazedy\|Cassidy Mazedy]])<br>[[Tomás Durão\|Tomás Durão]] ([[Personagens/Evan Pale Archin\|Evan Pale Archin]])                                                                                   |
 | **Data da sessão**          | 30/01/2025                                                                                                                                                                                                                                                                                                                    |
 | **Personagens no episódio** | Tripulação:<br>[[Personagens/Alger Baskerville\|Alger Baskerville]]<br>[[Personagens/Evan Pale Archin\|Evan Pale Archin]]<br>[[Personagens/Morgan Voreal\|Morgan Voreal]]<br>[[Personagens/Cassidy Mazedy\|Cassidy Mazedy]]<br><br>---<br><br>Palácio de Jade:<br>[[Personagens/Denver Zuma\|Denver Zuma]]<br>[[Personagens/Scarlet Mana Jin-Can\|Scarlet Mana Jin-Can]]<br>[[Personagens/Adam Smith\|Adam Smith]]<br><br>---<br><br>Strikers:<br>[[Personagens/O Ilusionista\|O Ilusionista]]<br>[[Organizações/Strikers\|Strikers]]<br><br>---<br><br>Outros:<br>[[Personagens/Amon Vaelor\|Amon Vaelor]]<br> |
 | **Locais no Episódio**      | [[As Nações de Nunumia/Sete Grandes Nações de Nunumia/Zaun\|Zaun]]:<br>[[Locais/Zaun/Palácio de Jade (Local)\|Palácio de Jade (Local)]]<br>Porto das [[Organizações/Industrias Baskerville\|Industrias Baskerville]]<br><br>Mar:<br>Barco provisório do Ilusionista                                                                                                                                                                                               |
@@ -100,11 +100,12 @@ A tripulação nota algumas lanternas no mar a distância, alguém está vindo. 
 - Inicialmente, os jogadores iriam jogar com os antagonistas da temporada.
 - Esse episódio inicialmente seria o episódio 0.
 
-# Pontuação (7|6)
+# Pontuação (7.5|7) 
 ---
 - [[Páginas/Jogadores/Kaiositos\|Kaiositos]] (8/10)
 - [[Páginas/Jogadores/Maacuja\|Maacuja]] (7/10)
 - [[Páginas/Jogadores/Aguiar\|Aguiar]] (8,5/10)
 - [[Páginas/Jogadores/Ash\|Ash]]  (6/10)
 - [[Páginas/Jogadores/Garcia\|Garcia]] (7/10)
+- [[Páginas/Jogadores/Guixy\|Guixy]] (10/10)
 - [[Tomás Durão\|Tomás Durão]] (7/10)

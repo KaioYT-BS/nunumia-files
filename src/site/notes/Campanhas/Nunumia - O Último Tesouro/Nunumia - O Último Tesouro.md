@@ -5,7 +5,7 @@
 #Campanha #Campanha_Principal
 
 > "_Sejam bem-vindos à Nunumia: O Último Tesouro."  
-> — Mestre 
+> — Mestre_
 
 | **Elenco**                  | [[Páginas/Jogadores/Kaiositos\|Kaiositos]] (Mestre)<br>[[Páginas/Jogadores/Ash\|Ash]] (Amon Vaelor)<br>[[Páginas/Jogadores/Maacuja\|Maacuja]] (Alger Baskerville)<br>[[Páginas/Jogadores/Davi\|Davi]] (Mars Sailer)<br>[[Páginas/Jogadores/Aguiar\|Aguiar]] (Adam Smith)<br>[[Páginas/Jogadores/Garcia\|Garcia]] (Cassidy Mazedy)<br>[[Páginas/Jogadores/Guixy\|Guixy]] (Morgan Voreal)<br>[[Páginas/Jogadores/Hanna\|Hanna]] (Kenshi Takada)<br>[[Tomás Durão\|Tomás Durão]] (Evan Pale/Emily Speavers) |
 | --------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |

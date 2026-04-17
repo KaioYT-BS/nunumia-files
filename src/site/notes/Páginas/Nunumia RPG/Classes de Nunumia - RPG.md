@@ -5,8 +5,8 @@
 
 #Páginas 
 
-> "_Uma classe define o que você é em Nunumia. Um suporte, um tanque, um destruidor, uma mistura de duas classes. O importante é representar o que você quer ser_.”
-> — Livro de regras de Nunumia: RPG
+> "_Uma classe define o que você é em Nunumia. Um suporte, um tanque, um destruidor, uma mistura de duas classes. O importante é representar o que você quer ser.”
+> — Livro de regras de Nunumia: RPG_
 
 Enquanto sua raça diz de onde você veio e seu legado quem você é ou quem já foi, sua Classe revela seu papel no grupo.
 
@@ -23,7 +23,7 @@ O Suporte inicia com 8 PV (+Vigor), 25 PD (+Presença). A cada 5 Níveis, você 
 Os bônus de Suporte são:
 - + 2 Presença
 - Pericia Medicina: 5
-- Recuperação passiva de pontos de vida (+1 por rodada)
+- Recuperação passiva de pontos de vida (+1 por rodada).
 
 # Destruidor
 ---
@@ -55,7 +55,6 @@ Os bônus de Destruidor são:
 ---
 
 > "_A classe Híbrida reúne o melhor de dois mundos. Em vez de se especializar apenas em um papel, ela combina diferentes estilos de combate, permitindo ao personagem se adaptar a diversas situações durante momentos difíceis. Essa versatilidade faz com que a classe seja extremamente valiosa em equipes que enfrentam desafios imprevisíveis.".
-
 
 O Hibrido inicia com a soma do PV das duas classes divididas por dois (+Vigor), a mesma coisa vale para o PD. Soma do PD das duas classes divididas por dois (+Presença). A cada 5 Níveis, você recebe 3 PV (+Vigor) e 3 PD (+Presença).
 
