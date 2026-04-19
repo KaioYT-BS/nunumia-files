@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/paginas/jogadores/maacuja/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/paginas/jogadores/maacuja/","created":"2026-02-08T13:45:54.236-03:00","updated":"2026-04-14T14:18:49.262-03:00","dg-note-properties":{}}
 ---
 
 #Jogadores #Jogadores_em_OUTRPG

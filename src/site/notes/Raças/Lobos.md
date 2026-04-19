@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/racas/lobos/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/racas/lobos/","created":"2026-03-15T21:51:50.815-03:00","updated":"2026-04-12T23:48:09.727-03:00","dg-note-properties":{}}
 ---
 
 #Raças

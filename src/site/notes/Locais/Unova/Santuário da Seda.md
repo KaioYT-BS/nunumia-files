@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locais/unova/santuario-da-seda/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/locais/unova/santuario-da-seda/","created":"2026-03-06T23:53:19.191-03:00","updated":"2026-04-12T18:55:37.786-03:00","dg-note-properties":{}}
 ---
 
 #Locais #Locais_em_Unova 

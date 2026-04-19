@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/paginas/nunumia-rpg/classes-de-nunumia-rpg/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/paginas/nunumia-rpg/classes-de-nunumia-rpg/","created":"2026-02-08T13:45:12.648-03:00","updated":"2026-04-14T21:42:09.351-03:00","dg-note-properties":{}}
 ---
 
 

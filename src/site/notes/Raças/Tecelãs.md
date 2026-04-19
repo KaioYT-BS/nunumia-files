@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/racas/tecelas/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/racas/tecelas/","created":"2026-03-08T00:48:02.151-03:00","updated":"2026-04-12T18:53:14.859-03:00","dg-note-properties":{}}
 ---
 
 #Raças

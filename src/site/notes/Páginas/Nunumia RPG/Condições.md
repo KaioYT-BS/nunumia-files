@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/paginas/nunumia-rpg/condicoes/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/paginas/nunumia-rpg/condicoes/","created":"2026-03-09T22:23:11.704-03:00","updated":"2026-04-12T18:37:41.103-03:00","dg-note-properties":{}}
 ---
 
 #Páginas 

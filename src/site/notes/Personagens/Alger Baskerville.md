@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personagens/alger-baskerville/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/personagens/alger-baskerville/","created":"2026-03-15T20:10:40.926-03:00","updated":"2026-04-17T20:11:58.142-03:00","dg-note-properties":{}}
 ---
 
 #Personagens #Personagens_Principais_em_OUTRPG #Waifus_do_Caribe  #Destinados
@@ -86,7 +86,6 @@ Continua...
 # Galeria
 --- 
 ## Artes
-
 
 | ![Teaser de Alger Baskerville.png\|350](/img/user/0-Assets/Teasers/OUT/PRE-EPIS%C3%93DIO%201/Teaser%20de%20Alger%20Baskerville.png)<br>Apresentação de Alger em **[[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro\|OUTRPG]]** | ![teaser de Alger em Problemas de Sangue.png\|350](/img/user/0-Assets/Teasers/OUT/ep3/Teaser%20de%20Alger%20em%20Problemas%20de%20Sangue.png)<br>Teaser de Alger em [[Campanhas/Nunumia - O Último Tesouro/OUTRPG - EPISÓDIO 3 - PROBLEMAS DE SANGUE\|"Problemas de Sangue"]] |
 | :--------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------: |

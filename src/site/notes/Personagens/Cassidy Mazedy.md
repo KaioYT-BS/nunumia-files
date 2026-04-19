@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personagens/cassidy-mazedy/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/personagens/cassidy-mazedy/","created":"2026-02-08T13:45:54.531-03:00","updated":"2026-04-12T18:47:16.327-03:00","dg-note-properties":{}}
 ---
 
 #Personagens #Personagens_Principais_em_OUTRPG #Destinados #Waifus_do_Caribe 

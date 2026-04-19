@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campanhas/especial-nunumia-euphoria/especial-nunumia-euphoria/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/campanhas/especial-nunumia-euphoria/especial-nunumia-euphoria/","created":"2026-03-06T23:28:19.972-03:00","updated":"2026-04-19T11:16:02.162-03:00","dg-note-properties":{}}
 ---
 
 #Campanha #Especial
@@ -17,16 +17,16 @@
 # Protagonistas e jogadores
 ---
 
-| Protagonista    | Jogador |
-| --------------- | ------- |
-| [[Amy Exerpo\|Amy Exerpo]]  |         |
-| [[Sammy Asvot\|Sammy Asvot]] |         |
-| [[Vox\|Vox]]         |         |
-| ???             |         |
-| ???             |         |
-| ???             |         |
-| ???             |         |
-| ???             |         |
+| Protagonista         | Jogador |
+| -------------------- | ------- |
+| [[Personagens/Nathaniel Scompa\|Nathaniel Scompa]] |         |
+| [[Amy Expor ¿\|Amy Expor ¿]]      |         |
+| [[Sammy Asvot ¿\|Sammy Asvot ¿]]    |         |
+| [[Vox ¿\|Vox ¿]]            |         |
+| [[Arlindo Sui ¿\|Arlindo Sui ¿]]    |         |
+| [[Galego Macker ¿\|Galego Macker ¿]]  |         |
+|                      |         |
+|                      |         |
 
 > [!OBSERVAÇÃO]
 > > **Cada jogador tem sua própria página de perfil, com informações sobre estilo de jogo, escolhas de personagem e histórico de campanha.**

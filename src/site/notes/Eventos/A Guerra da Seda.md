@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/eventos/a-guerra-da-seda/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/eventos/a-guerra-da-seda/","created":"2026-03-08T00:45:30.636-03:00","updated":"2026-04-12T18:53:35.849-03:00","dg-note-properties":{}}
 ---
 
 #Eventos #Guerras
