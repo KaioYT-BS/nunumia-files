@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/paginas/jogadores/garcia/","created":"2026-03-15T12:33:40.715-03:00","updated":"2026-04-19T12:45:35.950-03:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/paginas/jogadores/garcia/","created":"2026-03-15T12:33:40.715-03:00","updated":"2026-04-19T12:46:22.706-03:00","dg-note-properties":{}}
 ---
 
 #Jogadores #Jogadores_em_OUTRPG 
@@ -16,4 +16,5 @@
 | **Ocupação**                      | Estudante                                                    |
 | **Personagens** **Interpretados** | [[Personagens/Cassidy Mazedy\|Cassidy Mazedy]] - [[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro\|Nunumia - O Último Tesouro]]          |
 | **Participações**                 | [[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro\|Nunumia - O Último Tesouro]]<br>                           |
+
 **Guilherme Garcia** ou **CapivaraGamer** interpretou [[Personagens/Cassidy Mazedy\|Cassidy Mazedy]] em [[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro\|Nunumia - O Último Tesouro]] e [[Personagens/Akita Melissa\|Akita Melissa]] em [[Campanhas/Nunumia - O Sol da Meia-Noite/Nunumia - O Sol da Meia-Noite\|Nunumia - O Sol da Meia-Noite]].
