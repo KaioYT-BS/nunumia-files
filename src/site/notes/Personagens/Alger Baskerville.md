@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personagens/alger-baskerville/","created":"2026-03-15T20:10:40.926-03:00","updated":"2026-04-17T20:11:58.142-03:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/personagens/alger-baskerville/","created":"2026-03-15T20:10:40.926-03:00","updated":"2026-04-20T17:47:49.184-03:00","dg-note-properties":{}}
 ---
 
 #Personagens #Personagens_Principais_em_OUTRPG #Waifus_do_Caribe  #Destinados
@@ -59,15 +59,32 @@ Confuso e incapaz de compreender a reação da mãe, Alger acabou entrando em um
 Continua...
 # Relações
 --- 
--  [[Personagens/Amon Vaelor\|Amon Vaelor]]: Das [[Organizações/Palácio de Jade (Organização)/Equipes/Waifus do Caribe\|Waifus do Caribe]] ele é o que Alger mais respeita, mesmo que esteja disposto a provocá-lo em qualquer hora. O Mago foi seu primeiro melhor amigo, e é um dos mais importantes para Alger — às vezes, nosso querido capitão ri sozinho, lembrando daquela dança constrangedora no bar. Ele nunca vai deixar Amon esquecer disso.
+- [[Personagens/Amon Vaelor\|Amon Vaelor]]: Das [[Organizações/Palácio de Jade (Organização)/Equipes/Waifus do Caribe\|Waifus do Caribe]] ele é o que Alger mais respeita, mesmo que esteja disposto a provocá-lo em qualquer hora. O Mago foi seu primeiro melhor amigo, e é um dos mais importantes para Alger — às vezes, nosso querido capitão ri sozinho, lembrando daquela dança constrangedora no bar. Ele nunca vai deixar Amon esquecer disso.
 	
 - [[Personagens/Cassidy Mazedy\|Cassidy Mazedy]]:  Alger acha Cassy um ser humano que em sua essência, é definitivamente engraçada, e que tem uma força bizarra. Alger a mantém como uma colega próxima, e reconhece suas habilidades.
 	
 - [[Personagens/Denver Zuma\|Denver Zuma]]: Para Alger, um homem espetacular, um ótimo amigo e alguém de bom coração. Alger tem um grande respeito por ele e se sente agradecido por ter mudado sua vida. Apesar não serem tão próximos, Baskerville ainda mantém uma pose e tenta não o decepcionar, porque se sente na obrigação de cumprir seu dever como capitão.
 	
 - [[Personagens/Emily Speavers Baskerville\|Emily Speavers Baskerville]]: Seu braço direito, filho, aprendiz. Evan é um garoto que enche Alger de orgulho. O capitão quer ser o porto seguro de Evan, uma figura paterna que possa acolhê-lo e ensiná-lo a se tornar um bom homem. Seu maior medo é projetar seus traumas da infância em Evan. Alger não quer que esse jovem brilhante cometa os mesmos erros que o levou a miséria.
+# Habilidades
+---
+## Habilidades Base
+- **Diamantes Magmáticos**: Alger cria quatro barreiras de terra que orbitam o capitão. **Custo: 6 PD**
+	- **Diamantes em Orbita**:
+		- Quando os diamantes de terra estão orbitando Alger, o mesmo ganha +2 DEF por barreira
+	- **Dano por lançamento:**
+		- Ao serem lançadas por Alger, as barreiras de dividem em quatro partes cada, cada parte causa 2d4 + 1.
+- **Intenção Predatória**: Alger cria uma onda de calor cheia de intenções direcionadas a um alvo. Caso falhe no teste de persistência o alvo deve seguir as intenções escolhidas pelo capitão. **Custo: 8 PD**
+## Têmpera
+***Custo de ativação do Têmpera***: **2PD por Turno**. 
 
+- **Núcleo do Capitão**: O capitão cria quatro núcleos que orbitam seu corpo. Sempre que é atacado, um núcleo avança automaticamente contra o agressor, causando **4d4 de dano**. Enquanto ativos, os núcleos absorvem metade do dano recebido. **Custo: 6 PD**
+	- **Os núcleos não podem ser arremessados.**
+- **Calor Corrompido**: Têmpera libera uma onda invisível de calor distorcido, como o ar tremendo antes de um desastre. Os inimigos próximos recebem desvantagem 3 por 4 turnos. A cada falha de seus inimigos, Têmpera recupera 2 PD. **Custo: 10 PD**
+## Passivas de Classe
+- + 1D8 em Dano Físico (Não aplicado a Armas de fogo ou magias!).
 # Curiosidades
+---
 - Alger nasceu no dia das bruxas (31/10).
 - Alger foi alimentado por [[Personagens/Cassidy Mazedy\|Cassidy Mazedy]] com uma marmita entre 2016 e 2018.
 - Alger é canonicamente Pansexual ![Pasted image 20260412151905.png\|20](/img/user/Pasted%20image%2020260412151905.png).

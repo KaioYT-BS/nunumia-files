@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campanhas/nunumia-o-ultimo-tesouro/nunumia-o-ultimo-tesouro/","created":"2026-02-08T13:45:51.347-03:00","updated":"2026-04-19T12:19:39.586-03:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/campanhas/nunumia-o-ultimo-tesouro/nunumia-o-ultimo-tesouro/","created":"2026-02-08T13:45:51.347-03:00","updated":"2026-04-20T14:52:29.308-03:00","dg-note-properties":{}}
 ---
 
 #Campanha #Campanha_Principal
@@ -97,7 +97,7 @@ Aparições dos jogadores de [[Campanhas/Nunumia - O Último Tesouro/Nunumia - O
 | [[Campanhas/Nunumia - O Último Tesouro/OUTRPG - EPISÓDIO 3 - PROBLEMAS DE SANGUE\|OUTRPG - EPISÓDIO 3 - PROBLEMAS DE SANGUE]]    |     PRE     |   PRE   |   *NPRE*   |  *NPRE*   |     **BRE**     |            |   PRE    |    PRE    |
 | [[Campanhas/Nunumia - O Último Tesouro/OUTRPG - EPISÓDIO 4 - SEMPRE TEM UM RECOMEÇO\|OUTRPG - EPISÓDIO 4 - SEMPRE TEM UM RECOMEÇO]] |     PRE     |   PRE   |    PRE     |    PRE    |       PRE       |   *NPRE*   |   PRE    |    PRE    |
 | [[Campanhas/Nunumia - O Último Tesouro/OUTRPG - EPISÓDIO 5 - JOGOS\|OUTRPG - EPISÓDIO 5 - JOGOS]]                  |     PRE     |   PRE   |   *NPRE*   |    PRE    |       PRE       |    PRE     |   PRE    |  *NPRE*   |
-| [[Campanhas/Nunumia - O Último Tesouro/OUTRPG - EPISÓDIO 6 - FRAGMENTOS\|OUTRPG - EPISÓDIO 6 - FRAGMENTOS]]             |             | *NPRE*  |            |           |                 |            |          |           |
+| [[Campanhas/Nunumia - O Último Tesouro/OUTRPG - EPISÓDIO 6 - FRAGMENTOS\|OUTRPG - EPISÓDIO 6 - FRAGMENTOS]]             |             |         |            |           |                 |            |          |           |
 |                                                  |             |         |            |           |                 |            |          |           |
 
 # Aparições de Protagonistas
