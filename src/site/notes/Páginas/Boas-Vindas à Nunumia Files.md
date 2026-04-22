@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/paginas/boas-vindas-a-nunumia-files/","tags":["gardenEntry"],"created":"2026-03-02T13:48:39.740-03:00","updated":"2026-04-14T00:23:59.582-03:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/paginas/boas-vindas-a-nunumia-files/","tags":["gardenEntry"],"created":"2026-03-02T13:48:39.740-03:00","updated":"2026-04-22T18:54:29.622-03:00","dg-note-properties":{}}
 ---
 
 
@@ -9,16 +9,17 @@
 
 Nunumia: Files também abriga as campanhas de RPG de Nunumia, como [[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro\|Nunumia - O Último Tesouro]] ou [[Campanhas/Nunumia - O Sol da Meia-Noite/Nunumia - O Sol da Meia-Noite\|Nunumia - O Sol da Meia-Noite]].
 
-# Eventos
+# Calendário
 ---
-- 14/04 - Feliz Aniversário, [[Páginas/Jogadores/Maacuja\|Maacuja]]! 
-- 19/04 - [[Campanhas/Nunumia - O Último Tesouro/OUTRPG - EPISÓDIO 6 - FRAGMENTOS\|OUTRPG - EPISÓDIO 6 - FRAGMENTOS]]
+- 03/05 - Segunda parte de [[Campanhas/Nunumia - O Último Tesouro/OUTRPG - EPISÓDIO 6 - FRAGMENTOS\|OUTRPG - EPISÓDIO 6 - FRAGMENTOS]].
+- ??/05 - [[OUTRPG - EPISÓDIO 7\|OUTRPG - EPISÓDIO 7]].
+- 30/05 - Feliz 6 meses, [[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro\|Nunumia - O Último Tesouro]]!
 # Artigos em Destaque!
 ---
 
-|                     Principal Artigo em Destaque                     |                                                 Nunumia: Files - 2<br>[[As Nações de Nunumia/Sete Grandes Nações de Nunumia/Imperium Diamante\|Imperium Diamante]]                                                 |
-| :------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------: |
-| ![Bandeira do Imperium Diamante.png\|500](/img/user/Bandeira%20do%20Imperium%20Diamante.png)<br>[[As Nações de Nunumia/Sete Grandes Nações de Nunumia/Imperium Diamante\|Imperium Diamante]] | - [[Religiões/Deuses de Nunumia/Clacies\|Clacies]], o Deus do Gelo<br>- [[Raças/Lobos\|Lobos]]<br>-[[As Nações de Nunumia/Sete Grandes Nações de Nunumia/Azahor#Colonização Oriental\| Colonização Oriental de Azahor]] <br>- [[Religiões/Glacianismo\|Glacianismo]]<br> |
+|                             Principal Artigo em Destaque                             |                                                                                   **Páginas recentes**                                                                                    |
+| :----------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| ![Anuncio de inicio O Teste.png\|350](/img/user/0-Assets/Teasers/OUT/ep1/Anuncio%20de%20inicio%20O%20Teste.png)<br>[Nunumia - O Último Tesouro]] (campanha) | [[Personagens/DeX ♱\|DeX ♱]]<br>[[Personagens/William Emily ♱\|William Emily ♱]]<br>[[Personagens/Ash Koval ♱\|Ash Koval ♱]]<br>[[Personagens/Scarlet Mana Jin-Can\|Scarlet Mana Jin-Can]]<br>[[Nathaniel Scompa.png](/img/user/Campanhas/Nunumia%20-%20O%20%C3%9Altimo%20Tesouro/Nunumia%20-%20O%20%C3%9Altimo%20Tesouro.md)<br>[[Personagens/Ambrósio Coralar\|Ambrósio Coralar]]<br>[[Personagens/Evan Pale Archin\|Evan Pale Archin]]<br>[[Personagens/Anne Psina (A Profeta)\|Anne Psina (A Profeta)]] |
 
 # Campanhas
 ---
@@ -34,34 +35,3 @@ Nunumia: Files também abriga as campanhas de RPG de Nunumia, como [[Campanhas/N
 | ![Alger.png\|200](/img/user/0-Assets/Images/Icons/Personagens/Alger.png)<br>[[Personagens/Alger Baskerville\|Alger Baskerville]]<br>**[[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro\|OUTRPG]]** | ![Emily.png\|200](/img/user/0-Assets/Images/Icons/Personagens/Emily.png)<br>[[Personagens/Emily Speavers Baskerville\|Emily Speavers Baskerville]]<br>**[[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro\|OUTRPG]]** | ![Amon.png\|200](/img/user/0-Assets/Images/Icons/Personagens/Amon.png)<br>[[Personagens/Amon Vaelor\|Amon Vaelor]]<br>**[[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro\|OUTRPG]]** | ![Morgan.png\|200](/img/user/0-Assets/Images/Icons/Personagens/Morgan.png)<br>[[Personagens/Morgan Voreal\|Morgan Voreal]]<br>**[[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro\|OUTRPG]]** |
 | :----------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------: |
 |  ![Cassy.png\|200](/img/user/0-Assets/Images/Icons/Personagens/Cassy.png)<br>[[Personagens/Cassidy Mazedy\|Cassidy Mazedy]]<br>**[[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro\|OUTRPG]]**   |     ![Mars Sailer.png\|200](/img/user/0-Assets/Images/Icons/Personagens/Mars%20Sailer.png)<br>[[Personagens/Mars Sailer\|Mars Sailer]]<br>**[[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro\|OUTRPG]]**      | ![Adam.png\|200](/img/user/0-Assets/Images/Icons/Personagens/Adam.png)<br>[[Personagens/Adam Smith\|Adam Smith]]<br>**[[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro\|OUTRPG]]**  | ![Kenshi.png\|200](/img/user/0-Assets/Images/Icons/Personagens/Kenshi.png)<br>[[Personagens/Kenshi Takada\|Kenshi Takada]]<br>**[[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro\|OUTRPG]]** |
-  
-# Pacotes de Nunumia: Files
----
-> Para o Artigo completo, Veja: [[Páginas/Nunumia - Files\|Nunumia - Files]]
-
-## Pacote 0 (Março de 2026): **A Guerra da Seda**
-
-| **Nº do Pacote**       | 0        |
-| ---------------------- | -------- |
-| **Data de Publicação** | 08/03/26 |
-
- O pacote 0 de ***Nunumia: Files*** tem o Tema de [[Eventos/A Guerra da Seda\|A Guerra da Seda]], o Pacote 0 é um pacote de demonstração CANNON. O pacote inclui:
-- Raça: Tecelã
-- A Guerra da Seda 
-- Santuário da Seda
-- [[Personagens/Evan Pale Archin\|Evan Pale Archin]] (Parcial - 1/3)
-- Tema dos Pacotes 1, 2, 3, 4, 5, 6
-## Pacote 1 (Março de 2026): **OUTRPG - "O Teste"**
-
-| **Nº do Pacote**       | 1        |
-| ---------------------- | -------- |
-| **Data de Publicação** | 15/03/26 |
-
-O Primeiro pacote de ***Nunumia: Files*** tem o Tema de [[Campanhas/Nunumia - O Último Tesouro/OUTRPG - EPISÓDIO 1 - O TESTE\|OUTRPG - EPISÓDIO 1 - O TESTE]], o primeiro episódio de [[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro\|Nunumia - O Último Tesouro]]. O pacote inclui:
-
-- [[Personagens/Alger Baskerville\|Alger Baskerville]] (Parcial - 1/3)
-- [[Personagens/Cassidy Mazedy\|Cassidy Mazedy]] (Parcial - 1/3)
-- [[Personagens/Evan Pale Archin\|Evan Pale Archin]] (Parcial - 2/3)
-- [[Campanhas/Nunumia - O Último Tesouro/OUTRPG - EPISÓDIO 1 - O TESTE\|OUTRPG - EPISÓDIO 1 - O TESTE]] (Completo)
-
-_"pq os planetas pararam di ser ?"_
