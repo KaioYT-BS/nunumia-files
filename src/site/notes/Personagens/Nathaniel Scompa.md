@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personagens/nathaniel-scompa/","created":"2026-02-08T13:45:54.665-03:00","updated":"2026-04-22T18:05:05.311-03:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/personagens/nathaniel-scompa/","created":"2026-02-08T13:45:54.665-03:00","updated":"2026-04-22T18:18:08.965-03:00","dg-note-properties":{}}
 ---
 
  #Personagens #Personagens_Principais_em_OUTRPG  #Personagens_Principais_em_NEUP  #Escarlates #Destinados 
@@ -14,7 +14,7 @@
 | **Intérpretes** | [[Páginas/Jogadores/Kaiositos\|Kaiositos]]                                                                                                                                                                                 |
 | **Status**      | Vivo                                                                                                                                                                                          |
 | **Idade**       | 23                                                                                                                                                                                            |
-| **Apelidos**    | "Nath" ([[Organizações/Palácio de Jade (Organização)/Equipes/Equipe Alpha\|Equipe Alpha]], [[Personagens/Scarlet Mana Jin-Can\|Scarlet Mana Jin-Can]], [[Personagens/Denver Zuma\|Denver Zuma]])<br>"Marionetista"<br>"Criollo Imundo" ([[Personagens/Ambrosio Coralar\|Ambrosio Coralar]])                                                             |
+| **Apelidos**    | "Nath" ([[Organizações/Palácio de Jade (Organização)/Equipes/Equipe Alpha\|Equipe Alpha]], [[Personagens/Scarlet Mana Jin-Can\|Scarlet Mana Jin-Can]], [[Personagens/Denver Zuma\|Denver Zuma]])<br>"Marionetista"<br>"Criollo Imundo" ([[Personagens/Ambrósio Coralar\|Ambrósio Coralar]])                                                             |
 | **Relações**    | [[Personagens/Latiff\|Latiff]] (mestre)<br>[[Personagens/Denver Zuma\|Denver Zuma]] (ex-namorado)<br>[[Personagens/Scarlet Mana Jin-Can\|Scarlet Mana Jin-Can]] (ex-melhor amiga)<br>[[Personagens/Raiden Takada Ikari ♱\|Raiden Takada Ikari ♱]] ex-melhor amigo)                                              |
 | **Ocupação**    | Parlamentar de [[As Nações de Nunumia/Sete Grandes Nações de Nunumia/Zaun\|Zaun]] (anteriormente)<br>Diplomata (anteriormente)<br>Membro da [[Organizações/Palácio de Jade (Organização)/Equipes/Equipe Delta\|Equipe Delta]] (2019)<br>Membro da [[Organizações/C.R.A.S.H\|C.R.A.S.H]] (anteriormente)<br>Membro dos [[Organizações/Escarlates\|Escarlates]]             |
 | **Classe**      | Hibrido (Destruidor e Suporte)                                                                                                                                                                |
