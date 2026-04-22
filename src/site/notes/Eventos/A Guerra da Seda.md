@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/eventos/a-guerra-da-seda/","tags":["A"],"created":"2026-03-08T00:45:30.636-03:00","updated":"2026-04-22T19:10:37.195-03:00","dg-note-properties":{"tags":["A"]}}
+{"dg-publish":true,"permalink":"/eventos/a-guerra-da-seda/","created":"2026-03-08T00:45:30.636-03:00","updated":"2026-04-22T19:15:49.395-03:00","dg-note-properties":{}}
 ---
 
-#Eventos #Guerras 
+#Eventos #Guerras
 
 | **Data**       | **1945-1950**                                                                        |
 | -------------- | ------------------------------------------------------------------------------------ |
@@ -77,3 +77,6 @@ Talvez na **filha de [[Herrah Speavers\|Herrah Speavers]]**.
 A chamada **Guerra da Seda** não foi travada por territórios ou poder. Foi travada por algo muito mais simples: **A tentativa desesperada de prolongar a vida humana.**
 
 Tentativa essa que extinguiu uma raça inteira.
+
+---
+#A 
