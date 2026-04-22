@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personagens/adam-smith/","created":"2026-02-08T13:45:54.424-03:00","updated":"2026-04-22T19:05:09.314-03:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/personagens/adam-smith/","created":"2026-02-08T13:45:54.424-03:00","updated":"2026-04-22T19:05:45.070-03:00","dg-note-properties":{}}
 ---
 
 #Personagens #Personagens_Principais_em_OUTRPG  #Destinados 
@@ -22,7 +22,7 @@
 | **Afinidade**   | [[Páginas/Elementos da Luz#Elemento de Areia\|Elemento de Areia]]                                                                                                   |
 | **Classe**      | Hibrido (Suporte e Destruidor)                                                                                                                              |
 | **Raça**        | Mista (Humano e Sombra)                                                                                                                                     |
-| **Associação**  | [[Organizações/Escarlates\|Escarlates]]<br>[[Organizações/Palácio de Jade (Organização)/Palácio de Jade\|Palácio de Jade]]<br>[[Organizações/Palácio de Jade (Organização)/Força Nacional de Segurança de Zaun\|Força Nacional de Segurança de Zaun]]<br>[[As Nações de Nunumia/Sete Grandes Nações de Nunumia/Zaun\|Zaun]]<br>[[As Nações de Nunumia/Sete Grandes Nações de Nunumia/Unova\|Unova]]<br>[[As Nações de Nunumia/Sete Grandes Nações de Nunumia/Porto Royal\|Porto Royal]]                                |
+| **Associação**  | [[Organizações/Palácio de Jade (Organização)/Palácio de Jade\|Palácio de Jade]]<br>[[Organizações/Palácio de Jade (Organização)/Força Nacional de Segurança de Zaun\|Força Nacional de Segurança de Zaun]]<br>[[As Nações de Nunumia/Sete Grandes Nações de Nunumia/Zaun\|Zaun]]                                                                                  |
 
 
 **Adam Smith** é um dos protagonistas de [[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro\|Nunumia: O Último Tesouro]]. 
