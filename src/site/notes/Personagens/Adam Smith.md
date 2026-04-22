@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personagens/adam-smith/","created":"2026-02-08T13:45:54.424-03:00","updated":"2026-04-22T18:18:40.127-03:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/personagens/adam-smith/","created":"2026-02-08T13:45:54.424-03:00","updated":"2026-04-22T19:05:09.314-03:00","dg-note-properties":{}}
 ---
 
 #Personagens #Personagens_Principais_em_OUTRPG  #Destinados 
@@ -11,18 +11,18 @@
 > — Adam_
 
 
-| Galeria         | ![Adam.png\|250](/img/user/0-Assets/Images/Icons/Personagens/Adam.png)<br>*Adam Smith*                                                                                                                                                            |
-| --------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Intérpretes** | [[Páginas/Jogadores/Aguiar\|Aguiar]]<br>[[Páginas/Jogadores/Kaiositos\|Kaiositos]]:<br>- [[Campanhas/Nunumia - O Último Tesouro/OUTRPG - EPISÓDIO 1 - O TESTE\|OUTRPG - EPISÓDIO 1 - O TESTE]]<br>-[[Campanhas/Nunumia - O Último Tesouro/OUTRPG - EPISÓDIO 4 - SEMPRE TEM UM RECOMEÇO\|OUTRPG - EPISÓDIO 4 - SEMPRE TEM UM RECOMEÇO]]                                                                      |
-| **Status**      | Vivo                                                                                                                                                                                          |
-| **Idade**       | 25                                                                                                                                                                                            |
-| **Apelidos**    | "Meu bem" ([[Personagens/Denver Zuma\|Denver Zuma]]) <br>"Loirinho" ([[Personagens/Scarlet Mana Jin-Can\|Scarlet Mana Jin-Can]], [[Personagens/Nathaniel Scompa\|Nathaniel Scompa]])                                                                                                   |
-| **Relações**    | Veja [[Personagens/Adam Smith#Relações\|§ Relações]]<br>[[Personagens/Denver Zuma\|Denver Zuma]] (namorado)<br>[[Máscaras/Máscara da Ilusão\|Máscara da Ilusão]] (mestra)<br>[[Personagens/DeX ♱\|DeX ♱]] (parceiro de investigação)<br>[[Personagens/Ambrósio Coralar\|Ambrósio Coralar]] (colega de trabalho) |
-| **Ocupação**    | Agente da [[Organizações/Palácio de Jade (Organização)/Policia Federal de Zaun\|Policia Federal de Zaun]] (anteriormente)<br>Diplomata de Zaun em [[Organizações/Império de Unova/Casas de Unova#Casa Umbrella\|Casa Umbrella]]                                                                 |
-| **Afinidade**   | [[Páginas/Elementos da Luz#Elemento de Areia\|Elemento de Areia]]                                                                                                                                     |
-| **Classe**      | Hibrido (Suporte e Destruidor)                                                                                                                                                                |
-| **Raça**        | Mista (Humano e Sombra)                                                                                                                                                                       |
-| **Associação**  | [[Organizações/Escarlates\|Escarlates]]<br>[[Organizações/Palácio de Jade (Organização)/Palácio de Jade\|Palácio de Jade]]<br>[[Organizações/Palácio de Jade (Organização)/Força Nacional de Segurança de Zaun\|Força Nacional de Segurança de Zaun]]<br>[[As Nações de Nunumia/Sete Grandes Nações de Nunumia/Zaun\|Zaun]]<br>[[As Nações de Nunumia/Sete Grandes Nações de Nunumia/Unova\|Unova]]<br>[[As Nações de Nunumia/Sete Grandes Nações de Nunumia/Porto Royal\|Porto Royal]]                                                                  |
+| Galeria         | ![Adam.png\|250](/img/user/0-Assets/Images/Icons/Personagens/Adam.png)<br>*Adam Smith*                                                                                                                          |
+| --------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Intérpretes** | [[Páginas/Jogadores/Aguiar\|Aguiar]]<br>[[Páginas/Jogadores/Kaiositos\|Kaiositos]]:<br>- [[Campanhas/Nunumia - O Último Tesouro/OUTRPG - EPISÓDIO 1 - O TESTE\|OUTRPG - EPISÓDIO 1 - O TESTE]]<br>-[[Campanhas/Nunumia - O Último Tesouro/OUTRPG - EPISÓDIO 4 - SEMPRE TEM UM RECOMEÇO\|OUTRPG - EPISÓDIO 4 - SEMPRE TEM UM RECOMEÇO]]                                    |
+| **Status**      | Vivo                                                                                                                                                        |
+| **Idade**       | 25                                                                                                                                                          |
+| **Apelidos**    | "Meu bem" ([[Personagens/Denver Zuma\|Denver Zuma]]) <br>"Loirinho" ([[Personagens/Scarlet Mana Jin-Can\|Scarlet Mana Jin-Can]], [[Personagens/Nathaniel Scompa\|Nathaniel Scompa]])                                                                 |
+| **Relações**    | Veja [[Personagens/Adam Smith#Relações\|§ Relações]]<br>[[Personagens/Denver Zuma\|Denver Zuma]] (namorado)<br>[[Personagens/DeX ♱\|DeX ♱]] (parceiro de investigação)<br>[[Personagens/Ambrósio Coralar\|Ambrósio Coralar]] (colega de trabalho) |
+| **Ocupação**    | Agente da [[Organizações/Palácio de Jade (Organização)/Policia Federal de Zaun\|Policia Federal de Zaun]] (anteriormente)<br>Diplomata de Zaun em [[Organizações/Império de Unova/Casas de Unova#Casa Umbrella\|Casa Umbrella]]                               |
+| **Afinidade**   | [[Páginas/Elementos da Luz#Elemento de Areia\|Elemento de Areia]]                                                                                                   |
+| **Classe**      | Hibrido (Suporte e Destruidor)                                                                                                                              |
+| **Raça**        | Mista (Humano e Sombra)                                                                                                                                     |
+| **Associação**  | [[Organizações/Escarlates\|Escarlates]]<br>[[Organizações/Palácio de Jade (Organização)/Palácio de Jade\|Palácio de Jade]]<br>[[Organizações/Palácio de Jade (Organização)/Força Nacional de Segurança de Zaun\|Força Nacional de Segurança de Zaun]]<br>[[As Nações de Nunumia/Sete Grandes Nações de Nunumia/Zaun\|Zaun]]<br>[[As Nações de Nunumia/Sete Grandes Nações de Nunumia/Unova\|Unova]]<br>[[As Nações de Nunumia/Sete Grandes Nações de Nunumia/Porto Royal\|Porto Royal]]                                |
 
 
 **Adam Smith** é um dos protagonistas de [[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro\|Nunumia: O Último Tesouro]]. 
