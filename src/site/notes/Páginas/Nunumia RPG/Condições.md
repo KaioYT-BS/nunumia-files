@@ -1,8 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/paginas/nunumia-rpg/condicoes/","created":"2026-03-09T22:23:11.704-03:00","updated":"2026-04-12T18:37:41.103-03:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/paginas/nunumia-rpg/condicoes/","created":"2026-03-09T22:23:11.704-03:00","updated":"2026-04-22T18:00:55.890-03:00","dg-note-properties":{}}
 ---
 
 #Páginas 
+# Enlouquecendo
+O personagem fica com todos os seus *Pontos de Determinação* Zerados. Além disso, suas ações ficam instáveis e irracionais. Para sair da condição, é necessário um teste de *Diplomacia* (**DT: 10-35**).
 # Em Chamas
 O personagem está pegando fogo. No início de seus turnos, sofre 1d4 pontos de dano. O personagem pode gastar uma ação padrão para apagar o fogo com as mãos. Caso haja imersão em água as chamas são apagadas.
 # Morrendo
@@ -14,6 +16,6 @@ O personagem fica completamente paralisado mentalmente dessa forma caindo no ch�
 # Petrificado
 O personagem fica inconsciente e recebe resistência a dano 10. Além disso, para ser despetrificado é necessário uma *[[Páginas/Itens#Loção de Lama Especial\|loção de lama especial]]* ou *[[Páginas/Itens#antidoto de pedra\|antidoto de pedra]]*.
 # Petrificado Verdadeiro
-O personagem fica inconsciente e recebe resistência a dano 10. Além disso, para ser despetrificado é necessário uma *[[Páginas/Itens#Iloção de lama especial\|Iloção de lama especial]]* ou *[[Páginas/Itens#antidoto de pedra\|antidoto de pedra]]*.
+O personagem fica inconsciente e recebe resistência a dano 50. Só pode ser despetrificado com Lama proveniente do [[Sol da Meia-Noite\|Sol da Meia-Noite]]
 # Sangrando
 No início de seus turnos, o personagem deve fazer um teste de Persistência (DT 15). Se passar, estabiliza e remove essa condição. Se falhar, perde 1d6 pontos de vida e continua sangrando. O Sangramento pode ser parado por outro personagem com um teste de medicina (DT 18).
