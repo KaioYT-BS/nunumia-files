@@ -55,7 +55,7 @@ Em algumas regiões, especialmente em [[Fulminária\|Fulminária]], existem rela
 ---
 A origem dos Lobsomens é incerta, sendo atribuída a diferentes eventos ao longo da história de [[Nunumia\|Nunumia]]. Algumas teorias apontam para experimentos mágicos antigos, possivelmente ligados à [[Calamidade da Magia\|Calamidade da Magia]], enquanto outras sugerem uma origem natural, adaptativa.
 
-Durante períodos de instabilidade, como o [[Fragmentum periodum\|Fragmentum periodum]], Lobsomens foram frequentemente utilizados como forças auxiliares em conflitos, seja como mercenários ou como unidades de choque.
+Durante períodos de instabilidade, como o [[Eventos/Fragmentum periodum\|Fragmentum periodum]], Lobsomens foram frequentemente utilizados como forças auxiliares em conflitos, seja como mercenários ou como unidades de choque.
 
 Em contrapartida, também foram alvo de perseguições sistemáticas, especialmente em regiões urbanizadas, onde eram vistos como ameaças à ordem.
 

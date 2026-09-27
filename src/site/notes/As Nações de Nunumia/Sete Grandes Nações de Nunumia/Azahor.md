@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/as-nacoes-de-nunumia/sete-grandes-nacoes-de-nunumia/azahor/","created":"2026-03-23T21:33:12.174-03:00","updated":"2026-04-12T23:45:32.213-03:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/as-nacoes-de-nunumia/sete-grandes-nacoes-de-nunumia/azahor/","created":"2026-03-23T21:33:12.174-03:00","updated":"2026-09-26T18:49:03.943-03:00","dg-note-properties":{}}
 ---
 
 #Nações 
@@ -13,7 +13,7 @@
 | **Colonização**  | [[As Nações de Nunumia/Sete Grandes Nações de Nunumia/Imperium Diamante\|Imperium Diamante]] (Azahor Oriental)<br>[[As Nações de Nunumia/Sete Grandes Nações de Nunumia/HomeWorld\|HomeWorld]] (Azahor Ocidental)                                                                                                                                                                         |
 | **População**    | 20 milhões (20.000.000)                                                                                                                                                                                                                             |
 | **Moeda**        | **Antes do Condomínio Colonial**:<br>Azor (Azarios) \| AZ$ \| AZR<br><br>**Durante o Condomínio Colonial**:<br>Diam (Dianos) \| D$ \| DAM<br><br>**Após o Condomínio Colonial**:<br>Novo Azor (Azarios) \| NZ$ \| NZR<br>Diam (Dianos) \| D$ \| DAM |
-| **Organizações** | **Militar**:<br>Guarda Azariana                                                                                                                                                                                                                     |
+| **Organizações** | **Militar**:<br>[[Guarda Revolucionária Azariana\|Guarda Revolucionária Azariana]]                                                                                                                                                                                                                 |
 # História 
 ---
 ## Colonização Oriental

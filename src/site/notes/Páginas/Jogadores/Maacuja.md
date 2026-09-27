@@ -1,20 +1,20 @@
 ---
-{"dg-publish":true,"permalink":"/paginas/jogadores/maacuja/","created":"2026-02-08T13:45:54.236-03:00","updated":"2026-04-19T12:44:23.065-03:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/paginas/jogadores/maacuja/","created":"2026-02-08T13:45:54.236-03:00","updated":"2026-09-27T08:47:43.652-03:00","dg-note-properties":{}}
 ---
 
 #Jogadores #Jogadores_em_OUTRPG
 > "_pq os planetas pararam di ser ?"
 > — Manuella Pontes_
 
-| Galeria                           | ![Pasted image 20260414001903.png\|350](/img/user/Pasted%20image%2020260414001903.png)                   |
-| --------------------------------- | ----------------------------------------------------------- |
-| **Nascimento:**                   | 14/04/2011 - 15 anos                                        |
-| **Nome**                          | Manuella Pontes de Carvalho                                 |
-| **Ocupação**                      | Estudante<br>Artista<br>Hater do Trump                      |
-| **Personagens** **Interpretados** | [[Personagens/Alger Baskerville\|Alger Baskerville]] - [[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro\|Nunumia - O Último Tesouro]]      |
-| **Participações**                 | MSRPG (anteriormente)<br>[[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro\|Nunumia - O Último Tesouro]]<br> |
+| Galeria                           | ![Pasted image 20260414001903.png\|350](/img/user/0-Assets/Images/Pasted%20image%2020260414001903.png)                                                                                                                               |
+| --------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Nascimento:**                   | 14/04/2011 - 15 anos                                                                                                                                                    |
+| **Nome**                          | Manuella Pontes de Carvalho                                                                                                                                             |
+| **Ocupação**                      | Estudante<br>Artista<br>Hater do Trump                                                                                                                                  |
+| **Personagens** **Interpretados** | [[Personagens/Alger Baskerville\|Alger Baskerville]] - [[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro\|OUTRPG 1]]; [[Campanhas/Nunumia - O Último Tesouro Cinzas/Nunumia - O Último Tesouro Cinzas\|OUTRPG2]]<br>[[Spectra Vondergaist\|Spectra Vondergaist]] - [[Campanhas/Nunumia - O Último Tesouro Cinzas/Nunumia - O Último Tesouro Cinzas\|Nunumia - O Último Tesouro Cinzas]] |
+| **Participações**                 | MSRPG (anteriormente)<br>[[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro\|Nunumia - O Último Tesouro]]<br>[[Campanhas/Nunumia - O Último Tesouro Cinzas/Nunumia - O Último Tesouro Cinzas\|Nunumia - O Último Tesouro Cinzas]]                                                                        |
 
-Manuella Pontes de Carvalho, ou apenas **Manu** ou **Maacuja**, interpretou **[[Personagens/Alger Baskerville\|Alger Baskerville]]** em [[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro\|Nunumia: O Último Tesouro]].
+Manuella Pontes de Carvalho, ou apenas **Manu** ou **Maacuja**, interpretou **[[Personagens/Alger Baskerville\|Alger Baskerville]]** em [[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro\|Nunumia: O Último Tesouro]] e em sua temporada seguinte, [[Campanhas/Nunumia - O Último Tesouro Cinzas/Nunumia - O Último Tesouro Cinzas\|Nunumia - O Último Tesouro Cinzas]]. Na continuação do enredo, ela também interpretou [[Spectra Vondergaist\|Spectra Vondergaist]], uma integrando do [[Esquadrão x24\|Esquadrão x24]].
 
 # Personagens
 ---

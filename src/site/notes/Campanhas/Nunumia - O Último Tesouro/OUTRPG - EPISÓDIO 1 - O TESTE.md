@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/campanhas/nunumia-o-ultimo-tesouro/outrpg-episodio-1-o-teste/","created":"2026-02-08T13:45:52.756-03:00","updated":"2026-04-16T22:01:56.510-03:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/campanhas/nunumia-o-ultimo-tesouro/outrpg-episodio-1-o-teste/","created":"2026-02-08T13:45:52.756-03:00","updated":"2026-08-19T22:53:31.848-03:00","dg-note-properties":{}}
 ---
 
-#Episódios_de_OUTRPG 
+#O #Episódios_de_OUTRPG 
 
 > [!NON-CANNON] PARCIALMENTE CANNON
 > Os acontecimentos desse episódio são considerados parcialmente canônicos em [[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro\|Nunumia - O Último Tesouro]] por causa do [[Eventos/Reinicio\|Reinicio]].
@@ -13,9 +13,9 @@
 
 | **Campanha**                | [[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro\|Nunumia - O Último Tesouro]]                                                                                                                                                                                                                                                                                                |
 | --------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Elenco**                  | [[Páginas/Jogadores/Kaiositos\|Kaiositos]] (Mestre)<br>[[Páginas/Jogadores/Maacuja\|Maacuja]] ([[Personagens/Alger Baskerville\|Alger Baskerville]])<br>[[Páginas/Jogadores/Aguiar\|Aguiar]] ([[Personagens/O Ilusionista\|O Ilusionista]])<br>[[Páginas/Jogadores/Ash\|Ash]]  ([[Personagens/Amon Vaelor\|Amon Vaelor]])<br>[[Páginas/Jogadores/Guixy\|Guixy]] ([[Personagens/Morgan Voreal\|Morgan Voreal]])<br>[[Páginas/Jogadores/Garcia\|Garcia]] ([[Personagens/Cassidy Mazedy\|Cassidy Mazedy]])<br>[[Tomás Durão\|Tomás Durão]] ([[Personagens/Evan Pale Archin\|Evan Pale Archin]])                                                                                   |
+| **Elenco**                  | [[Páginas/Jogadores/Kaiositos\|Kaiositos]] (Mestre)<br>[[Páginas/Jogadores/Maacuja\|Maacuja]] ([[Personagens/Alger Baskerville\|Alger Baskerville]])<br>[[Páginas/Jogadores/Aguiar\|Aguiar]] ([[Personagens/O Ilusionista\|O Ilusionista]])<br>[[Páginas/Jogadores/Ash\|Ash]]  ([[Personagens/Amon Vaelor\|Amon Vaelor]])<br>[[Páginas/Jogadores/Guixy\|Guixy]] ([[Personagens/Chromorios Solvaris\|Chromorios Solvaris]])<br>[[Páginas/Jogadores/Garcia\|Garcia]] ([[Personagens/Cassidy Mazedy\|Cassidy Mazedy]])<br>[[Tomás Durão\|Tomás Durão]] ([[Personagens/Evan Pale Archin\|Evan Pale Archin]])                                                                                   |
 | **Data da sessão**          | 30/01/2025                                                                                                                                                                                                                                                                                                                    |
-| **Personagens no episódio** | Tripulação:<br>[[Personagens/Alger Baskerville\|Alger Baskerville]]<br>[[Personagens/Evan Pale Archin\|Evan Pale Archin]]<br>[[Personagens/Morgan Voreal\|Morgan Voreal]]<br>[[Personagens/Cassidy Mazedy\|Cassidy Mazedy]]<br><br>---<br><br>Palácio de Jade:<br>[[Personagens/Denver Zuma\|Denver Zuma]]<br>[[Personagens/Scarlet Mana Jin-Can\|Scarlet Mana Jin-Can]]<br>[[Personagens/Adam Smith\|Adam Smith]]<br><br>---<br><br>Strikers:<br>[[Personagens/O Ilusionista\|O Ilusionista]]<br>[[Organizações/Strikers\|Strikers]]<br><br>---<br><br>Outros:<br>[[Personagens/Amon Vaelor\|Amon Vaelor]]<br> |
+| **Personagens no episódio** | Tripulação:<br>[[Personagens/Alger Baskerville\|Alger Baskerville]]<br>[[Personagens/Evan Pale Archin\|Evan Pale Archin]]<br>[[Personagens/Chromorios Solvaris\|Chromorios Solvaris]]<br>[[Personagens/Cassidy Mazedy\|Cassidy Mazedy]]<br><br>---<br><br>Palácio de Jade:<br>[[Personagens/Denver Zuma\|Denver Zuma]]<br>[[Personagens/Scarlet Mana Jin-Can\|Scarlet Mana Jin-Can]]<br>[[Personagens/Adam Smith\|Adam Smith]]<br><br>---<br><br>Strikers:<br>[[Personagens/O Ilusionista\|O Ilusionista]]<br>[[Organizações/Strikers\|Strikers]]<br><br>---<br><br>Outros:<br>[[Personagens/Amon Vaelor\|Amon Vaelor]]<br> |
 | **Locais no Episódio**      | [[As Nações de Nunumia/Sete Grandes Nações de Nunumia/Zaun\|Zaun]]:<br>[[Locais/Zaun/Palácio de Jade (Local)\|Palácio de Jade (Local)]]<br>Porto das [[Organizações/Industrias Baskerville\|Industrias Baskerville]]<br><br>Mar:<br>Barco provisório do Ilusionista                                                                                                                                                                                               |
 | ---                         | **Próximo episódio**:<br>[[Campanhas/Nunumia - O Último Tesouro/OUTRPG - EPISÓDIO 2 - A PROFETA\|OUTRPG - EPISÓDIO 2 - A PROFETA]]                                                                                                                                                                                                                                                                  |
 
@@ -25,10 +25,10 @@
 ---
 Após serem convidados por Denver Zuma, o primeiro ministro e imperador de Zaun, quatro pessoas se juntam para buscar um suposto mago que foi preso a aproximadamente três décadas.
 
-# Sumario
+# Sumário
 ---
 Nunumia, um lugar lindo cheio de maravilhas e horrores que você talvez nunca venha a esquecer. Nossa história começa em *Zaun* onde quatro pessoas aguardam ansiosamente por um novo começo.
-Após receberem uma carta misteriosa [[Personagens/Alger Baskerville\|Alger Baskerville]], [[Personagens/Cassidy Mazedy\|Cassidy Mazedy]], [[Personagens/Evan Pale Archin\|Evan Pale Archin]] e [[Personagens/Morgan Voreal\|Morgan Voreal]] seguiram as instruções descritas. Em duas semanas os mesmos deveriam estar em qualquer praça de Zaun esperando um sinal. O dia chegou e o sinal foi bem menos furtivo que o esperado. Alger, Cassy e Morgan foram simplesmente sequestrados, dopados e presos em uma sala luxuosa. Depois de acordar buscando entender onde estavam, o trio decidiu buscar por pistas e respostas que, foram parcialmente respondidas em uma carta.
+Após receberem uma carta misteriosa [[Personagens/Alger Baskerville\|Alger Baskerville]], [[Personagens/Cassidy Mazedy\|Cassidy Mazedy]], [[Personagens/Evan Pale Archin\|Evan Pale Archin]] e [[Personagens/Chromorios Solvaris\|Chromorios Solvaris]] seguiram as instruções descritas. Em duas semanas os mesmos deveriam estar em qualquer praça de Zaun esperando um sinal. O dia chegou e o sinal foi bem menos furtivo que o esperado. Alger, Cassy e Morgan foram simplesmente sequestrados, dopados e presos em uma sala luxuosa. Depois de acordar buscando entender onde estavam, o trio decidiu buscar por pistas e respostas que, foram parcialmente respondidas em uma carta.
 ![Carta de Denver Zuma deixada em uma mesa no Palácio de Jade.png](/img/user/0-Assets/Images/Carta%20de%20Denver%20Zuma%20deixada%20em%20uma%20mesa%20no%20Pal%C3%A1cio%20de%20Jade.png)
 Alguns minutos após a abertura da carta os "Destinados" escutam batidas na porta, depois de relutar um pouco em abrir eles são recepcionados por [[Personagens/Scarlet Mana Jin-Can\|Scarlet Mana Jin-Can]], uma mordoma do [[Locais/Zaun/Palácio de Jade (Local)\|Palácio de Jade]] que os convida a subirem para a "cúpula" afim de encontrar Denver Zuma e um pestinha que passou da segurança do palácio. Após um elevador silencioso e uma longa escadaria que parece medir a própria determinação do grupo, a recém-formada tripulação se depara com uma sala imponente.
 
@@ -90,7 +90,7 @@ A tripulação nota algumas lanternas no mar a distância, alguém está vindo. 
 - [[Páginas/Jogadores/Maacuja\|Maacuja]] ([[Personagens/Alger Baskerville\|Alger Baskerville]])
 - [[Páginas/Jogadores/Aguiar\|Aguiar]] ([[Personagens/O Ilusionista\|O Ilusionista]])
 - [[Páginas/Jogadores/Ash\|Ash]]  ([[Personagens/Amon Vaelor\|Amon Vaelor]])
-- [[Páginas/Jogadores/Guixy\|Guixy]] ([[Personagens/Morgan Voreal\|Morgan Voreal]])
+- [[Páginas/Jogadores/Guixy\|Guixy]] ([[Personagens/Chromorios Solvaris\|Chromorios Solvaris]])
 - [[Páginas/Jogadores/Garcia\|Garcia]] ([[Personagens/Cassidy Mazedy\|Cassidy Mazedy]])
 - [[Tomás Durão\|Tomás Durão]] ([[Personagens/Evan Pale Archin\|Evan Pale Archin]])
 # Curiosidades

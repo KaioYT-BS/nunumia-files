@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personagens/evan-pale-archin/","created":"2026-02-08T13:45:54.583-03:00","updated":"2026-04-22T18:42:05.067-03:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/personagens/evan-pale-archin/","created":"2026-02-08T13:45:54.583-03:00","updated":"2026-08-19T22:53:32.558-03:00","dg-note-properties":{}}
 ---
 
 #Página_Descontinuada #Personagens 
@@ -7,7 +7,6 @@
 > [!NOTE] Aviso!
 > Está página foi descontinuada. Para a página principal, veja [[Personagens/Emily Speavers Baskerville\|Emily Speavers Baskerville]].
 > Está página contém os conteúdos dos pacotes 0 & 1 de [[Páginas/Nunumia - Files\|Nunumia - Files]].
-
 
 > "_Eu sou um monstro." 
 > — Evan Pale Archin
@@ -26,7 +25,7 @@ Sendo descendente de uma **Tecelã e de um humano**, Evan representa tudo aquilo
 
 Antes dos eventos principais de **[[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro\|Nunumia: O Último Tesouro]]**, Evan serviu como um dos cavaleiros da ordem do [[Organizações/Império de Unova/Pyraminx\|Organizações/Império de Unova/Pyraminx]]. Ele conseguiu a posição por meio da indicação de sua então namorada, [[Personagens/Saon Admircov\|Saon Admircov]].
 
-Durante os eventos de **[[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro\|Nunumia: O Último Tesouro]]**, Evan se junta a [[Personagens/Alger Baskerville\|Alger Baskerville]], [[Personagens/Morgan Voreal\|Morgan Voreal]] e [[Personagens/Cassidy Mazedy\|Cassidy Mazedy]] na missão de resgatar [[Personagens/Amon Vaelor\|Amon Vaelor]]. A missão foi organizada por [[Personagens/Denver Zuma\|Denver Zuma]], que pretendia reunir um grupo capaz de encontrar e abrir o lendário [[Os Sete Segredos de Nunumia/O Último Tesouro\|O Último Tesouro]].
+Durante os eventos de **[[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro\|Nunumia: O Último Tesouro]]**, Evan se junta a [[Personagens/Alger Baskerville\|Alger Baskerville]], [[Personagens/Chromorios Solvaris\|Chromorios Solvaris]] e [[Personagens/Cassidy Mazedy\|Cassidy Mazedy]] na missão de resgatar [[Personagens/Amon Vaelor\|Amon Vaelor]]. A missão foi organizada por [[Personagens/Denver Zuma\|Denver Zuma]], que pretendia reunir um grupo capaz de encontrar e abrir o lendário [[Os Sete Segredos de Nunumia/O Último Tesouro\|O Último Tesouro]].
 
 # História
 ---

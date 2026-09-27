@@ -1,15 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/campanhas/especial-nunumia-euphoria/especial-nunumia-euphoria/","created":"2026-03-06T23:28:19.972-03:00","updated":"2026-04-22T19:07:06.794-03:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/campanhas/especial-nunumia-euphoria/especial-nunumia-euphoria/","created":"2026-03-06T23:28:19.972-03:00","updated":"2026-05-09T22:46:40.085-03:00","dg-note-properties":{}}
 ---
 
 #Campanha #Especial
 
-| **Elenco**                  | [[Páginas/Jogadores/Kaiositos\|Kaiositos]] (Mestre)<br>[[Páginas/Jogadores/Ash\|Ash]] (S)<br>[[Páginas/Jogadores/Maacuja\|Maacuja]] (S)<br>[[Páginas/Jogadores/Davi\|Davi]] (S)<br>[[Páginas/Jogadores/Aguiar\|Aguiar]] (+/-)<br>[[Páginas/Jogadores/Garcia\|Garcia]] (C)<br>[[Páginas/Jogadores/Guixy\|Guixy]] (S)  <br>Hanna (+/-)<br>liam (+/-)<br>[[Tomás Durão\|Tomás Durão]] (S) |
-| --------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Participações Especiais** | [[Páginas/Nathaniel Balbino da Costa Rieger\|Nathaniel Balbino da Costa Rieger]] ([[Personagens/Anne Psina (A Profeta)\|Anne Psina (A Profeta)]])                                                                                                                    |
-| **Nº de partes**            | 2                                                                                                                                                                                     |
-| **Primeira parte**          | [[NEUP - PARTE 1 - TEATRO\|NEUP - PARTE 1 - TEATRO]]                                                                                                                                                           |
-| **Última parte**            | [[NEUP - PARTE 2 - EUPHORIA\|NEUP - PARTE 2 - EUPHORIA]]                                                                                                                                                         |
+| **Elenco**                  | [[Páginas/Jogadores/Kaiositos\|Kaiositos]] (Mestre)                                             |
+| --------------------------- | ------------------------------------------------------------------ |
+| **Participações Especiais** | [[Páginas/Nath Pixels\|Nath Pixels]] ([[Personagens/Anne Psina\|Anne Psina]]) |
+| **Nº de partes**            | 2                                                                  |
+| **Primeira parte**          | [[NEUP - PARTE 1 - TEATRO\|NEUP - PARTE 1 - TEATRO]]                                        |
+| **Última parte**            | [[NEUP - PARTE 2 - EUPHORIA\|NEUP - PARTE 2 - EUPHORIA]]                                      |
 
 # Sinopse
 ---
@@ -21,11 +21,11 @@
 | Protagonista         | Jogador |
 | -------------------- | ------- |
 | [[Personagens/Nathaniel Scompa\|Nathaniel Scompa]] |         |
-| [[Amy Expor ¿\|Amy Expor ¿]]      |         |
-| [[Sammy Asvot ¿\|Sammy Asvot ¿]]    |         |
-| [[Vox ¿\|Vox ¿]]            |         |
-| [[Arlindo Sui ¿\|Arlindo Sui ¿]]    |         |
-| [[Galego Macker ¿\|Galego Macker ¿]]  |         |
+| [[Personagens/Amy Expor ¿\|Amy Expor ¿]]      |         |
+| [[Personagens/Sammy Asvot ¿\|Sammy Asvot ¿]]    |         |
+| [[Personagens/Vox ¿\|Vox ¿]]            |         |
+| [[Personagens/Arlindo Sui ¿\|Arlindo Sui ¿]]    |         |
+| [[Personagens/Galego Macker ¿\|Galego Macker ¿]]  |         |
 |                      |         |
 |                      |         |
 

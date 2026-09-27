@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/personagens/adam-smith/","created":"2026-02-08T13:45:54.424-03:00","updated":"2026-04-22T19:05:45.070-03:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/personagens/adam-smith/","created":"2026-02-08T13:45:54.424-03:00","updated":"2026-09-22T20:52:47.605-03:00","dg-note-properties":{}}
 ---
 
-#Personagens #Personagens_Principais_em_OUTRPG  #Destinados 
+#A #Personagens #Personagens_Principais_em_OUTRPG  #Destinados 
 
 > "_Adam dizia que era apenas seu trabalho, mas ele sabia que o único capturado ali era ele."
 > — Mestre_
@@ -33,9 +33,10 @@ Em **[[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro\|Nunumi
 # Aparições
 ---
 
-| **Episódios**                                    | **Aparições**                  |
-| ------------------------------------------------ | ------------------------------ |
-| [[Campanhas/Nunumia - O Último Tesouro/OUTRPG - EPISÓDIO 1 - O TESTE\|OUTRPG - EPISÓDIO 1 - O TESTE]]                | Primeira aparição              |
-| [[Campanhas/Nunumia - O Último Tesouro/OUTRPG - EPISÓDIO 4 - SEMPRE TEM UM RECOMEÇO\|OUTRPG - EPISÓDIO 4 - SEMPRE TEM UM RECOMEÇO]] | Brevemente                     |
-| [[Campanhas/Nunumia - O Último Tesouro/OUTRPG - EPISÓDIO 5 - JOGOS\|OUTRPG - EPISÓDIO 5 - JOGOS]]                  | Presente                       |
-| [[Campanhas/Nunumia - O Último Tesouro/OUTRPG - EPISÓDIO 6 - FRAGMENTOS\|OUTRPG - EPISÓDIO 6 - FRAGMENTOS]]             | Presente                       |
+| **Episódios**                                         | **Aparições**     |
+| ----------------------------------------------------- | ----------------- |
+| [[Campanhas/Nunumia - O Último Tesouro/OUTRPG - EPISÓDIO 1 - O TESTE\|OUTRPG - EPISÓDIO 1 - O TESTE]]                     | Primeira aparição |
+| [[Campanhas/Nunumia - O Último Tesouro/OUTRPG - EPISÓDIO 4 - SEMPRE TEM UM RECOMEÇO\|OUTRPG - EPISÓDIO 4 - SEMPRE TEM UM RECOMEÇO]]      | Brevemente        |
+| [[Campanhas/Nunumia - O Último Tesouro/OUTRPG - EPISÓDIO 5 - JOGOS\|OUTRPG - EPISÓDIO 5 - JOGOS]]                       | Presente          |
+| [[Campanhas/Nunumia - O Último Tesouro/OUTRPG - EPISÓDIO 6 - FRAGMENTOS\|OUTRPG - EPISÓDIO 6 - FRAGMENTOS]]                  | Presente          |
+| [[Campanhas/Nunumia - O Último Tesouro/OUTRPG - EPISÓDIO 7 - BIFURCAÇÃO (TEMPO E ILUSÃO)\|OUTRPG - EPISÓDIO 7 - BIFURCAÇÃO (TEMPO E ILUSÃO)]] | Presente          |

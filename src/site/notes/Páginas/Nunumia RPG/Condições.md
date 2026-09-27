@@ -1,12 +1,17 @@
 ---
-{"dg-publish":true,"permalink":"/paginas/nunumia-rpg/condicoes/","created":"2026-03-09T22:23:11.704-03:00","updated":"2026-04-22T18:00:55.890-03:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/paginas/nunumia-rpg/condicoes/","created":"2026-03-09T22:23:11.704-03:00","updated":"2026-06-27T19:45:26.435-03:00","dg-note-properties":{}}
 ---
 
-#Páginas 
+#C #Páginas 
+# Desprevenido
+Despreparado para reagir.. Você fica desprevenido contra inimigos que não possa perceber.
 # Enlouquecendo
-O personagem fica com todos os seus *Pontos de Determinação* Zerados. Além disso, suas ações ficam instáveis e irracionais. Para sair da condição, é necessário um teste de *Diplomacia* (**DT: 10-35**).
+O personagem fica com todos os seus *Pontos de Determinação* zerados. Além disso, suas ações ficam instáveis e irracionais. Para sair da condição, é necessário um teste de *Diplomacia* (**DT: 10-35**).
 # Em Chamas
 O personagem está pegando fogo. No início de seus turnos, sofre 1d4 pontos de dano. O personagem pode gastar uma ação padrão para apagar o fogo com as mãos. Caso haja imersão em água as chamas são apagadas.
+# Exausto
+O personagem fica debilitado, lento e vulnerável. Se ficar exausto novamente, em vez disso fica inconsciente. Condição de fadiga.
+# Machucado
 # Morrendo
 Com 0 pontos de vida (PV). Um personagem morrendo fica inconsciente e, se terminar mais de três rodadas (não necessariamente consecutivas) morrendo na mesma cena, morre. Esta condição se encerra se o personagem voltar a ter pelo menos 1 PV.
 # Paralisia
@@ -18,4 +23,5 @@ O personagem fica inconsciente e recebe resistência a dano 10. Além disso, par
 # Petrificado Verdadeiro
 O personagem fica inconsciente e recebe resistência a dano 50. Só pode ser despetrificado com Lama proveniente do [[Sol da Meia-Noite\|Sol da Meia-Noite]]
 # Sangrando
-No início de seus turnos, o personagem deve fazer um teste de Persistência (DT 15). Se passar, estabiliza e remove essa condição. Se falhar, perde 1d6 pontos de vida e continua sangrando. O Sangramento pode ser parado por outro personagem com um teste de medicina (DT 18).
+No início de seus turnos, o personagem deve fazer um teste de Persistência (DT 15). Se passar, estabiliza e remove essa condição. Se falhar, perde 1d4 pontos de vida e continua sangrando. O Sangramento pode ser parado por outro personagem com um teste de medicina (DT 18).
+
