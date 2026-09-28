@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personagens/chromorios-solvaris/","created":"2026-02-08T13:45:54.659-03:00","updated":"2026-09-26T15:48:46.304-03:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/personagens/chromorios-solvaris/","created":"2026-02-08T13:45:54.659-03:00","updated":"2026-09-28T18:11:31.749-03:00","dg-note-properties":{}}
 ---
 
 #C #Personagens #Personagens_Principais_em_OUTRPG #Destinados 
@@ -10,11 +10,11 @@
 | **Status**      | Vivo                                                                                                                                                       |
 | **Idade Atual** | +7.000                                                                                                                                                     |
 | **Apelidos**    | "Chromorios Solvaris" - Nome Original<br>"[[Personagens/Akin Tornin\|Akin Tornin]]"<br>"Ananke Amargun" - Nome da Amalgama<br>"Morgan Voreal" - Identidade imposta por [[Personagens/Overlord\|Overlord]] |
-| **Relações**    |                                                                                                                                                            |
-| **Ocupação**    | Escrivão (Escriba)<br>Enviado pelo Tempo<br>Primeiro Destinado<br>Membro dos [[Organizações/Escarlates\|Escarlates]]<br>Membro das [[Organizações/Palácio de Jade (Organização)/Equipes/Waifus do Caribe\|Waifus do Caribe]]                             |
+| **Relações**    | [[Personagens/Arkena Chronos\|Arkena Chronos]]                                                                                                                                         |
+| **Ocupação**    | Escrivão (Escriba)<br>Enviado pelo Tempo<br>===Primeiro Destinado===<br>Membro das [[Organizações/Palácio de Jade (Organização)/Equipes/Waifus do Caribe\|Waifus do Caribe]]                                                    |
 | **Classe**      | Hibrida (Suporte e Destruidor)                                                                                                                             |
 | **Raça**        | Vazimo (Chromorios)<br>[[Raças/Elfos\|Elfos]]<br>[[Raças/Humano-Marinho\|Humano-Marinho]]<br>[[Raças/Lobos\|Lobos]]<br>Humana (Atualmente)                                                                 |
-| **Associação**  | [[Organizações/Filhos do Tempo\|Filhos do Tempo]]<br>[[Personagens/Overlord\|Overlord]]<br>[[Organizações/Escarlates\|Escarlates]]<br>[[Organizações/Palácio de Jade (Organização)/Equipes/Waifus do Caribe\|Waifus do Caribe]]                                                                              |
+| **Associação**  | [[Organizações/Filhos do Tempo\|Filhos do Tempo]]<br>[[Personagens/Overlord\|Overlord]]<br>[[Máscaras/Máscara do Tempo (Chronos)\|Máscara do Tempo (Chronos)]])<br>[[Organizações/Palácio de Jade (Organização)/Equipes/Waifus do Caribe\|Waifus do Caribe]]                                                             |
 **Chromorios Solvaris** é um dos protagonistas de [[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro\|Nunumia - O Último Tesouro]].
 # História
 ---
@@ -90,12 +90,7 @@ Uma entidade híbrida, carregando memórias, vontades e conflitos de duas exist�
 Não mais como apenas Chromorios, mas como algo novo.
 
 Algo que o próprio tempo talvez não tivesse previsto.
-## Durante a [[Calamidade da Magia\|Calamidade da Magia]]
-...
-
-
-
-## Nova chance
+## [[Os Sete Segredos de Nunumia/O Último Tesouro\|O Último Tesouro]]
 
 # Personalidade
 ---
