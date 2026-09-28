@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/paginas/guia-de-paginas/","created":"2026-06-09T17:16:16.566-03:00","updated":"2026-08-08T13:37:22.053-03:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/paginas/guia-de-paginas/","created":"2026-06-09T17:16:16.566-03:00","updated":"2026-09-28T18:17:05.952-03:00","dg-note-properties":{}}
 ---
 
 #Diário_de_Deus #Páginas
@@ -142,7 +142,6 @@ Governos, instituições, equipes, agências, forças militares e grupos que inf
 - [[Organizações/Império de Unova/Casas de Unova\|Casas de Unova]]
 - [[Organizações/Império de Unova/Pyraminx\|Pyraminx]]
 - [[Organizações/Agencia de Investigações Inabituais (AII)\|Agência de Investigações Inabituais]]
-- [[Organizações/C.R.A.S.H\|C.R.A.S.H]]
 - [[Organizações/Governo da Árvore da Vida\|Governo da Árvore da Vida]]
 
 ## Campanhas e Registros
@@ -152,7 +151,6 @@ Campanhas, episódios e arquivos narrativos que registram os acontecimentos joga
 
 - [[Páginas/Campanhas\|Campanhas]]
 - [[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro\|Nunumia - O Último Tesouro]]
-- [[Campanhas/Nunumia - O Sol da Meia-Noite/Nunumia - O Sol da Meia-Noite\|Nunumia - O Sol da Meia-Noite]]
 - [[Campanhas/Especial - Nunumia - Euphoria/Especial - Nunumia - Euphoria\|Especial - Nunumia - Euphoria]]
 - [[Páginas/Nunumia - Files\|Nunumia: Files]]
 

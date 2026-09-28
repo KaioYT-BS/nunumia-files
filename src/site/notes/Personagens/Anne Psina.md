@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personagens/anne-psina/","created":"2026-02-08T13:45:54.507-03:00","updated":"2026-08-08T13:37:22.039-03:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/personagens/anne-psina/","created":"2026-02-08T13:45:54.507-03:00","updated":"2026-09-28T18:25:15.720-03:00","dg-note-properties":{}}
 ---
 
 #Personagens
@@ -16,7 +16,7 @@
 | -------------- | ------------------------------------------------------------------------------------------------------------------------ |
 | **Status**     | Viva                                                                                                                     |
 | **Idade**      | 20                                                                                                                       |
-| **Apelidos**   | "A Profeta"<br>"Inútil" ([[Personagens/Gwen Kostenko\|Gwen Kostenko]])<br>"Maninha" ([[Personagens/Mars Sailer\|Mars Sailer]])<br>"Traidora patética" ([[Personagens/Nathaniel Scompa\|Nathaniel Scompa]]) |
+| **Apelidos**   | "A Profeta"<br>"Inútil" ([[Personagens/Gwen Kostenko\|Gwen Kostenko]])<br>"Maninha" ([[Personagens/Mars Sailer\|Mars Sailer]])<br>"Traidora patética" ([[Personagens/Nathaniel Scompa  ♱\|Nathaniel Scompa  ♱]]) |
 | **Relações**   | Veja [[Personagens/Alger Baskerville#Relações\|§ Relações]]<br>[[Personagens/Mars Sailer\|Mars Sailer]] (melhor amigo)<br>[[Personagens/Amy Expor ¿\|Amy Expor ¿]] (melhor amiga)      |
 | **Ocupação**   | Pirata dos [[Organizações/Strikers\|Strikers]]<br>Membro da Equipe do Ilusionista<br>Diretora geral do [[Projeto Over\|Projeto Over]]            |
 | **Classe**     | Suporte                                                                                                                  |

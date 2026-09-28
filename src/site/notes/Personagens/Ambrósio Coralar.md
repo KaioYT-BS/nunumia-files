@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personagens/ambrosio-coralar/","created":"2026-02-08T13:45:54.484-03:00","updated":"2026-09-22T22:33:47.153-03:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/personagens/ambrosio-coralar/","created":"2026-02-08T13:45:54.484-03:00","updated":"2026-09-28T18:25:15.695-03:00","dg-note-properties":{}}
 ---
 
 #Personagens #Personagens_Principais_em_OUTRPG 
@@ -11,7 +11,7 @@
 | --------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Status**      | Viva (Em coma)                                                                                                                                                                               |
 | **Idade**       | 34                                                                                                                                                                                           |
-| **Apelidos**    | "Incompetente" ([[Personagens/Nathaniel Scompa\|Nathaniel Scompa]])                                                                                                                                                        |
+| **Apelidos**    | "Incompetente" ([[Personagens/Nathaniel Scompa  ♱\|Nathaniel Scompa  ♱]])                                                                                                                                                        |
 | **Relações**    | Veja [[Personagens/Adam Smith#Relações\|§ Relações]]<br>[[Personagens/Bartholomew Baskerville\|Bartholomew Baskerville]] (Parceiro romântico)<br>[[Personagens/Latiff\|Latiff]] (inimigo)                                                                         |
 | **Ocupação**    | Diplomata de Porto Royal em [[Casa Umbrella\|Casa Umbrella]]<br>Vice-presidente do [[As Nações de Nunumia/Sete Grandes Nações de Nunumia/Porto Royal\|Porto Royal]]                                                                                                          |
 | **Raça**        | Humana                                                                                                                                                                                       |

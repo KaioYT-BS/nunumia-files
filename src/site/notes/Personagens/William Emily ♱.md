@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personagens/william-emily/","created":"2026-02-08T13:45:54.717-03:00","updated":"2026-09-22T20:51:45.147-03:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/personagens/william-emily/","created":"2026-02-08T13:45:54.717-03:00","updated":"2026-09-28T18:25:16.059-03:00","dg-note-properties":{}}
 ---
 
 #W #Personagens #Aliados_em_OUTRPG 
@@ -8,7 +8,7 @@
 | -------------- | ------------------------------------------------------------------------------------------------------------------------- |
 | **Status**     | Falecido                                                                                                                  |
 | **Idade**      | 39                                                                                                                        |
-| **Relações**   | [[Personagens/Denver Zuma\|Denver Zuma]] (superior)<br>[[Personagens/Zacariv Zuma - ⁜\|Zacariv Zuma - ⁜]]  (amigo)<br>[[Personagens/Adam Smith\|Adam Smith]] (colega)<br>[[Personagens/Nathaniel Scompa\|Nathaniel Scompa]] (ex-amigo) |
+| **Relações**   | [[Personagens/Denver Zuma\|Denver Zuma]] (superior)<br>[[Personagens/Zacariv Zuma - ⁜\|Zacariv Zuma - ⁜]]  (amigo)<br>[[Personagens/Adam Smith\|Adam Smith]] (colega)<br>[[Personagens/Nathaniel Scompa  ♱\|Nathaniel Scompa  ♱]] (ex-amigo) |
 | **Ocupação**   | Secretário de Defesa de [[As Nações de Nunumia/Sete Grandes Nações de Nunumia/Zaun\|Zaun]]<br>Líder da [[Organizações/Palácio de Jade (Organização)/Força Nacional de Segurança de Zaun\|Força Nacional de Segurança de Zaun]]                                      |
 | **Classe**     | Tanque                                                                                                                    |
 | **Raça**       | Humano                                                                                                                    |
