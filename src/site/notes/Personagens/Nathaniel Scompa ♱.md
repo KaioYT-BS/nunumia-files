@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personagens/nathaniel-scompa/","created":"2026-02-08T13:45:54.665-03:00","updated":"2026-09-29T22:22:46.810-03:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/personagens/nathaniel-scompa/","created":"2026-02-08T13:45:54.665-03:00","updated":"2026-09-29T23:43:32.858-03:00","dg-note-properties":{}}
 ---
 
  #Personagens #Personagens_Principais_em_OUTRPG  #Personagens_Principais_em_NEUP #Destinados 
@@ -8,17 +8,17 @@
 > "_EU VOU TER A MINHA VINGANÇA!"
 > — Nathaniel Scompa_
 
-| Galeria         | ![Nathaniel Scompa.png\|250](/img/user/0-Assets/Images/Icons/Personagens/Nathaniel%20Scompa.png)                                                                                                                                                                |
-| --------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Intérpretes** | [[Páginas/Jogadores/Kaiositos\|Kaiositos]]                                                                                                                                                                                 |
-| **Status**      | Falecido                                                                                                                                                                                      |
-| Morte           | Morto por [[Personagens/Luka Maximoff\|Luka Maximoff]] a mando de [[Personagens/Latiff Violett\|Latiff Violett]] utilizando sua Glock dourada.                                                                                                               |
-| **Idade**       | 23                                                                                                                                                                                            |
-| **Apelidos**    | "Nath" ([[Organizações/Palácio de Jade (Organização)/Equipes/Equipe Alpha\|Equipe Alpha]], [[Personagens/Scarlet Mana Jin-Can\|Scarlet Mana Jin-Can]], [[Personagens/Denver Zuma\|Denver Zuma]])<br>"Marionetista"<br>"Criollo Imundo" ([[Personagens/Ambrósio Coralar\|Ambrósio Coralar]])                                                             |
-| **Relações**    | [[Personagens/Latiff Violett\|Latiff Violett]] (mestre)<br>[[Personagens/Denver Zuma\|Denver Zuma]] (ex-namorado)<br>[[Personagens/Scarlet Mana Jin-Can\|Scarlet Mana Jin-Can]] (ex-melhor amiga)<br>[[Personagens/Raiden Takada Ikari ♱\|Raiden Takada Ikari ♱]] ex-melhor amigo)                                              |
-| **Ocupação**    | Parlamentar de [[As Nações de Nunumia/Sete Grandes Nações de Nunumia/Zaun\|Zaun]] (anteriormente)<br>Diplomata (anteriormente)<br>Membro da [[Organizações/Palácio de Jade (Organização)/Equipes/Equipe Delta\|Equipe Delta]] (2019)<br>Membro dos [[Organizações/Escarlates\|Escarlates]]                                                        |
-| **Raça**        | Humano                                                                                                                                                                                        |
-| **Associação**  | [[Organizações/Palácio de Jade (Organização)/Palácio de Jade\|Palácio de Jade]] (anteriormente)<br>[[C.R.A.S.H\|C.R.A.S.H]] (anteriormente)<br>[[Organizações/Palácio de Jade (Organização)/Força Nacional de Segurança de Zaun\|Força Nacional de Segurança de Zaun]] (anteriormente)<br>[[As Nações de Nunumia/Sete Grandes Nações de Nunumia/Porto Royal\|Porto Royal]]<br>[[Organizações/Escarlates\|Escarlates]]<br>[[Máscaras/Máscara da Ilusão\|Máscara da Ilusão]] |
+| Galeria         | ![Nathaniel Scompa.png\|250](/img/user/0-Assets/Images/Icons/Personagens/Nathaniel%20Scompa.png)                                                                                                                               |
+| --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Intérpretes** | [[Páginas/Jogadores/Kaiositos\|Kaiositos]]                                                                                                                                                |
+| **Status**      | Falecido                                                                                                                                                     |
+| Morte           | Morto por [[Personagens/Luka Maximoff\|Luka Maximoff]] a mando de [[Personagens/Latiff Violett\|Latiff Violett]] utilizando sua Glock dourada.                                                                      |
+| **Idade**       | 23                                                                                                                                                           |
+| **Apelidos**    | "Nath" ([[Organizações/Palácio de Jade (Organização)/Equipes/Equipe Alpha\|Equipe Alpha]], [[Personagens/Scarlet Mana Jin-Can\|Scarlet Mana Jin-Can]], [[Personagens/Denver Zuma\|Denver Zuma]])<br>"Marionetista"<br>"Criollo Imundo" ([[Personagens/Ambrósio Coralar\|Ambrósio Coralar]])                            |
+| **Relações**    | [[Personagens/Latiff Violett\|Latiff Violett]] (mestre)<br>[[Personagens/Denver Zuma\|Denver Zuma]] (ex-namorado)<br>[[Personagens/Scarlet Mana Jin-Can\|Scarlet Mana Jin-Can]] (ex-melhor amiga)<br>[[Personagens/Raiden Takada Ikari ♱\|Raiden Takada Ikari ♱]] ex-melhor amigo)     |
+| **Ocupação**    | Parlamentar de [[As Nações de Nunumia/Sete Grandes Nações de Nunumia/Zaun\|Zaun]] (anteriormente)<br>Diplomata (anteriormente)<br>Membro da [[Organizações/Palácio de Jade (Organização)/Equipes/Equipe Delta\|Equipe Delta]] (2019)<br>Membro dos [[Organizações/Escarlates\|Escarlates]]                       |
+| **Raça**        | Humano                                                                                                                                                       |
+| **Associação**  | [[Organizações/Palácio de Jade (Organização)/Palácio de Jade\|Palácio de Jade]] (anteriormente)<br>[[Organizações/Palácio de Jade (Organização)/Força Nacional de Segurança de Zaun\|Força Nacional de Segurança de Zaun]] (anteriormente)<br>[[As Nações de Nunumia/Sete Grandes Nações de Nunumia/Porto Royal\|Porto Royal]]<br>[[Organizações/Escarlates\|Escarlates]]<br>[[Máscaras/Máscara da Ilusão\|Máscara da Ilusão]] |
 
 
 **Nathaniel Scompa** era um dos [[Organizações/Escarlates\|Escarlates]], sendo também anteriormente o portador da [[Máscaras/Máscara da Ilusão\|Máscara da Ilusão]].

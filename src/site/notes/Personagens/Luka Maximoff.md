@@ -17,7 +17,7 @@
 | **Afinidade**  | Trevas - Sangue                                                                                                        |
 | **Classe**     | Destruidor                                                                                                             |
 | **Raça**       | [[Raças/Vampiros\|Vampiros]]                                                                                                           |
-| **Associação** | [[Guarda Revolucionária Azariana\|Guarda Revolucionária Azariana]]<br>[[M13 - Vampys\|M13 - Vampys]]<br>[[Esquadrão x24\|Esquadrão x24]]                                            |
+| **Associação** | [[Organizações/Guarda Revolucionária Azariana\|Guarda Revolucionária Azariana]]<br>[[M13 - Vampys\|M13 - Vampys]]<br>[[Esquadrão x24\|Esquadrão x24]]                                            |
 **Luka Maximoff** é um dos protagonistas da segunda temporada de [[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro\|Nunumia - O Último Tesouro]].
 
 Luka é um [[Raças/Vampiros\|vampiro]] da linhagem Maximoff, uma das três famílias da raça ainda ativa. 

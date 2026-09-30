@@ -16,7 +16,7 @@
 | **Ocupação**   | Agente da [[Esquadrão x24\|Esquadrão x24]]        |
 | **Classe**     | Destruidor                         |
 | **Raça**       | [[Raças/Humanos\|Humanos]]                        |
-| **Associação** | [[Guarda Revolucionária Azariana\|Guarda Revolucionária Azariana]] |
+| **Associação** | [[Organizações/Guarda Revolucionária Azariana\|Guarda Revolucionária Azariana]] |
 
 # História
 ---

@@ -13,7 +13,7 @@
 | **Colonização**  | [[As Nações de Nunumia/Sete Grandes Nações de Nunumia/Imperium Diamante\|Imperium Diamante]] (Azahor Oriental)<br>[[As Nações de Nunumia/Sete Grandes Nações de Nunumia/HomeWorld\|HomeWorld]] (Azahor Ocidental)                                                                                                                                                                         |
 | **População**    | 20 milhões (20.000.000)                                                                                                                                                                                                                             |
 | **Moeda**        | **Antes do Condomínio Colonial**:<br>Azor (Azarios) \| AZ$ \| AZR<br><br>**Durante o Condomínio Colonial**:<br>Diam (Dianos) \| D$ \| DAM<br><br>**Após o Condomínio Colonial**:<br>Novo Azor (Azarios) \| NZ$ \| NZR<br>Diam (Dianos) \| D$ \| DAM |
-| **Organizações** | **Militar**:<br>[[Guarda Revolucionária Azariana\|Guarda Revolucionária Azariana]]                                                                                                                                                                                                                 |
+| **Organizações** | **Militar**:<br>[[Organizações/Guarda Revolucionária Azariana\|Guarda Revolucionária Azariana]]                                                                                                                                                                                                                 |
 # História 
 ---
 ## Colonização Oriental

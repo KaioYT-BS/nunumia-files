@@ -13,7 +13,7 @@
 | **Apelidos**   | "Gestor" ([[Personagens/Nathaniel Scompa ♱\|Nathaniel Scompa ♱]])<br>"Chefe" ([[Personagens/Ambrósio Coralar\|Ambrósio Coralar]])                                                                  |
 | Relações       | [[Personagens/Luka Maximoff\|Luka Maximoff]] (Namorado)                                                                                                         |
 | **Ocupação**   | Líder dos [[Organizações/Escarlates\|Escarlates]] (Anteriormente)<br>Diretor Supremo da [[Organizações/Corporação Gentileza\|Corporação Gentileza]]<br>Líder dos [[Organizações/Strikers\|Strikers]]<br>Gestor de Pacto |
-| **Associação** | [[Organizações/Escarlates\|Escarlates]]<br>[[Organizações/Strikers\|Strikers]]<br>[[Organizações/Corporação Gentileza\|Corporação Gentileza]]<br>[[Guarda Revolucionária Azariana\|Guarda Revolucionária Azariana]]                                     |
+| **Associação** | [[Organizações/Escarlates\|Escarlates]]<br>[[Organizações/Strikers\|Strikers]]<br>[[Organizações/Corporação Gentileza\|Corporação Gentileza]]<br>[[Organizações/Guarda Revolucionária Azariana\|Guarda Revolucionária Azariana]]                                     |
 Latiff é o principal antagonista em [[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro\|Nunumia - O Último Tesouro]]. Na segunda temporada do RPG, ele se torna uma maior ameaça sendo líder do [[Esquadrão x24\|Esquadrão x24]] após se aliar com [[Shepherd Al-Asad\|Shepherd Al-Asad]].
 
 
