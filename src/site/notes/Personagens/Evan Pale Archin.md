@@ -1,21 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/personagens/evan-pale-archin/","created":"2026-02-08T13:45:54.583-03:00","updated":"2026-08-19T22:53:32.558-03:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/personagens/evan-pale-archin/","created":"2026-02-08T13:45:54.583-03:00","updated":"2026-09-29T23:32:06.807-03:00","dg-note-properties":{}}
 ---
 
-#Página_Descontinuada #Personagens 
+#Página_Descontinuada 
 
 > [!NOTE] Aviso!
 > Está página foi descontinuada. Para a página principal, veja [[Personagens/Emily Speavers Baskerville\|Emily Speavers Baskerville]].
-> Está página contém os conteúdos dos pacotes 0 & 1 de [[Páginas/Nunumia - Files\|Nunumia - Files]].
-
-> "_Eu sou um monstro." 
-> — Evan Pale Archin
-
-| **Galeria**    | ![Evan.png\|250](/img/user/0-Assets/Images/Icons/Personagens/Evan.png) ![Dama de seda.png\|250](/img/user/0-Assets/Images/Icons/Personagens/Dama%20de%20seda.png)<br>*Evan Pale Archin*, *Evan como Dama de Seda* |
-| -------------- | --------------------------------------------------------------------------------------------- |
-| **Intérprete** | [[Tomás Durão\|Tomás Durão]], [[Páginas/Jogadores/Kaiositos\|Kaiositos]] (Dama de Seda)                                                 |
-| **Raça**       | Misto (Humano e Tecelã)                                                                       |
-| **Associação** | [[Organizações/Império de Unova/Pyraminx\|Pyraminx]]<br>[[As Nações de Nunumia/Sete Grandes Nações de Nunumia/Unova\|Unova]]<br>[[Organizações/Palácio de Jade (Organização)/Equipes/Waifus do Caribe\|Waifus do Caribe]]                                             |
+> Está página pode conter conteúdo NÃO CANONICO ou DESCARTADO.
 
 ***Evan Pale Archin** é um dos protagonistas de [[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro\|Nunumia: O Último Tesouro]].
 

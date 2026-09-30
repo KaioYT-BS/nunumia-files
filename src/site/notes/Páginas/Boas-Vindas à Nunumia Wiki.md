@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/paginas/boas-vindas-a-nunumia-wiki/","tags":["gardenEntry"],"created":"2026-03-02T13:48:39.740-03:00","updated":"2026-09-29T22:53:21.402-03:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/paginas/boas-vindas-a-nunumia-wiki/","tags":["gardenEntry"],"created":"2026-03-02T13:48:39.740-03:00","updated":"2026-09-29T23:38:10.530-03:00","dg-note-properties":{}}
 ---
 
 
@@ -15,15 +15,15 @@ Nunumia: Files também abriga as campanhas de RPG de Nunumia, como [[Campanhas/N
 # Artigos em Destaque!
 ---
 
-|                          Principal Artigo em Destaque                          |                                       **Páginas recentes**                                       |
-| :----------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------: |
-| ![Tesouro (5).png](/img/user/Tesouro%20(5).png)<br>[[Campanhas/Nunumia - O Último Tesouro Cinzas/Nunumia - O Último Tesouro Cinzas\|Nunumia - O Último Tesouro Cinzas]] (Nova Temporada) | [[Personagens/Latiff Violett\|Latiff Violett]]<br>[[Shepherd Al-Asad\|Shepherd Al-Asad]]<br>[[Personagens/Luka Maximoff\|Luka Maximoff]]<br>[[Esquadrão x24\|Esquadrão x24]]<br>[[M13 - Vampys\|M13 - Vampys]] |
+|                          Principal Artigo em Destaque                          |
+| :----------------------------------------------------------------------------: |
+| ![Tesouro (5).png](/img/user/Tesouro%20(5).png)<br>[[Campanhas/Nunumia - O Último Tesouro Cinzas/Nunumia - O Último Tesouro Cinzas\|Nunumia - O Último Tesouro Cinzas]] (Nova Temporada) |
 
 # Campanhas
 ---
 
-| ![OUTRPG BANNER.png\|500](/img/user/0-Assets/Images/OUTRPG%20BANNER.png)<br>[[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro\|Nunumia - O Último Tesouro]] |     |
-| :-----------------------------------------------------------: | --- |
+| ![OUTRPG BANNER.png\|500](/img/user/0-Assets/Images/OUTRPG%20BANNER.png)<br>[[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro\|Nunumia - O Último Tesouro]] |
+| :-----------------------------------------------------------: |
 
 # Personagens (Protagonistas - Por Organização)
 ---
@@ -36,6 +36,6 @@ Nunumia: Files também abriga as campanhas de RPG de Nunumia, como [[Campanhas/N
 |  ![Cassy.png\|200](/img/user/0-Assets/Images/Icons/Personagens/Cassy.png)<br>[[Personagens/Cassidy Mazedy\|Cassidy Mazedy]]<br>**[[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro\|OUTRPG]]**   |     ![Mars Sailer.png\|200](/img/user/0-Assets/Images/Icons/Personagens/Mars%20Sailer.png)<br>[[Personagens/Mars Sailer\|Mars Sailer]]<br>**[[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro\|OUTRPG]]**      | ![Adam.png\|200](/img/user/0-Assets/Images/Icons/Personagens/Adam.png)<br>[[Personagens/Adam Smith\|Adam Smith]]<br>**[[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro\|OUTRPG]]**  |    ![Kenshi.png\|200](/img/user/0-Assets/Images/Icons/Personagens/Kenshi.png)<br>[[Personagens/Kenshi Takada\|Kenshi Takada]]<br>**[[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro\|OUTRPG]]**    |
 ### [[Esquadrão x24\|Esquadrão x24]]
 
-| ![Spectra.png\|200](/img/user/0-Assets/Images/Icons/Personagens/Spectra.png)<br>[[Spectra Vondergaist\|Spectra Vondergaist]]<br>**[[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro\|OUTRPG]] • [[Campanhas/Nunumia - O Último Tesouro Cinzas/Nunumia - O Último Tesouro Cinzas\|OUTRPG2]]** | ![Kenny.png\|200](/img/user/0-Assets/Images/Icons/Personagens/Kenny.png) |     |
-| :---------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------: | --- |
-|                                                                                                                                                 |                     |     |
+| ![Spectra.png\|200](/img/user/0-Assets/Images/Icons/Personagens/Spectra.png)<br>[[Spectra Vondergaist\|Spectra Vondergaist]]<br>**[[Campanhas/Nunumia - O Último Tesouro Cinzas/Nunumia - O Último Tesouro Cinzas\|OUTRPG2]]** | ![Kenny.png\|200](/img/user/0-Assets/Images/Icons/Personagens/Kenny.png)<br>[[Personagens/Kenkaju Unow\|Kenkaju Unow]]<br>**[[Campanhas/Nunumia - O Último Tesouro Cinzas/Nunumia - O Último Tesouro Cinzas\|OUTRPG2]]** | ![Luka.png\|200](/img/user/0-Assets/Images/Icons/Personagens/Luka.png)<br>[[Personagens/Luka Maximoff\|Luka Maximoff]]<br>**[[Campanhas/Nunumia - O Último Tesouro Cinzas/Nunumia - O Último Tesouro Cinzas\|OUTRPG2]]** | ![Malkor.png\|200](/img/user/0-Assets/Images/Icons/Personagens/Malkor.png)<br>[[Malkor Tenebrae\|Malkor Tenebrae]]<br>**[[Campanhas/Nunumia - O Último Tesouro Cinzas/Nunumia - O Último Tesouro Cinzas\|OUTRPG2]]** |
+| :----------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------: |
+|       ![Hitori.png\|200](/img/user/0-Assets/Images/Icons/Personagens/Hitori.png)<br>[[Hitori\|Hitori]]<br> **[[Campanhas/Nunumia - O Último Tesouro Cinzas/Nunumia - O Último Tesouro Cinzas\|OUTRPG2]]**        |   ![Cético.png\|200](/img/user/0-Assets/Images/Icons/Personagens/C%C3%A9tico.png)<br>[[Cético\|Cético]]<br>**[[Campanhas/Nunumia - O Último Tesouro Cinzas/Nunumia - O Último Tesouro Cinzas\|OUTRPG2]]**    |  ![Xander.png\|200](/img/user/0-Assets/Images/Icons/Personagens/Xander.png)<br>[[Personagens/Tenente X\|Tenente X]]<br>**[[Campanhas/Nunumia - O Último Tesouro Cinzas/Nunumia - O Último Tesouro Cinzas\|OUTRPG2]]**  | ![Katarina.png\|200](/img/user/0-Assets/Images/Icons/Personagens/Katarina.png)<br>[[Personagens/Katarina Holt\|Katarina Holt]]<br>**[[Campanhas/Nunumia - O Último Tesouro Cinzas/Nunumia - O Último Tesouro Cinzas\|OUTRPG2]]** |
