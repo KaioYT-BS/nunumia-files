@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/personagens/katarina-holt/","created":"2026-09-26T18:51:42.835-03:00","updated":"2026-09-29T22:16:34.623-03:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/personagens/katarina-holt/","created":"2026-09-26T18:51:42.835-03:00","updated":"2026-09-29T23:53:47.618-03:00","dg-note-properties":{}}
 ---
 
 #K #Personagens 
 > _"Finalmente, alguma pessoa sensata nessa equipe.”
 > —  Katarina para [[Cético\|Cético]]_
 
-| **Galeria**    |                                    |
+| **Galeria**    | ![Katarina.png\|250](/img/user/0-Assets/Images/Icons/Personagens/Katarina.png)             |
 | -------------- | ---------------------------------- |
 | **Intérprete** | [[Hanna\|Hanna]]                          |
 | **Status**     | Viva                               |
