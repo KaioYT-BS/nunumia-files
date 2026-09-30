@@ -1,18 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/personagens/chromorios-solvaris/","created":"2026-02-08T13:45:54.659-03:00","updated":"2026-09-28T18:11:31.749-03:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/personagens/chromorios-solvaris/","created":"2026-02-08T13:45:54.659-03:00","updated":"2026-09-29T23:22:53.006-03:00","dg-note-properties":{}}
 ---
 
 #C #Personagens #Personagens_Principais_em_OUTRPG #Destinados 
 
-| **Galeria**     | ![Morgan.png\|252](/img/user/0-Assets/Images/Icons/Personagens/Morgan.png) ![Anulado.png\|250](/img/user/0-Assets/Images/Icons/Personagens/Anulado.png)                                                                                                                 |
+| **Galeria**     | ![Morgan.png\|252](/img/user/0-Assets/Images/Icons/Personagens/Morgan.png)                                                                                                                                       |
 | --------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Intérprete**  | [[Páginas/Jogadores/Guixy\|Guixy]]                                                                                                                                                  |
 | **Status**      | Vivo                                                                                                                                                       |
 | **Idade Atual** | +7.000                                                                                                                                                     |
 | **Apelidos**    | "Chromorios Solvaris" - Nome Original<br>"[[Personagens/Akin Tornin\|Akin Tornin]]"<br>"Ananke Amargun" - Nome da Amalgama<br>"Morgan Voreal" - Identidade imposta por [[Personagens/Overlord\|Overlord]] |
-| **Relações**    | [[Personagens/Arkena Chronos\|Arkena Chronos]]                                                                                                                                         |
+| **Relações**    | [[Personagens/Arkena Chronos\|Arkena Chronos]] (mestra)                                                                                                                                |
 | **Ocupação**    | Escrivão (Escriba)<br>Enviado pelo Tempo<br>===Primeiro Destinado===<br>Membro das [[Organizações/Palácio de Jade (Organização)/Equipes/Waifus do Caribe\|Waifus do Caribe]]                                                    |
-| **Classe**      | Hibrida (Suporte e Destruidor)                                                                                                                             |
+| **Classe**      | Suporte                                                                                                                                                    |
 | **Raça**        | Vazimo (Chromorios)<br>[[Raças/Elfos\|Elfos]]<br>[[Raças/Humano-Marinho\|Humano-Marinho]]<br>[[Raças/Lobos\|Lobos]]<br>Humana (Atualmente)                                                                 |
 | **Associação**  | [[Organizações/Filhos do Tempo\|Filhos do Tempo]]<br>[[Personagens/Overlord\|Overlord]]<br>[[Máscaras/Máscara do Tempo (Chronos)\|Máscara do Tempo (Chronos)]])<br>[[Organizações/Palácio de Jade (Organização)/Equipes/Waifus do Caribe\|Waifus do Caribe]]                                                             |
 **Chromorios Solvaris** é um dos protagonistas de [[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro\|Nunumia - O Último Tesouro]].

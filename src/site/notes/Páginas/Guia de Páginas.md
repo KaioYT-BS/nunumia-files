@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/paginas/guia-de-paginas/","created":"2026-06-09T17:16:16.566-03:00","updated":"2026-09-28T18:17:05.952-03:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/paginas/guia-de-paginas/","created":"2026-06-09T17:16:16.566-03:00","updated":"2026-09-29T22:52:54.958-03:00","dg-note-properties":{}}
 ---
 
 #Diário_de_Deus #Páginas
@@ -159,7 +159,7 @@ Campanhas, episódios e arquivos narrativos que registram os acontecimentos joga
 
 Páginas gerais que ajudam a navegar, organizar ou expandir o material do mundo.
 
-- [[Páginas/Boas-Vindas à Nunumia Files\|Boas-Vindas à Nunumia Files]]
+- [[Páginas/Boas-Vindas à Nunumia Wiki\|Boas-Vindas à Nunumia Wiki]]
 - [[Páginas/Desambiguação/Nunumia - Desambiguação\|Nunumia - Desambiguação]]
 - [[Páginas/Personagens\|Personagens]]
 - [[Páginas/Tags\|Tags]]

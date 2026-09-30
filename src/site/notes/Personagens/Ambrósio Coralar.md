@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personagens/ambrosio-coralar/","created":"2026-02-08T13:45:54.484-03:00","updated":"2026-09-28T18:25:15.695-03:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/personagens/ambrosio-coralar/","created":"2026-02-08T13:45:54.484-03:00","updated":"2026-09-29T22:22:46.516-03:00","dg-note-properties":{}}
 ---
 
 #Personagens #Personagens_Principais_em_OUTRPG 
@@ -11,8 +11,8 @@
 | --------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Status**      | Viva (Em coma)                                                                                                                                                                               |
 | **Idade**       | 34                                                                                                                                                                                           |
-| **Apelidos**    | "Incompetente" ([[Personagens/Nathaniel Scompa  ♱\|Nathaniel Scompa  ♱]])                                                                                                                                                        |
-| **Relações**    | Veja [[Personagens/Adam Smith#Relações\|§ Relações]]<br>[[Personagens/Bartholomew Baskerville\|Bartholomew Baskerville]] (Parceiro romântico)<br>[[Personagens/Latiff\|Latiff]] (inimigo)                                                                         |
+| **Apelidos**    | "Incompetente" ([[Personagens/Nathaniel Scompa ♱\|Nathaniel Scompa ♱]])                                                                                                                                                        |
+| **Relações**    | Veja [[Personagens/Adam Smith#Relações\|§ Relações]]<br>[[Personagens/Bartholomew Baskerville\|Bartholomew Baskerville]] (Parceiro romântico)<br>[[Personagens/Latiff Violett\|Latiff Violett]] (inimigo)                                                                         |
 | **Ocupação**    | Diplomata de Porto Royal em [[Casa Umbrella\|Casa Umbrella]]<br>Vice-presidente do [[As Nações de Nunumia/Sete Grandes Nações de Nunumia/Porto Royal\|Porto Royal]]                                                                                                          |
 | **Raça**        | Humana                                                                                                                                                                                       |
 | **Associação**  | [[Organizações/Escarlates\|Escarlates]]<br>[[Organizações/Strikers\|Strikers]]<br>[[As Nações de Nunumia/Sete Grandes Nações de Nunumia/Unova\|Unova]]<br>[[As Nações de Nunumia/Sete Grandes Nações de Nunumia/Porto Royal\|Porto Royal]]<br>[[Organizações/Industrias Baskerville\|Industrias Baskerville]]<br>[[Organizações/Corporação Gentileza\|Corporação Gentileza]]<br>[[Organizações/Império de Unova/Casas de Unova#Umbrella (Poder Internácional)\|Casa Umbrella]] |
