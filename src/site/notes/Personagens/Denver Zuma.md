@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/personagens/denver-zuma/","created":"2026-02-08T13:45:54.537-03:00","updated":"2026-09-29T23:43:05.608-03:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/personagens/denver-zuma/","created":"2026-02-08T13:45:54.537-03:00","updated":"2026-09-29T23:49:28.624-03:00","dg-note-properties":{}}
 ---
 
 
-#D #Personagens_do_Mestre  #Personagens_Principais_em_OUTRPG  #Personagens_Principais_em_OUTRPG2 
+#D #Personagens_do_Mestre  #Personagens_Principais_em_OUTRPG  #Personagens_Principais_em_OUTRPG2 #Aliados_em_OUTRPG 
 > Para a organização, veja [[Organizações/Organização Denver Zuma\|Organização Denver Zuma]].
 
 > "_Denver construiu seu império na pior base possível. Mentiras, Promessas e desejos."  

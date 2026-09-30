@@ -1,8 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/personagens/chromorios-solvaris/","created":"2026-02-08T13:45:54.659-03:00","updated":"2026-09-29T23:22:53.006-03:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/personagens/chromorios-solvaris/","created":"2026-02-08T13:45:54.659-03:00","updated":"2026-09-29T23:52:13.337-03:00","dg-note-properties":{}}
 ---
 
 #C #Personagens #Personagens_Principais_em_OUTRPG #Destinados 
+
+> _"Você, disse que jogou a vida fora, mas sua vida, começa.. AGORA!"
+>— [[Personagens/Arkena Chronos\|Arkena Chronos]]._
 
 | **Galeria**     | ![Morgan.png\|252](/img/user/0-Assets/Images/Icons/Personagens/Morgan.png)                                                                                                                                       |
 | --------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -136,14 +139,13 @@ Após sua quase morte e seu segundo pacto com o Deus das Trevas, dessa vez [[Per
 # Aparições
 ---
 
-| **Episódios**                                    | **Aparições**     |
-| ------------------------------------------------ | ----------------- |
-| [[Campanhas/Nunumia - O Último Tesouro/OUTRPG - EPISÓDIO 1 - O TESTE\|OUTRPG - EPISÓDIO 1 - O TESTE]]                | Primeira aparição |
-| [[Campanhas/Nunumia - O Último Tesouro/OUTRPG - EPISÓDIO 2 - A PROFETA\|OUTRPG - EPISÓDIO 2 - A PROFETA]]              | Presente          |
-| [[Campanhas/Nunumia - O Último Tesouro/OUTRPG - EPISÓDIO 4 - SEMPRE TEM UM RECOMEÇO\|OUTRPG - EPISÓDIO 4 - SEMPRE TEM UM RECOMEÇO]] | Presente          |
-| [[Campanhas/Nunumia - O Último Tesouro/OUTRPG - EPISÓDIO 5 - JOGOS\|OUTRPG - EPISÓDIO 5 - JOGOS]]                  | Presente          |
-| [[Campanhas/Nunumia - O Último Tesouro/OUTRPG - EPISÓDIO 6 - FRAGMENTOS\|OUTRPG - EPISÓDIO 6 - FRAGMENTOS]]             | Presente          |
-| [[Campanhas/Nunumia - O Último Tesouro/OUTRPG - EPISÓDIO 7 - BIFURCAÇÃO (TEMPO E ILUSÃO)\|OUTRPG - EPISÓDIO 7 - BIFURCAÇÃO (TEMPO E ILUSÃO)]]]            |                   |
-|                                                  |                   |
+| **Episódios**                                         | **Aparições**     |
+| ----------------------------------------------------- | ----------------- |
+| [[Campanhas/Nunumia - O Último Tesouro/OUTRPG - EPISÓDIO 1 - O TESTE\|OUTRPG - EPISÓDIO 1 - O TESTE]]                     | Primeira aparição |
+| [[Campanhas/Nunumia - O Último Tesouro/OUTRPG - EPISÓDIO 2 - A PROFETA\|OUTRPG - EPISÓDIO 2 - A PROFETA]]                   | Presente          |
+| [[Campanhas/Nunumia - O Último Tesouro/OUTRPG - EPISÓDIO 4 - SEMPRE TEM UM RECOMEÇO\|OUTRPG - EPISÓDIO 4 - SEMPRE TEM UM RECOMEÇO]]      | Presente          |
+| [[Campanhas/Nunumia - O Último Tesouro/OUTRPG - EPISÓDIO 5 - JOGOS\|OUTRPG - EPISÓDIO 5 - JOGOS]]                       | Presente          |
+| [[Campanhas/Nunumia - O Último Tesouro/OUTRPG - EPISÓDIO 6 - FRAGMENTOS\|OUTRPG - EPISÓDIO 6 - FRAGMENTOS]]                  | Presente          |
+| [[Campanhas/Nunumia - O Último Tesouro/OUTRPG - EPISÓDIO 7 - BIFURCAÇÃO (TEMPO E ILUSÃO)\|OUTRPG - EPISÓDIO 7 - BIFURCAÇÃO (TEMPO E ILUSÃO)]] | Presente          |
+|                                                       |                   |
 
-![Pasted image 20260420235051.png](/img/user/0-Assets/Images/Pasted%20image%2020260420235051.png)
