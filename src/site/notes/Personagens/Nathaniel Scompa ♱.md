@@ -1,20 +1,20 @@
 ---
-{"dg-publish":true,"permalink":"/personagens/nathaniel-scompa/","created":"2026-02-08T13:45:54.665-03:00","updated":"2026-09-29T23:43:32.858-03:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/personagens/nathaniel-scompa/","created":"2026-02-08T13:45:54.665-03:00","updated":"2026-10-05T20:08:11.084-03:00","dg-note-properties":{"aliases":["Marionetista"]}}
 ---
 
- #Personagens #Personagens_Principais_em_OUTRPG  #Personagens_Principais_em_NEUP #Destinados 
+#N #Personagens #Personagens_Principais_em_OUTRPG #Personagens_Principais_em_NEUP #Personagens_Principais_em_OUTRPG2 
 >Para outros usos desse nome, veja: [[Páginas/Desambiguação/Nathaniel - Desambiguação\|Nathaniel - Desambiguação]].
 
 > "_EU VOU TER A MINHA VINGANÇA!"
 > — Nathaniel Scompa_
 
-| Galeria         | ![Nathaniel Scompa.png\|250](/img/user/0-Assets/Images/Icons/Personagens/Nathaniel%20Scompa.png)                                                                                                                               |
+| Galeria         | ![Nathaniel Scompa.png\|250](/img/user/0-Assets/Images/Icons/Personagens/Nathaniel%20Scompa.png) ![Nathaniel_Scompa_2.png\|250](/img/user/0-Assets/Images/Icons/Personagens/Nathaniel_Scompa_2.png)                                                                                              |
 | --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | **Intérpretes** | [[Páginas/Jogadores/Kaiositos\|Kaiositos]]                                                                                                                                                |
 | **Status**      | Falecido                                                                                                                                                     |
-| Morte           | Morto por [[Personagens/Luka Maximoff\|Luka Maximoff]] a mando de [[Personagens/Latiff Violett\|Latiff Violett]] utilizando sua Glock dourada.                                                                      |
+| **Morte**       | Morto por [[Personagens/Luka Maximoff\|Luka Maximoff]] a mando de [[Personagens/Latiff Violett\|Latiff Violett]] utilizando sua Glock dourada.                                                                      |
 | **Idade**       | 23                                                                                                                                                           |
-| **Apelidos**    | "Nath" ([[Organizações/Palácio de Jade (Organização)/Equipes/Equipe Alpha\|Equipe Alpha]], [[Personagens/Scarlet Mana Jin-Can\|Scarlet Mana Jin-Can]], [[Personagens/Denver Zuma\|Denver Zuma]])<br>"Marionetista"<br>"Criollo Imundo" ([[Personagens/Ambrósio Coralar\|Ambrósio Coralar]])                            |
+| **Apelidos**    | "Nath" ([[Organizações/Palácio de Jade (Organização)/Equipes/Equipe Delta\|Equipe Delta]], [[Personagens/Scarlet Mana Jin-Can\|Scarlet Mana Jin-Can]], [[Personagens/Denver Zuma\|Denver Zuma]])<br>"Marionetista"<br>"Criollo Imundo" ([[Personagens/Ambrósio Coralar\|Ambrósio Coralar]])                            |
 | **Relações**    | [[Personagens/Latiff Violett\|Latiff Violett]] (mestre)<br>[[Personagens/Denver Zuma\|Denver Zuma]] (ex-namorado)<br>[[Personagens/Scarlet Mana Jin-Can\|Scarlet Mana Jin-Can]] (ex-melhor amiga)<br>[[Personagens/Raiden Takada Ikari ♱\|Raiden Takada Ikari ♱]] ex-melhor amigo)     |
 | **Ocupação**    | Parlamentar de [[As Nações de Nunumia/Sete Grandes Nações de Nunumia/Zaun\|Zaun]] (anteriormente)<br>Diplomata (anteriormente)<br>Membro da [[Organizações/Palácio de Jade (Organização)/Equipes/Equipe Delta\|Equipe Delta]] (2019)<br>Membro dos [[Organizações/Escarlates\|Escarlates]]                       |
 | **Raça**        | Humano                                                                                                                                                       |

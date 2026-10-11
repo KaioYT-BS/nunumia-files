@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personagens/ash-koval/","created":"2026-02-08T13:45:54.751-03:00","updated":"2026-04-22T17:55:20.026-03:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/personagens/ash-koval/","created":"2026-02-08T13:45:54.751-03:00","updated":"2026-10-05T21:44:33.270-03:00","dg-note-properties":{}}
 ---
 
 #Personagens
@@ -8,7 +8,7 @@
 | **Intérprete** | [[Páginas/Jogadores/Kaiositos\|Kaiositos]]                                                                                         |
 | -------------- | ----------------------------------------------------------------------------------------------------- |
 | **Status**     | Falecida                                                                                              |
-| **Idade**      | 23                                                                                                    |
+| **Idade**      | 30                                                                                                    |
 | **Relações**   | [[Personagens/Gwen Kostenko\|Gwen Kostenko]] (esposa)<br>[[Personagens/Maxi Frontier\|Maxi Frontier]] (amiga)                                               |
 | **Ocupação**   | Estudante (anteriormente)<br>Investigadora Independente (anteriormente)<br>Agente da [[Organizações/Palácio de Jade (Organização)/Equipes/Equipe Delta\|Equipe Delta]] |
 | **Classe**     | Destruidora                                                                                           |

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/as-nacoes-de-nunumia/sete-grandes-nacoes-de-nunumia/imperium-diamante/","created":"2026-03-23T21:17:50.564-03:00","updated":"2026-08-31T15:21:59.545-03:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/as-nacoes-de-nunumia/sete-grandes-nacoes-de-nunumia/imperium-diamante/","created":"2026-03-23T21:17:50.564-03:00","updated":"2026-10-09T19:18:41.213-03:00","dg-note-properties":{}}
 ---
 
 #Nações #Coleção_História_de_Imperium_Diamante 
@@ -52,9 +52,9 @@ Durante uma manifestação em Diamara, a guarda da republica abriu fogo contra m
 
 Em 660, o movimento separatista, a [[Casa Cryro\|Casa Cryro]] e o governo da [[Republica del Diamante\|Republica del Diamante]] finalmente chegaram no acordo da [[Separação de Fulminária do Norte\|Separação de Fulminária do Norte]] da republica. Fulminária do Norte foi dividida nos [[Estados Diamantinos de Fulminária#Estados Diamantinos de Fulminária do Norte\|Estados Diamantinos de Fulminária do Norte]], estados independentes diamantinos. 
 
-| **Fulminária**                                                | **Republica del Diamante**                                                                                                                                                                                                      |
-| ------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Mapa de Nunumia com Fulminária Norte e Sul.png\|500](/img/user/0-Assets/Mapa%20de%20Nunumia%20com%20Fulmin%C3%A1ria%20Norte%20e%20Sul.png)      | ![Mapa de REPUBLICA DEL DIAMANTE.jpeg\|500](/img/user/0-Assets/Mapa%20de%20REPUBLICA%20DEL%20DIAMANTE.jpeg)                                                                                                                                                                            |
+| **Fulminária**                                                | **Republica del Diamante**                                                                                                                                                                               |
+| ------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![Mapa de Nunumia com Fulminária Norte e Sul.png\|500](/img/user/0-Assets/Mapa%20de%20Nunumia%20com%20Fulmin%C3%A1ria%20Norte%20e%20Sul.png)      | ![Mapa de REPUBLICA DEL DIAMANTE.jpeg\|500](/img/user/0-Assets/Mapa%20de%20REPUBLICA%20DEL%20DIAMANTE.jpeg)                                                                                                                                                            |
 | **![red ico.png\|20](/img/user/0-Assets/Images/Icons/red%20ico.png) Norte<br>![purple ico.png\|20](/img/user/0-Assets/Images/Icons/purple%20ico.png) Sul** | **![BLUE.png\|20](/img/user/0-Assets/BLUE.png) [[Republica del Diamante\|Republica del Diamante]]<br>![purple ico.png\|20](/img/user/0-Assets/Images/Icons/purple%20ico.png) [[Estados Diamantinos de Fulminária#Estados Diamantinos de Fulminária do Norte\|Estados Diamantinos de Fulminária do Norte]]** |
 
 

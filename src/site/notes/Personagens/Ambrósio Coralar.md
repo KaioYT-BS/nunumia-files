@@ -1,11 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/personagens/ambrosio-coralar/","created":"2026-02-08T13:45:54.484-03:00","updated":"2026-09-29T22:22:46.516-03:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/personagens/ambrosio-coralar/","created":"2026-02-08T13:45:54.484-03:00","updated":"2026-10-04T00:38:39.599-03:00","dg-note-properties":{}}
 ---
 
-#Personagens #Personagens_Principais_em_OUTRPG 
+#A #Personagens #Personagens_Principais_em_OUTRPG #Personagens_do_Mestre 
 
 > *"¿Mejor ahora, criollos?"
 > — Ambrósio Coralar*
+
+> [!NOTE] Página não completa
+> Está página não está completa e, até o momento, sem nada além de partes da INFOBOX.
+> Nível de conteúdo: Escasso
 
 | **Intérpretes** | [[Páginas/Jogadores/Kaiositos\|Kaiositos]]                                                                                                                                                                                |
 | --------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

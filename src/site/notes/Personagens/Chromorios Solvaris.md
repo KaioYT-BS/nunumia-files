@@ -1,8 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/personagens/chromorios-solvaris/","created":"2026-02-08T13:45:54.659-03:00","updated":"2026-09-29T23:52:13.337-03:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/personagens/chromorios-solvaris/","created":"2026-02-08T13:45:54.659-03:00","updated":"2026-10-04T18:47:14.390-03:00","dg-note-properties":{"aliases":["Morgan Voreal","Ananke Amargun"]}}
 ---
 
 #C #Personagens #Personagens_Principais_em_OUTRPG #Destinados 
+
+> [!NOTE] Página não completa
+> Está página não está completa e, até o momento, sem nada além de partes da INFOBOX.
+> Nível de conteúdo: Baixo (História)
+
 
 > _"Você, disse que jogou a vida fora, mas sua vida, começa.. AGORA!"
 >— [[Personagens/Arkena Chronos\|Arkena Chronos]]._
@@ -14,9 +19,9 @@
 | **Idade Atual** | +7.000                                                                                                                                                     |
 | **Apelidos**    | "Chromorios Solvaris" - Nome Original<br>"[[Personagens/Akin Tornin\|Akin Tornin]]"<br>"Ananke Amargun" - Nome da Amalgama<br>"Morgan Voreal" - Identidade imposta por [[Personagens/Overlord\|Overlord]] |
 | **Relações**    | [[Personagens/Arkena Chronos\|Arkena Chronos]] (mestra)                                                                                                                                |
-| **Ocupação**    | Escrivão (Escriba)<br>Enviado pelo Tempo<br>===Primeiro Destinado===<br>Membro das [[Organizações/Palácio de Jade (Organização)/Equipes/Waifus do Caribe\|Waifus do Caribe]]                                                    |
+| **Ocupação**    | Escrivão (Escriba)<br>Enviado pelo Tempo<br>==Primeiro Destinado==<br>Membro das [[Organizações/Palácio de Jade (Organização)/Equipes/Waifus do Caribe\|Waifus do Caribe]]                                                      |
 | **Classe**      | Suporte                                                                                                                                                    |
-| **Raça**        | Vazimo (Chromorios)<br>[[Raças/Elfos\|Elfos]]<br>[[Raças/Humano-Marinho\|Humano-Marinho]]<br>[[Raças/Lobos\|Lobos]]<br>Humana (Atualmente)                                                                 |
+| **Raça**        | Vazimo (Chromorios)<br>[[Raças/Elfos\|Elfos]]<br>[[Raças/Humano-Marinho\|Humano-Marinho]]<br>[[Raças/Lobos\|Lobos]]<br>[[Raças/Vazimos\|Vazimos]] (Atualmente)                                                            |
 | **Associação**  | [[Organizações/Filhos do Tempo\|Filhos do Tempo]]<br>[[Personagens/Overlord\|Overlord]]<br>[[Máscaras/Máscara do Tempo (Chronos)\|Máscara do Tempo (Chronos)]])<br>[[Organizações/Palácio de Jade (Organização)/Equipes/Waifus do Caribe\|Waifus do Caribe]]                                                             |
 **Chromorios Solvaris** é um dos protagonistas de [[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro\|Nunumia - O Último Tesouro]].
 # História
@@ -95,9 +100,10 @@ Não mais como apenas Chromorios, mas como algo novo.
 Algo que o próprio tempo talvez não tivesse previsto.
 ## [[Os Sete Segredos de Nunumia/O Último Tesouro\|O Último Tesouro]]
 
+> [!NOTE] Tópico não escrito
+
 # Personalidade
 ---
-## Chromorios e Morgan
 Diferentemente do que se espera de alguém que absorveu a energia vital de sua civilização de forma fria, Chromorios é uma pessoa empática e amigável, mesmo geralmente com a cara séria. Ele sente uma grande sensação de impotência sabendo que mesmo com todos os seus esforços e sacrifícios ele ainda não tenha alcançado a imortalidade e a tão sonhada onisciência.
 
 Chromorios demonstra uma grande culpa por ter exterminado Amargun, mesmo seu ato tendo sido impulsionado pela sua fé no Deus do Tempo.
@@ -134,18 +140,19 @@ Após sua quase morte e seu segundo pacto com o Deus das Trevas, dessa vez [[Per
 - 
 # Curiosidades
 ---
-- Morgan foi o primeiro personagem de jogador a ser interpretado pelo mestre.
-- Morgan é o único personagem a ser de uma nação que não existe mais.
+- Chromorios foi o primeiro personagem de jogador a ser interpretado pelo mestre.
+- Chromorios é o único personagem a ser de uma nação que não existe mais.
+- Aparentemente, é o ser Nunumiano mais velho vivo atualmente.
 # Aparições
 ---
 
-| **Episódios**                                         | **Aparições**     |
-| ----------------------------------------------------- | ----------------- |
-| [[Campanhas/Nunumia - O Último Tesouro/OUTRPG - EPISÓDIO 1 - O TESTE\|OUTRPG - EPISÓDIO 1 - O TESTE]]                     | Primeira aparição |
-| [[Campanhas/Nunumia - O Último Tesouro/OUTRPG - EPISÓDIO 2 - A PROFETA\|OUTRPG - EPISÓDIO 2 - A PROFETA]]                   | Presente          |
-| [[Campanhas/Nunumia - O Último Tesouro/OUTRPG - EPISÓDIO 4 - SEMPRE TEM UM RECOMEÇO\|OUTRPG - EPISÓDIO 4 - SEMPRE TEM UM RECOMEÇO]]      | Presente          |
-| [[Campanhas/Nunumia - O Último Tesouro/OUTRPG - EPISÓDIO 5 - JOGOS\|OUTRPG - EPISÓDIO 5 - JOGOS]]                       | Presente          |
-| [[Campanhas/Nunumia - O Último Tesouro/OUTRPG - EPISÓDIO 6 - FRAGMENTOS\|OUTRPG - EPISÓDIO 6 - FRAGMENTOS]]                  | Presente          |
-| [[Campanhas/Nunumia - O Último Tesouro/OUTRPG - EPISÓDIO 7 - BIFURCAÇÃO (TEMPO E ILUSÃO)\|OUTRPG - EPISÓDIO 7 - BIFURCAÇÃO (TEMPO E ILUSÃO)]] | Presente          |
-|                                                       |                   |
+| **Episódios**                                         | **Aparições**                               |
+| ----------------------------------------------------- | ------------------------------------------- |
+| [[Campanhas/Nunumia - O Último Tesouro/OUTRPG - EPISÓDIO 1 - O TESTE\|OUTRPG - EPISÓDIO 1 - O TESTE]]                     | Primeira aparição                           |
+| [[Campanhas/Nunumia - O Último Tesouro/OUTRPG - EPISÓDIO 2 - A PROFETA\|OUTRPG - EPISÓDIO 2 - A PROFETA]]                   | Presente                                    |
+| [[Campanhas/Nunumia - O Último Tesouro/OUTRPG - EPISÓDIO 4 - SEMPRE TEM UM RECOMEÇO\|OUTRPG - EPISÓDIO 4 - SEMPRE TEM UM RECOMEÇO]]      | Presente                                    |
+| [[Campanhas/Nunumia - O Último Tesouro/OUTRPG - EPISÓDIO 5 - JOGOS\|OUTRPG - EPISÓDIO 5 - JOGOS]]                       | Presente                                    |
+| [[Campanhas/Nunumia - O Último Tesouro/OUTRPG - EPISÓDIO 6 - FRAGMENTOS\|OUTRPG - EPISÓDIO 6 - FRAGMENTOS]]                  | Presente                                    |
+| [[Campanhas/Nunumia - O Último Tesouro/OUTRPG - EPISÓDIO 7 - BIFURCAÇÃO (TEMPO E ILUSÃO)\|OUTRPG - EPISÓDIO 7 - BIFURCAÇÃO (TEMPO E ILUSÃO)]] | Presente                                    |
+| [[Campanhas/Nunumia - O Último Tesouro Cinzas/OUTRPG 2 - EPISÓDIO 1 - MANCHAS DO FOGO\|OUTRPG 2 - EPISÓDIO 1 - MANCHAS DO FOGO]]           | Brevemente (Visão de [[Personagens/Alger Baskerville\|Alger Baskerville]]) |
 

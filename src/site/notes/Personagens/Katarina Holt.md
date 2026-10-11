@@ -4,7 +4,7 @@
 
 #K #Personagens 
 > _"Finalmente, alguma pessoa sensata nessa equipe.”
-> —  Katarina para [[Cético\|Cético]]_
+> —  Katarina para [[Personagens/Cético\|Cético]]_
 
 | **Galeria**    | ![Katarina.png\|250](/img/user/0-Assets/Images/Icons/Personagens/Katarina.png)             |
 | -------------- | ---------------------------------- |

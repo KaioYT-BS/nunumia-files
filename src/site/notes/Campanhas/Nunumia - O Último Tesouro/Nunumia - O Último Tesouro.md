@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campanhas/nunumia-o-ultimo-tesouro/nunumia-o-ultimo-tesouro/","created":"2026-02-08T13:45:51.347-03:00","updated":"2026-09-29T21:54:36.454-03:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/campanhas/nunumia-o-ultimo-tesouro/nunumia-o-ultimo-tesouro/","created":"2026-02-08T13:45:51.347-03:00","updated":"2026-10-11T10:08:54.499-03:00","dg-note-properties":{"aliases":["O Último Tesouro","OUTRPG-1","OUTRPG"]}}
 ---
 
 #Campanha #Campanha_Principal
