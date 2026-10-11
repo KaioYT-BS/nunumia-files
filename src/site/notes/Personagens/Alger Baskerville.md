@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/personagens/alger-baskerville/","created":"2026-03-15T20:10:40.926-03:00","updated":"2026-10-04T00:49:58.814-03:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/personagens/alger-baskerville/","created":"2026-03-15T20:10:40.926-03:00","updated":"2026-10-11T12:00:46.638-03:00","dg-note-properties":{}}
 ---
 
 #A #Personagens #Personagens_Principais_em_OUTRPG #Personagens_Principais_em_OUTRPG2  #Waifus_do_Caribe  #Destinados
 
 > [!NOTE] Página quase completa
-> Está página está quase completa e, até o momento, se encontram faltantes os conteúdos relacionados a [[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro\|Nunumia - O Último Tesouro]].
+> Está página está quase completa e, até o momento, se encontram faltantes os conteúdos relacionados a [[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro (Série)\|Nunumia - O Último Tesouro (Série)]].
 > Nível de conteúdo: Quase completo
 
 > "_Seu fim Alger, é ver tudo aquilo queimar. [...] tudo que você amava queimando, mas naquele dia, você não sabia o que você amava."  
@@ -26,11 +26,11 @@
 | **Raça**       | Mista (Humano, Elfo)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
 | **Associação** | [[Organizações/Palácio de Jade (Organização)/Palácio de Jade\|Palácio de Jade]]<br>[[Organizações/Industrias Baskerville\|Industrias Baskerville]] (Temporariamente)<br>[[Organizações/Palácio de Jade (Organização)/Equipes/Waifus do Caribe\|Waifus do Caribe]]                                                                                                                                                                                                                                                                                                                                                                                                                    |
 
-**Alger Baskerville** é um dos protagonistas de [[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro\|Nunumia: O Último Tesouro]]
+**Alger Baskerville** é um dos protagonistas de [[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro (Série)\|Nunumia: O Último Tesouro]]
 
-Alger é um homem forte de cabelos azuis, sendo de raça mista entre humano e elfo. Antes dos eventos principais de **[[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro\|Nunumia: O Último Tesouro]]**, ele era um nômade, vagando pelos bairros mais pobres de Zaun após ter tido uma grande briga com [[Personagens/Bartholomew Baskerville\|Bartholomew Baskerville]] e [[Personagens/Elisa Baskerville\|Elisa Baskerville]], seus pais. 
+Alger é um homem forte de cabelos azuis, sendo de raça mista entre humano e elfo. Antes dos eventos principais de **[[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro (Série)\|Nunumia: O Último Tesouro]]**, ele era um nômade, vagando pelos bairros mais pobres de Zaun após ter tido uma grande briga com [[Personagens/Bartholomew Baskerville\|Bartholomew Baskerville]] e [[Personagens/Elisa Baskerville\|Elisa Baskerville]], seus pais. 
 
-Em **[[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro\|Nunumia: O Último Tesouro]]**, Alger se juntou a [[Evan Pale (Dama de Seda)\|Evan Pale Archin]], [[Personagens/Chromorios Solvaris\|Chromorios Solvaris]] e [[Personagens/Cassidy Mazedy\|Cassidy Mazedy]] no resgate de [[Personagens/Amon Vaelor\|Amon Vaelor]], que foi proveniente do convite de [[Personagens/Denver Zuma\|Denver Zuma]] que oferecia montar uma equipe com o objetivo de abrir o [[Os Sete Segredos de Nunumia/O Último Tesouro\|O Último Tesouro]].
+Em **[[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro (Série)\|Nunumia: O Último Tesouro]]**, Alger se juntou a [[Evan Pale (Dama de Seda)\|Evan Pale Archin]], [[Personagens/Chromorios Solvaris\|Chromorios Solvaris]] e [[Personagens/Cassidy Mazedy\|Cassidy Mazedy]] no resgate de [[Personagens/Amon Vaelor\|Amon Vaelor]], que foi proveniente do convite de [[Personagens/Denver Zuma\|Denver Zuma]] que oferecia montar uma equipe com o objetivo de abrir o [[Os Sete Segredos de Nunumia/O Último Tesouro\|O Último Tesouro]].
 
 # História
 --- 
@@ -109,7 +109,7 @@ Continua...
 --- 
 ## Artes
 
-| ![Teaser de Alger Baskerville.png\|350](/img/user/0-Assets/Teasers/OUT/PRE-EPIS%C3%93DIO%201/Teaser%20de%20Alger%20Baskerville.png)<br>Apresentação de Alger em **[[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro\|OUTRPG]]** | ![teaser de Alger em Problemas de Sangue.png\|350](/img/user/0-Assets/Teasers/OUT/ep3/Teaser%20de%20Alger%20em%20Problemas%20de%20Sangue.png)<br>Teaser de Alger em [[Campanhas/Nunumia - O Último Tesouro/OUTRPG - EPISÓDIO 3 - PROBLEMAS DE SANGUE\|OUTRPG - EPISÓDIO 3 - PROBLEMAS DE SANGUE]] | ![Alger e Amon jogos.png\|450](/img/user/0-Assets/Images/Alger%20e%20Amon%20jogos.png)<br>Alger e Amon em [[Campanhas/Nunumia - O Último Tesouro/OUTRPG - EPISÓDIO 5 - JOGOS\|OUTRPG - EPISÓDIO 5 - JOGOS]] |
+| ![Teaser de Alger Baskerville.png\|350](/img/user/0-Assets/Teasers/OUT/PRE-EPIS%C3%93DIO%201/Teaser%20de%20Alger%20Baskerville.png)<br>Apresentação de Alger em **[[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro (Série)\|OUTRPG]]** | ![teaser de Alger em Problemas de Sangue.png\|350](/img/user/0-Assets/Teasers/OUT/ep3/Teaser%20de%20Alger%20em%20Problemas%20de%20Sangue.png)<br>Teaser de Alger em [[Campanhas/Nunumia - O Último Tesouro/OUTRPG - EPISÓDIO 3 - PROBLEMAS DE SANGUE\|OUTRPG - EPISÓDIO 3 - PROBLEMAS DE SANGUE]] | ![Alger e Amon jogos.png\|450](/img/user/0-Assets/Images/Alger%20e%20Amon%20jogos.png)<br>Alger e Amon em [[Campanhas/Nunumia - O Último Tesouro/OUTRPG - EPISÓDIO 5 - JOGOS\|OUTRPG - EPISÓDIO 5 - JOGOS]] |
 | :--------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------: | ----------------------------------------------------------------------------------- |
 |                                                                                                                  |                                                                                                                          |                                                                                     |
 

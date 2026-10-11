@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personagens/evan-pale-archin/","created":"2026-02-08T13:45:54.583-03:00","updated":"2026-09-29T23:32:06.807-03:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/personagens/evan-pale-archin/","created":"2026-02-08T13:45:54.583-03:00","updated":"2026-10-11T12:00:46.935-03:00","dg-note-properties":{}}
 ---
 
 #Página_Descontinuada 
@@ -8,15 +8,15 @@
 > Está página foi descontinuada. Para a página principal, veja [[Personagens/Emily Speavers Baskerville\|Emily Speavers Baskerville]].
 > Está página pode conter conteúdo NÃO CANONICO ou DESCARTADO.
 
-***Evan Pale Archin** é um dos protagonistas de [[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro\|Nunumia: O Último Tesouro]].
+***Evan Pale Archin** é um dos protagonistas de [[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro (Série)\|Nunumia: O Último Tesouro]].
 
 Evan é um reflexo distorcido do que [[Personagens/Emily Speavers Baskerville\|Emily Speavers Baskerville]] veio a se tornar. Após a morte de sua mãe, Xavier em algum momento conduziu experimentos que transformaram a pobre garotinha em um homem igual a ele: **Frio, Vazio e sedento por cumprir seus objetivos**.
 
 Sendo descendente de uma **Tecelã e de um humano**, Evan representa tudo aquilo que Emily tentou enterrar: a dor, a raiva e o trauma de ser forçada a ser algo que seu pai idealizou. Enquanto Emily simboliza a parte inocente que ainda tenta sobreviver, Evan carrega o peso das memórias que ela não consegue suportar.
 
-Antes dos eventos principais de **[[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro\|Nunumia: O Último Tesouro]]**, Evan serviu como um dos cavaleiros da ordem do [[Organizações/Império de Unova/Pyraminx\|Organizações/Império de Unova/Pyraminx]]. Ele conseguiu a posição por meio da indicação de sua então namorada, [[Personagens/Saon Admircov\|Saon Admircov]].
+Antes dos eventos principais de **[[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro (Série)\|Nunumia: O Último Tesouro]]**, Evan serviu como um dos cavaleiros da ordem do [[Organizações/Império de Unova/Pyraminx\|Organizações/Império de Unova/Pyraminx]]. Ele conseguiu a posição por meio da indicação de sua então namorada, [[Personagens/Saon Admircov\|Saon Admircov]].
 
-Durante os eventos de **[[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro\|Nunumia: O Último Tesouro]]**, Evan se junta a [[Personagens/Alger Baskerville\|Alger Baskerville]], [[Personagens/Chromorios Solvaris\|Chromorios Solvaris]] e [[Personagens/Cassidy Mazedy\|Cassidy Mazedy]] na missão de resgatar [[Personagens/Amon Vaelor\|Amon Vaelor]]. A missão foi organizada por [[Personagens/Denver Zuma\|Denver Zuma]], que pretendia reunir um grupo capaz de encontrar e abrir o lendário [[Os Sete Segredos de Nunumia/O Último Tesouro\|O Último Tesouro]].
+Durante os eventos de **[[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro (Série)\|Nunumia: O Último Tesouro]]**, Evan se junta a [[Personagens/Alger Baskerville\|Alger Baskerville]], [[Personagens/Chromorios Solvaris\|Chromorios Solvaris]] e [[Personagens/Cassidy Mazedy\|Cassidy Mazedy]] na missão de resgatar [[Personagens/Amon Vaelor\|Amon Vaelor]]. A missão foi organizada por [[Personagens/Denver Zuma\|Denver Zuma]], que pretendia reunir um grupo capaz de encontrar e abrir o lendário [[Os Sete Segredos de Nunumia/O Último Tesouro\|O Último Tesouro]].
 
 # História
 ---

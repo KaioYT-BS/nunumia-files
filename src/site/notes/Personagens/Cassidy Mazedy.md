@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personagens/cassidy-mazedy/","created":"2026-02-08T13:45:54.531-03:00","updated":"2026-08-19T22:53:32.462-03:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/personagens/cassidy-mazedy/","created":"2026-02-08T13:45:54.531-03:00","updated":"2026-10-11T12:00:46.818-03:00","dg-note-properties":{}}
 ---
 
 #Personagens #Personagens_Principais_em_OUTRPG #Destinados #Waifus_do_Caribe 
@@ -22,11 +22,11 @@
 | **Raça**        | Humano                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
 | **Associação**  | [[Organizações/Palácio de Jade (Organização)/Palácio de Jade\|Palácio de Jade]]<br>[[Organizações/Palácio de Jade (Organização)/Equipes/Waifus do Caribe\|Waifus do Caribe]]                                                                                                                                                                                                                                                                                                                                                                                                                 |
 
-**Cassidy Mazedy** é uma das protagonistas de [[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro\|Nunumia: O Último Tesouro]].
+**Cassidy Mazedy** é uma das protagonistas de [[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro (Série)\|Nunumia: O Último Tesouro]].
 
-Cassidy é uma pessoa de raça humana com cabelos pretos, ela usa uma camisa cinza com uma calça social. Antes dos eventos principais de **[[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro\|Nunumia: O Último Tesouro]]**, seu pai e irmão foram mortos durante uma manifestação contra o governo de Zaun.
+Cassidy é uma pessoa de raça humana com cabelos pretos, ela usa uma camisa cinza com uma calça social. Antes dos eventos principais de **[[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro (Série)\|Nunumia: O Último Tesouro]]**, seu pai e irmão foram mortos durante uma manifestação contra o governo de Zaun.
 
-Em **[[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro\|Nunumia: O Último Tesouro]]**, Cassidy se juntou a [[Personagens/Evan Pale Archin\|Evan Pale Archin]], [[Personagens/Chromorios Solvaris\|Chromorios Solvaris]] e [[Personagens/Alger Baskerville\|Alger Baskerville]] no resgate de [[Personagens/Amon Vaelor\|Amon Vaelor]], que foi proveniente do convite de [[Personagens/Denver Zuma\|Denver Zuma]] que oferecia montar uma equipe com o objetivo de abrir o [[Os Sete Segredos de Nunumia/O Último Tesouro\|O Último Tesouro]].
+Em **[[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro (Série)\|Nunumia: O Último Tesouro]]**, Cassidy se juntou a [[Personagens/Evan Pale Archin\|Evan Pale Archin]], [[Personagens/Chromorios Solvaris\|Chromorios Solvaris]] e [[Personagens/Alger Baskerville\|Alger Baskerville]] no resgate de [[Personagens/Amon Vaelor\|Amon Vaelor]], que foi proveniente do convite de [[Personagens/Denver Zuma\|Denver Zuma]] que oferecia montar uma equipe com o objetivo de abrir o [[Os Sete Segredos de Nunumia/O Último Tesouro\|O Último Tesouro]].
 
 
 # História
@@ -76,7 +76,7 @@ Continua...
 - Cassidy tem 1,00M de altura.
 - Cassidy já alimentou [[Personagens/Alger Baskerville\|Alger Baskerville]] com uma marmita em algum momento entre 2016 e 2018.
 - Cassy e Alger são as únicas [[Organizações/Palácio de Jade (Organização)/Equipes/Waifus do Caribe\|Waifus do Caribe]] (além de Amon) que aparecerem em todos os episódios do primeiro ato.
-- Cassidy foi o primeiro protagonista a receber dano em [[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro\|Nunumia - O Último Tesouro]].
+- Cassidy foi o primeiro protagonista a receber dano em [[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro (Série)\|Nunumia - O Último Tesouro (Série)]].
 # Aparições
 ---
 

@@ -1,31 +1,31 @@
 ---
-{"dg-publish":true,"permalink":"/campanhas/nunumia-o-ultimo-tesouro/outrpg-episodio-1-o-teste/","created":"2026-02-08T13:45:52.756-03:00","updated":"2026-08-19T22:53:31.848-03:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/campanhas/nunumia-o-ultimo-tesouro/outrpg-episodio-1-o-teste/","created":"2026-02-08T13:45:52.756-03:00","updated":"2026-10-11T12:19:56.371-03:00","dg-note-properties":{}}
 ---
 
 #O #Episódios_de_OUTRPG 
 
 > [!NON-CANNON] PARCIALMENTE CANNON
-> Os acontecimentos desse episódio são considerados parcialmente canônicos em [[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro\|Nunumia - O Último Tesouro]] por causa do [[Eventos/Reinicio\|Reinicio]].
+> Os acontecimentos desse episódio são considerados parcialmente canônicos em [[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro (Série)\|Nunumia - O Último Tesouro (Série)]] por causa do [[Eventos/Reinicio\|Reinicio]].
 > 
 
 >_"A ilusão nunca falha."
 >— [[Personagens/O Ilusionista\|O Ilusionista]]_
 
-| **Campanha**                | [[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro\|Nunumia - O Último Tesouro]]                                                                                                                                                                                                                                                                                                |
-| --------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Campanha**                | [[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro (Série)\|Nunumia - O Último Tesouro (Série)]]                                                                                                                                                                                                                                                                                              |
+| --------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Temporada**               | [[O começo da Passagem\|O começo da Passagem]] (T1A1)                                                                                                                                                                                                                                                                                                     |
 | **Elenco**                  | [[Páginas/Jogadores/Kaiositos\|Kaiositos]] (Mestre)<br>[[Páginas/Jogadores/Maacuja\|Maacuja]] ([[Personagens/Alger Baskerville\|Alger Baskerville]])<br>[[Páginas/Jogadores/Aguiar\|Aguiar]] ([[Personagens/O Ilusionista\|O Ilusionista]])<br>[[Páginas/Jogadores/Ash\|Ash]]  ([[Personagens/Amon Vaelor\|Amon Vaelor]])<br>[[Páginas/Jogadores/Guixy\|Guixy]] ([[Personagens/Chromorios Solvaris\|Chromorios Solvaris]])<br>[[Páginas/Jogadores/Garcia\|Garcia]] ([[Personagens/Cassidy Mazedy\|Cassidy Mazedy]])<br>[[Tomás Durão\|Tomás Durão]] ([[Personagens/Evan Pale Archin\|Evan Pale Archin]])                                                                                   |
-| **Data da sessão**          | 30/01/2025                                                                                                                                                                                                                                                                                                                    |
+| **Data da sessão**          | 30/01/2025                                                                                                                                                                                                                                                                                                                          |
 | **Personagens no episódio** | Tripulação:<br>[[Personagens/Alger Baskerville\|Alger Baskerville]]<br>[[Personagens/Evan Pale Archin\|Evan Pale Archin]]<br>[[Personagens/Chromorios Solvaris\|Chromorios Solvaris]]<br>[[Personagens/Cassidy Mazedy\|Cassidy Mazedy]]<br><br>---<br><br>Palácio de Jade:<br>[[Personagens/Denver Zuma\|Denver Zuma]]<br>[[Personagens/Scarlet Mana Jin-Can\|Scarlet Mana Jin-Can]]<br>[[Personagens/Adam Smith\|Adam Smith]]<br><br>---<br><br>Strikers:<br>[[Personagens/O Ilusionista\|O Ilusionista]]<br>[[Organizações/Strikers\|Strikers]]<br><br>---<br><br>Outros:<br>[[Personagens/Amon Vaelor\|Amon Vaelor]]<br> |
-| **Locais no Episódio**      | [[As Nações de Nunumia/Sete Grandes Nações de Nunumia/Zaun\|Zaun]]:<br>[[Locais/Zaun/Palácio de Jade (Local)\|Palácio de Jade (Local)]]<br>Porto das [[Organizações/Industrias Baskerville\|Industrias Baskerville]]<br><br>Mar:<br>Barco provisório do Ilusionista                                                                                                                                                                                               |
-| ---                         | **Próximo episódio**:<br>[[Campanhas/Nunumia - O Último Tesouro/OUTRPG - EPISÓDIO 2 - A PROFETA\|OUTRPG - EPISÓDIO 2 - A PROFETA]]                                                                                                                                                                                                                                                                  |
+| **Locais no Episódio**      | [[As Nações de Nunumia/Sete Grandes Nações de Nunumia/Zaun\|Zaun]]:<br>[[Locais/Zaun/Palácio de Jade (Local)\|Palácio de Jade (Local)]]<br>Porto das [[Organizações/Industrias Baskerville\|Industrias Baskerville]]<br><br>Mar:<br>Barco provisório do Ilusionista                                                                                                                                                                                                     |
+| ---                         | **Próximo episódio**:<br>[[Campanhas/Nunumia - O Último Tesouro/OUTRPG - EPISÓDIO 2 - A PROFETA\|OUTRPG - EPISÓDIO 2 - A PROFETA]]                                                                                                                                                                                                                                                                        |
 
-**O Teste** é o primeiro episódio de [[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro\|Nunumia - O Último Tesouro]].
+**O Teste** é o primeiro episódio de [[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro (Série)\|Nunumia - O Último Tesouro (Série)]].
 
 # Sinopse
 ---
-Após serem convidados por Denver Zuma, o primeiro ministro e imperador de Zaun, quatro pessoas se juntam para buscar um suposto mago que foi preso a aproximadamente três décadas.
-
-# Sumário
+Denver Zuma, primeiro ministro e imperador de Zaun reúne quatro pessoas especiais com uma única missão: Abrir o último tesouro. Mas antes de tudo, eles deveram libertar um poderoso mago.
+# Sumário (Original)
 ---
 Nunumia, um lugar lindo cheio de maravilhas e horrores que você talvez nunca venha a esquecer. Nossa história começa em *Zaun* onde quatro pessoas aguardam ansiosamente por um novo começo.
 Após receberem uma carta misteriosa [[Personagens/Alger Baskerville\|Alger Baskerville]], [[Personagens/Cassidy Mazedy\|Cassidy Mazedy]], [[Personagens/Evan Pale Archin\|Evan Pale Archin]] e [[Personagens/Chromorios Solvaris\|Chromorios Solvaris]] seguiram as instruções descritas. Em duas semanas os mesmos deveriam estar em qualquer praça de Zaun esperando um sinal. O dia chegou e o sinal foi bem menos furtivo que o esperado. Alger, Cassy e Morgan foram simplesmente sequestrados, dopados e presos em uma sala luxuosa. Depois de acordar buscando entender onde estavam, o trio decidiu buscar por pistas e respostas que, foram parcialmente respondidas em uma carta.

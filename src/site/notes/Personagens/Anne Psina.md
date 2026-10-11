@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/personagens/anne-psina/","created":"2026-02-08T13:45:54.507-03:00","updated":"2026-10-11T10:31:46.408-03:00","dg-note-properties":{"aliases":["Profeta","A Profeta"]}}
+{"dg-publish":true,"permalink":"/personagens/anne-psina/","created":"2026-02-08T13:45:54.507-03:00","updated":"2026-10-11T12:00:46.770-03:00","dg-note-properties":{"aliases":["Profeta","A Profeta"]}}
 ---
 
 #Personagens
-> Para o segundo episódio de [[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro\|Nunumia - O Último Tesouro]], veja: [[Campanhas/Nunumia - O Último Tesouro/OUTRPG - EPISÓDIO 2 - A PROFETA\|OUTRPG - EPISÓDIO 2 - A PROFETA]]
+> Para o segundo episódio de [[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro (Série)\|Nunumia - O Último Tesouro (Série)]], veja: [[Campanhas/Nunumia - O Último Tesouro/OUTRPG - EPISÓDIO 2 - A PROFETA\|OUTRPG - EPISÓDIO 2 - A PROFETA]]
 
 > _"A Profecia deve se cumprir.”
 > — Mestre_
@@ -24,14 +24,14 @@
 | **Raça**       | Humana                                                                                                              |
 | **Associação** | [[Organizações/Corporação Gentileza\|Corporação Gentileza]]<br>[[Organizações/Strikers\|Strikers]]<br>[[Organizações/Equipe de Pesquisa do Projeto Over\|Equipe de Pesquisa do Projeto Over]]<br>[[Organizações/Palácio de Jade (Organização)/Palácio de Jade\|Palácio de Jade]]           |
 
-*Anne Psina* ou *Profeta* era uma das aliadas da [[Organizações/Palácio de Jade (Organização)/Equipes/Waifus do Caribe\|Waifus do Caribe]] durante [[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro\|Nunumia - O Último Tesouro]]. Na segunda temporada ([[Campanhas/Nunumia - O Último Tesouro Cinzas/Nunumia - O Último Tesouro Cinzas\|OUTRPG-2]]), Anne se sente traída por [[Personagens/Mars Sailer\|Mars Sailer]] que não honrou com o acordo de sair por cima dos aliados de [[Personagens/Denver Zuma\|Denver Zuma]], assim, ela se alia com [[Personagens/Luka Maximoff\|Luka Maximoff]] e a [[Organizações/Guarda Revolucionária Azariana\|Guarda Revolucionária Azariana]] buscando recuperar a pessoa mais importante de sua vida.
+*Anne Psina* ou *Profeta* era uma das aliadas da [[Organizações/Palácio de Jade (Organização)/Equipes/Waifus do Caribe\|Waifus do Caribe]] durante [[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro (Série)\|Nunumia - O Último Tesouro (Série)]]. Na segunda temporada ([[Campanhas/Nunumia - O Último Tesouro Cinzas/Nunumia - O Último Tesouro Cinzas\|OUTRPG-2]]), Anne se sente traída por [[Personagens/Mars Sailer\|Mars Sailer]] que não honrou com o acordo de sair por cima dos aliados de [[Personagens/Denver Zuma\|Denver Zuma]], assim, ela se alia com [[Personagens/Luka Maximoff\|Luka Maximoff]] e a [[Organizações/Guarda Revolucionária Azariana\|Guarda Revolucionária Azariana]] buscando recuperar a pessoa mais importante de sua vida.
 # História
 ---
 ## Passado
 *Anne Psina Santos* nasceu dia 19 de abril de 2005, em Zaun. Ela era filha de país de classe média, sua vida nem sempre foi fácil. Aos 5 anos, seus pais foram assassinados na periferia de [[As Nações de Nunumia/Sete Grandes Nações de Nunumia/Zaun\|Zaun]] e a mesma foi para o [[Orfanato Lua do Amanhã\|Orfanato Lua do Amanhã]]. 
 
 No orfanato, Anne viveu altos e baixos. A vida não era nada boa, na maioria das vezes faltava comida e até mesmo eletricidade.
-## [[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro\|O Último Tesouro]]
+## [[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro (Série)\|O Último Tesouro]]
 Já adulta e com a patente de diretora da [[Organizações/Corporação Gentileza\|Corporação Gentileza]]/[[Organizações/Strikers\|Strikers]], Anne recebeu uma proposta de [[Personagens/Denver Zuma\|Denver Zuma]]: *Juntar as joias do Último Tesouro e abri-lo*. Graças a posse da contracapa do [[Páginas/Diário de Deus\|Diário de Deus]], Anne já tinha uma noção do que se tratava e o principal, o [[Projeto Over\|Projeto Over]] se mantinha vivo com isso.
 
 Mas seria temporário. Foi o que ela achou. Ela marcou um encontro com o pessoal de Denver na sua antiga taverna favorita, a [[Locais/Zaun/Taverna do Oswaldo\|Taverna do Oswaldo]]. Desse modo, em função de sua proteção pessoal, Anne levou [[Personagens/Mars Sailer\|Mars Sailer]] com sigo.

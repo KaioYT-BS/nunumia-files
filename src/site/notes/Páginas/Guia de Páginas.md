@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/paginas/guia-de-paginas/","created":"2026-06-09T17:16:16.566-03:00","updated":"2026-09-29T22:52:54.958-03:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/paginas/guia-de-paginas/","created":"2026-06-09T17:16:16.566-03:00","updated":"2026-10-11T12:00:47.473-03:00","dg-note-properties":{}}
 ---
 
 #Diário_de_Deus #Páginas
@@ -21,7 +21,7 @@ O maior segredo conhecido de Nunumia, ligado aos destinados, às joias, ao totem
 - [[Os Sete Segredos de Nunumia/As Sete Joias do Último Tesouro\|As Sete Joias do Último Tesouro]]
 - [[Os Sete Segredos de Nunumia/O Último Tesouro#Destinados\|Destinados]]
 - [[Os Sete Segredos de Nunumia/O Último Tesouro#Flagelo\|Flagelo]]
-- [[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro\|Nunumia - O Último Tesouro]]
+- [[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro (Série)\|Nunumia - O Último Tesouro (Série)]]
 
 ## Sete Segredos e Lendas
 ---
@@ -150,7 +150,7 @@ Governos, instituições, equipes, agências, forças militares e grupos que inf
 Campanhas, episódios e arquivos narrativos que registram os acontecimentos jogados ou planejados.
 
 - [[Páginas/Campanhas\|Campanhas]]
-- [[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro\|Nunumia - O Último Tesouro]]
+- [[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro (Série)\|Nunumia - O Último Tesouro (Série)]]
 - [[Campanhas/Especial - Nunumia - Euphoria/Especial - Nunumia - Euphoria\|Especial - Nunumia - Euphoria]]
 - [[Páginas/Nunumia - Files\|Nunumia: Files]]
 

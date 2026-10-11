@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/paginas/tags/","created":"2026-04-22T19:07:32.512-03:00","updated":"2026-06-09T17:16:41.300-03:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/paginas/tags/","created":"2026-04-22T19:07:32.512-03:00","updated":"2026-10-11T12:00:47.911-03:00","dg-note-properties":{}}
 ---
 
 #Páginas 
 # #A
 ---
 - #A: Páginas que iniciam com a letra "a".
-- #Aliados_em_OUTRPG: Personagens classificados como aliados dos protagonistas de [[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro\|Nunumia - O Último Tesouro]].
+- #Aliados_em_OUTRPG: Personagens classificados como aliados dos protagonistas de [[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro (Série)\|Nunumia - O Último Tesouro (Série)]].
 # #C 
 - #C : Páginas que iniciam com a letra "c".
 - #Campanha : Campanha de RPG de mesa.

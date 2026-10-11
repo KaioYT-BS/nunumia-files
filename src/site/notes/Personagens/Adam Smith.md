@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personagens/adam-smith/","created":"2026-02-08T13:45:54.424-03:00","updated":"2026-09-29T23:50:28.792-03:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/personagens/adam-smith/","created":"2026-02-08T13:45:54.424-03:00","updated":"2026-10-11T12:00:46.604-03:00","dg-note-properties":{}}
 ---
 
 #A #Personagens #Personagens_Principais_em_OUTRPG  #Destinados 
@@ -25,11 +25,11 @@
 | **Associação**  | [[Organizações/Palácio de Jade (Organização)/Palácio de Jade\|Palácio de Jade]]<br>[[Organizações/Palácio de Jade (Organização)/Força Nacional de Segurança de Zaun\|Força Nacional de Segurança de Zaun]]<br>[[As Nações de Nunumia/Sete Grandes Nações de Nunumia/Zaun\|Zaun]]                                                                                  |
 
 
-**Adam Smith** é um dos protagonistas de [[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro\|Nunumia: O Último Tesouro]]. 
+**Adam Smith** é um dos protagonistas de [[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro (Série)\|Nunumia: O Último Tesouro]]. 
 
-Adam é um homem de cabelos loiros, pele clara e olhos amarelos. Ele é o diplomata de Zaun na [[Organizações/Império de Unova/Casas de Unova#Casa Umbrella\|Casa Umbrella]], em Unova. Antes dos eventos de [[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro\|Nunumia - O Último Tesouro]] ele entregou as cartas de Denver Zuma para os tripulantes das [[Organizações/Palácio de Jade (Organização)/Equipes/Waifus do Caribe\|Waifus do Caribe]]. 
+Adam é um homem de cabelos loiros, pele clara e olhos amarelos. Ele é o diplomata de Zaun na [[Organizações/Império de Unova/Casas de Unova#Casa Umbrella\|Casa Umbrella]], em Unova. Antes dos eventos de [[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro (Série)\|Nunumia - O Último Tesouro (Série)]] ele entregou as cartas de Denver Zuma para os tripulantes das [[Organizações/Palácio de Jade (Organização)/Equipes/Waifus do Caribe\|Waifus do Caribe]]. 
 
-Em **[[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro\|Nunumia: O Último Tesouro]]**, Adam se juntou aos remanescentes da [[Organizações/Palácio de Jade (Organização)/Equipes/Equipe Delta\|Equipe Delta]] e [[Organizações/Palácio de Jade (Organização)/Equipes/Waifus do Caribe\|Waifus do Caribe]] para impedir que os [[Organizações/Escarlates\|Escarlates]] tomassem posse das sete joias do último tesouro.
+Em **[[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro (Série)\|Nunumia: O Último Tesouro]]**, Adam se juntou aos remanescentes da [[Organizações/Palácio de Jade (Organização)/Equipes/Equipe Delta\|Equipe Delta]] e [[Organizações/Palácio de Jade (Organização)/Equipes/Waifus do Caribe\|Waifus do Caribe]] para impedir que os [[Organizações/Escarlates\|Escarlates]] tomassem posse das sete joias do último tesouro.
 # Aparições
 ---
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personagens/scarlet-mana-jin-can/","created":"2026-02-08T13:45:54.707-03:00","updated":"2026-09-29T21:49:30.700-03:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/personagens/scarlet-mana-jin-can/","created":"2026-02-08T13:45:54.707-03:00","updated":"2026-10-11T12:00:47.205-03:00","dg-note-properties":{}}
 ---
 
 #S #Personagens #Personagens_Principais_em_OUTRPG #Aliados_em_OUTRPG
@@ -23,7 +23,7 @@ Para seu alter ego, veja [[Personagens/MetalBlood\|MetalBlood]]
 | **Raça**       | Humana                                                                                                                                                                                                                                                                                                  |
 | **Associação** | [[Organizações/Palácio de Jade (Organização)/Força Nacional de Segurança de Zaun\|Força Nacional de Segurança de Zaun]]<br>[[Organizações/Palácio de Jade (Organização)/Equipes/Equipe Delta\|Equipe Delta]]<br>[[Organizações/Palácio de Jade (Organização)/Palácio de Jade\|Palácio de Jade]]<br>[[Organizações/Palácio de Jade (Organização)/Equipes/Waifus do Caribe\|Waifus do Caribe]]                                                                                                                                                                                              |
 
-**Scarlet Mana Jin-Can** é uma das principais personagens de [[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro\|Nunumia - O Último Tesouro]], atuando como linha de frente na maioria dos combates.
+**Scarlet Mana Jin-Can** é uma das principais personagens de [[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro (Série)\|Nunumia - O Último Tesouro (Série)]], atuando como linha de frente na maioria dos combates.
 
 # Habilidades
 ---

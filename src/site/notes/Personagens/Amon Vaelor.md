@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/personagens/amon-vaelor/","created":"2026-02-08T13:45:54.488-03:00","updated":"2026-10-04T13:32:09.678-03:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/personagens/amon-vaelor/","created":"2026-02-08T13:45:54.488-03:00","updated":"2026-10-11T12:00:46.720-03:00","dg-note-properties":{}}
 ---
 
 
 #A #Personagens #Waifus_do_Caribe #Personagens_Principais_em_OUTRPG #Personagens_Principais_em_OUTRPG2 
 Para sua transformação, mentor e irmão, veja [[Personagens/Ancião de Segunda Era\|Ancião de Segunda Era]]
 > [!NOTE] Página quase completa
-> Está página está quase completa e, até o momento, se encontram faltantes os conteúdos relacionados a [[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro\|Nunumia - O Último Tesouro]].
+> Está página está quase completa e, até o momento, se encontram faltantes os conteúdos relacionados a [[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro (Série)\|Nunumia - O Último Tesouro (Série)]].
 > Nível de conteúdo: Quase completo
 
 
@@ -28,11 +28,11 @@ Para sua transformação, mentor e irmão, veja [[Personagens/Ancião de Segunda
 | **Associação**                           | [[Organizações/Palácio de Jade (Organização)/Equipes/Waifus do Caribe\|Waifus do Caribe]]<br>[[Organizações/Palácio de Jade (Organização)/Palácio de Jade\|Palácio de Jade]]<br>[[As Nações de Nunumia/Sete Grandes Nações de Nunumia/Imperium Diamante\|Imperium Diamante]]<br>[[Páginas/Magos de Skyline\|Magos de Skyline]]                                                                                                                                                         |
 
 
-**Amon Vaelor** é um dos protagonistas de [[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro\|Nunumia: O Último Tesouro]]
+**Amon Vaelor** é um dos protagonistas de [[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro (Série)\|Nunumia: O Último Tesouro]]
 
 Amon é um dos [[Páginas/Magos de Skyline\|Magos de Skyline]], um grupo de magos responsáveis por proteger, aconselhar e ajudar cada uma das Sete Grandes Nações de Nunumia: ***[[As Nações de Nunumia/Sete Grandes Nações de Nunumia/Zaun\|Zaun]], [[As Nações de Nunumia/Sete Grandes Nações de Nunumia/Porto Royal\|Porto Royal]], [[As Nações de Nunumia/Sete Grandes Nações de Nunumia/Tornhill\|Tornhill]], [[As Nações de Nunumia/Sete Grandes Nações de Nunumia/HomeWorld\|HomeWorld]], [[As Nações de Nunumia/Sete Grandes Nações de Nunumia/Azahor\|Azahor]], [[As Nações de Nunumia/Sete Grandes Nações de Nunumia/Imperium Diamante\|Imperium Diamante]] e [[As Nações de Nunumia/Sete Grandes Nações de Nunumia/Unova\|Unova]]***.
 
-Em **[[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro\|Nunumia: O Último Tesouro]]**, Amon se juntou a [[Personagens/Alger Baskerville\|Alger Baskerville]], [[Personagens/Emily Speavers Baskerville\|Emily Speavers Baskerville]], [[Personagens/Chromorios Solvaris\|Chromorios Solvaris]] e [[Personagens/Cassidy Mazedy\|Cassidy Mazedy]] após seu resgate, que foi proveniente de [[Personagens/Denver Zuma\|Denver Zuma]], por motivos até então desconhecidos. Seus objetivos principais eram investigar o paradeiro dos outros magos. Na segunda temporada ([[Campanhas/Nunumia - O Último Tesouro Cinzas/Nunumia - O Último Tesouro Cinzas\|Nunumia - O Último Tesouro Cinzas]]), Amon ganhou um novo propósito...
+Em **[[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro (Série)\|Nunumia: O Último Tesouro]]**, Amon se juntou a [[Personagens/Alger Baskerville\|Alger Baskerville]], [[Personagens/Emily Speavers Baskerville\|Emily Speavers Baskerville]], [[Personagens/Chromorios Solvaris\|Chromorios Solvaris]] e [[Personagens/Cassidy Mazedy\|Cassidy Mazedy]] após seu resgate, que foi proveniente de [[Personagens/Denver Zuma\|Denver Zuma]], por motivos até então desconhecidos. Seus objetivos principais eram investigar o paradeiro dos outros magos. Na segunda temporada ([[Campanhas/Nunumia - O Último Tesouro Cinzas/Nunumia - O Último Tesouro Cinzas\|Nunumia - O Último Tesouro Cinzas]]), Amon ganhou um novo propósito...
 # História
 ---
 ## Passado (1501 - 1751)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personagens/luka-maximoff/","created":"2026-09-24T20:02:37.124-03:00","updated":"2026-09-29T22:51:54.248-03:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/personagens/luka-maximoff/","created":"2026-09-24T20:02:37.124-03:00","updated":"2026-10-11T12:00:47.104-03:00","dg-note-properties":{}}
 ---
 
 #L #Personagens #Personagens_Principais_em_OUTRPG2 
@@ -18,7 +18,7 @@
 | **Classe**     | Destruidor                                                                                                             |
 | **Raça**       | [[Raças/Vampiros\|Vampiros]]                                                                                                           |
 | **Associação** | [[Organizações/Guarda Revolucionária Azariana\|Guarda Revolucionária Azariana]]<br>[[M13 - Vampys\|M13 - Vampys]]<br>[[Esquadrão x24\|Esquadrão x24]]                                            |
-**Luka Maximoff** é um dos protagonistas da segunda temporada de [[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro\|Nunumia - O Último Tesouro]].
+**Luka Maximoff** é um dos protagonistas da segunda temporada de [[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro (Série)\|Nunumia - O Último Tesouro (Série)]].
 
 Luka é um [[Raças/Vampiros\|vampiro]] da linhagem Maximoff, uma das três famílias da raça ainda ativa. 
  

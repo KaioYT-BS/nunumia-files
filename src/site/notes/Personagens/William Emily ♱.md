@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personagens/william-emily/","created":"2026-02-08T13:45:54.717-03:00","updated":"2026-09-29T21:49:30.753-03:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/personagens/william-emily/","created":"2026-02-08T13:45:54.717-03:00","updated":"2026-10-11T12:00:47.259-03:00","dg-note-properties":{}}
 ---
 
 #W #Personagens #Aliados_em_OUTRPG 
@@ -14,7 +14,7 @@
 | **Raça**       | Humano                                                                                                                    |
 | **Associação** | [[Organizações/Palácio de Jade (Organização)/Força Nacional de Segurança de Zaun\|Força Nacional de Segurança de Zaun]]<br>[[Organizações/Palácio de Jade (Organização)/Palácio de Jade\|Palácio de Jade]]<br>[[As Nações de Nunumia/Sete Grandes Nações de Nunumia/Zaun\|Zaun]]<br>Exército de Zaun                            |
 
-**William Emily** era um dos principais aliados das [[Organizações/Palácio de Jade (Organização)/Equipes/Waifus do Caribe\|Waifus do Caribe]] em [[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro\|Nunumia - O Último Tesouro]] atuando como criador da maior parte das estratégias seguidas pela dissolvida [[Organizações/Palácio de Jade (Organização)/Equipes/Equipe Delta\|Equipe Delta]].
+**William Emily** era um dos principais aliados das [[Organizações/Palácio de Jade (Organização)/Equipes/Waifus do Caribe\|Waifus do Caribe]] em [[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro (Série)\|Nunumia - O Último Tesouro (Série)]] atuando como criador da maior parte das estratégias seguidas pela dissolvida [[Organizações/Palácio de Jade (Organização)/Equipes/Equipe Delta\|Equipe Delta]].
 
 # Aparições
 ---

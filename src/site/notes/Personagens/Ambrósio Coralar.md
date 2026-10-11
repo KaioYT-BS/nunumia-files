@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personagens/ambrosio-coralar/","created":"2026-02-08T13:45:54.484-03:00","updated":"2026-10-04T00:38:39.599-03:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/personagens/ambrosio-coralar/","created":"2026-02-08T13:45:54.484-03:00","updated":"2026-10-11T12:00:46.691-03:00","dg-note-properties":{}}
 ---
 
 #A #Personagens #Personagens_Principais_em_OUTRPG #Personagens_do_Mestre 
@@ -20,7 +20,7 @@
 | **Ocupação**    | Diplomata de Porto Royal em [[Casa Umbrella\|Casa Umbrella]]<br>Vice-presidente do [[As Nações de Nunumia/Sete Grandes Nações de Nunumia/Porto Royal\|Porto Royal]]                                                                                                          |
 | **Raça**        | Humana                                                                                                                                                                                       |
 | **Associação**  | [[Organizações/Escarlates\|Escarlates]]<br>[[Organizações/Strikers\|Strikers]]<br>[[As Nações de Nunumia/Sete Grandes Nações de Nunumia/Unova\|Unova]]<br>[[As Nações de Nunumia/Sete Grandes Nações de Nunumia/Porto Royal\|Porto Royal]]<br>[[Organizações/Industrias Baskerville\|Industrias Baskerville]]<br>[[Organizações/Corporação Gentileza\|Corporação Gentileza]]<br>[[Organizações/Império de Unova/Casas de Unova#Umbrella (Poder Internácional)\|Casa Umbrella]] |
-**Ambrósio Coralar** é uma antagonista de [[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro\|Nunumia - O Último Tesouro]].
+**Ambrósio Coralar** é uma antagonista de [[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro (Série)\|Nunumia - O Último Tesouro (Série)]].
 
 Ambrósio é a diplomata de Porto Royal na [[Organizações/Império de Unova/Casas de Unova#Casa Umbrella\|Casa Umbrella]], em Unova. Além disso, ela participa de um esquema de lavagem de dinheiro e tráfico de armas em parceria com as [[Organizações/Industrias Baskerville\|Industrias Baskerville]]
 # História

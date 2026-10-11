@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personagens/chromorios-solvaris/","created":"2026-02-08T13:45:54.659-03:00","updated":"2026-10-04T18:47:14.390-03:00","dg-note-properties":{"aliases":["Morgan Voreal","Ananke Amargun"]}}
+{"dg-publish":true,"permalink":"/personagens/chromorios-solvaris/","created":"2026-02-08T13:45:54.659-03:00","updated":"2026-10-11T12:00:46.882-03:00","dg-note-properties":{"aliases":["Morgan Voreal","Ananke Amargun"]}}
 ---
 
 #C #Personagens #Personagens_Principais_em_OUTRPG #Destinados 
@@ -23,7 +23,7 @@
 | **Classe**      | Suporte                                                                                                                                                    |
 | **Raça**        | Vazimo (Chromorios)<br>[[Raças/Elfos\|Elfos]]<br>[[Raças/Humano-Marinho\|Humano-Marinho]]<br>[[Raças/Lobos\|Lobos]]<br>[[Raças/Vazimos\|Vazimos]] (Atualmente)                                                            |
 | **Associação**  | [[Organizações/Filhos do Tempo\|Filhos do Tempo]]<br>[[Personagens/Overlord\|Overlord]]<br>[[Máscaras/Máscara do Tempo (Chronos)\|Máscara do Tempo (Chronos)]])<br>[[Organizações/Palácio de Jade (Organização)/Equipes/Waifus do Caribe\|Waifus do Caribe]]                                                             |
-**Chromorios Solvaris** é um dos protagonistas de [[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro\|Nunumia - O Último Tesouro]].
+**Chromorios Solvaris** é um dos protagonistas de [[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro (Série)\|Nunumia - O Último Tesouro (Série)]].
 # História
 ---
 ## Passado

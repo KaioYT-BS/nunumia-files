@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/paginas/jogadores/maacuja/","created":"2026-02-08T13:45:54.236-03:00","updated":"2026-09-27T08:47:43.652-03:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/paginas/jogadores/maacuja/","created":"2026-02-08T13:45:54.236-03:00","updated":"2026-10-11T12:00:47.767-03:00","dg-note-properties":{}}
 ---
 
 #Jogadores #Jogadores_em_OUTRPG
@@ -11,10 +11,10 @@
 | **Nascimento:**                   | 14/04/2011 - 15 anos                                                                                                                                                    |
 | **Nome**                          | Manuella Pontes de Carvalho                                                                                                                                             |
 | **Ocupação**                      | Estudante<br>Artista<br>Hater do Trump                                                                                                                                  |
-| **Personagens** **Interpretados** | [[Personagens/Alger Baskerville\|Alger Baskerville]] - [[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro\|OUTRPG 1]]; [[Campanhas/Nunumia - O Último Tesouro Cinzas/Nunumia - O Último Tesouro Cinzas\|OUTRPG2]]<br>[[Personagens/Spectra Vondergaist\|Spectra Vondergaist]] - [[Campanhas/Nunumia - O Último Tesouro Cinzas/Nunumia - O Último Tesouro Cinzas\|Nunumia - O Último Tesouro Cinzas]] |
-| **Participações**                 | MSRPG (anteriormente)<br>[[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro\|Nunumia - O Último Tesouro]]<br>[[Campanhas/Nunumia - O Último Tesouro Cinzas/Nunumia - O Último Tesouro Cinzas\|Nunumia - O Último Tesouro Cinzas]]                                                                        |
+| **Personagens** **Interpretados** | [[Personagens/Alger Baskerville\|Alger Baskerville]] - [[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro (Série)\|OUTRPG 1]]; [[Campanhas/Nunumia - O Último Tesouro Cinzas/Nunumia - O Último Tesouro Cinzas\|OUTRPG2]]<br>[[Personagens/Spectra Vondergaist\|Spectra Vondergaist]] - [[Campanhas/Nunumia - O Último Tesouro Cinzas/Nunumia - O Último Tesouro Cinzas\|Nunumia - O Último Tesouro Cinzas]] |
+| **Participações**                 | MSRPG (anteriormente)<br>[[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro (Série)\|Nunumia - O Último Tesouro (Série)]]<br>[[Campanhas/Nunumia - O Último Tesouro Cinzas/Nunumia - O Último Tesouro Cinzas\|Nunumia - O Último Tesouro Cinzas]]                                                                        |
 
-Manuella Pontes de Carvalho, ou apenas **Manu** ou **Maacuja**, interpretou **[[Personagens/Alger Baskerville\|Alger Baskerville]]** em [[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro\|Nunumia: O Último Tesouro]] e em sua temporada seguinte, [[Campanhas/Nunumia - O Último Tesouro Cinzas/Nunumia - O Último Tesouro Cinzas\|Nunumia - O Último Tesouro Cinzas]]. Na continuação do enredo, ela também interpretou [[Personagens/Spectra Vondergaist\|Spectra Vondergaist]], uma integrando do [[Esquadrão x24\|Esquadrão x24]].
+Manuella Pontes de Carvalho, ou apenas **Manu** ou **Maacuja**, interpretou **[[Personagens/Alger Baskerville\|Alger Baskerville]]** em [[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro (Série)\|Nunumia: O Último Tesouro]] e em sua temporada seguinte, [[Campanhas/Nunumia - O Último Tesouro Cinzas/Nunumia - O Último Tesouro Cinzas\|Nunumia - O Último Tesouro Cinzas]]. Na continuação do enredo, ela também interpretou [[Personagens/Spectra Vondergaist\|Spectra Vondergaist]], uma integrando do [[Esquadrão x24\|Esquadrão x24]].
 
 # Personagens
 ---
@@ -22,7 +22,7 @@ Manuella Pontes de Carvalho, ou apenas **Manu** ou **Maacuja**, interpretou 
 
 # Curiosidades
 ---
-- [[Páginas/Jogadores/Maacuja\|Maacuja]] é a jogadora com maior número de presenças em [[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro\|Nunumia - O Último Tesouro]].
+- [[Páginas/Jogadores/Maacuja\|Maacuja]] é a jogadora com maior número de presenças em [[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro (Série)\|Nunumia - O Último Tesouro (Série)]].
 - Junto de [[Páginas/Jogadores/Ash\|Ash]] e o mestre ([[Páginas/Jogadores/Kaiositos\|Kaiositos]]) os três basicamente criaram a base para a Nunumia que conhecemos.
 - Em 19 de Março de 2026, Maacuja soltou uma frase que mudaria o mundo: _"pq os planetas pararam di ser ?"_
 - _"pq os planetas pararam di ser ?"_ é uma frase tão complexa que nem a professora de redação conseguiu compreender.

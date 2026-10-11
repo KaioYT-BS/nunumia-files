@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campanhas/especial-nunumia-euphoria/especial-nunumia-euphoria/","created":"2026-03-06T23:28:19.972-03:00","updated":"2026-09-29T21:49:30.003-03:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/campanhas/especial-nunumia-euphoria/especial-nunumia-euphoria/","created":"2026-03-06T23:28:19.972-03:00","updated":"2026-10-11T12:00:46.044-03:00","dg-note-properties":{}}
 ---
 
 #Campanha #Especial
@@ -13,7 +13,7 @@
 
 # Sinopse
 ---
-**Euphoria** é um especial de [[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro\|Nunumia - O Último Tesouro]] que acompanha a [[Organizações/Equipe de Pesquisa do Projeto Over\|Equipe de Pesquisa do Projeto Over]] que foi submetida a vários jogos macabros. Um por um, todos serão eliminados até que somente um sobre. O grande problema é que regras mudam, mentes enlouquecem e principalmente a paciência de [[Personagens/Nathaniel Scompa ♱\|Nathaniel Scompa ♱]] acaba.
+**Euphoria** é um especial de [[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro (Série)\|Nunumia - O Último Tesouro (Série)]] que acompanha a [[Organizações/Equipe de Pesquisa do Projeto Over\|Equipe de Pesquisa do Projeto Over]] que foi submetida a vários jogos macabros. Um por um, todos serão eliminados até que somente um sobre. O grande problema é que regras mudam, mentes enlouquecem e principalmente a paciência de [[Personagens/Nathaniel Scompa ♱\|Nathaniel Scompa ♱]] acaba.
 
 # Protagonistas e jogadores
 ---
