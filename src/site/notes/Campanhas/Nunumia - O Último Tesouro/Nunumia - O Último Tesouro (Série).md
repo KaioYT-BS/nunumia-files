@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campanhas/nunumia-o-ultimo-tesouro/nunumia-o-ultimo-tesouro-serie/","created":"2026-02-08T13:45:51.347-03:00","updated":"2026-10-11T12:18:05.178-03:00","dg-note-properties":{"aliases":["O Último Tesouro","OUTRPG-1","OUTRPG"]}}
+{"dg-publish":true,"permalink":"/campanhas/nunumia-o-ultimo-tesouro/nunumia-o-ultimo-tesouro-serie/","created":"2026-02-08T13:45:51.347-03:00","updated":"2026-10-16T22:14:14.230-03:00","dg-note-properties":{"aliases":["O Último Tesouro","OUTRPG-1","OUTRPG"]}}
 ---
 
 #Campanha #Campanha_Principal
@@ -11,11 +11,11 @@
 | --------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Nº de episódios**   | 7                                                                                                                                                                                                                                                                           |
 | **Nº de sessões**     | 9                                                                                                                                                                                                                                                                           |
-| **Temporadas**        | T1A1 - [[O começo da Passagem\|O começo da Passagem]]<br>T1A2 - [[Desmoronando\|Desmoronando]]<br>T2 - [[Campanhas/Nunumia - O Último Tesouro Cinzas/Nunumia - O Último Tesouro Cinzas\|O Último Tesouro Cinzas]]                                                                                                                                           |
+| **Temporadas**        | T1A1 - [[O começo da Passagem\|O começo da Passagem]]<br>T1A2 - [[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro Desmoronando\|Nunumia - O Último Tesouro Desmoronando]]<br>T2 - [[Campanhas/Nunumia - O Último Tesouro Cinzas/Nunumia - O Último Tesouro Cinzas\|O Último Tesouro Cinzas]]                                                                                                                                           |
 | **Primeiro episódio** | [[Campanhas/Nunumia - O Último Tesouro/OUTRPG - EPISÓDIO 1 - O TESTE\|OUTRPG - EPISÓDIO 1 - O TESTE]]                                                                                                                                                                                                                                           |
 | **Último episódio**   | ???                                                                                                                                                                                                                                                                         |
 
-**O Último Tesouro** é uma série de campanhas de RPG que acompanha a abertura de um dos sete segredos de Nunumia, [[Os Sete Segredos de Nunumia/O Último Tesouro\|O Último Tesouro]]. A série até agora teve duas temporadas, com a primeira tendo dois atos.
+**O Último Tesouro** é uma série de campanhas de RPG que acompanha a abertura de um dos sete segredos de Nunumia, [[Os Sete Segredos de Nunumia/Segredo de Aspheera/O Último Tesouro\|O Último Tesouro]]. A série até agora teve duas temporadas, com a primeira tendo dois atos.
 
 O objetivo principal da campanha é **buscar as sete Joias do Último Tesouro**, relíquias antigas que, quando reunidas no [[Totem de Aspherra\|Totem de Aspherra]], são capazes de **abrir o Último Tesouro**, um segredo de poder inimaginável que concede ao todo catorze desejos.
 

@@ -16,7 +16,7 @@ Sendo descendente de uma **Tecelã e de um humano**, Evan representa tudo aquilo
 
 Antes dos eventos principais de **[[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro (Série)\|Nunumia: O Último Tesouro]]**, Evan serviu como um dos cavaleiros da ordem do [[Organizações/Império de Unova/Pyraminx\|Organizações/Império de Unova/Pyraminx]]. Ele conseguiu a posição por meio da indicação de sua então namorada, [[Personagens/Saon Admircov\|Saon Admircov]].
 
-Durante os eventos de **[[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro (Série)\|Nunumia: O Último Tesouro]]**, Evan se junta a [[Personagens/Alger Baskerville\|Alger Baskerville]], [[Personagens/Chromorios Solvaris\|Chromorios Solvaris]] e [[Personagens/Cassidy Mazedy\|Cassidy Mazedy]] na missão de resgatar [[Personagens/Amon Vaelor\|Amon Vaelor]]. A missão foi organizada por [[Personagens/Denver Zuma\|Denver Zuma]], que pretendia reunir um grupo capaz de encontrar e abrir o lendário [[Os Sete Segredos de Nunumia/O Último Tesouro\|O Último Tesouro]].
+Durante os eventos de **[[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro (Série)\|Nunumia: O Último Tesouro]]**, Evan se junta a [[Personagens/Alger Baskerville\|Alger Baskerville]], [[Personagens/Chromorios Solvaris\|Chromorios Solvaris]] e [[Personagens/Cassidy Mazedy\|Cassidy Mazedy]] na missão de resgatar [[Personagens/Amon Vaelor\|Amon Vaelor]]. A missão foi organizada por [[Personagens/Denver Zuma\|Denver Zuma]], que pretendia reunir um grupo capaz de encontrar e abrir o lendário [[Os Sete Segredos de Nunumia/Segredo de Aspheera/O Último Tesouro\|O Último Tesouro]].
 
 # História
 ---

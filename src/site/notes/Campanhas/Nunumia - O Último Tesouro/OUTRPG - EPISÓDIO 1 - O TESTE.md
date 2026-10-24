@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/campanhas/nunumia-o-ultimo-tesouro/outrpg-episodio-1-o-teste/","created":"2026-02-08T13:45:52.756-03:00","updated":"2026-10-11T12:19:56.371-03:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/campanhas/nunumia-o-ultimo-tesouro/outrpg-episodio-1-o-teste/","created":"2026-02-08T13:45:52.756-03:00","updated":"2026-10-18T17:18:08.008-03:00","dg-note-properties":{}}
 ---
 
 #O #Episódios_de_OUTRPG 
 
 > [!NON-CANNON] PARCIALMENTE CANNON
-> Os acontecimentos desse episódio são considerados parcialmente canônicos em [[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro (Série)\|Nunumia - O Último Tesouro (Série)]] por causa do [[Eventos/Reinicio\|Reinicio]].
+> Os acontecimentos dessa páginas são consideradas parcialmente canônicas em [[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro (Série)\|Nunumia - O Último Tesouro (Série)]] por causa do [[Eventos/Reinicio (REBOOT)\|Reinicio (REBOOT)]].
 > 
 
 >_"A ilusão nunca falha."
@@ -25,11 +25,11 @@
 # Sinopse
 ---
 Denver Zuma, primeiro ministro e imperador de Zaun reúne quatro pessoas especiais com uma única missão: Abrir o último tesouro. Mas antes de tudo, eles deveram libertar um poderoso mago.
-# Sumário (Original)
+# Sumário (Linha Original)
 ---
 Nunumia, um lugar lindo cheio de maravilhas e horrores que você talvez nunca venha a esquecer. Nossa história começa em *Zaun* onde quatro pessoas aguardam ansiosamente por um novo começo.
 Após receberem uma carta misteriosa [[Personagens/Alger Baskerville\|Alger Baskerville]], [[Personagens/Cassidy Mazedy\|Cassidy Mazedy]], [[Personagens/Evan Pale Archin\|Evan Pale Archin]] e [[Personagens/Chromorios Solvaris\|Chromorios Solvaris]] seguiram as instruções descritas. Em duas semanas os mesmos deveriam estar em qualquer praça de Zaun esperando um sinal. O dia chegou e o sinal foi bem menos furtivo que o esperado. Alger, Cassy e Morgan foram simplesmente sequestrados, dopados e presos em uma sala luxuosa. Depois de acordar buscando entender onde estavam, o trio decidiu buscar por pistas e respostas que, foram parcialmente respondidas em uma carta.
-![Carta de Denver Zuma deixada em uma mesa no Palácio de Jade.png](/img/user/0-Assets/Images/Carta%20de%20Denver%20Zuma%20deixada%20em%20uma%20mesa%20no%20Pal%C3%A1cio%20de%20Jade.png)
+![Carta de Denver Zuma deixada em uma mesa no Palácio de Jade.png](/img/user/0-Assets/Images/Documentos/Carta%20de%20Denver%20Zuma%20deixada%20em%20uma%20mesa%20no%20Pal%C3%A1cio%20de%20Jade.png)
 Alguns minutos após a abertura da carta os "Destinados" escutam batidas na porta, depois de relutar um pouco em abrir eles são recepcionados por [[Personagens/Scarlet Mana Jin-Can\|Scarlet Mana Jin-Can]], uma mordoma do [[Locais/Zaun/Palácio de Jade (Local)\|Palácio de Jade]] que os convida a subirem para a "cúpula" afim de encontrar Denver Zuma e um pestinha que passou da segurança do palácio. Após um elevador silencioso e uma longa escadaria que parece medir a própria determinação do grupo, a recém-formada tripulação se depara com uma sala imponente.
 
 ## Cúpula de Solaris

@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/personagens/emily-speavers-baskerville/","created":"2026-02-08T13:45:54.573-03:00","updated":"2026-09-29T23:30:05.371-03:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/personagens/emily-speavers-baskerville/","created":"2026-02-08T13:45:54.573-03:00","updated":"2026-10-18T17:00:54.241-03:00","dg-note-properties":{}}
 ---
 
-#E #Personagens #Personagens_Principais_em_OUTRPG #Pyraminx #Waifus_do_Caribe #Personagens_Principais_em_OUTRPG2 
+#E #Personagens #Personagens_Principais_em_OUTRPG #Pyraminx #Waifus_do_Caribe #Personagens_Principais_em_OUTRPG2 #Destinados 
 
 > [!NOTE] Conteúdo sensível
 > Aviso: A página a seguir pode conter conteúdos bizarros e inaceitáveis sobre identidade de gênero.
@@ -15,17 +15,17 @@
 > "_Eu sou um monstro" 
 > — Evan Pale Archin_
 
-| **Galeria**    | ![Emily.png\|250](/img/user/0-Assets/Images/Icons/Personagens/Emily.png)![Evan.png\|250](/img/user/0-Assets/Images/Icons/Personagens/Evan.png)<br>*Emily Speavers*, *Evan Pale Archin*<br>![Dama de seda.png\|250](/img/user/0-Assets/Images/Icons/Personagens/Dama%20de%20seda.png)<br>*Evan como Dama de Seda*                                                                                                                                                                                                                                       |
+| **Galeria**    | ![Emily_2.png\|200](/img/user/0-Assets/Images/Icons/Personagens/Emily_2.png)![Evan.png\|200](/img/user/0-Assets/Images/Icons/Personagens/Evan.png)<br>![Dama de seda.png\|200](/img/user/0-Assets/Images/Icons/Personagens/Dama%20de%20seda.png)                                                                                                                                                                                                                                                                                                         |
 | -------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Intérprete** | [[Tomás Durão\|Tomás Durão]], [[Páginas/Jogadores/Kaiositos\|Kaiositos]] (Dama de Seda)                                                                                                                                                                                                                                                                                                                                 |
+| **Intérprete** | [[Tomás Durão\|Tomás Durão]]                                                                                                                                                                                                                                                                                                                                                               |
 | **Status**     | Viva                                                                                                                                                                                                                                                                                                                                                                          |
 | **Idade**      | 18                                                                                                                                                                                                                                                                                                                                                                            |
-| **Apelidos**   | "Minha maior falha" ([[Xavier Pale Archin\|Xavier Pale Archin]], Evan)<br>"Filhão" ([[Personagens/Alger Baskerville\|Alger Baskerville]])                                                                                                                                                                                                                                                                                        |
+| **Apelidos**   | Minha falha ([[Xavier Pale Archin\|Xavier Pale Archin]], Evan)<br>Filhão ([[Personagens/Alger Baskerville\|Alger Baskerville]])                                                                                                                                                                                                                                                                                                  |
 | **Relações**   | Veja [[Personagens/Emily Speavers Baskerville#Relações\|§ Relações]]<br>[[Personagens/Alger Baskerville\|Alger Baskerville]] (pai adotivo)<br>[[Personagens/Saon Admircov\|Saon Admircov]] (ex-namorada)<br>[[Personagens/Amon Vaelor\|Amon Vaelor]] (pai adotivo)<br>[[Personagens/Mars Sailer\|Mars Sailer]] (colega de equipe)<br>[[Personagens/Adam Smith\|Adam Smith]] (colega de equipe)<br>[[Personagens/Chromorios Solvaris\|Chromorios Solvaris]] (colega de equipe)<br>[[Personagens/Cassidy Mazedy\|Cassidy Mazedy]] (colega de equipe)<br>[[Personagens/Kenshi Takada\|Kenshi Takada]] (colega de equipe) |
 | **Ocupação**   | Cavaleira do [[Organizações/Império de Unova/Pyraminx\|Pyraminx]] <br>Membro das [[Organizações/Palácio de Jade (Organização)/Equipes/Waifus do Caribe\|Waifus do Caribe]]                                                                                                                                                                                                                                                                                                                 |
 | **Classe**     | Destruidor                                                                                                                                                                                                                                                                                                                                                                    |
-| **Raça**       | Tecelã                                                                                                                                                                                                                                                                                                                                                                        |
-| **Associação** | [[Organizações/Palácio de Jade (Organização)/Palácio de Jade\|Palácio de Jade]]<br>[[Organizações/Império de Unova/Pyraminx\|Pyraminx]]<br>[[Organizações/Palácio de Jade (Organização)/Equipes/Waifus do Caribe\|Waifus do Caribe]]                                                                                                                                                                                                                                                                                                                   |
+| **Raça**       | [[Raças/Tecelãs\|Tecelã]]                                                                                                                                                                                                                                                                                                                                                           |
+| **Associação** | [[Palácio de Jade\|Palácio de Jade]]<br>[[Organizações/Império de Unova/Pyraminx\|Pyraminx]]<br>[[Organizações/Palácio de Jade (Organização)/Equipes/Waifus do Caribe\|Waifus do Caribe]]                                                                                                                                                                                                                                                                                                                   |
 
 # História
 ---
@@ -114,7 +114,7 @@ Aquilo era só o começo de problemas muito maiores.
 
 Após horas de viagem, Evan e Xavier foram levados para um complexo em [[As Nações de Nunumia/Sete Grandes Nações de Nunumia/Unova\|Unova]]. Assim que chegaram, foram separados sem explicação. Cada um foi conduzido para uma sala diferente.
 
-Evan se viu sentado diante de uma mesa fria de metal, com uma luz forte apontada diretamente para seu rosto. Do outro lado estavam **agentes da [[Polícia Federal de Zaun\|Polícia Federal de Zaun]]** e representantes da **Casa Umbrella**. Nenhum deles parecia interessado em gentilezas. Eles queriam uma coisa simples: **respostas**.
+Evan se viu sentado diante de uma mesa fria de metal, com uma luz forte apontada diretamente para seu rosto. Do outro lado estavam **agentes da [[Organizações/Palácio de Jade (Organização)/Polícia Federal de Zaun\|Polícia Federal de Zaun]]** e representantes da **Casa Umbrella**. Nenhum deles parecia interessado em gentilezas. Eles queriam uma coisa simples: **respostas**.
 
 Evan sabia que seu pai era um caçador de recompensas. Cresceu vendo armas, equipamentos de caça e histórias mal contadas sobre trabalhos que “pagavam bem”. Mas fingia que nunca soube exatamente o que aquilo significava de verdade, mas os agentes sabiam muito bem.
 
@@ -276,7 +276,7 @@ Depois de alguns segundos encarando Saon, ele finalmente perguntou, quase sem co
 
 Saon não respondeu imediatamente. Ela parecia medir as palavras.
 
-— Um destinado é alguém capaz de abrir [[Os Sete Segredos de Nunumia/O Último Tesouro\|O Último Tesouro]]. É… complicado. Mas o ponto é: se você é um, isso muda tudo.
+— Um destinado é alguém capaz de abrir [[Os Sete Segredos de Nunumia/Segredo de Aspheera/O Último Tesouro\|O Último Tesouro]]. É… complicado. Mas o ponto é: se você é um, isso muda tudo.
 
 Evan franziu.  
 — Muda como?
@@ -346,12 +346,14 @@ Aquilo era o começo de alguma coisa.
 # Aparições
 ---
 
-| **Episódios**                                         | **Aparições**                                |
-| ----------------------------------------------------- | -------------------------------------------- |
-| [[Campanhas/Nunumia - O Último Tesouro/OUTRPG - EPISÓDIO 1 - O TESTE\|OUTRPG - EPISÓDIO 1 - O TESTE]]                     | Primeira aparição (Evan)                     |
-| [[Campanhas/Nunumia - O Último Tesouro/OUTRPG - EPISÓDIO 2 - A PROFETA\|OUTRPG - EPISÓDIO 2 - A PROFETA]]                   | Presente (Evan)                              |
-| [[Campanhas/Nunumia - O Último Tesouro/OUTRPG - EPISÓDIO 4 - SEMPRE TEM UM RECOMEÇO\|OUTRPG - EPISÓDIO 4 - SEMPRE TEM UM RECOMEÇO]]      | Presente (Evan)<br>Primeira Aparição (Emily) |
-| [[Campanhas/Nunumia - O Último Tesouro/OUTRPG - EPISÓDIO 5 - JOGOS\|OUTRPG - EPISÓDIO 5 - JOGOS]]                       | Presente (Emily)                             |
-| [[Campanhas/Nunumia - O Último Tesouro/OUTRPG - EPISÓDIO 6 - FRAGMENTOS\|OUTRPG - EPISÓDIO 6 - FRAGMENTOS]]                  | Presente (Emily)                             |
-| [[Campanhas/Nunumia - O Último Tesouro/OUTRPG - EPISÓDIO 7 - BIFURCAÇÃO (TEMPO E ILUSÃO)\|OUTRPG - EPISÓDIO 7 - BIFURCAÇÃO (TEMPO E ILUSÃO)]] | Presente (Evan)<br>Presente (Emily)          |
+| **Episódios**                                         | **Aparições**                                    |
+| ----------------------------------------------------- | ------------------------------------------------ |
+| [[Campanhas/Nunumia - O Último Tesouro/OUTRPG - EPISÓDIO 1 - O TESTE\|OUTRPG - EPISÓDIO 1 - O TESTE]]                     | Primeira aparição (Evan)                         |
+| [[Campanhas/Nunumia - O Último Tesouro/OUTRPG - EPISÓDIO 2 - A PROFETA\|OUTRPG - EPISÓDIO 2 - A PROFETA]]                   | Presente (Evan)                                  |
+| [[Campanhas/Nunumia - O Último Tesouro/OUTRPG - EPISÓDIO 4 - SEMPRE TEM UM RECOMEÇO\|OUTRPG - EPISÓDIO 4 - SEMPRE TEM UM RECOMEÇO]]      | Presente (Evan)<br>Primeira Aparição (Emily)     |
+| [[Campanhas/Nunumia - O Último Tesouro/OUTRPG - EPISÓDIO 5 - JOGOS\|OUTRPG - EPISÓDIO 5 - JOGOS]]                       | Presente (Emily)                                 |
+| [[Campanhas/Nunumia - O Último Tesouro/OUTRPG - EPISÓDIO 6 - FRAGMENTOS\|OUTRPG - EPISÓDIO 6 - FRAGMENTOS]]                  | Presente (Emily)                                 |
+| [[Campanhas/Nunumia - O Último Tesouro/OUTRPG - EPISÓDIO 7 - BIFURCAÇÃO (TEMPO E ILUSÃO)\|OUTRPG - EPISÓDIO 7 - BIFURCAÇÃO (TEMPO E ILUSÃO)]] | Presente (Evan)<br>Presente (Emily)              |
+| [[Campanhas/Nunumia - O Último Tesouro Cinzas/OUTRPG 2 - EPISÓDIO 1 - MANCHAS DO FOGO\|OUTRPG 2 - EPISÓDIO 1 - MANCHAS DO FOGO]]           | Presente (Emily; visão de [[Personagens/Alger Baskerville\|Alger Baskerville]]) |
+| [[Campanhas/Nunumia - O Último Tesouro Cinzas/OUTRPG 2 - EPISÓDIO 2 - RENASCIMENTO\|OUTRPG 2 - EPISÓDIO 2 - RENASCIMENTO]]              | Presente                                         |
 

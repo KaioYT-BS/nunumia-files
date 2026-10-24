@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personagens/amon-vaelor/","created":"2026-02-08T13:45:54.488-03:00","updated":"2026-10-11T12:00:46.720-03:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/personagens/amon-vaelor/","created":"2026-02-08T13:45:54.488-03:00","updated":"2026-10-11T13:31:19.897-03:00","dg-note-properties":{}}
 ---
 
 
@@ -25,7 +25,7 @@ Para sua transformação, mentor e irmão, veja [[Personagens/Ancião de Segunda
 | **Relações**                             | Veja [[Personagens/Amon Vaelor#Relações\|§ Relações]]<br>[[Personagens/Elizabeth Vaelor - △\|Elizabeth Vaelor - △]] (irmã)<br>[[Franklin Vaelor\|Franklin Vaelor]] (irmão)<br>[[Personagens/Latiff Violett\|Latiff Violett]] (irmão)<br>[[Personagens/Rouxi Vaelor - △\|Rouxi Vaelor - △]] (irmão)<br>[[Personagens/Nyla Vaelor - △\|Nyla Vaelor - △]] (irmã)<br>[[Personagens/Ancião de Segunda Era\|Ancião]] (irmão) |
 | **Ocupação**                             | Membro dos [[Páginas/Magos de Skyline\|Magos de Skyline]] (anteriormente)<br>Membro das [[Organizações/Palácio de Jade (Organização)/Equipes/Waifus do Caribe\|Waifus do Caribe]]                                                                                                                                                                   |
 | **Raça**                                 | Equilímo                                                                                                                                                                                                                                             |
-| **Associação**                           | [[Organizações/Palácio de Jade (Organização)/Equipes/Waifus do Caribe\|Waifus do Caribe]]<br>[[Organizações/Palácio de Jade (Organização)/Palácio de Jade\|Palácio de Jade]]<br>[[As Nações de Nunumia/Sete Grandes Nações de Nunumia/Imperium Diamante\|Imperium Diamante]]<br>[[Páginas/Magos de Skyline\|Magos de Skyline]]                                                                                                                                                         |
+| **Associação**                           | [[Organizações/Palácio de Jade (Organização)/Equipes/Waifus do Caribe\|Waifus do Caribe]]<br>[[Organizações/Palácio de Jade (Organização)/Palácio de Jade (Organização)\|Palácio de Jade (Organização)]]<br>[[As Nações de Nunumia/Sete Grandes Nações de Nunumia/Imperium Diamante\|Imperium Diamante]]<br>[[Páginas/Magos de Skyline\|Magos de Skyline]]                                                                                                                                                         |
 
 
 **Amon Vaelor** é um dos protagonistas de [[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro (Série)\|Nunumia: O Último Tesouro]]
@@ -69,7 +69,7 @@ Tudo era muito novo e confuso. Amon acabou de voar para um castelo feito de luz 
 ---
 ## Artes
 
-| ![Teaser de Amon Vaelor em O Teste.png\|350](/img/user/0-Assets/Teasers/OUT/ep1/Teaser%20de%20Amon%20Vaelor%20em%20O%20Teste.png)<br>Apresentação de Amon em **[[Campanhas/Nunumia - O Último Tesouro/OUTRPG - EPISÓDIO 1 - O TESTE\|"O Teste"]]** | ![Teaser de Amon em Problemas de Sangue.png.png\|350](/img/user/0-Assets/Teasers/OUT/ep3/Teaser%20de%20Amon%20em%20Problemas%20de%20Sangue.png.png)<br>Teaser de Amon em [[Campanhas/Nunumia - O Último Tesouro/OUTRPG - EPISÓDIO 3 - PROBLEMAS DE SANGUE\|"Problemas de Sangue"]] | ![Alger e Amon jogos.png\|350](/img/user/0-Assets/Images/Alger%20e%20Amon%20jogos.png) |
+| ![Teaser de Amon Vaelor em O Teste.png\|350](/img/user/0-Assets/Images/Teasers/OUT/ep1/Teaser%20de%20Amon%20Vaelor%20em%20O%20Teste.png)<br>Apresentação de Amon em **[[Campanhas/Nunumia - O Último Tesouro/OUTRPG - EPISÓDIO 1 - O TESTE\|"O Teste"]]** | ![Teaser de Amon em Problemas de Sangue.png.png\|350](/img/user/0-Assets/Images/Teasers/OUT/ep3/Teaser%20de%20Amon%20em%20Problemas%20de%20Sangue.png.png)<br>Teaser de Amon em [[Campanhas/Nunumia - O Último Tesouro/OUTRPG - EPISÓDIO 3 - PROBLEMAS DE SANGUE\|"Problemas de Sangue"]] | ![Alger e Amon jogos.png\|350](/img/user/0-Assets/Images/Teasers/Alger%20e%20Amon%20jogos.png) |
 | :------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------: | -------------------------------- |
 ## Token
 

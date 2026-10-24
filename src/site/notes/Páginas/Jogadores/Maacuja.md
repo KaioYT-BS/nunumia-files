@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/paginas/jogadores/maacuja/","created":"2026-02-08T13:45:54.236-03:00","updated":"2026-10-11T12:00:47.767-03:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/paginas/jogadores/maacuja/","created":"2026-02-08T13:45:54.236-03:00","updated":"2026-10-11T13:31:20.528-03:00","dg-note-properties":{}}
 ---
 
 #Jogadores #Jogadores_em_OUTRPG
@@ -18,7 +18,7 @@ Manuella Pontes de Carvalho, ou apenas **Manu** ou **Maacuja**, interpretou 
 
 # Personagens
 ---
-- **[[Personagens/Alger Baskerville\|Alger Baskerville]]:** Alger é um homem meio Elfo de cabelos e olhos azuis com 1,85m de altura e pele clara. Alger teve uma vida difícil, saindo de casa aos 16 anos e cortando relações com os pais, [[Personagens/Bartholomew Baskerville\|Bartholomew Baskerville]] e [[Personagens/Elisa Baskerville\|Elisa Baskerville]]. Com 29 anos foi convidado pelo [[Organizações/Palácio de Jade (Organização)/Palácio de Jade\|Palácio de Jade]] para fazer parte de uma tripulação que tinha o objetivo de obter [[Os Sete Segredos de Nunumia/As Sete Joias do Último Tesouro\|As Sete Joias do Último Tesouro]]. Alger entrou com a promessa de que ao abrir o tesouro teria seu desejo realizado, agora se metendo em problemas junto das [[Organizações/Palácio de Jade (Organização)/Equipes/Waifus do Caribe\|Waifus do Caribe]] e da [[Organizações/Palácio de Jade (Organização)/Força Nacional de Segurança de Zaun\|Força Nacional de Segurança de Zaun]], uma organização criada por Denver que ativamente ajudara na busca pelo o ultimo Tesouro.
+- **[[Personagens/Alger Baskerville\|Alger Baskerville]]:** Alger é um homem meio Elfo de cabelos e olhos azuis com 1,85m de altura e pele clara. Alger teve uma vida difícil, saindo de casa aos 16 anos e cortando relações com os pais, [[Personagens/Bartholomew Baskerville\|Bartholomew Baskerville]] e [[Personagens/Elisa Baskerville\|Elisa Baskerville]]. Com 29 anos foi convidado pelo [[Organizações/Palácio de Jade (Organização)/Palácio de Jade (Organização)\|Palácio de Jade (Organização)]] para fazer parte de uma tripulação que tinha o objetivo de obter [[Os Sete Segredos de Nunumia/Segredo de Aspheera/As Sete Joias do Último Tesouro\|As Sete Joias do Último Tesouro]]. Alger entrou com a promessa de que ao abrir o tesouro teria seu desejo realizado, agora se metendo em problemas junto das [[Organizações/Palácio de Jade (Organização)/Equipes/Waifus do Caribe\|Waifus do Caribe]] e da [[Organizações/Palácio de Jade (Organização)/Força Nacional de Segurança de Zaun\|Força Nacional de Segurança de Zaun]], uma organização criada por Denver que ativamente ajudara na busca pelo o ultimo Tesouro.
 
 # Curiosidades
 ---

@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/personagens/kenkaju-unow/","created":"2026-09-24T20:36:26.125-03:00","updated":"2026-10-01T21:22:25.410-03:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/personagens/kenkaju-unow/","created":"2026-09-24T20:36:26.125-03:00","updated":"2026-10-24T17:24:32.056-03:00","dg-note-properties":{"aliases":["Kenny"]}}
 ---
 
-#K #Personagens #Personagens_Principais_em_OUTRPG2 
+#K #Personagens #Personagens_Principais_em_OUTRPG2 #Destinados 
 
 > _"Ele não tem objetivos nobres, ou amigáveis. Pode não parecer, mas ele dá a vida pelo seu objetivo."
-> — Intérprete ([[Tomás Durão\|Tomás Durão]])
+> — Intérprete ([[Tomás Durão\|Tomás Durão]])_
 
 > _"Com a sua ajuda, Latiff... Eu vou finalmente iniciar meu projeto. E quando eu terminar, não haverá nada nesse mundo que eu não saiba."
 > — [[Personagens/Kenkaju Unow\|Kenkaju Unow]] para [[Personagens/Latiff Violett\|Latiff Violett]] em [[Campanhas/Nunumia - O Último Tesouro Cinzas/OUTRPG 2 - EPISÓDIO 1 - MANCHAS DO FOGO\|OUTRPG 2 - EPISÓDIO 1 - MANCHAS DO FOGO]]_
@@ -15,8 +15,9 @@
 | **Intérprete** | [[Tomás Durão\|Tomás Durão]]                                                                                              |
 | **Status**     | Vivo                                                                                                         |
 | **Idade**      | Entre 20 e 23                                                                                                |
-| **Apelidos**   | "Kenny"                                                                                                      |
+| **Apelidos**   | Kenny                                                                                                        |
 | **Relações**   |                                                                                                              |
+| **Destino**    | [[Os Sete Segredos de Nunumia/Segredo de Aspheera/Destinos do Último Tesouro#Conhecimento ( Kenkaju Unow )\|Destino do Conhecimento]]                        |
 | **Ocupação**   | Membro da inteligência do [[Organizações/Setor 11\|Setor 11]]<br>Membro do [[Esquadrão x24\|Esquadrão x24]]<br>Braço direito de [[Personagens/Latiff Violett\|Latiff Violett]] |
 | **Afinidade**  | [Ar](/img/user/P%C3%A1ginas/Elementos%20da%20Luz.md) ![Elemento de Ar Imagem.png\|20](/img/user/0-Assets/Images/Icons/Elemento%20de%20Ar%20Imagem.png)    |
 | **Classe**     | Suporte                                                                                                      |

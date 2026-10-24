@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/paginas/guia-de-paginas/","created":"2026-06-09T17:16:16.566-03:00","updated":"2026-10-11T12:00:47.473-03:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/paginas/guia-de-paginas/","created":"2026-06-09T17:16:16.566-03:00","updated":"2026-10-18T17:18:08.046-03:00","dg-note-properties":{}}
 ---
 
 #Diário_de_Deus #Páginas
@@ -8,7 +8,7 @@
 ## [[Cosmos\|Cosmos]]:
 O Cosmos é o lugar que abriga os três planos, sendo eles Skyline, Caterra e o Mundo invertido. Desde a criação, o cosmos sofre com as brigas pelo equilíbrio
 - [[Nunumia\|Nunumia]]
--  [[Páginas/Elementos da Luz\|Elementos da Luz]]
+- [[Páginas/Elementos da Luz\|Elementos da Luz]]
 - [[Elementos das Trevas\|Elementos das Trevas]]
 - [[Nunumia Antiga\|Nunumia Antiga]]
 - [[Calamidade da Magia\|Calamidade da Magia]]
@@ -17,10 +17,10 @@ O Cosmos é o lugar que abriga os três planos, sendo eles Skyline, Caterra e o 
 
 O maior segredo conhecido de Nunumia, ligado aos destinados, às joias, ao totem e aos desejos.
 
-- [[Os Sete Segredos de Nunumia/O Último Tesouro\|O Último Tesouro]]
-- [[Os Sete Segredos de Nunumia/As Sete Joias do Último Tesouro\|As Sete Joias do Último Tesouro]]
-- [[Os Sete Segredos de Nunumia/O Último Tesouro#Destinados\|Destinados]]
-- [[Os Sete Segredos de Nunumia/O Último Tesouro#Flagelo\|Flagelo]]
+- [[Os Sete Segredos de Nunumia/Segredo de Aspheera/O Último Tesouro\|O Último Tesouro]]
+- [[Os Sete Segredos de Nunumia/Segredo de Aspheera/As Sete Joias do Último Tesouro\|As Sete Joias do Último Tesouro]]
+- [[Os Sete Segredos de Nunumia/Segredo de Aspheera/O Último Tesouro#Destinados\|Destinados]]
+- [[Os Sete Segredos de Nunumia/Segredo de Aspheera/O Último Tesouro#Flagelo\|Flagelo]]
 - [[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro (Série)\|Nunumia - O Último Tesouro (Série)]]
 
 ## Sete Segredos e Lendas
@@ -28,8 +28,8 @@ O maior segredo conhecido de Nunumia, ligado aos destinados, às joias, ao totem
 
 Lendas antigas, segredos mágicos e mistérios que conectam os continentes, os deuses e os grandes conflitos do mundo.
 
-- [[Os Sete Segredos de Nunumia/O Último Tesouro\|O Último Tesouro]]
-- [[Os Sete Segredos de Nunumia/As Sete Joias do Último Tesouro\|As Sete Joias do Último Tesouro]]
+- [[Os Sete Segredos de Nunumia/Segredo de Aspheera/O Último Tesouro\|O Último Tesouro]]
+- [[Os Sete Segredos de Nunumia/Segredo de Aspheera/As Sete Joias do Último Tesouro\|As Sete Joias do Último Tesouro]]
 - [[Páginas/Diário de Deus\|Diário de Deus]]
 - [[Páginas/Nunumia - Files\|Nunumia: Files]]
 
@@ -68,9 +68,9 @@ Locais que aparecem como centros políticos, culturais, militares, religiosos ou
 Eventos, guerras, reinícios, calamidades e mudanças históricas que alteraram o mundo.
 
 - [[Eventos/A Guerra da Seda\|A Guerra da Seda]]
-- [[Eventos/Reinicio\|Reinicio]]
+- [[Eventos/Reinicio (REBOOT)\|Reinicio (REBOOT)]]
 - [[Calamidade da Magia\|Calamidade da Magia]]
-- [[Páginas/Coleções/História de Unova - Coleção\|História de Unova - Coleção]]
+- [[História de Unova - Coleção\|História de Unova - Coleção]]
 - [[Páginas/Coleções/História do Imperium Diamante - Coleção\|História do Imperium Diamante]]
 - [[Páginas/Coleções/História de HomeWorld - Coleção\|História de HomeWorld]]
 
@@ -98,7 +98,7 @@ Itens gerais, tipos de equipamento, relíquias, máscaras e objetos ligados a ca
 - [[Páginas/Tipos de Itens\|Tipos de Itens]]
 - [[Máscaras/Máscara do Tempo (Chronos)\|Máscara do Tempo]]
 - [[Máscaras/Máscara da Ilusão\|Máscara da Ilusão]]
-- [[Os Sete Segredos de Nunumia/As Sete Joias do Último Tesouro\|As Sete Joias do Último Tesouro]]
+- [[Os Sete Segredos de Nunumia/Segredo de Aspheera/As Sete Joias do Último Tesouro\|As Sete Joias do Último Tesouro]]
 
 ## Religiões e Deuses
 ---
@@ -134,7 +134,7 @@ Povos, raças e grupos biológicos ou culturais que compõem a população do mu
 
 Governos, instituições, equipes, agências, forças militares e grupos que influenciam os conflitos de Nunumia.
 
-- [[Organizações/Palácio de Jade (Organização)/Palácio de Jade\|Palácio de Jade]]
+- [[Organizações/Palácio de Jade (Organização)/Palácio de Jade (Organização)\|Palácio de Jade (Organização)]]
 - [[Organizações/Palácio de Jade (Organização)/Força Nacional de Segurança de Zaun\|Força Nacional de Segurança de Zaun]]
 - [[Organizações/Strikers\|Corporação Strikers]]
 - [[Organizações/Setor 11\|Setor 11]]

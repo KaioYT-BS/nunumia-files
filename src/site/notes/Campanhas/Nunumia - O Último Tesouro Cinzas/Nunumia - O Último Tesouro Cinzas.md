@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campanhas/nunumia-o-ultimo-tesouro-cinzas/nunumia-o-ultimo-tesouro-cinzas/","created":"2026-09-27T08:51:27.297-03:00","updated":"2026-10-11T12:00:46.077-03:00","dg-note-properties":{"aliases":["OUTRPG-2","O Último Tesouro Cinzas"]}}
+{"dg-publish":true,"permalink":"/campanhas/nunumia-o-ultimo-tesouro-cinzas/nunumia-o-ultimo-tesouro-cinzas/","created":"2026-09-27T08:51:27.297-03:00","updated":"2026-10-16T22:14:14.202-03:00","dg-note-properties":{"aliases":["OUTRPG-2","O Último Tesouro Cinzas"]}}
 ---
 
 #Campanha #Temporadas_de_OUTRPG
@@ -14,4 +14,4 @@
 | **Campanha principal** | [[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro (Série)\|Nunumia - O Último Tesouro (Série)]]                                                                                                                                                                                                                                                                                                                          |
 | **Primeiro episódio**  | [[Campanhas/Nunumia - O Último Tesouro Cinzas/OUTRPG 2 - EPISÓDIO 1 - MANCHAS DO FOGO\|OUTRPG 2 - EPISÓDIO 1 - MANCHAS DO FOGO]]                                                                                                                                                                                                                                                                                                             |
 | **Último episódio**    | ???                                                                                                                                                                                                                                                                                                                                                     |
-**O Último Tesouro Cinzas** é a segunda temporada da série [[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro (Série)\|Nunumia - O Último Tesouro (Série)]], sendo a campanha sucessora dos atos [[O começo da Passagem\|O começo da Passagem]] e [[Desmoronando\|Desmoronando]] 
+**O Último Tesouro Cinzas** é a segunda temporada da série [[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro (Série)\|Nunumia - O Último Tesouro (Série)]], sendo a campanha sucessora dos atos [[O começo da Passagem\|O começo da Passagem]] e [[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro Desmoronando\|Nunumia - O Último Tesouro Desmoronando]] 

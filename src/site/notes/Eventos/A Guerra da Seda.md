@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/eventos/a-guerra-da-seda/","created":"2026-03-08T00:45:30.636-03:00","updated":"2026-04-23T14:05:38.366-03:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/eventos/a-guerra-da-seda/","created":"2026-03-08T00:45:30.636-03:00","updated":"2026-10-17T19:43:15.507-03:00","dg-note-properties":{"aliases":["Guerra da Seda"]}}
 ---
 
-#A #Eventos #Guerras
+#A #Eventos
 
 | **Data**       | **1945-1950**                                                                        |
 | -------------- | ------------------------------------------------------------------------------------ |

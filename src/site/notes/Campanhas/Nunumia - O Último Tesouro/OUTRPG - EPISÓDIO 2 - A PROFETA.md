@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campanhas/nunumia-o-ultimo-tesouro/outrpg-episodio-2-a-profeta/","created":"2026-02-08T13:45:54.166-03:00","updated":"2026-10-11T12:20:10.869-03:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/campanhas/nunumia-o-ultimo-tesouro/outrpg-episodio-2-a-profeta/","created":"2026-02-08T13:45:54.166-03:00","updated":"2026-10-16T22:28:12.575-03:00","dg-note-properties":{}}
 ---
 
 #Episódios_de_OUTRPG 
@@ -19,7 +19,7 @@ Para a personagem de mesmo nome, veja [[Personagens/Anne Psina\|A Profeta]]
 | **Personagens no episódio**                                 | Waifus do Caribe:<br>[[Personagens/Alger Baskerville\|Alger Baskerville]]<br>[[Personagens/Amon Vaelor\|Amon Vaelor]]<br>[[Personagens/Evan Pale Archin\|Evan Pale Archin]]<br>[[Personagens/Chromorios Solvaris\|Chromorios Solvaris]]<br>[[Personagens/Cassidy Mazedy\|Cassidy Mazedy]]<br><br>---<br><br>Palácio de Jade:<br>[[Personagens/Denver Zuma\|Denver Zuma]]<br>[[Personagens/Scarlet Mana Jin-Can\|Scarlet Mana Jin-Can]]<br>[[Personagens/William Emily ♱\|William Emily ♱]]<br>[[Organizações/Palácio de Jade (Organização)/Equipes/Equipe Delta\|Equipe Delta]] (disfarçados)<br><br>---<br><br>Strikers:<br>[[Personagens/Mars Sailer\|Mars Sailer]]<br>[[Personagens/Anne Psina\|Anne Psina]]<br>Seguranças de Anne e Mars<br> |
 | **Locais no Episódio**                                      | [[As Nações de Nunumia/Sete Grandes Nações de Nunumia/Zaun\|Zaun]]:<br>[[Locais/Zaun/Palácio de Jade (Local)\|Palácio de Jade (Local)]]<br>Taverna do Oswaldo<br>                                                                                                                                                                                                                                                                                                                  |
 | **Episódio anterior**:<br>[[Campanhas/Nunumia - O Último Tesouro/OUTRPG - EPISÓDIO 1 - O TESTE\|OUTRPG - EPISÓDIO 1 - O TESTE]] | **Próximo episódio**:<br>[[Campanhas/Nunumia - O Último Tesouro/OUTRPG - EPISÓDIO 3 - PROBLEMAS DE SANGUE\|OUTRPG - EPISÓDIO 3 - PROBLEMAS DE SANGUE]]                                                                                                                                                                                                                                                                                                              |
-**A Profeta** é o segundo episódio de [[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro (Série)\|Nunumia - O Último Tesouro (Série)]]. Esse episódio faz parte do [[]]
+**A Profeta** é o segundo episódio de [[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro (Série)\|Nunumia - O Último Tesouro (Série)]]. Esse episódio faz parte do 
 # Sumário
 ---
 Vocês enxergam, enxergam a luz. Barcos chegando cada vez mais perto. O Ilusionista se dissipa no ar enquanto o convés do navio pega fogo.

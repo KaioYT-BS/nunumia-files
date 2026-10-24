@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personagens/denver-zuma/","created":"2026-02-08T13:45:54.537-03:00","updated":"2026-10-01T21:18:25.561-03:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/personagens/denver-zuma/","created":"2026-02-08T13:45:54.537-03:00","updated":"2026-10-11T13:31:19.987-03:00","dg-note-properties":{}}
 ---
 
 #D #Personagens #Personagens_do_Mestre  #Personagens_Principais_em_OUTRPG  #Personagens_Principais_em_OUTRPG2 #Aliados_em_OUTRPG 
@@ -20,7 +20,7 @@
 | **Ocupação**   | Membro do [[Esquadrão Primal\|Esquadrão Primal]] (anteriormente)<br>Primeiro Ministro de [[As Nações de Nunumia/Sete Grandes Nações de Nunumia/Zaun\|Zaun]] (anteriormente)<br>Imperador de [[As Nações de Nunumia/Sete Grandes Nações de Nunumia/Zaun\|Zaun]]                                                                                    |
 | **Classe**     | Suporte                                                                                                                                                                                                     |
 | **Raça**       | Humano                                                                                                                                                                                                      |
-| **Associação** | [[Os Sete Segredos de Nunumia/O Último Tesouro\|O Último Tesouro]]<br>[[Organizações/Palácio de Jade (Organização)/Força Nacional de Segurança de Zaun\|Força Nacional de Segurança de Zaun]]<br>[[Organizações/Palácio de Jade (Organização)/Palácio de Jade\|Palácio de Jade]]<br>[[Organizações/Palácio de Jade (Organização)/Equipes/Waifus do Caribe\|Waifus do Caribe]]<br>[[Esquadrão Primal\|Esquadrão Primal]] (anteriormente)<br>[[As Nações de Nunumia/Sete Grandes Nações de Nunumia/Zaun\|Zaun]]<br>[[Organizações/Conselho de Unova\|Conselho de Unova]]                 |
+| **Associação** | [[Os Sete Segredos de Nunumia/Segredo de Aspheera/O Último Tesouro\|O Último Tesouro]]<br>[[Organizações/Palácio de Jade (Organização)/Força Nacional de Segurança de Zaun\|Força Nacional de Segurança de Zaun]]<br>[[Organizações/Palácio de Jade (Organização)/Palácio de Jade (Organização)\|Palácio de Jade (Organização)]]<br>[[Organizações/Palácio de Jade (Organização)/Equipes/Waifus do Caribe\|Waifus do Caribe]]<br>[[Esquadrão Primal\|Esquadrão Primal]] (anteriormente)<br>[[As Nações de Nunumia/Sete Grandes Nações de Nunumia/Zaun\|Zaun]]<br>[[Organizações/Conselho de Unova\|Conselho de Unova]]                 |
 # Relações
 ---
 - [[Personagens/Maria Gálio Zuma\|Maria Gálio Zuma]]:

@@ -24,7 +24,7 @@
 ---
 ## Artes
 
-| ![Teaser de Saon em Problemas de Sangue.png.png\|350](/img/user/0-Assets/Teasers/OUT/ep3/Teaser%20de%20Saon%20em%20Problemas%20de%20Sangue.png.png)<br>Teaser de Saon Admircov em [[Campanhas/Nunumia - O Último Tesouro/OUTRPG - EPISÓDIO 3 - PROBLEMAS DE SANGUE\|"Problemas de Sangue"]] |     |
+| ![Teaser de Saon em Problemas de Sangue.png.png\|350](/img/user/0-Assets/Images/Teasers/OUT/ep3/Teaser%20de%20Saon%20em%20Problemas%20de%20Sangue.png.png)<br>Teaser de Saon Admircov em [[Campanhas/Nunumia - O Último Tesouro/OUTRPG - EPISÓDIO 3 - PROBLEMAS DE SANGUE\|"Problemas de Sangue"]] |     |
 | :--------------------------------------------------------------------------------------------------------------------------------------------------------: | :-: |
 
 

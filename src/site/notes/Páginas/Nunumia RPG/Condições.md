@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/paginas/nunumia-rpg/condicoes/","created":"2026-03-09T22:23:11.704-03:00","updated":"2026-06-27T19:45:26.435-03:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/paginas/nunumia-rpg/condicoes/","created":"2026-03-09T22:23:11.704-03:00","updated":"2026-10-24T16:00:30.219-03:00","dg-note-properties":{"aliases":["Estados"]}}
 ---
 
 #C #Páginas 
@@ -11,6 +11,8 @@ O personagem fica com todos os seus *Pontos de Determinação* zerados. Além di
 O personagem está pegando fogo. No início de seus turnos, sofre 1d4 pontos de dano. O personagem pode gastar uma ação padrão para apagar o fogo com as mãos. Caso haja imersão em água as chamas são apagadas.
 # Exausto
 O personagem fica debilitado, lento e vulnerável. Se ficar exausto novamente, em vez disso fica inconsciente. Condição de fadiga.
+# Invisível
+O personagem fica invisível por uma quantidade determinada de turnos, causando 
 # Machucado
 # Morrendo
 Com 0 pontos de vida (PV). Um personagem morrendo fica inconsciente e, se terminar mais de três rodadas (não necessariamente consecutivas) morrendo na mesma cena, morre. Esta condição se encerra se o personagem voltar a ter pelo menos 1 PV.

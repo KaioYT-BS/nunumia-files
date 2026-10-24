@@ -98,7 +98,7 @@ Uma entidade híbrida, carregando memórias, vontades e conflitos de duas exist�
 Não mais como apenas Chromorios, mas como algo novo.
 
 Algo que o próprio tempo talvez não tivesse previsto.
-## [[Os Sete Segredos de Nunumia/O Último Tesouro\|O Último Tesouro]]
+## [[Os Sete Segredos de Nunumia/Segredo de Aspheera/O Último Tesouro\|O Último Tesouro]]
 
 > [!NOTE] Tópico não escrito
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personagens/ambrosio-coralar/","created":"2026-02-08T13:45:54.484-03:00","updated":"2026-10-11T12:00:46.691-03:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/personagens/ambrosio-coralar/","created":"2026-02-08T13:45:54.484-03:00","updated":"2026-10-24T17:10:40.725-03:00","dg-note-properties":{}}
 ---
 
 #A #Personagens #Personagens_Principais_em_OUTRPG #Personagens_do_Mestre 
@@ -13,11 +13,11 @@
 
 | **Intérpretes** | [[Páginas/Jogadores/Kaiositos\|Kaiositos]]                                                                                                                                                                                |
 | --------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Status**      | Viva (Em coma)                                                                                                                                                                               |
+| **Status**      | Viva                                                                                                                                                                                         |
 | **Idade**       | 34                                                                                                                                                                                           |
-| **Apelidos**    | "Incompetente" ([[Personagens/Nathaniel Scompa ♱\|Nathaniel Scompa ♱]])                                                                                                                                                        |
-| **Relações**    | Veja [[Personagens/Adam Smith#Relações\|§ Relações]]<br>[[Personagens/Bartholomew Baskerville\|Bartholomew Baskerville]] (Parceiro romântico)<br>[[Personagens/Latiff Violett\|Latiff Violett]] (inimigo)                                                                         |
-| **Ocupação**    | Diplomata de Porto Royal em [[Casa Umbrella\|Casa Umbrella]]<br>Vice-presidente do [[As Nações de Nunumia/Sete Grandes Nações de Nunumia/Porto Royal\|Porto Royal]]                                                                                                          |
+| **Apelidos**    | "Incompetente" ([[Personagens/Nathaniel Scompa ♱\|Nathaniel Scompa ♱]])                                                                                                                                                      |
+| **Relações**    | Veja [[Personagens/Adam Smith#Relações\|§ Relações]]<br>[[Personagens/Bartholomew Baskerville\|Bartholomew Baskerville]] (ex-parceiro romântico)<br>[[Personagens/Latiff Violett\|Latiff Violett]] (inimigo)                                                              |
+| **Ocupação**    | Diplomata de Porto Royal em [[Casa Umbrella\|Casa Umbrella]]<br>Vice-presidente do [[As Nações de Nunumia/Sete Grandes Nações de Nunumia/Porto Royal\|Porto Royal]] (anteriormente)                                                                                          |
 | **Raça**        | Humana                                                                                                                                                                                       |
 | **Associação**  | [[Organizações/Escarlates\|Escarlates]]<br>[[Organizações/Strikers\|Strikers]]<br>[[As Nações de Nunumia/Sete Grandes Nações de Nunumia/Unova\|Unova]]<br>[[As Nações de Nunumia/Sete Grandes Nações de Nunumia/Porto Royal\|Porto Royal]]<br>[[Organizações/Industrias Baskerville\|Industrias Baskerville]]<br>[[Organizações/Corporação Gentileza\|Corporação Gentileza]]<br>[[Organizações/Império de Unova/Casas de Unova#Umbrella (Poder Internácional)\|Casa Umbrella]] |
 **Ambrósio Coralar** é uma antagonista de [[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro (Série)\|Nunumia - O Último Tesouro (Série)]].
@@ -34,7 +34,7 @@ Ambrósio é a diplomata de Porto Royal na [[Organizações/Império de Unova/Ca
 
 | Item                                                              | Descrição                                                                                                                                                                                                                                                                                                          |
 | ----------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| ![Pasted image 20260421102807.png](/img/user/0-Assets/Images/Pasted%20image%2020260421102807.png)<br>***Sombrinha Balística*** | Uma arma disfarçada de sombrinha elegante, com acabamento refinado e detalhes ornamentais. No interior, esconde um mecanismo de disparo semiautomático integrado ao cabo, funcionando como uma carabina compacta.<br><br>Ideal para infiltração e combate surpresa, une estética sofisticada com eficiência letal. |
+| ![Pasted image 20260421102807.png](/img/user/0-Assets/Images/Itens/Pasted%20image%2020260421102807.png)<br>***Sombrinha Balística*** | Uma arma disfarçada de sombrinha elegante, com acabamento refinado e detalhes ornamentais. No interior, esconde um mecanismo de disparo semiautomático integrado ao cabo, funcionando como uma carabina compacta.<br><br>Ideal para infiltração e combate surpresa, une estética sofisticada com eficiência letal. |
 |                                                                   |                                                                                                                                                                                                                                                                                                                    |
 > Para mais detalhes sobre o item, veja: [[Páginas/Itens#Sombrinha Balística\|Sombrinha Balística]].
 

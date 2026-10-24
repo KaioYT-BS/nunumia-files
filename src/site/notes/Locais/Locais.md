@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locais/locais/","created":"2026-10-11T10:33:43.466-03:00","updated":"2026-10-11T11:05:27.683-03:00","dg-note-properties":{"aliases":["Locais em Nunumia"]}}
+{"dg-publish":true,"permalink":"/locais/locais/","created":"2026-10-11T10:33:43.466-03:00","updated":"2026-10-18T17:15:53.762-03:00","dg-note-properties":{"aliases":["Locais em Nunumia"]}}
 ---
 
 #L #Páginas
@@ -22,13 +22,13 @@
 			- [[Locais/Porto Royal/Base Militar de Ilha Marine\|Base Militar de Ilha Marine]]
 	- ## [[Sunniest\|Sunniest]]
 		- Walinkin
-			- [[Base Militar de Walinkin\|Base Militar de Walinkin]]
-- # [[As Nações de Nunumia/Sete Grandes Nações de Nunumia/Zaun\|Zaun]] - [[Locais/Zallei\|Zallei]]
-	- ## [[Locais/Zaun/Os Cinco Bairros de Zaun/Margarida\|Margarida]]
+			- [[Locais/Porto Royal/Base Militar de Walinkin\|Base Militar de Walinkin]]
+- # [[As Nações de Nunumia/Sete Grandes Nações de Nunumia/Zaun\|Zaun]] - [[Locais/Continentes de Nunumia\|Continentes de Nunumia]]
+	- ## [[Locais/Zaun/Bairros de Zaun/Margarida\|Margarida]]
 		- [[Locais/Zaun/Taverna do Oswaldo\|Taverna do Oswaldo]]
-	- ## [[Locais/Zaun/Os Cinco Bairros de Zaun/Hallical\|Hallical]]
-	- ## [[Locais/Zaun/Os Cinco Bairros de Zaun/Solaris (Bairro)\|Solaris (Bairro)]]
-		- [[Cidadela de Solaris\|Cidadela de Solaris]]
+	- ## [[Locais/Zaun/Bairros de Zaun/Hallical\|Hallical]]
+	- ## [[Locais/Zaun/Bairros de Zaun/Solaris (Bairro)\|Solaris (Bairro)]]
+		- [[Locais/Zaun/Cidadela de Solaris\|Cidadela de Solaris]]
 			- [[Organizações/Industrias Baskerville\|Industrias Baskerville]] (Sede)
 			- [[Locais/Zaun/Palácio de Jade (Local)\|Palácio de Jade]]
 				- [[Locais/Zaun/Bunker da Força Nacional de Segurança de Zaun\|Bunker da Força Nacional de Segurança de Zaun]]
