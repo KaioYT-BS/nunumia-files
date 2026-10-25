@@ -1,14 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/campanhas/nunumia-o-ultimo-tesouro/outrpg-episodio-5-jogos/","created":"2026-03-22T23:53:18.480-03:00","updated":"2026-10-24T23:31:55.312-03:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/campanhas/nunumia-o-ultimo-tesouro/outrpg-episodio-5-jogos/","created":"2026-03-22T23:53:18.480-03:00","updated":"2026-10-24T23:44:53.608-03:00","dg-note-properties":{}}
 ---
 
 #Episódios_de_OUTRPG 
 
 >"_Pai, você levitou ele?"
->— [[Personagens/Emily Speavers Baskerville\|Emily Speavers Baskerville]] para [[Personagens/Amon Vaelor\|Amon Vaelor]]
+>— [[Personagens/Emily Speavers Baskerville\|Emily Speavers Baskerville]] para [[Personagens/Amon Vaelor\|Amon Vaelor]]_
 
 >"_Gwen, eu te amo!"
->— Últimas palavras de [[Personagens/Ash Koval ♱\|Ash Koval ♱]]
+>— Últimas palavras de [[Personagens/Ash Koval ♱\|Ash Koval ♱]]_
 
 | **Capa**                                                                   | ![Capa de JOGOS.png](/img/user/0-Assets/Images/Capas%20de%20Epis%C3%B3dio/Capa%20de%20JOGOS.png)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 | -------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
