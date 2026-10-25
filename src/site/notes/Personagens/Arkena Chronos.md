@@ -18,7 +18,7 @@
 | **Idade**      | Desconhecida                                |
 | **Ocupação**   | Portadora da [[Máscaras/Máscara do Tempo (Chronos)\|Máscara do Tempo (Chronos)]] |
 | **Afinidade**  | Trevas - Tempo                              |
-| **Associação** | [[Organizações/Filhos do Tempo\|Filhos do Tempo]]                         |
+| **Associação** | [[Organizações e Equipes/Filhos do Tempo\|Filhos do Tempo]]                         |
 
 # História
 ---

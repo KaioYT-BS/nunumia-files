@@ -19,10 +19,10 @@
 | **Idade Atual** | +7.000                                                                                                                                                     |
 | **Apelidos**    | "Chromorios Solvaris" - Nome Original<br>"[[Personagens/Akin Tornin\|Akin Tornin]]"<br>"Ananke Amargun" - Nome da Amalgama<br>"Morgan Voreal" - Identidade imposta por [[Personagens/Overlord\|Overlord]] |
 | **Relações**    | [[Personagens/Arkena Chronos\|Arkena Chronos]] (mestra)                                                                                                                                |
-| **Ocupação**    | Escrivão (Escriba)<br>Enviado pelo Tempo<br>==Primeiro Destinado==<br>Membro das [[Organizações/Palácio de Jade (Organização)/Equipes/Waifus do Caribe\|Waifus do Caribe]]                                                      |
+| **Ocupação**    | Escrivão (Escriba)<br>Enviado pelo Tempo<br>==Primeiro Destinado==<br>Membro das [[Organizações e Equipes/Palácio de Jade (Organização)/Equipes/Waifus do Caribe\|Waifus do Caribe]]                                                      |
 | **Classe**      | Suporte                                                                                                                                                    |
 | **Raça**        | Vazimo (Chromorios)<br>[[Raças/Elfos\|Elfos]]<br>[[Raças/Humano-Marinho\|Humano-Marinho]]<br>[[Raças/Lobos\|Lobos]]<br>[[Raças/Vazimos\|Vazimos]] (Atualmente)                                                            |
-| **Associação**  | [[Organizações/Filhos do Tempo\|Filhos do Tempo]]<br>[[Personagens/Overlord\|Overlord]]<br>[[Máscaras/Máscara do Tempo (Chronos)\|Máscara do Tempo (Chronos)]])<br>[[Organizações/Palácio de Jade (Organização)/Equipes/Waifus do Caribe\|Waifus do Caribe]]                                                             |
+| **Associação**  | [[Organizações e Equipes/Filhos do Tempo\|Filhos do Tempo]]<br>[[Personagens/Overlord\|Overlord]]<br>[[Máscaras/Máscara do Tempo (Chronos)\|Máscara do Tempo (Chronos)]])<br>[[Organizações e Equipes/Palácio de Jade (Organização)/Equipes/Waifus do Caribe\|Waifus do Caribe]]                                                             |
 **Chromorios Solvaris** é um dos protagonistas de [[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro (Série)\|Nunumia - O Último Tesouro (Série)]].
 # História
 ---

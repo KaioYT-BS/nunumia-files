@@ -10,10 +10,10 @@
 | **Status**     | Falecida                                                                                              |
 | **Idade**      | 30                                                                                                    |
 | **Relações**   | [[Personagens/Gwen Kostenko\|Gwen Kostenko]] (esposa)<br>[[Personagens/Maxi Frontier\|Maxi Frontier]] (amiga)                                               |
-| **Ocupação**   | Estudante (anteriormente)<br>Investigadora Independente (anteriormente)<br>Agente da [[Organizações/Palácio de Jade (Organização)/Equipes/Equipe Delta\|Equipe Delta]] |
+| **Ocupação**   | Estudante (anteriormente)<br>Investigadora Independente (anteriormente)<br>Agente da [[Organizações e Equipes/Palácio de Jade (Organização)/Equipes/Equipe Delta\|Equipe Delta]] |
 | **Classe**     | Destruidora                                                                                           |
 | **Raça**       | [[Raças/Humanos\|Humana]]                                                                                   |
-| **Associação** | [[Organizações/Agencia de Investigações Inabituais (AII)\|Agencia de Investigações Inabituais (AII)]]                                                         |
+| **Associação** | [[Organizações e Equipes/Agencia de Investigações Inabituais (AII)\|Agencia de Investigações Inabituais (AII)]]                                                         |
 
 # Aparições
 ---

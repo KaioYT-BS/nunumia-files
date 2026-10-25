@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personagens/evan-pale-archin/","created":"2026-02-08T13:45:54.583-03:00","updated":"2026-10-11T12:00:46.935-03:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/personagens/evan-pale-archin/","created":"2026-02-08T13:45:54.583-03:00","updated":"2026-10-24T21:29:03.635-03:00","dg-note-properties":{}}
 ---
 
 #Página_Descontinuada 
@@ -14,7 +14,7 @@ Evan é um reflexo distorcido do que [[Personagens/Emily Speavers Baskerville\|E
 
 Sendo descendente de uma **Tecelã e de um humano**, Evan representa tudo aquilo que Emily tentou enterrar: a dor, a raiva e o trauma de ser forçada a ser algo que seu pai idealizou. Enquanto Emily simboliza a parte inocente que ainda tenta sobreviver, Evan carrega o peso das memórias que ela não consegue suportar.
 
-Antes dos eventos principais de **[[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro (Série)\|Nunumia: O Último Tesouro]]**, Evan serviu como um dos cavaleiros da ordem do [[Organizações/Império de Unova/Pyraminx\|Organizações/Império de Unova/Pyraminx]]. Ele conseguiu a posição por meio da indicação de sua então namorada, [[Personagens/Saon Admircov\|Saon Admircov]].
+Antes dos eventos principais de **[[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro (Série)\|Nunumia: O Último Tesouro]]**, Evan serviu como um dos cavaleiros da ordem do [[Organizações e Equipes/Império de Unova/Pyraminx\|Pyraminx]]. Ele conseguiu a posição por meio da indicação de sua então namorada, [[Personagens/Saon Admircov\|Saon Admircov]].
 
 Durante os eventos de **[[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro (Série)\|Nunumia: O Último Tesouro]]**, Evan se junta a [[Personagens/Alger Baskerville\|Alger Baskerville]], [[Personagens/Chromorios Solvaris\|Chromorios Solvaris]] e [[Personagens/Cassidy Mazedy\|Cassidy Mazedy]] na missão de resgatar [[Personagens/Amon Vaelor\|Amon Vaelor]]. A missão foi organizada por [[Personagens/Denver Zuma\|Denver Zuma]], que pretendia reunir um grupo capaz de encontrar e abrir o lendário [[Os Sete Segredos de Nunumia/Segredo de Aspheera/O Último Tesouro\|O Último Tesouro]].
 

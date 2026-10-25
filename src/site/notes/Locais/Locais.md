@@ -29,6 +29,6 @@
 	- ## [[Locais/Zaun/Bairros de Zaun/Hallical\|Hallical]]
 	- ## [[Locais/Zaun/Bairros de Zaun/Solaris (Bairro)\|Solaris (Bairro)]]
 		- [[Locais/Zaun/Cidadela de Solaris\|Cidadela de Solaris]]
-			- [[Organizações/Industrias Baskerville\|Industrias Baskerville]] (Sede)
+			- [[Organizações e Equipes/Industrias Baskerville\|Industrias Baskerville]] (Sede)
 			- [[Locais/Zaun/Palácio de Jade (Local)\|Palácio de Jade]]
 				- [[Locais/Zaun/Bunker da Força Nacional de Segurança de Zaun\|Bunker da Força Nacional de Segurança de Zaun]]

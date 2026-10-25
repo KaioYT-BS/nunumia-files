@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/as-nacoes-de-nunumia/sete-grandes-nacoes-de-nunumia/imperium-diamante/","created":"2026-03-23T21:17:50.564-03:00","updated":"2026-10-09T19:18:41.213-03:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/as-nacoes-de-nunumia/sete-grandes-nacoes-de-nunumia/imperium-diamante/","created":"2026-03-23T21:17:50.564-03:00","updated":"2026-10-24T21:28:22.975-03:00","dg-note-properties":{}}
 ---
 
 #Nações #Coleção_História_de_Imperium_Diamante 
@@ -22,7 +22,7 @@
 | **População**              | 1 Bilhão (1.000.000.000)<br>                                                                                                                                                                                                    |
 | **Religião Oficial**       | [[Religiões/Glacianismo\|Glacianismo]]                                                                                                                                                                                                                 |
 | **Moeda**                  | Diam (Dianos) \| D$ \| DAM                                                                                                                                                                                                      |
-| **Organizações**           | **Governamental**:<br>[[Casa Cryro\|Casa Cryro]]<br>[[Organización Del tratado del Hemisfério Sur\|Organización Del tratado del Hemisfério Sur]]<br><br>**Militar**:<br>Exército Diamantino<br>Marinha Diamante<br>Força Aérea Diamantino<br><br>**Estatal**:<br>[[Energía del imperio\|Energía del imperio]] |
+| **Organizações**           | **Governamental**:<br>[[Casa Cryro\|Casa Cryro]]<br>[[Organización Del tratado del Hemisfério Sur\|Organización Del tratado del Hemisfério Sur]]<br><br>**Militar**:<br>Exército Diamantino<br>Marinha Diamante<br>Força Aérea Diamantino<br><br>**Estatal**:<br>[[Organizações e Equipes/Imperium Diamante/Energía del Imperium\|Energía del Imperium]] |
 # História
 ---
 ## [[As Nações de Nunumia/Nações Extintas/Reino Oriental da Nunumia\|Reino Oriental da Nunumia]] e [[Republica del Diamante\|Republica del Diamante]]
@@ -102,7 +102,7 @@ Apesar de sua estrutura como uma monarquia constitucional de caráter fortemente
 Desde períodos anteriores, os Povos Diamantes mantinham uma rivalidade histórica com [[As Nações de Nunumia/Sete Grandes Nações de Nunumia/Unova\|Unova]]. Essa tensão era motivada por diferenças estruturais e ideológicas profundas. Enquanto o Império Diamante consolidava seu poder internamente, [[As Nações de Nunumia/Sete Grandes Nações de Nunumia/Unova\|Unova]] expandia sua influência global, exercendo controle indireto sobre diversas nações e consolidando-se como uma potência de alcance internacional. Essa oposição entre centralização interna e hegemonia externa tornou-se um dos eixos centrais da geopolítica regional.
 
 ### Relações com Unova
-Em 890, o Império Diamante ingressou no [[Organizações/Conselho de Unova\|Conselho de Unova]], uma organização internacional comparável a uma assembleia global, com o objetivo de ampliar sua presença diplomática e evitar isolamento político.
+Em 890, o Império Diamante ingressou no [[Organizações e Equipes/Conselho de Unova\|Conselho de Unova]], uma organização internacional comparável a uma assembleia global, com o objetivo de ampliar sua presença diplomática e evitar isolamento político.
 
 Entretanto, a participação no conselho foi marcada por tensões constantes. Divergências ideológicas, disputas por influência e desconfiança mútua dificultaram a cooperação efetiva entre as duas potências.
 
@@ -117,7 +117,7 @@ Esse processo teve grande impacto geopolítico, ampliando a presença territoria
 
 ### [[Organización Del tratado del Hemisfério Sur\|Organización Del tratado del Hemisfério Sur]]
 
-Após sua saída do [[Organizações/Conselho de Unova\|Conselho de Unova]] em 1975, o Império Diamante liderou a criação da [[Organización Del Tratado del Hemisfério Sur\|Organización Del Tratado del Hemisfério Sur]], uma organização internacional voltada à cooperação política, econômica e militar entre países do hemisfério sul de [[Nunumia\|Nunumia]], especialmente aqueles com origem no antigo [[As Nações de Nunumia/Nações Extintas/Reino Oriental da Nunumia\|Reino Oriental da Nunumia]], sendo eles [[As Nações de Nunumia/Sete Grandes Nações de Nunumia/HomeWorld\|HomeWorld]] e [[As Nações de Nunumia/Sete Grandes Nações de Nunumia/Azahor\|Azahor]].
+Após sua saída do [[Organizações e Equipes/Conselho de Unova\|Conselho de Unova]] em 1975, o Império Diamante liderou a criação da [[Organización Del Tratado del Hemisfério Sur\|Organización Del Tratado del Hemisfério Sur]], uma organização internacional voltada à cooperação política, econômica e militar entre países do hemisfério sul de [[Nunumia\|Nunumia]], especialmente aqueles com origem no antigo [[As Nações de Nunumia/Nações Extintas/Reino Oriental da Nunumia\|Reino Oriental da Nunumia]], sendo eles [[As Nações de Nunumia/Sete Grandes Nações de Nunumia/HomeWorld\|HomeWorld]] e [[As Nações de Nunumia/Sete Grandes Nações de Nunumia/Azahor\|Azahor]].
 
 A organização passou a funcionar como um bloco alternativo de poder, equilibrando a influência exercida por [[As Nações de Nunumia/Sete Grandes Nações de Nunumia/Unova\|Unova]] no cenário internacional.
 
@@ -131,7 +131,7 @@ As relações exteriores do [[As Nações de Nunumia/Sete Grandes Nações de Nu
 
 O principal eixo de sua política externa sempre foi a rivalidade com [[As Nações de Nunumia/Sete Grandes Nações de Nunumia/Unova\|Unova]]. Desde os tempos da [[Republica del Diamante\|Republica del Diamante]], os [[Povos Diamantes\|Povos Diamantes]] desenvolveram uma oposição estrutural ao modelo unovano de influência global. Enquanto o Império Diamante consolidava sua força internamente, [[As Nações de Nunumia/Sete Grandes Nações de Nunumia/Unova\|Unova]] expandia sua presença internacional, exercendo controle indireto sobre diversas nações. Essa diferença gerou uma rivalidade duradoura, marcada por disputas diplomáticas, competição econômica e conflitos indiretos por zonas de influência.
 
-Apesar dessas tensões, houve períodos de aproximação limitada, especialmente durante a participação do império no [[Organizações/Conselho de Unova\|Conselho de Unova]]. No entanto, divergências ideológicas e estratégicas levaram à saída do Imperium em 1975, marcando uma ruptura significativa e o início de uma política externa mais independente.
+Apesar dessas tensões, houve períodos de aproximação limitada, especialmente durante a participação do império no [[Organizações e Equipes/Conselho de Unova\|Conselho de Unova]]. No entanto, divergências ideológicas e estratégicas levaram à saída do Imperium em 1975, marcando uma ruptura significativa e o início de uma política externa mais independente.
 
 Após esse afastamento, o império passou a investir na construção de sua própria esfera de influência, liderando a criação da [[Organización Del Tratado del Hemisfério Sur\|Organización Del Tratado del Hemisfério Sur]]. Essa organização reuniu países historicamente ligados ao [[As Nações de Nunumia/Nações Extintas/Reino Oriental da Nunumia\|Reino Oriental da Nunumia]], funcionando como um bloco político, econômico e militar capaz de equilibrar a influência de [[As Nações de Nunumia/Sete Grandes Nações de Nunumia/Unova\|Unova]] na região.
 

@@ -9,17 +9,17 @@
 
 | **Galeria**    | ![Katarina.png\|250](/img/user/0-Assets/Images/Icons/Personagens/Katarina.png)                                                                                                                                                                   |
 | -------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Intérprete** | [[Hanna\|Hanna]]                                                                                                                                                                                |
+| **Intérprete** | [[Páginas/Jogadores/Hanna\|Hanna]]                                                                                                                                                                                |
 | **Status**     | Viva                                                                                                                                                                                     |
 | **Idade**      | 21                                                                                                                                                                                       |
 | **Apelidos**   | "Kat"                                                                                                                                                                                    |
 | **Relações**   | [[Personagens/Ambrósio Coralar\|Ambrósio Coralar]] (ex-chefe)                                                                                                                                                          |
-| **Ocupação**   | Agente da [[Organizações/RIA\|Royalence Inteligence Agency]]<br>Traficante de Armas internacionais<br>Agente da [[Esquadrão x24\|Esquadrão x24]]                                                                     |
+| **Ocupação**   | Agente da [[Organizações e Equipes/Porto Royal/RIA\|Royalence Inteligence Agency]]<br>Traficante de Armas internacionais<br>Agente da [[Esquadrão x24\|Esquadrão x24]]                                                                     |
 | **Classe**     | Destruidora                                                                                                                                                                              |
 | **Raça**       | [[Raças/Humanos\|Humana]]                                                                                                                                                                      |
-| **Associação** | [[Organizações/Corporação Gentileza\|Corporação Gentileza]]<br>[[Organizações/RIA\|Royalence Inteligence Agency]]<br>[[Organizações/Partido Revolutionary Ultranationalist\|Ultranacionalistas do Porto Royal]]<br>[[Organizações/Guarda Revolucionária Azariana\|Guarda Revolucionária Azariana]] |
+| **Associação** | [[Organizações e Equipes/Corporação Gentileza/Corporação Gentileza\|Corporação Gentileza]]<br>[[Organizações e Equipes/Porto Royal/RIA\|Royalence Inteligence Agency]]<br>[[Organizações e Equipes/Porto Royal/Partido Revolutionary Ultranationalist\|Ultranacionalistas do Porto Royal]]<br>[[Organizações e Equipes/Guarda Revolucionária Azariana\|Guarda Revolucionária Azariana]] |
 
-**Katarina Holt** é uma das antagonistas de [[Campanhas/Nunumia - O Último Tesouro Cinzas/Nunumia - O Último Tesouro Cinzas\|Nunumia - O Último Tesouro Cinzas]], sendo responsável anteriormente pelo tráfico de armas da [[Organizações/Corporação Gentileza\|Corporação Gentileza]] para a [[Organizações/Guarda Revolucionária Azariana\|Guarda Revolucionária Azariana]], trabalhado diretamente com [[Personagens/Ambrósio Coralar\|Ambrósio Coralar]]
+**Katarina Holt** é uma das antagonistas de [[Campanhas/Nunumia - O Último Tesouro Cinzas/Nunumia - O Último Tesouro Cinzas\|Nunumia - O Último Tesouro Cinzas]], sendo responsável anteriormente pelo tráfico de armas da [[Organizações e Equipes/Corporação Gentileza/Corporação Gentileza\|Corporação Gentileza]] para a [[Organizações e Equipes/Guarda Revolucionária Azariana\|Guarda Revolucionária Azariana]], trabalhado diretamente com [[Personagens/Ambrósio Coralar\|Ambrósio Coralar]]
 # História
 ---
 # Relações

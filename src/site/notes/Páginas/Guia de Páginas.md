@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/paginas/guia-de-paginas/","created":"2026-06-09T17:16:16.566-03:00","updated":"2026-10-18T17:18:08.046-03:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/paginas/guia-de-paginas/","created":"2026-06-09T17:16:16.566-03:00","updated":"2026-10-24T21:29:03.763-03:00","dg-note-properties":{}}
 ---
 
 #Diário_de_Deus #Páginas
@@ -134,15 +134,15 @@ Povos, raças e grupos biológicos ou culturais que compõem a população do mu
 
 Governos, instituições, equipes, agências, forças militares e grupos que influenciam os conflitos de Nunumia.
 
-- [[Organizações/Palácio de Jade (Organização)/Palácio de Jade (Organização)\|Palácio de Jade (Organização)]]
-- [[Organizações/Palácio de Jade (Organização)/Força Nacional de Segurança de Zaun\|Força Nacional de Segurança de Zaun]]
-- [[Organizações/Strikers\|Corporação Strikers]]
-- [[Organizações/Setor 11\|Setor 11]]
-- [[Organizações/Conselho de Unova\|Conselho de Unova]]
-- [[Organizações/Império de Unova/Casas de Unova\|Casas de Unova]]
-- [[Organizações/Império de Unova/Pyraminx\|Pyraminx]]
-- [[Organizações/Agencia de Investigações Inabituais (AII)\|Agência de Investigações Inabituais]]
-- [[Organizações/Governo da Árvore da Vida\|Governo da Árvore da Vida]]
+- [[Organizações e Equipes/Palácio de Jade (Organização)/Palácio de Jade (Organização)\|Palácio de Jade (Organização)]]
+- [[Organizações e Equipes/Palácio de Jade (Organização)/Força Nacional de Segurança de Zaun\|Força Nacional de Segurança de Zaun]]
+- [[Organizações e Equipes/Corporação Gentileza/Strikers\|Corporação Strikers]]
+- [[Organizações e Equipes/Imperium Diamante/Setor 11\|Setor 11]]
+- [[Organizações e Equipes/Conselho de Unova\|Conselho de Unova]]
+- [[Organizações e Equipes/Império de Unova/Casas de Unova\|Casas de Unova]]
+- [[Organizações e Equipes/Império de Unova/Pyraminx\|Pyraminx]]
+- [[Organizações e Equipes/Agencia de Investigações Inabituais (AII)\|Agência de Investigações Inabituais]]
+- [[Organizações e Equipes/Governo da Árvore da Vida\|Governo da Árvore da Vida]]
 
 ## Campanhas e Registros
 ---

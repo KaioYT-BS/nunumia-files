@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/paginas/jogadores/garcia/","created":"2026-03-15T12:33:40.715-03:00","updated":"2026-10-11T12:00:47.655-03:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/paginas/jogadores/garcia/","created":"2026-03-15T12:33:40.715-03:00","updated":"2026-10-24T23:41:01.053-03:00","dg-note-properties":{}}
 ---
 
 #Jogadores #Jogadores_em_OUTRPG 
@@ -14,7 +14,7 @@
 | **Nascimento:**                   | 17/03/2012 - 14 anos                                         |
 | **Nome**                          | Guilherme Garcia do Amaral                                   |
 | **Ocupação**                      | Estudante                                                    |
-| **Personagens** **Interpretados** | [[Personagens/Cassidy Mazedy\|Cassidy Mazedy]] - [[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro (Série)\|Nunumia - O Último Tesouro (Série)]]          |
-| **Participações**                 | [[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro (Série)\|Nunumia - O Último Tesouro (Série)]]<br>                           |
+| **Personagens** **Interpretados** | [[Personagens/Cassidy Mazedy\|Cassidy Mazedy]] - [[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro (Série)\|Nunumia - O Último Tesouro (Série)]]  |
+| **Participações**                 | [[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro (Série)\|Nunumia - O Último Tesouro (Série)]]<br>                   |
 
 **Guilherme Garcia** ou **CapivaraGamer** interpretou [[Personagens/Cassidy Mazedy\|Cassidy Mazedy]] em [[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro (Série)\|Nunumia - O Último Tesouro (Série)]] e [[Personagens/Akita Melissa\|Akita Melissa]] em [[Campanhas/Nunumia - O Sol da Meia-Noite/Nunumia - O Sol da Meia-Noite\|Nunumia - O Sol da Meia-Noite]].

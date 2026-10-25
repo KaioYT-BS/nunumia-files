@@ -9,9 +9,9 @@
 | **Status**     | Viva                                                                                 |
 | **Idade**      | 17                                                                                   |
 | **Relações**   | [[Personagens/Maxi Frontier\|Maxi Frontier]]<br>[[Personagens/Satoru Tomio Gojou ♱\|Satoru Tomio Gojou ♱]] (amigo)<br>[[Personagens/Umbrella Parker\|Umbrella Parker]] (amiga) |
-| **Ocupação**   | Membro da [[Organizações/Palácio de Jade (Organização)/Equipes/Equipe Beta\|Equipe Beta]]                                                            |
+| **Ocupação**   | Membro da [[Organizações e Equipes/Palácio de Jade (Organização)/Equipes/Equipe Beta\|Equipe Beta]]                                                            |
 | **Classe**     | Suporte                                                                              |
 | **Raça**       | Humano                                                                               |
-| **Associação** | [[Organizações/Palácio de Jade (Organização)/Palácio de Jade (Organização)\|Palácio de Jade (Organização)]]<br>[[Organizações/Palácio de Jade (Organização)/Equipes/Equipe Beta\|Equipe Beta]]                                               |
+| **Associação** | [[Organizações e Equipes/Palácio de Jade (Organização)/Palácio de Jade (Organização)\|Palácio de Jade (Organização)]]<br>[[Organizações e Equipes/Palácio de Jade (Organização)/Equipes/Equipe Beta\|Equipe Beta]]                                               |
 
 

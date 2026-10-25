@@ -18,11 +18,11 @@
 | **Apelidos**   | Kenny                                                                                                        |
 | **Relações**   |                                                                                                              |
 | **Destino**    | [[Os Sete Segredos de Nunumia/Segredo de Aspheera/Destinos do Último Tesouro#Conhecimento ( Kenkaju Unow )\|Destino do Conhecimento]]                        |
-| **Ocupação**   | Membro da inteligência do [[Organizações/Setor 11\|Setor 11]]<br>Membro do [[Esquadrão x24\|Esquadrão x24]]<br>Braço direito de [[Personagens/Latiff Violett\|Latiff Violett]] |
+| **Ocupação**   | Membro da inteligência do [[Organizações e Equipes/Imperium Diamante/Setor 11\|Setor 11]]<br>Membro do [[Esquadrão x24\|Esquadrão x24]]<br>Braço direito de [[Personagens/Latiff Violett\|Latiff Violett]] |
 | **Afinidade**  | [Ar](/img/user/P%C3%A1ginas/Elementos%20da%20Luz.md) ![Elemento de Ar Imagem.png\|20](/img/user/0-Assets/Images/Icons/Elemento%20de%20Ar%20Imagem.png)    |
 | **Classe**     | Suporte                                                                                                      |
 | **Raça**       | [[Mimicos\|Mimicos]]                                                                                                  |
-| **Associação** | [[Esquadrão x24\|Esquadrão x24]]<br>[[Organizações/Guarda Revolucionária Azariana\|Guarda Revolucionária Azariana]]<br>[[Organizações/Setor 11\|Setor 11]]                                      |
+| **Associação** | [[Esquadrão x24\|Esquadrão x24]]<br>[[Organizações e Equipes/Guarda Revolucionária Azariana\|Guarda Revolucionária Azariana]]<br>[[Organizações e Equipes/Imperium Diamante/Setor 11\|Setor 11]]                                      |
 
 # História
 ---

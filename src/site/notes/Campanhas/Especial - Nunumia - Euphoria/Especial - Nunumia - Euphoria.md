@@ -13,7 +13,7 @@
 
 # Sinopse
 ---
-**Euphoria** é um especial de [[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro (Série)\|Nunumia - O Último Tesouro (Série)]] que acompanha a [[Organizações/Equipe de Pesquisa do Projeto Over\|Equipe de Pesquisa do Projeto Over]] que foi submetida a vários jogos macabros. Um por um, todos serão eliminados até que somente um sobre. O grande problema é que regras mudam, mentes enlouquecem e principalmente a paciência de [[Personagens/Nathaniel Scompa ♱\|Nathaniel Scompa ♱]] acaba.
+**Euphoria** é um especial de [[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro (Série)\|Nunumia - O Último Tesouro (Série)]] que acompanha a [[Organizações e Equipes/Corporação Gentileza/Equipe de Pesquisa do Projeto Over\|Equipe de Pesquisa do Projeto Over]] que foi submetida a vários jogos macabros. Um por um, todos serão eliminados até que somente um sobre. O grande problema é que regras mudam, mentes enlouquecem e principalmente a paciência de [[Personagens/Nathaniel Scompa ♱\|Nathaniel Scompa ♱]] acaba.
 
 # Protagonistas e jogadores
 ---
@@ -36,7 +36,7 @@
 ---
 Personagens Principais que aparecem no especial **“Euphoria”**:
 
-## [[Organizações/Equipe de Pesquisa do Projeto Over\|Equipe de Pesquisa do Projeto Over]]:
+## [[Organizações e Equipes/Corporação Gentileza/Equipe de Pesquisa do Projeto Over\|Equipe de Pesquisa do Projeto Over]]:
 
 
 # Episódios

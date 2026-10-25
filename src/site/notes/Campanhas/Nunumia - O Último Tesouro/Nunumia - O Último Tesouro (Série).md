@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campanhas/nunumia-o-ultimo-tesouro/nunumia-o-ultimo-tesouro-serie/","created":"2026-02-08T13:45:51.347-03:00","updated":"2026-10-16T22:14:14.230-03:00","dg-note-properties":{"aliases":["O Último Tesouro","OUTRPG-1","OUTRPG"]}}
+{"dg-publish":true,"permalink":"/campanhas/nunumia-o-ultimo-tesouro/nunumia-o-ultimo-tesouro-serie/","created":"2026-02-08T13:45:51.347-03:00","updated":"2026-10-24T23:31:55.063-03:00","dg-note-properties":{"aliases":["O Último Tesouro","OUTRPG-1","OUTRPG"]}}
 ---
 
 #Campanha #Campanha_Principal
@@ -7,7 +7,7 @@
 > "_Sejam bem-vindos à Nunumia: O Último Tesouro."  
 > — Mestre_
 
-| **Elenco**            | [[Páginas/Jogadores/Kaiositos\|Kaiositos]] (Mestre)<br>[[Páginas/Jogadores/Ash\|Ash]] (Amon Vaelor)<br>[[Páginas/Jogadores/Maacuja\|Maacuja]] (Alger Baskerville)<br>[[Páginas/Jogadores/Davi\|Davi]] (Mars Sailer)<br>[[Páginas/Jogadores/Aguiar\|Aguiar]] (Adam Smith)<br>[[Páginas/Jogadores/Garcia\|Garcia]] (Cassidy Mazedy)<br>[[Páginas/Jogadores/Guixy\|Guixy]] (Chromorios)<br>[[Hanna\|Hanna]] (Kenshi Takada)<br>[[Tomás Durão\|Tomás Durão]] (Evan Pale/Emily Speavers) |
+| **Elenco**            | [[Páginas/Jogadores/Kaiositos\|Kaiositos]] (Mestre)<br>[[Páginas/Jogadores/Ash\|Ash]] (Amon Vaelor)<br>[[Páginas/Jogadores/Maacuja\|Maacuja]] (Alger Baskerville)<br>[[Páginas/Jogadores/Vivi\|Vivi]] (Mars Sailer)<br>[[Páginas/Jogadores/Aguiar\|Aguiar]] (Adam Smith)<br>[[Páginas/Jogadores/Garcia\|Garcia]] (Cassidy Mazedy)<br>[[Páginas/Jogadores/Guixy\|Guixy]] (Chromorios)<br>[[Páginas/Jogadores/Hanna\|Hanna]] (Kenshi Takada)<br>[[Tomás Durão\|Tomás Durão]] (Evan Pale/Emily Speavers) |
 | --------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Nº de episódios**   | 7                                                                                                                                                                                                                                                                           |
 | **Nº de sessões**     | 9                                                                                                                                                                                                                                                                           |
@@ -15,7 +15,7 @@
 | **Primeiro episódio** | [[Campanhas/Nunumia - O Último Tesouro/OUTRPG - EPISÓDIO 1 - O TESTE\|OUTRPG - EPISÓDIO 1 - O TESTE]]                                                                                                                                                                                                                                           |
 | **Último episódio**   | ???                                                                                                                                                                                                                                                                         |
 
-**O Último Tesouro** é uma série de campanhas de RPG que acompanha a abertura de um dos sete segredos de Nunumia, [[Os Sete Segredos de Nunumia/Segredo de Aspheera/O Último Tesouro\|O Último Tesouro]]. A série até agora teve duas temporadas, com a primeira tendo dois atos.
+**O Último Tesouro** é uma série de campanhas de RPG que acompanha a abertura de um dos sete segredos de Nunumia, [[Os Sete Segredos de Nunumia/Segredo de Aspheera/O Último Tesouro\|O Último Tesouro]]. A série até agora conta com duas temporadas, e a primeira sendo dividida dois atos (partes).
 
 O objetivo principal da campanha é **buscar as sete Joias do Último Tesouro**, relíquias antigas que, quando reunidas no [[Totem de Aspherra\|Totem de Aspherra]], são capazes de **abrir o Último Tesouro**, um segredo de poder inimaginável que concede ao todo catorze desejos.
 
@@ -25,11 +25,11 @@ As temporadas misturam **exploração, combate, mistério, intrigas políticas e
 [[Páginas/Personagens#Protagonistas\|Protagonistas]] - [[Páginas/Personagens#Organizações\|Por Organização]] - [[Jogadores\|Jogadores]]
 > [!OBSERVAÇÃO]
 > > **Cada jogador tem sua própria página de perfil, com informações sobre estilo de jogo, escolhas de personagem e histórico de campanha.**
-## [[Organizações/Palácio de Jade (Organização)/Equipes/Waifus do Caribe\|Waifus do Caribe]]
+## [[Organizações e Equipes/Palácio de Jade (Organização)/Equipes/Waifus do Caribe\|Waifus do Caribe]]
 
 | **![Alger.png\|200](/img/user/0-Assets/Images/Icons/Personagens/Alger.png)<br>[[Personagens/Alger Baskerville\|Alger Baskerville]]<br>[[Páginas/Jogadores/Maacuja\|Maacuja]]** | ![Emily.png\|200](/img/user/0-Assets/Images/Icons/Personagens/Emily.png)<br>[[Personagens/Emily Speavers Baskerville\|Emily Speavers Baskerville]]<br>**[[Tomás Durão\|Tomás Durão]]** |  ![Amon.png\|200](/img/user/0-Assets/Images/Icons/Personagens/Amon.png)<br>[[Personagens/Amon Vaelor\|Amon Vaelor]]<br>**[[Páginas/Jogadores/Ash\|Ash]]**  | ![Morgan.png\|200](/img/user/0-Assets/Images/Icons/Personagens/Morgan.png)<br>[[Personagens/Chromorios Solvaris\|Chromorios Solvaris]]<br>**[[Páginas/Jogadores/Guixy\|Guixy]]** |
 | :-------------------------------------------------------------: | :--------------------------------------------------------------------------: | :----------------------------------------------------: | :--------------------------------------------------------------: |
-|   ![Cassy.png\|200](/img/user/0-Assets/Images/Icons/Personagens/Cassy.png)<br>[[Personagens/Cassidy Mazedy\|Cassidy Mazedy]]<br>**[[Páginas/Jogadores/Garcia\|Garcia]]**   |         ![Mars Sailer.png\|200](/img/user/0-Assets/Images/Icons/Personagens/Mars%20Sailer.png)<br>[[Personagens/Mars Sailer\|Mars Sailer]]<br>**[[Páginas/Jogadores/Davi\|Davi]]**         | ![Adam.png\|200](/img/user/0-Assets/Images/Icons/Personagens/Adam.png)<br>[[Personagens/Adam Smith\|Adam Smith]]<br>**[[Páginas/Jogadores/Aguiar\|Aguiar]]** |    ![Kenshi.png\|200](/img/user/0-Assets/Images/Icons/Personagens/Kenshi.png)<br>[[Personagens/Kenshi Takada\|Kenshi Takada]]<br>**[[Hanna\|Hanna]]**    |
+|   ![Cassy.png\|200](/img/user/0-Assets/Images/Icons/Personagens/Cassy.png)<br>[[Personagens/Cassidy Mazedy\|Cassidy Mazedy]]<br>**[[Páginas/Jogadores/Garcia\|Garcia]]**   |         ![Mars Sailer.png\|200](/img/user/0-Assets/Images/Icons/Personagens/Mars%20Sailer.png)<br>[[Personagens/Mars Sailer\|Mars Sailer]]<br>**[[Páginas/Jogadores/Vivi\|Vivi]]**         | ![Adam.png\|200](/img/user/0-Assets/Images/Icons/Personagens/Adam.png)<br>[[Personagens/Adam Smith\|Adam Smith]]<br>**[[Páginas/Jogadores/Aguiar\|Aguiar]]** |    ![Kenshi.png\|200](/img/user/0-Assets/Images/Icons/Personagens/Kenshi.png)<br>[[Personagens/Kenshi Takada\|Kenshi Takada]]<br>**[[Páginas/Jogadores/Hanna\|Hanna]]**    |
 
 # Episódios
 ---
@@ -50,7 +50,7 @@ Episódios, datas e sinopses de [[Campanhas/Nunumia - O Último Tesouro/Nunumia 
 ---
 Aparições dos jogadores em [[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro (Série)\|Nunumia - O Último Tesouro (Série)]]:
 
-| TÍTULO                                                | [[Páginas/Jogadores/Maacuja\|Maacuja]] | [[Páginas/Jogadores/Ash\|Ash]] | [[Páginas/Jogadores/Garcia\|Garcia]] | [[Páginas/Jogadores/Guixy\|Guixy]] | [[Tomás Durão\|Tomás Durão]] | [[Páginas/Jogadores/Aguiar\|Aguiar]] | [[Páginas/Jogadores/Davi\|Davi]] | [[Hanna\|Hanna]] |
+| TÍTULO                                                | [[Páginas/Jogadores/Maacuja\|Maacuja]] | [[Páginas/Jogadores/Ash\|Ash]] | [[Páginas/Jogadores/Garcia\|Garcia]] | [[Páginas/Jogadores/Guixy\|Guixy]] | [[Tomás Durão\|Tomás Durão]] | [[Páginas/Jogadores/Aguiar\|Aguiar]] | [[Páginas/Jogadores/Vivi\|Vivi]] | [[Páginas/Jogadores/Hanna\|Hanna]] |
 | ----------------------------------------------------- | :---------: | :-----: | :--------: | :-------: | :-------------: | :--------: | :------: | :-------: |
 | [[Campanhas/Nunumia - O Último Tesouro/OUTRPG - EPISÓDIO 1 - O TESTE\|OUTRPG - EPISÓDIO 1 - O TESTE]]                     |     PRE     |   PRE   |    PRE     |    PRE    |       PRE       |    PRE     |          |           |
 | [[Campanhas/Nunumia - O Último Tesouro/OUTRPG - EPISÓDIO 2 - A PROFETA\|OUTRPG - EPISÓDIO 2 - A PROFETA]]                   |     PRE     |   PRE   |  **BRE**   |    PRE    |     **BRE**     |  **BRE**   |   PRE    |           |

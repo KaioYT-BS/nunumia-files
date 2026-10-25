@@ -9,12 +9,12 @@
 | **Status**     | Falecido                                                                                                                  |
 | **Idade**      | 39                                                                                                                        |
 | **Relações**   | [[Personagens/Denver Zuma\|Denver Zuma]] (superior)<br>[[Personagens/Zacariv Zuma - ⁜\|Zacariv Zuma - ⁜]]  (amigo)<br>[[Personagens/Adam Smith\|Adam Smith]] (colega)<br>[[Personagens/Nathaniel Scompa ♱\|Nathaniel Scompa ♱]] (ex-amigo) |
-| **Ocupação**   | Secretário de Defesa de [[As Nações de Nunumia/Sete Grandes Nações de Nunumia/Zaun\|Zaun]]<br>Líder da [[Organizações/Palácio de Jade (Organização)/Força Nacional de Segurança de Zaun\|Força Nacional de Segurança de Zaun]]                                      |
+| **Ocupação**   | Secretário de Defesa de [[As Nações de Nunumia/Sete Grandes Nações de Nunumia/Zaun\|Zaun]]<br>Líder da [[Organizações e Equipes/Palácio de Jade (Organização)/Força Nacional de Segurança de Zaun\|Força Nacional de Segurança de Zaun]]                                      |
 | **Classe**     | Tanque                                                                                                                    |
 | **Raça**       | Humano                                                                                                                    |
-| **Associação** | [[Organizações/Palácio de Jade (Organização)/Força Nacional de Segurança de Zaun\|Força Nacional de Segurança de Zaun]]<br>[[Organizações/Palácio de Jade (Organização)/Palácio de Jade (Organização)\|Palácio de Jade (Organização)]]<br>[[As Nações de Nunumia/Sete Grandes Nações de Nunumia/Zaun\|Zaun]]<br>Exército de Zaun                            |
+| **Associação** | [[Organizações e Equipes/Palácio de Jade (Organização)/Força Nacional de Segurança de Zaun\|Força Nacional de Segurança de Zaun]]<br>[[Organizações e Equipes/Palácio de Jade (Organização)/Palácio de Jade (Organização)\|Palácio de Jade (Organização)]]<br>[[As Nações de Nunumia/Sete Grandes Nações de Nunumia/Zaun\|Zaun]]<br>Exército de Zaun                            |
 
-**William Emily** era um dos principais aliados das [[Organizações/Palácio de Jade (Organização)/Equipes/Waifus do Caribe\|Waifus do Caribe]] em [[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro (Série)\|Nunumia - O Último Tesouro (Série)]] atuando como criador da maior parte das estratégias seguidas pela dissolvida [[Organizações/Palácio de Jade (Organização)/Equipes/Equipe Delta\|Equipe Delta]].
+**William Emily** era um dos principais aliados das [[Organizações e Equipes/Palácio de Jade (Organização)/Equipes/Waifus do Caribe\|Waifus do Caribe]] em [[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro (Série)\|Nunumia - O Último Tesouro (Série)]] atuando como criador da maior parte das estratégias seguidas pela dissolvida [[Organizações e Equipes/Palácio de Jade (Organização)/Equipes/Equipe Delta\|Equipe Delta]].
 
 # Aparições
 ---

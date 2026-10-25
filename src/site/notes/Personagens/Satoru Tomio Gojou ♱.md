@@ -36,7 +36,7 @@
 | ------------- | --------- |
 |               |           |
 
-*Satoru Tomio Gojo* foi um ex-agente do [[Organizações/Setor 11\|Setor 11]] e da [[Organizações/Palácio de Jade (Organização)/Força Nacional de Segurança de Zaun\|Força Nacional de Segurança de Zaun]]. Em 3 de Dezembro de 2026, foi morto por [[Personagens/Adam Smith\|Adam Smith]] a mando de [[Personagens/Denver Zuma\|Denver Zuma]], após sua traição ser revelada.
+*Satoru Tomio Gojo* foi um ex-agente do [[Organizações e Equipes/Imperium Diamante/Setor 11\|Setor 11]] e da [[Organizações e Equipes/Palácio de Jade (Organização)/Força Nacional de Segurança de Zaun\|Força Nacional de Segurança de Zaun]]. Em 3 de Dezembro de 2026, foi morto por [[Personagens/Adam Smith\|Adam Smith]] a mando de [[Personagens/Denver Zuma\|Denver Zuma]], após sua traição ser revelada.
 
 | **Episódios**                                         | **Aparições**     |
 | ----------------------------------------------------- | ----------------- |

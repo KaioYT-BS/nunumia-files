@@ -17,7 +17,7 @@
 | **Relações**   | [[Personagens/Imperador Admircov\|Imperador Admircov]] (pai)<br>[[Personagens/Melissa Admircov - ⁜\|Melissa Admircov - ⁜]] (irmã)<br>[[Personagens/Sarah Zaravai\|Sarah Zaravai]] (mãe)<br>[[Personagens/Aurora Admircov - △\|Aurora Admircov - △]] (avó)<br>[[Personagens/Emily Speavers Baskerville\|Emily Speavers Baskerville]] (ex-namorada) |
 | **Ocupação**   | Historiadora                                                                                                                                                                |
 | **Raça**       | [[Raças/Elfos\|Elfos]]                                                                                                                                                                   |
-| **Associação** | [[As Nações de Nunumia/Sete Grandes Nações de Nunumia/Unova\|Unova]]<br>[[Organizações/Império de Unova/Pyraminx\|Pyraminx]]<br>[[Organizações/Escarlates\|Escarlates]] (Temporariamente)                                                                                                               |
+| **Associação** | [[As Nações de Nunumia/Sete Grandes Nações de Nunumia/Unova\|Unova]]<br>[[Organizações e Equipes/Império de Unova/Pyraminx\|Pyraminx]]<br>[[Organizações e Equipes/Corporação Gentileza/Escarlates\|Escarlates]] (Temporariamente)                                                                                                               |
 
 
 # Galeria

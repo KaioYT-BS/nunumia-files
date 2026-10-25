@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locais/unova/santuario-da-seda/","created":"2026-03-06T23:53:19.191-03:00","updated":"2026-04-12T18:55:37.786-03:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/locais/unova/santuario-da-seda/","created":"2026-03-06T23:53:19.191-03:00","updated":"2026-10-24T21:29:03.213-03:00","dg-note-properties":{}}
 ---
 
 #Locais #Locais_em_Unova 
@@ -23,7 +23,7 @@ O projeto foi iniciado pela imperatriz de [[As Nações de Nunumia/Sete Grandes 
 
 Na época, estimava-se que **menos de cem Tecelãs ainda existiam em toda Nunumia**.
 
-Sob proteção de Unova, as sobreviventes foram levadas para a [[Locais/Unova/Ilha Armelia\|Ilha Armelia]], uma ilha isolada no território de Unova. O local foi rapidamente transformado em um refúgio seguro, contendo áreas residenciais construídas para as Tecelãs e postos militares da guarda do [[Organizações/Império de Unova/Pyraminx\|Organizações/Império de Unova/Pyraminx]].
+Sob proteção de Unova, as sobreviventes foram levadas para a [[Locais/Unova/Ilha Armelia\|Ilha Armelia]], uma ilha isolada no território de Unova. O local foi rapidamente transformado em um refúgio seguro, contendo áreas residenciais construídas para as Tecelãs e postos militares da guarda do [[Organizações e Equipes/Império de Unova/Pyraminx\|Pyraminx]].
 
 Apesar de oficialmente ser um **refúgio humanitário**, muitos acreditam que a decisão de Aurora também possuía interesses políticos e principalmente científicos, afinal, a seda das Tecelãs continuava sendo um dos materiais mais raros e valiosos de [[Nunumia\|Nunumia]].
 
