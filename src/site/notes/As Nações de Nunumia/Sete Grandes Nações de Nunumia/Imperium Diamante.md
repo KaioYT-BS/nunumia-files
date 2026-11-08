@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/as-nacoes-de-nunumia/sete-grandes-nacoes-de-nunumia/imperium-diamante/","created":"2026-03-23T21:17:50.564-03:00","updated":"2026-10-24T21:28:22.975-03:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/as-nacoes-de-nunumia/sete-grandes-nacoes-de-nunumia/imperium-diamante/","created":"2026-03-23T21:17:50.564-03:00","updated":"2026-11-01T21:00:23.386-03:00","dg-note-properties":{}}
 ---
 
 #Nações #Coleção_História_de_Imperium_Diamante 
@@ -204,4 +204,4 @@ Culturalmente, o império tende a desencorajar excessos emocionais e manifestaç
 
 Apesar de sua forte identidade central, o [[As Nações de Nunumia/Sete Grandes Nações de Nunumia/Imperium Diamante\|Imperium Diamante]] abriga influências de regiões incorporadas ao longo de sua expansão, como [[Azahor Oriental\|Azahor Oriental]], resultando em variações culturais locais. Nessas áreas, tradições regionais coexistem com a cultura imperial, criando identidades híbridas.
 
-No geral, a cultura do império é vista como uma extensão direta de sua ideologia: silenciosa, rígida e duradoura, refletindo os ideais de [[Religiões/Deuses de Nunumia/Clacies\|Clacies]] e a busca constante pela permanência.
+No geral, a cultura do império é vista como uma extensão direta de sua ideologia: silenciosa, rígida e duradoura, refletindo os ideais de [[Religiões/Deuses de Nunumia/Glacies\|Glacies]] e a busca constante pela permanência.

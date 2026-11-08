@@ -6,26 +6,26 @@
 
 _
 
-| **Galeria**    | ![Cético.png\|250](/img/user/0-Assets/Images/Icons/Personagens/C%C3%A9tico.png)                                                                            |
+| **Galeria**    | ![Cético.png\|250](/img/user/0-Assets/Images/Icons/Personagens/Guarda%20Azariana/C%C3%A9tico.png)                                                                            |
 | -------------- | ----------------------------------------------------------------------------------------------- |
 | **Intérprete** | [[Páginas/Jogadores/Vivi\|Vivi]]                                                                                        |
 | **Status**     | Vivo                                                                                            |
 | **Idade**      |                                                                                                 |
 | **Apelidos**   |                                                                                                 |
 | **Relações**   |                                                                                                 |
-| **Ocupação**   | Agente do [[Esquadrão x24\|Esquadrão x24]]                                                                     |
+| **Ocupação**   | Agente do [[Organizações e Equipes/O Pacto dos Cinco Cavaleiros/Guarda Revolucionária Azariana/Esquadrão x24\|Esquadrão x24]]                                                                     |
 | **Afinidade**  | [[Páginas/Elementos da Luz\|Elementos da Luz]]                                                                            |
 | **Classe**     | Suporte                                                                                         |
 | **Raça**       | [[Transmorfos\|Transmorfos]]                                                                                 |
 | Legado         | Experimento                                                                                     |
-| **Associação** | [[Organizações e Equipes/Guarda Revolucionária Azariana\|Guarda Revolucionária Azariana]]<br>[[Industrias Farmacêuticas BioTech\|Industrias Farmacêuticas BioTech]]<br>[[Esquadrão x24\|Esquadrão x24]] |
+| **Associação** | [[Organizações e Equipes/O Pacto dos Cinco Cavaleiros/Guarda Revolucionária Azariana\|Guarda Revolucionária Azariana]]<br>[[Organizações e Equipes/Industrias Farmacêuticas BioTech\|Industrias Farmacêuticas BioTech]]<br>[[Organizações e Equipes/O Pacto dos Cinco Cavaleiros/Guarda Revolucionária Azariana/Esquadrão x24\|Esquadrão x24]] |
 
-Cético é um dos antagonistas de [[Campanhas/Nunumia - O Último Tesouro Cinzas/Nunumia - O Último Tesouro Cinzas\|Nunumia - O Último Tesouro Cinzas]], sendo parte do [[Esquadrão x24\|Esquadrão x24]].
+Cético é um dos antagonistas de [[Campanhas/Nunumia - O Último Tesouro Cinzas/Nunumia - O Último Tesouro Cinzas\|Nunumia - O Último Tesouro Cinzas]], sendo parte do [[Organizações e Equipes/O Pacto dos Cinco Cavaleiros/Guarda Revolucionária Azariana/Esquadrão x24\|Esquadrão x24]].
 
 # História
 ---
 
-Latiff criou o cético, não deu certo, abandonou o bixo por aí. Chegou em azarr, foi preso pela [[Liberdade Anarquista do Ocidente\|Liberdade Anarquista do Ocidente]], foi libertado pela [[Organizações e Equipes/Guarda Revolucionária Azariana\|Guarda Revolucionária Azariana]], pronto. trabalha com eles.
+Latiff criou o cético, não deu certo, abandonou o bixo por aí. Chegou em azarr, foi preso pela [[Liberdade Anarquista do Ocidente\|Liberdade Anarquista do Ocidente]], foi libertado pela [[Organizações e Equipes/O Pacto dos Cinco Cavaleiros/Guarda Revolucionária Azariana\|Guarda Revolucionária Azariana]], pronto. trabalha com eles.
 
 
 

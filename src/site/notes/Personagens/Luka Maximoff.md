@@ -6,18 +6,18 @@
 > "_Meu sangue.. 'tá' em você. Eu consigo sentir seu coração e sua corrente sanguínea. A gente tá se conectando.”
 > —  Luka para [[Personagens/Latiff Violett\|Latiff Violett]]._
 
-| **Galeria**    | ![Luka.png\|250](/img/user/0-Assets/Images/Icons/Personagens/Luka.png)                                                                                                     |
+| **Galeria**    | ![Luka.png\|250](/img/user/0-Assets/Images/Icons/Personagens/Guarda%20Azariana/Luka.png)                                                                                                     |
 | -------------- | ---------------------------------------------------------------------------------------------------------------------- |
 | **Intérprete** | [[Páginas/Jogadores/Ash\|Ash]]                                                                                                                |
 | **Status**     | Vivo                                                                                                                   |
 | **Idade**      | 300+                                                                                                                   |
-| **Apelidos**   | "Lukita" ([[M13 - Vampys\|M13 - Vampys]])                                                                                            |
+| **Apelidos**   | "Lukita" ([[Organizações e Equipes/O Pacto dos Cinco Cavaleiros/Guarda Revolucionária Azariana/M13 - Vampys\|M13 - Vampys]])                                                                                            |
 | **Relações**   | [[Personagens/Latiff Violett\|Latiff Violett]] (Namorado)<br>[[Malakor Maximoff\|Malakor Maximoff]] (Avô)<br>[[Personagens/Red Maximoff\|Red Maximoff]] (Primo)<br>[[Selene Maximoff\|Selene Maximoff]] (Prima) |
-| **Ocupação**   | Assassino da [[M13 - Vampys\|M13 - Vampys]] (anteriormente)<br>Membra do [[Esquadrão x24\|Esquadrão x24]]                                           |
+| **Ocupação**   | Assassino da [[Organizações e Equipes/O Pacto dos Cinco Cavaleiros/Guarda Revolucionária Azariana/M13 - Vampys\|M13 - Vampys]] (anteriormente)<br>Membra do [[Organizações e Equipes/O Pacto dos Cinco Cavaleiros/Guarda Revolucionária Azariana/Esquadrão x24\|Esquadrão x24]]                                           |
 | **Afinidade**  | Trevas - Sangue                                                                                                        |
 | **Classe**     | Destruidor                                                                                                             |
 | **Raça**       | [[Raças/Vampiros\|Vampiros]]                                                                                                           |
-| **Associação** | [[Organizações e Equipes/Guarda Revolucionária Azariana\|Guarda Revolucionária Azariana]]<br>[[M13 - Vampys\|M13 - Vampys]]<br>[[Esquadrão x24\|Esquadrão x24]]                                            |
+| **Associação** | [[Organizações e Equipes/O Pacto dos Cinco Cavaleiros/Guarda Revolucionária Azariana\|Guarda Revolucionária Azariana]]<br>[[Organizações e Equipes/O Pacto dos Cinco Cavaleiros/Guarda Revolucionária Azariana/M13 - Vampys\|M13 - Vampys]]<br>[[Organizações e Equipes/O Pacto dos Cinco Cavaleiros/Guarda Revolucionária Azariana/Esquadrão x24\|Esquadrão x24]]                                            |
 **Luka Maximoff** é um dos protagonistas da segunda temporada de [[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro (Série)\|Nunumia - O Último Tesouro (Série)]].
 
 Luka é um [[Raças/Vampiros\|vampiro]] da linhagem Maximoff, uma das três famílias da raça ainda ativa. 

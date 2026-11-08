@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personagens/emily-speavers-baskerville/","created":"2026-02-08T13:45:54.573-03:00","updated":"2026-10-24T21:29:03.555-03:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/personagens/emily-speavers-baskerville/","created":"2026-02-08T13:45:54.573-03:00","updated":"2026-10-28T20:58:42.036-03:00","dg-note-properties":{}}
 ---
 
 #E #Personagens #Personagens_Principais_em_OUTRPG #Pyraminx #Waifus_do_Caribe #Personagens_Principais_em_OUTRPG2 #Destinados 
@@ -21,11 +21,11 @@
 | **Status**     | Viva                                                                                                                                                                                                                                                                                                                                                                          |
 | **Idade**      | 18                                                                                                                                                                                                                                                                                                                                                                            |
 | **Apelidos**   | Minha falha ([[Xavier Pale Archin\|Xavier Pale Archin]], Evan)<br>Filhão ([[Personagens/Alger Baskerville\|Alger Baskerville]])                                                                                                                                                                                                                                                                                                  |
-| **Relações**   | Veja [[Personagens/Emily Speavers Baskerville#Relações\|§ Relações]]<br>[[Personagens/Alger Baskerville\|Alger Baskerville]] (pai adotivo)<br>[[Personagens/Saon Admircov\|Saon Admircov]] (ex-namorada)<br>[[Personagens/Amon Vaelor\|Amon Vaelor]] (pai adotivo)<br>[[Personagens/Mars Sailer\|Mars Sailer]] (colega de equipe)<br>[[Personagens/Adam Smith\|Adam Smith]] (colega de equipe)<br>[[Personagens/Chromorios Solvaris\|Chromorios Solvaris]] (colega de equipe)<br>[[Personagens/Cassidy Mazedy\|Cassidy Mazedy]] (colega de equipe)<br>[[Personagens/Kenshi Takada\|Kenshi Takada]] (colega de equipe) |
-| **Ocupação**   | Cavaleira do [[Organizações e Equipes/Império de Unova/Pyraminx\|Pyraminx]] <br>Membro das [[Organizações e Equipes/Palácio de Jade (Organização)/Equipes/Waifus do Caribe\|Waifus do Caribe]]                                                                                                                                                                                                                                                                                                                 |
+| **Relações**   | Veja [[Personagens/Emily Speavers Baskerville#Relações\|§ Relações]]<br>[[Personagens/Alger Baskerville\|Alger Baskerville]] (pai adotivo)<br>[[Personagens/Saon Admircov\|Saon Admircov]] (ex-namorada)<br>[[Personagens/Amon Vaelor\|Amon Vaelor]] (pai adotivo)<br>[[Personagens/Mars Sailer\|Mars Sailer]] (colega de equipe)<br>[[Personagens/Adam Smith\|Adam Smith]] (colega de equipe)<br>[[Personagens/Ananke Amargun\|Ananke Amargun]] (colega de equipe)<br>[[Personagens/Cassidy Mazedy\|Cassidy Mazedy]] (colega de equipe)<br>[[Personagens/Kenshi Takada\|Kenshi Takada]] (colega de equipe) |
+| **Ocupação**   | Cavaleira do [[Organizações e Equipes/Império de Unova/Pyraminx\|Pyraminx]] <br>Membro das [[Organizações e Equipes/Zaun/Palácio de Jade/Equipes/Waifus do Caribe\|Waifus do Caribe]]                                                                                                                                                                                                                                                                                                                 |
 | **Classe**     | Destruidor                                                                                                                                                                                                                                                                                                                                                                    |
 | **Raça**       | [[Raças/Tecelãs\|Tecelã]]                                                                                                                                                                                                                                                                                                                                                           |
-| **Associação** | [[Palácio de Jade\|Palácio de Jade]]<br>[[Organizações e Equipes/Império de Unova/Pyraminx\|Pyraminx]]<br>[[Organizações e Equipes/Palácio de Jade (Organização)/Equipes/Waifus do Caribe\|Waifus do Caribe]]                                                                                                                                                                                                                                                                                                                   |
+| **Associação** | [[Palácio de Jade\|Palácio de Jade]]<br>[[Organizações e Equipes/Império de Unova/Pyraminx\|Pyraminx]]<br>[[Organizações e Equipes/Zaun/Palácio de Jade/Equipes/Waifus do Caribe\|Waifus do Caribe]]                                                                                                                                                                                                                                                                                                                   |
 
 # História
 ---
@@ -114,7 +114,7 @@ Aquilo era só o começo de problemas muito maiores.
 
 Após horas de viagem, Evan e Xavier foram levados para um complexo em [[As Nações de Nunumia/Sete Grandes Nações de Nunumia/Unova\|Unova]]. Assim que chegaram, foram separados sem explicação. Cada um foi conduzido para uma sala diferente.
 
-Evan se viu sentado diante de uma mesa fria de metal, com uma luz forte apontada diretamente para seu rosto. Do outro lado estavam **agentes da [[Organizações e Equipes/Palácio de Jade (Organização)/Polícia Federal de Zaun\|Polícia Federal de Zaun]]** e representantes da **Casa Umbrella**. Nenhum deles parecia interessado em gentilezas. Eles queriam uma coisa simples: **respostas**.
+Evan se viu sentado diante de uma mesa fria de metal, com uma luz forte apontada diretamente para seu rosto. Do outro lado estavam **agentes da [[Organizações e Equipes/Zaun/Palácio de Jade/Polícia Federal de Zaun\|Polícia Federal de Zaun]]** e representantes da **Casa Umbrella**. Nenhum deles parecia interessado em gentilezas. Eles queriam uma coisa simples: **respostas**.
 
 Evan sabia que seu pai era um caçador de recompensas. Cresceu vendo armas, equipamentos de caça e histórias mal contadas sobre trabalhos que “pagavam bem”. Mas fingia que nunca soube exatamente o que aquilo significava de verdade, mas os agentes sabiam muito bem.
 
@@ -303,7 +303,7 @@ Ela hesitou por um instante antes de terminar:
 
 — Se eu ficar, como fica a Emily? — Perguntou Evan.
 
-— Escondida. Não se preocupa com isso. A Casa Umbrella tinha planos para você. — Saon rede as palavras. — No caso, as [[Industrias Farmacêuticas BioTech\|Industrias Farmacêuticas BioTech]].
+— Escondida. Não se preocupa com isso. A Casa Umbrella tinha planos para você. — Saon rede as palavras. — No caso, as [[Organizações e Equipes/Industrias Farmacêuticas BioTech\|Industrias Farmacêuticas BioTech]].
 
 — Industrias BioTech? — Perguntou Evan.
 

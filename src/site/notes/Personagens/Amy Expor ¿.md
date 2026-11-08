@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personagens/amy-expor/","created":"2026-04-19T11:14:08.946-03:00","updated":"2026-10-11T10:13:24.241-03:00","dg-note-properties":{"aliases":["Amy Expor"]}}
+{"dg-publish":true,"permalink":"/personagens/amy-expor/","created":"2026-04-19T11:14:08.946-03:00","updated":"2026-11-03T22:21:15.002-03:00","dg-note-properties":{"aliases":["Amy Expor"]}}
 ---
 
 #A #Personagens #Personagens_Principais_em_NEUP 
@@ -12,8 +12,8 @@
 | **Status**     | Desconhecido                                                                                                                                                                                    |     |
 | **Idade**      | 21                                                                                                                                                                                              |     |
 | **Apelidos**   | ???                                                                                                                                                                                             |     |
-| **Relações**   | [[Personagens/Anne Psina\|Anne Psina]] (interesse amoroso)                                                                                                                                                              |     |
-| **Ocupação**   | Graduada em Direito pela [[Universidade Federal Solariana de Zaun\|Universidade Federal Solariana de Zaun]]<br>Mestra em Biologia pela [[Universidade del Diamara\|Universidade del Diamara]]<br>Advogada da [[Organizações e Equipes/Corporação Gentileza/Strikers\|Strikers]]<br><br>Pesquisadora do [[Projeto Over\|Projeto Over]] |     |
+| **Relações**   | [[atlas-vtt/collections/Default/statblocks/Anne Psina Token Stats\|Anne Psina Token Stats]] (interesse amoroso)                                                                                                                                                              |     |
+| **Ocupação**   | Graduada em Direito pela [[Universidade Federal Solariana de Zaun\|Universidade Federal Solariana de Zaun]]<br>Mestra em Biologia pela [[Universidade del Diamara\|Universidade del Diamara]]<br>Advogada da [[Organizações e Equipes/O Pacto dos Cinco Cavaleiros/Strikers\|Strikers]]<br><br>Pesquisadora do [[Projeto Over\|Projeto Over]] |     |
 | **Afinidade**  |                                                                                                                                                                                                 |     |
 | **Classe**     | Híbrida (Suporte e Destruidor)                                                                                                                                                                  |     |
 | **Raça**       | [[Raças/Humanos\|Humana]]                                                                                                                                                                             |     |

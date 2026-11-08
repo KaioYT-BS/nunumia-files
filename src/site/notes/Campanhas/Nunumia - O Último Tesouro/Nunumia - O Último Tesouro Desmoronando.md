@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campanhas/nunumia-o-ultimo-tesouro/nunumia-o-ultimo-tesouro-desmoronando/","created":"2026-10-16T22:13:31.136-03:00","updated":"2026-10-24T23:31:55.112-03:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/campanhas/nunumia-o-ultimo-tesouro/nunumia-o-ultimo-tesouro-desmoronando/","created":"2026-10-16T22:13:31.136-03:00","updated":"2026-11-04T22:22:51.071-03:00","dg-note-properties":{}}
 ---
 
 #Temporadas_de_OUTRPG 
@@ -14,7 +14,7 @@
 | **Primeiro episódio**  | [[Campanhas/Nunumia - O Último Tesouro/OUTRPG - EPISÓDIO 4 - SEMPRE TEM UM RECOMEÇO\|OUTRPG - EPISÓDIO 4 - SEMPRE TEM UM RECOMEÇO]]                                                                                                                                                                                                                           |
 | **Último episódio**    | [[Campanhas/Nunumia - O Último Tesouro/OUTRPG - EPISÓDIO 7 - BIFURCAÇÃO (TEMPO E ILUSÃO)\|OUTRPG - EPISÓDIO 7 - BIFURCAÇÃO (TEMPO E ILUSÃO)]]                                                                                                                                                                                                                      |
 
-Desmoronando foi a segunda parte da primeira temporada de [[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro (Série)\|Nunumia - O Último Tesouro (Série)]], a parte marcou uma virada de chave da série e também a apresentação dos antagonistas ([[Organizações e Equipes/Corporação Gentileza/Escarlates\|Escarlates]]), além de ter sido também o com mais sessões (6 sessões; 4 episódios).
+Desmoronando foi a segunda parte da primeira temporada de [[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro (Série)\|Nunumia - O Último Tesouro (Série)]], a parte marcou uma virada de chave da série e também a apresentação dos antagonistas ([[Organizações e Equipes/Escarlates\|Escarlates]]. O ato foi o com mais sessões da primeira temporada (6 sessões; 4 episódios).
 
 # Episódios
 ---

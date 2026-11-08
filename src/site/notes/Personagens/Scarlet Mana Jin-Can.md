@@ -1,29 +1,29 @@
 ---
-{"dg-publish":true,"permalink":"/personagens/scarlet-mana-jin-can/","created":"2026-02-08T13:45:54.707-03:00","updated":"2026-10-11T13:31:20.217-03:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/personagens/scarlet-mana-jin-can/","created":"2026-02-08T13:45:54.707-03:00","updated":"2026-10-30T22:52:21.017-03:00","dg-note-properties":{"aliases":["Scarlet"]}}
 ---
 
 #S #Personagens #Personagens_Principais_em_OUTRPG #Aliados_em_OUTRPG
 Para seu alter ego, veja [[Personagens/MetalBlood\|MetalBlood]]
 
 > "_Enquanto vocês matam por justiça, Scarlet mata por esporte."  
-> — Mestre
+> — Mestre_
 
  >"_Os 7 morreram, mas só **4 pararam de respirar**."
 >— Scarlet_
 
-| Galeria        | ![Scarlet.png\|250](/img/user/0-Assets/Images/Icons/Personagens/Scarlet.png)                                                                                                                                                                                                                                                                                   |
-| -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Intérprete** | [[Páginas/Jogadores/Kaiositos\|Kaiositos]]                                                                                                                                                                                                                                                                                           |
-| **Status**     | Viva                                                                                                                                                                                                                                                                                                    |
-| **Idade**      | 27                                                                                                                                                                                                                                                                                                      |
+| Galeria        | ![Scarlet_2.png\|250](/img/user/0-Assets/Images/Icons/Personagens/Servi%C3%A7o%20Secreto%20de%20Zaun/Scarlet_2.png)                                                                                                                                                                                                                                                                                         |
+| -------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Intérprete** | [[Páginas/Jogadores/Kaiositos\|Kaiositos]]                                                                                                                                                                                                                                                                                                   |
+| **Status**     | Viva                                                                                                                                                                                                                                                                                                            |
+| **Idade**      | 27                                                                                                                                                                                                                                                                                                              |
 | **Relações**   | [[Personagens/Raiden Takada Ikari ♱\|Raiden Takada Ikari ♱]] (melhor amigo)<br>[[Personagens/Denver Zuma\|Denver Zuma]] (amigo)<br>[[Personagens/William Emily ♱\|William Emily ♱]] (chefe)<br>[[Personagens/Kenshi Takada\|Kenshi Takada]] (melhor amigo)<br>[[Personagens/Satoru Tomio Gojou ♱\|Satoru Tomio Gojou ♱]] (colega de equipe)<br>[[Personagens/Gwen Kostenko\|Gwen Kostenko]] (colega de equipe)<br>[[Personagens/Ash Koval ♱\|Ash Koval ♱]] (colega de equipe)<br>[[Personagens/Nathaniel Scompa ♱\|Nathaniel Scompa ♱]] (ex-melhor amigo) |
-| **Ocupação**   | Estudante de biotecnologia (anteriormente)<br>Assassina de Aluguel (anteriormente)<br>Serial Killer<br>Agente da [[Organizações e Equipes/Palácio de Jade (Organização)/Força Nacional de Segurança de Zaun\|Força Nacional de Segurança de Zaun]]<br>Líder da [[Organizações e Equipes/Palácio de Jade (Organização)/Equipes/Equipe Delta\|Equipe Delta]]                                                                                                                   |
-| **Classe**     | Destruidora                                                                                                                                                                                                                                                                                             |
-| **Legado**     | Assassina de Aluguel                                                                                                                                                                                                                                                                                    |
-| **Raça**       | Humana                                                                                                                                                                                                                                                                                                  |
-| **Associação** | [[Organizações e Equipes/Palácio de Jade (Organização)/Força Nacional de Segurança de Zaun\|Força Nacional de Segurança de Zaun]]<br>[[Organizações e Equipes/Palácio de Jade (Organização)/Equipes/Equipe Delta\|Equipe Delta]]<br>[[Organizações e Equipes/Palácio de Jade (Organização)/Palácio de Jade (Organização)\|Palácio de Jade (Organização)]]<br>[[Organizações e Equipes/Palácio de Jade (Organização)/Equipes/Waifus do Caribe\|Waifus do Caribe]]                                                                                                                                                                                              |
+| **Ocupação**   | Estudante de biotecnologia (anteriormente)<br>Assassina de Aluguel (anteriormente)<br>Serial Killer<br>Agente da [[Organizações e Equipes/Zaun/Palácio de Jade/Força Nacional de Segurança de Zaun\|Força Nacional de Segurança de Zaun]]<br>Líder da [[Organizações e Equipes/Zaun/Palácio de Jade/Equipes/Equipe Delta\|Equipe Delta]]                                                                                                                           |
+| **Classe**     | Destruidora                                                                                                                                                                                                                                                                                                     |
+| **Legado**     | Assassina de Aluguel                                                                                                                                                                                                                                                                                            |
+| **Raça**       | Humana                                                                                                                                                                                                                                                                                                          |
+| **Associação** | [[Organizações e Equipes/Zaun/Palácio de Jade/Força Nacional de Segurança de Zaun\|Força Nacional de Segurança de Zaun]]<br>[[Organizações e Equipes/Zaun/Palácio de Jade/Equipes/Equipe Delta\|Equipe Delta]]<br>[[Organizações e Equipes/Zaun/Palácio de Jade (Organização)\|Palácio de Jade (Organização)]]<br>[[Organizações e Equipes/Zaun/Palácio de Jade/Equipes/Waifus do Caribe\|Waifus do Caribe]]                                                                                                                                                                                        |
 
-**Scarlet Mana Jin-Can** é uma das principais personagens de [[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro (Série)\|Nunumia - O Último Tesouro (Série)]], atuando como linha de frente na maioria dos combates.
+**Scarlet Mana Jin-Can** é uma das principais aliadas em [[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro (Série)\|Nunumia - O Último Tesouro (Série)]].
 
 # Habilidades
 ---
@@ -31,25 +31,32 @@ Para seu alter ego, veja [[Personagens/MetalBlood\|MetalBlood]]
 - **Assassinato Brutal:** Quando atinge um alvo desprevenido ou que esteja caído, Scarlet pode gastar 8 PD para causar +3d8 (13) pontos de dano.
 - **MetalShot:** Se acertar o ataque crítico (20), Scarlet pode gastar 5 PD para causar +4d12 de dano extra e se ao rodar um dos d12 e o valor for 12, Scarlet ganha 1d12 extra.
 - **Punhal Assassino:** Ao atacar usando o Punhal, Scarlet pode gastar 2 PD para deixar o alvo em sangramento 2 (2d4) por 2 rodadas.
-
 ## MetalBlood
 Ao ativar o [[Páginas/Itens#Colar de Cinzas\|Colar de Cinzas]], Scarlet tem suas habilidades melhoradas.
-
 - **Assassinato Oculto:** Quando atinge um alvo desprevenido ou que esteja caído, **MetalBlood pode gastar 2 PD para causar +6d8 pontos de dano.
 - **CriticalShot:** Se acertar o ataque crítico (20), uma falha crítica (1) ou 10, Scarlet pode gastar 5 PD para causar +8d12 de dano extra e se ao rodar um dos d12 e o valor for 12, Scarlet ganha 1d12 extra.
 - **Punhal Cinzento:** Ao atacar usando o Punhal, Scarlet pode gastar 1 PD para deixar o alvo em sangramento 4 (2d8) por 4 rodadas.
 
 # Curiosidades
 ---
-- O estilo de musica de Scarlet é Metal pesado e Rock.
+- O estilo de musica de Scarlet é Metal pesado.
+- Scarlet por engano foi descrevida como [[Personagens/Kali Kaplam\|Kali Kaplam]] em [[Campanhas/Nunumia - O Último Tesouro/OUTRPG - EPISÓDIO 2 - A PROFETA\|OUTRPG - EPISÓDIO 2 - A PROFETA]].
 # Aparições
 ---
 
-| **Episódios**                                    | **Aparições**     |
-| ------------------------------------------------ | ----------------- |
-| [[Campanhas/Nunumia - O Último Tesouro/OUTRPG - EPISÓDIO 1 - O TESTE\|OUTRPG - EPISÓDIO 1 - O TESTE]]                | Primeira Aparição |
-| [[Campanhas/Nunumia - O Último Tesouro/OUTRPG - EPISÓDIO 2 - A PROFETA\|OUTRPG - EPISÓDIO 2 - A PROFETA]]              | Brevemente        |
-| [[Campanhas/Nunumia - O Último Tesouro/OUTRPG - EPISÓDIO 3 - PROBLEMAS DE SANGUE\|OUTRPG - EPISÓDIO 3 - PROBLEMAS DE SANGUE]]    | Presente          |
-| [[Campanhas/Nunumia - O Último Tesouro/OUTRPG - EPISÓDIO 4 - SEMPRE TEM UM RECOMEÇO\|OUTRPG - EPISÓDIO 4 - SEMPRE TEM UM RECOMEÇO]] | Presente          |
-| [[Campanhas/Nunumia - O Último Tesouro/OUTRPG - EPISÓDIO 5 - JOGOS\|OUTRPG - EPISÓDIO 5 - JOGOS]]                  | Presente          |
-| [[Campanhas/Nunumia - O Último Tesouro/OUTRPG - EPISÓDIO 6 - FRAGMENTOS\|OUTRPG - EPISÓDIO 6 - FRAGMENTOS]]             | Presente          |
+| **Episódios**                                         | **Aparições**     |
+| ----------------------------------------------------- | ----------------- |
+| [[Campanhas/Nunumia - O Último Tesouro/OUTRPG - EPISÓDIO 1 - O TESTE\|OUTRPG - EPISÓDIO 1 - O TESTE]]                     | Primeira Aparição |
+| [[Campanhas/Nunumia - O Último Tesouro/OUTRPG - EPISÓDIO 2 - A PROFETA\|OUTRPG - EPISÓDIO 2 - A PROFETA]]                   | Brevemente        |
+| [[Campanhas/Nunumia - O Último Tesouro/OUTRPG - EPISÓDIO 3 - PROBLEMAS DE SANGUE\|OUTRPG - EPISÓDIO 3 - PROBLEMAS DE SANGUE]]         | Presente          |
+| [[Campanhas/Nunumia - O Último Tesouro/OUTRPG - EPISÓDIO 4 - SEMPRE TEM UM RECOMEÇO\|OUTRPG - EPISÓDIO 4 - SEMPRE TEM UM RECOMEÇO]]      | Presente          |
+| [[Campanhas/Nunumia - O Último Tesouro/OUTRPG - EPISÓDIO 5 - JOGOS\|OUTRPG - EPISÓDIO 5 - JOGOS]]                       | Presente          |
+| [[Campanhas/Nunumia - O Último Tesouro/OUTRPG - EPISÓDIO 6 - FRAGMENTOS\|OUTRPG - EPISÓDIO 6 - FRAGMENTOS]]                  | Presente          |
+| [[Campanhas/Nunumia - O Último Tesouro/OUTRPG - EPISÓDIO 7 - BIFURCAÇÃO (TEMPO E ILUSÃO)\|OUTRPG - EPISÓDIO 7 - BIFURCAÇÃO (TEMPO E ILUSÃO)]] | Presente          |
+| [[Campanhas/Nunumia - O Último Tesouro Cinzas/OUTRPG 2 - EPISÓDIO 2 - RENASCIMENTO\|OUTRPG 2 - EPISÓDIO 2 - RENASCIMENTO]]              | Presente          |
+# Galeria
+---
+## Tokens
+
+| ![Scarlet_Token_2.png\|300](/img/user/0-Assets/Images/Tokens/Scarlet_Token_2.png) |     |
+| ----------------------------- | --- |

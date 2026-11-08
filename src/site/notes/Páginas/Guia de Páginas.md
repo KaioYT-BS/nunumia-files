@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/paginas/guia-de-paginas/","created":"2026-06-09T17:16:16.566-03:00","updated":"2026-10-24T21:29:03.763-03:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/paginas/guia-de-paginas/","created":"2026-06-09T17:16:16.566-03:00","updated":"2026-11-05T21:18:03.754-03:00","dg-note-properties":{}}
 ---
 
 #Diário_de_Deus #Páginas
@@ -83,11 +83,11 @@ Regras de magia, elementos, condições, classes e funcionamento mecânico do RP
 - [[Elementos das Trevas\|Elementos das Trevas]]
 - [[Páginas/Magos de Skyline\|Magos de Skyline]]
 - [[Eventos/Fragmentum periodum\|Fragmentum periodum]]
-- [[Páginas/Nunumia RPG/Nunumia - RPG\|Nunumia - RPG]]
-- [[Páginas/Nunumia RPG/Livro de Regras de Nunumia - RPG\|Livro de Regras de Nunumia - RPG]]
-- [[Páginas/Nunumia RPG/Classes de Nunumia - RPG\|Classes de Nunumia - RPG]]
-- [[Páginas/Nunumia RPG/Legados de Nunumia - RPG\|Legados de Nunumia - RPG]]
-- [[Páginas/Nunumia RPG/Condições\|Condições]]
+- [[Páginas/Nunumia RPG/Nunumia RPG\|Nunumia RPG]]
+- [[Páginas/Nunumia RPG/12FACES - RPG\|12FACES - RPG]]
+- [[Páginas/Nunumia RPG/Classes (12FRPG)\|Classes (12FRPG)]]
+- [[Páginas/Nunumia RPG/Legados (12FRPG)\|Legados (12FRPG)]]
+- [[Páginas/Nunumia RPG/Condições (12FRPG)\|Condições de Nunumia - RPG]]
 
 ## Itens, Relíquias e Artefatos
 ---
@@ -109,7 +109,7 @@ Crenças, cultos, religiões formais e entidades divinas ligadas aos povos de Nu
 - [[Religiões/Lamátria\|Lamátria]]
 - [[Religiões/Précalamismo\|Précalamismo]]
 - [[Religiões/Deuses de Nunumia/Myrthala\|Myrthala]]
-- [[Religiões/Deuses de Nunumia/Clacies\|Clacies]]
+- [[Religiões/Deuses de Nunumia/Glacies\|Glacies]]
 
 ## Raças e Povos
 ---
@@ -134,9 +134,9 @@ Povos, raças e grupos biológicos ou culturais que compõem a população do mu
 
 Governos, instituições, equipes, agências, forças militares e grupos que influenciam os conflitos de Nunumia.
 
-- [[Organizações e Equipes/Palácio de Jade (Organização)/Palácio de Jade (Organização)\|Palácio de Jade (Organização)]]
-- [[Organizações e Equipes/Palácio de Jade (Organização)/Força Nacional de Segurança de Zaun\|Força Nacional de Segurança de Zaun]]
-- [[Organizações e Equipes/Corporação Gentileza/Strikers\|Corporação Strikers]]
+- [[Organizações e Equipes/Zaun/Palácio de Jade (Organização)\|Palácio de Jade (Organização)]]
+- [[Organizações e Equipes/Zaun/Palácio de Jade/Força Nacional de Segurança de Zaun\|Força Nacional de Segurança de Zaun]]
+- [[Organizações e Equipes/O Pacto dos Cinco Cavaleiros/Strikers\|Corporação Strikers]]
 - [[Organizações e Equipes/Imperium Diamante/Setor 11\|Setor 11]]
 - [[Organizações e Equipes/Conselho de Unova\|Conselho de Unova]]
 - [[Organizações e Equipes/Império de Unova/Casas de Unova\|Casas de Unova]]
@@ -163,4 +163,4 @@ Páginas gerais que ajudam a navegar, organizar ou expandir o material do mundo.
 - [[Páginas/Desambiguação/Nunumia - Desambiguação\|Nunumia - Desambiguação]]
 - [[Páginas/Personagens\|Personagens]]
 - [[Páginas/Tags\|Tags]]
-- [[Calendário\|Calendário]]
+- [[Páginas/Calendário\|Calendário]]

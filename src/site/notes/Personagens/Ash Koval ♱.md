@@ -1,16 +1,17 @@
 ---
-{"dg-publish":true,"permalink":"/personagens/ash-koval/","created":"2026-02-08T13:45:54.751-03:00","updated":"2026-10-05T21:44:33.270-03:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/personagens/ash-koval/","created":"2026-02-08T13:45:54.751-03:00","updated":"2026-10-28T20:15:27.736-03:00","dg-note-properties":{}}
 ---
 
 #Personagens
 > Para jogadora, veja [[Páginas/Jogadores/Ash\|Ash]]. Para outros usos desse nome, veja [[Páginas/Desambiguação/Ash - Desambiguação\|Ash - Desambiguação]]
 
-| **Intérprete** | [[Páginas/Jogadores/Kaiositos\|Kaiositos]]                                                                                         |
+| Galeria        | ![Ash_2.png\|300](/img/user/0-Assets/Images/Icons/Personagens/Ash_2.png)                                                                                   |
 | -------------- | ----------------------------------------------------------------------------------------------------- |
+| **Intérprete** | [[Páginas/Jogadores/Kaiositos\|Kaiositos]]                                                                                         |
 | **Status**     | Falecida                                                                                              |
-| **Idade**      | 30                                                                                                    |
+| **Idade**      | 32                                                                                                    |
 | **Relações**   | [[Personagens/Gwen Kostenko\|Gwen Kostenko]] (esposa)<br>[[Personagens/Maxi Frontier\|Maxi Frontier]] (amiga)                                               |
-| **Ocupação**   | Estudante (anteriormente)<br>Investigadora Independente (anteriormente)<br>Agente da [[Organizações e Equipes/Palácio de Jade (Organização)/Equipes/Equipe Delta\|Equipe Delta]] |
+| **Ocupação**   | Estudante (anteriormente)<br>Investigadora Independente (anteriormente)<br>Agente da [[Organizações e Equipes/Zaun/Palácio de Jade/Equipes/Equipe Delta\|Equipe Delta]] |
 | **Classe**     | Destruidora                                                                                           |
 | **Raça**       | [[Raças/Humanos\|Humana]]                                                                                   |
 | **Associação** | [[Organizações e Equipes/Agencia de Investigações Inabituais (AII)\|Agencia de Investigações Inabituais (AII)]]                                                         |

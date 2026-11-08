@@ -8,5 +8,5 @@
 | **Presidente**                | [[Charles Ressler\|Charles Ressler]]                                                                                                    |
 | **Sigla**                     | RPE                                                                                                                    |
 | **Ideologia**                 | [Liberalismo](https://pt.wikipedia.org/wiki/Liberalismo)<br>[Progressismo](https://pt.wikipedia.org/wiki/Progressismo) |
-| **Originou**                  | [[Organizações e Equipes/Porto Royal/Partido Revolutionary Ultranationalist\|Partido Revolutionary Ultranationalist]]                                                                             |
+| **Originou**                  | [[Organizações e Equipes/O Pacto dos Cinco Cavaleiros/Partido Revolutionary Ultranationalist\|Partido Revolutionary Ultranationalist]]                                                                             |
 | **Posição política**          | [Direita](https://pt.wikipedia.org/wiki/Direita)                                                                       |

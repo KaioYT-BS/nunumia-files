@@ -19,7 +19,7 @@
 | **Afinidade**  | [[Elementos do Equilíbrio#Elemento de Conhecimento\|Conhecimento]] |
 | **Classe**     | Destruidor                                                         |
 | **Raça**       | [[Raças/Anjos\|Anjo]]                                                    |
-| **Associação** | [[Organizações e Equipes/Corporação Gentileza/Strikers\|Strikers]]<br>[[Organizações e Equipes/Corporação Gentileza/Equipe de Pesquisa do Projeto Over\|Equipe de Pesquisa do Projeto Over]]             |
+| **Associação** | [[Organizações e Equipes/O Pacto dos Cinco Cavaleiros/Strikers\|Strikers]]<br>[[Organizações e Equipes/Equipe de Pesquisa do Projeto Over\|Equipe de Pesquisa do Projeto Over]]             |
 
 # História
 ---

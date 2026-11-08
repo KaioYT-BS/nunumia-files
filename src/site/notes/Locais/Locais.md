@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locais/locais/","created":"2026-10-11T10:33:43.466-03:00","updated":"2026-10-18T17:15:53.762-03:00","dg-note-properties":{"aliases":["Locais em Nunumia"]}}
+{"dg-publish":true,"permalink":"/locais/locais/","created":"2026-10-11T10:33:43.466-03:00","updated":"2026-11-03T22:16:17.512-03:00","dg-note-properties":{"aliases":["Locais em Nunumia"]}}
 ---
 
 #L #Páginas
@@ -10,20 +10,26 @@
 		- ## [[Kalos\|Kalos]]
 			- [[Lumiose\|Lumiose]]
 				- [[Locais/Unova/Pyraminx (Local)\|Pyraminx (Local)]]
-				- [[Industrias Farmacêuticas BioTech\|Industrias Farmacêuticas BioTech]] (Sede)
+				- [[Organizações e Equipes/Industrias Farmacêuticas BioTech\|Industrias Farmacêuticas BioTech]] (Sede)
 			- [[Locais/Unova/Chappen\|Chappen]]
 				- [[Instalação nº 45 das Industrias Farmacêuticas Biotech\|Instalação nº 45 das Industrias Farmacêuticas Biotech]]
+	- # [[Nova Cidadela\|Nova Cidadela]]
+		- [[Santana d’ Maki\|Santana d’ Maki]]
+			- [[Galpão do Serviço Secreto em Santana d' Maki\|Galpão do Serviço Secreto em Santana d' Maki]]
 - # [[Azarr\|Azarr]]
 	- [[Nova Delhai\|Nova Delhai]]
-	- [[]]
+	- [[Pryiat\|Pryiat]]
 - # [[As Nações de Nunumia/Sete Grandes Nações de Nunumia/Porto Royal\|Porto Royal]]
 	- ## [[Oceano Zaunita\|Oceano Zaunita]]
 		- Ilha Marine
 			- [[Locais/Porto Royal/Base Militar de Ilha Marine\|Base Militar de Ilha Marine]]
 	- ## [[Sunniest\|Sunniest]]
-		- Walinkin
+		- [[Walinkin\|Walinkin]]
 			- [[Locais/Porto Royal/Base Militar de Walinkin\|Base Militar de Walinkin]]
-- # [[As Nações de Nunumia/Sete Grandes Nações de Nunumia/Zaun\|Zaun]] - [[Locais/Continentes de Nunumia\|Continentes de Nunumia]]
+- # [[As Nações de Nunumia/Sete Grandes Nações de Nunumia/Tornhill\|Tornhill]]
+	- ## [[Elfair\|Elfair]]
+		- [[Citta di Palhosa\|Citta di Palhosa]]
+- # [[As Nações de Nunumia/Sete Grandes Nações de Nunumia/Zaun\|Zaun]]
 	- ## [[Locais/Zaun/Bairros de Zaun/Margarida\|Margarida]]
 		- [[Locais/Zaun/Taverna do Oswaldo\|Taverna do Oswaldo]]
 	- ## [[Locais/Zaun/Bairros de Zaun/Hallical\|Hallical]]

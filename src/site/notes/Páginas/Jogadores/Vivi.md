@@ -17,5 +17,5 @@
 Davi tem um estilo de jogo destrutivo focado em causar dano.
 # Curiosidades
 ---
-- [[Personagens/Mars Sailer\|Mars Sailer]] originalmente era para ser desde o inicio uma das [[Organizações e Equipes/Palácio de Jade (Organização)/Equipes/Waifus do Caribe\|Waifus do Caribe]], a decisão dele ser incorporado ao [[Organizações e Equipes/Corporação Gentileza/Strikers\|Strikers]] foi devido a sua falta na primeira sessão.
+- [[Personagens/Mars Sailer\|Mars Sailer]] originalmente era para ser desde o inicio uma das [[Organizações e Equipes/Zaun/Palácio de Jade/Equipes/Waifus do Caribe\|Waifus do Caribe]], a decisão dele ser incorporado ao [[Organizações e Equipes/O Pacto dos Cinco Cavaleiros/Strikers\|Strikers]] foi devido a sua falta na primeira sessão.
 - Davi é LGBT+ (igual a metade da mesa).
