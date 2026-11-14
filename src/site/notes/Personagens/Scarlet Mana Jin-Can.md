@@ -3,7 +3,7 @@
 ---
 
 #S #Personagens #Personagens_Principais_em_OUTRPG #Aliados_em_OUTRPG
-Para seu alter ego, veja [[Personagens/MetalBlood\|MetalBlood]]
+Para seu alter ego, veja [[MetalBlood\|MetalBlood]]
 
 > "_Enquanto vocês matam por justiça, Scarlet mata por esporte."  
 > — Mestre_

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personagens/maxi-frontier/","created":"2026-02-08T13:45:54.758-03:00","updated":"2026-10-13T21:41:02.248-03:00","dg-note-properties":{"aliases":["Marcela Moretti"]}}
+{"dg-publish":true,"permalink":"/personagens/maxi-frontier/","created":"2026-02-08T13:45:54.758-03:00","updated":"2026-11-13T22:33:17.118-03:00","dg-note-properties":{"aliases":["Marcela Moretti"]}}
 ---
 
 #M #Personagens #Aliados_em_OUTRPG 
@@ -16,17 +16,17 @@
 | **Ocupação**   | Agente do [[Organizações e Equipes/Imperium Diamante/Setor 11\|Setor 11]] (anteriormente)<br>Líder da [[Organizações e Equipes/Zaun/Palácio de Jade/Equipes/Equipe Beta\|Equipe Beta]]                                                                                                               |
 | **Classe**     | Destruidora                                                                                                                                                                      |
 | **Raça**       | Humano                                                                                                                                                                           |
-| **Associação** | [[Organizações e Equipes/Zaun/Palácio de Jade (Organização)\|Palácio de Jade (Organização)]]<br>[[Organizações e Equipes/Zaun/Palácio de Jade/Equipes/Equipe Beta\|Equipe Beta]]                                                                                                                             |
-| **Aparições**  | Primeira aparição:<br>[[Campanhas/Nunumia - O Último Tesouro/OUTRPG - EPISÓDIO 4 - SEMPRE TEM UM RECOMEÇO\|OUTRPG - EPISÓDIO 4 - SEMPRE TEM UM RECOMEÇO]] (citada)                                                                                                  |
+| **Associação** | [[Organizações e Equipes/Zaun/Palácio de Jade (Organização)\|Palácio de Jade (Organização)]]<br>[[Organizações e Equipes/Zaun/Palácio de Jade/Força Nacional de Segurança de Zaun\|Força Nacional de Segurança de Zaun]]<br>[[Organizações e Equipes/Zaun/Palácio de Jade/Equipes/Equipe Beta\|Equipe Beta]]                                                                                  |
 # Habilidades
 ---
 ## Ha
 # Aparições
 ---
 
-| **Episódios**                        | **Aparições**     |
-| ------------------------------------ | ----------------- |
-| [[Campanhas/Nunumia - O Último Tesouro/OUTRPG - EPISÓDIO 6 - FRAGMENTOS\|OUTRPG - EPISÓDIO 6 - FRAGMENTOS]] | Primeira aparição |
+| **Episódios**                                    | **Aparições**     |
+| ------------------------------------------------ | ----------------- |
+| [[Campanhas/Nunumia - O Último Tesouro/OUTRPG - EPISÓDIO 4 - SEMPRE TEM UM RECOMEÇO\|OUTRPG - EPISÓDIO 4 - SEMPRE TEM UM RECOMEÇO]] | Primeira citação  |
+| [[Campanhas/Nunumia - O Último Tesouro/OUTRPG - EPISÓDIO 6 - FRAGMENTOS\|OUTRPG - EPISÓDIO 6 - FRAGMENTOS]]             | Primeira aparição |
  
 # Galeria
 ---

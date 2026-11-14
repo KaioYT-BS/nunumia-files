@@ -10,7 +10,7 @@
 > _"Com a sua ajuda, Latiff... Eu vou finalmente iniciar meu projeto. E quando eu terminar, não haverá nada nesse mundo que eu não saiba."
 > — [[Personagens/Kenkaju Unow\|Kenkaju Unow]] para [[Personagens/Latiff Violett\|Latiff Violett]] em [[Campanhas/Nunumia - O Último Tesouro Cinzas/OUTRPG 2 - EPISÓDIO 1 - MANCHAS DO FOGO\|OUTRPG 2 - EPISÓDIO 1 - MANCHAS DO FOGO]]_
 
-| **Galeria**    | ![Kenny.png\|250](/img/user/0-Assets/Images/Icons/Personagens/Kenny.png)                                                                                          |
+| **Galeria**    | ![Kenny.png\|250](/img/user/0-Assets/Images/Icons/Personagens/Guarda%20Azariana/Kenny.png)                                                                                          |
 | -------------- | ------------------------------------------------------------------------------------------------------------ |
 | **Intérprete** | [[Tomás Durão\|Tomás Durão]]                                                                                              |
 | **Status**     | Vivo                                                                                                         |

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personagens/katarina-holt/","created":"2026-09-26T18:51:42.835-03:00","updated":"2026-10-24T17:22:16.195-03:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/personagens/katarina-holt/","created":"2026-09-26T18:51:42.835-03:00","updated":"2026-11-11T00:01:48.610-03:00","dg-note-properties":{}}
 ---
 
 #K #Personagens 
@@ -7,17 +7,17 @@
 > _"Finalmente, alguma pessoa sensata nessa equipe.”
 > —  Katarina para [[Personagens/Cético\|Cético]]_
 
-| **Galeria**    | ![Katarina.png\|250](/img/user/0-Assets/Images/Icons/Personagens/Katarina.png)                                                                                                                                                                   |
+| **Galeria**    | ![Katarina.png\|250](/img/user/0-Assets/Images/Icons/Personagens/Guarda%20Azariana/Katarina.png)                                                                                                                                                                   |
 | -------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Intérprete** | [[Páginas/Jogadores/Hanna\|Hanna]]                                                                                                                                                                                |
 | **Status**     | Viva                                                                                                                                                                                     |
 | **Idade**      | 21                                                                                                                                                                                       |
 | **Apelidos**   | "Kat"                                                                                                                                                                                    |
 | **Relações**   | [[Personagens/Ambrósio Coralar\|Ambrósio Coralar]] (ex-chefe)                                                                                                                                                          |
-| **Ocupação**   | Agente da [[Organizações e Equipes/Porto Royal/RIA\|Royalence Inteligence Agency]]<br>Traficante de Armas internacionais<br>Agente da [[Organizações e Equipes/O Pacto dos Cinco Cavaleiros/Guarda Revolucionária Azariana/Esquadrão x24\|Esquadrão x24]]                                                                     |
+| **Ocupação**   | Agente da [[Organizações e Equipes/Porto Royal/Royalence Inteligence Agency\|Royalence Inteligence Agency]]<br>Traficante de Armas internacionais<br>Agente da [[Organizações e Equipes/O Pacto dos Cinco Cavaleiros/Guarda Revolucionária Azariana/Esquadrão x24\|Esquadrão x24]]                                                                     |
 | **Classe**     | Destruidora                                                                                                                                                                              |
 | **Raça**       | [[Raças/Humanos\|Humana]]                                                                                                                                                                      |
-| **Associação** | [[Organizações e Equipes/O Pacto dos Cinco Cavaleiros/Corporação Gentileza\|Corporação Gentileza]]<br>[[Organizações e Equipes/Porto Royal/RIA\|Royalence Inteligence Agency]]<br>[[Organizações e Equipes/O Pacto dos Cinco Cavaleiros/Partido Revolutionary Ultranationalist\|Ultranacionalistas do Porto Royal]]<br>[[Organizações e Equipes/O Pacto dos Cinco Cavaleiros/Guarda Revolucionária Azariana\|Guarda Revolucionária Azariana]] |
+| **Associação** | [[Organizações e Equipes/O Pacto dos Cinco Cavaleiros/Corporação Gentileza\|Corporação Gentileza]]<br>[[Organizações e Equipes/Porto Royal/Royalence Inteligence Agency\|Royalence Inteligence Agency]]<br>[[Organizações e Equipes/O Pacto dos Cinco Cavaleiros/Partido Revolutionary Ultranationalist\|Ultranacionalistas do Porto Royal]]<br>[[Organizações e Equipes/O Pacto dos Cinco Cavaleiros/Guarda Revolucionária Azariana\|Guarda Revolucionária Azariana]] |
 
 **Katarina Holt** é uma das antagonistas de [[Campanhas/Nunumia - O Último Tesouro Cinzas/Nunumia - O Último Tesouro Cinzas\|Nunumia - O Último Tesouro Cinzas]], sendo responsável anteriormente pelo tráfico de armas da [[Organizações e Equipes/O Pacto dos Cinco Cavaleiros/Corporação Gentileza\|Corporação Gentileza]] para a [[Organizações e Equipes/O Pacto dos Cinco Cavaleiros/Guarda Revolucionária Azariana\|Guarda Revolucionária Azariana]], trabalhado diretamente com [[Personagens/Ambrósio Coralar\|Ambrósio Coralar]]
 # História

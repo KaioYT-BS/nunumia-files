@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/personagens/ananke-amargun/","created":"2026-02-08T13:45:54.659-03:00","updated":"2026-10-28T20:58:56.199-03:00","dg-note-properties":{"aliases":["Morgan Voreal","Chromorios Solvaris"]}}
+{"dg-publish":true,"permalink":"/personagens/ananke-amargun/","created":"2026-02-08T13:45:54.659-03:00","updated":"2026-11-12T21:41:24.776-03:00","dg-note-properties":{"aliases":["Morgan Voreal","Chromorios Solvaris"]}}
 ---
 
-#C #Personagens #Personagens_Principais_em_OUTRPG #Destinados 
+#A #Personagens #Personagens_Principais_em_OUTRPG #Destinados 
 
 > [!NOTE] Página não completa
 > Está página não está completa e, até o momento, sem nada além de partes da INFOBOX.
@@ -12,18 +12,20 @@
 > _"Você, disse que jogou a vida fora, mas sua vida, começa.. AGORA!"
 >— [[Personagens/Arkena Chronos\|Arkena Chronos]]._
 
-| **Galeria**     | ![Ananke.png\|252](/img/user/0-Assets/Images/Icons/Personagens/Waifus%20do%20Caribe/Ananke.png)                                                                                                                                       |
-| --------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Intérprete**  | [[Páginas/Jogadores/Guixy\|Guixy]]                                                                                                                                                  |
-| **Status**      | Vivo                                                                                                                                                       |
-| **Idade Atual** | +7.000                                                                                                                                                     |
-| **Apelidos**    | "Chromorios Solvaris" - Nome Original<br>"[[Personagens/Akin Tornin\|Akin Tornin]]"<br>"Ananke Amargun" - Nome da Amalgama<br>"Morgan Voreal" - Identidade imposta por [[Personagens/Overlord\|Overlord]] |
-| **Relações**    | [[Personagens/Arkena Chronos\|Arkena Chronos]] (mestra)                                                                                                                                |
-| **Ocupação**    | Escrivão (Escriba)<br>Enviado pelo Tempo<br>==Primeiro Destinado==<br>Membro das [[Organizações e Equipes/Zaun/Palácio de Jade/Equipes/Waifus do Caribe\|Waifus do Caribe]]                                                      |
-| **Classe**      | Suporte                                                                                                                                                    |
-| **Raça**        | Vazimo (Chromorios)<br>[[Raças/Elfos\|Elfos]]<br>[[Raças/Humano-Marinho\|Humano-Marinho]]<br>[[Raças/Lobos\|Lobos]]<br>[[Raças/Vazimos\|Vazimos]] (Atualmente)                                                            |
-| **Associação**  | [[Organizações e Equipes/Filhos do Tempo\|Filhos do Tempo]]<br>[[Personagens/Overlord\|Overlord]]<br>[[Máscaras/Máscara do Tempo (Chronos)\|Máscara do Tempo (Chronos)]])<br>[[Organizações e Equipes/Zaun/Palácio de Jade/Equipes/Waifus do Caribe\|Waifus do Caribe]]                                                             |
-**Chromorios Solvaris** é um dos protagonistas de [[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro (Série)\|Nunumia - O Último Tesouro (Série)]].
+| **Galeria**     | ![Ananke.png\|252](/img/user/0-Assets/Images/Icons/Personagens/Waifus%20do%20Caribe/Ananke.png)                                                                                                            |
+| --------------- | ------------------------------------------------------------------------------------------------------------------------------- |
+| **Intérprete**  | [[Páginas/Jogadores/Guixy\|Guixy]]                                                                                                                       |
+| **Status**      | Vivo                                                                                                                            |
+| **Idade atual** | +7.000                                                                                                                          |
+| **Apelidos**    | Chromorios Solvaris - Nome Original<br>Ananke Amargun - Nome da Amalgama<br>Morgan Voreal - Identidade imposta por [[Personagens/Overlord\|Overlord]] |
+| **Relações**    | [[Personagens/Arkena Chronos\|Arkena Chronos]] (mestra)                                                                                                     |
+| **Ocupação**    | Escrivão (Escriba)<br>Enviado pelo Tempo<br>==Primeiro Destinado==<br>Membro das [[Organizações e Equipes/Zaun/Palácio de Jade/Equipes/Waifus do Caribe\|Waifus do Caribe]]                           |
+| **Classe**      | Suporte                                                                                                                         |
+| **Raça**        | Vazimo (Chromorios)<br>[[Raças/Elfos\|Elfos]]<br>[[Raças/Humano-Marinho\|Humano-Marinho]]<br>[[Raças/Lobos\|Lobos]]<br>[[Raças/Vazimos\|Vazimos]] (Atualmente)                                 |
+| **Associação**  | [[Organizações e Equipes/Filhos do Tempo\|Filhos do Tempo]]<br>[[Personagens/Overlord\|Overlord]]<br>[[Máscaras/Máscara do Tempo (Chronos)\|Máscara do Tempo (Chronos)]]<br>[[Organizações e Equipes/Zaun/Palácio de Jade/Equipes/Waifus do Caribe\|Waifus do Caribe]]                                   |
+**Ananke Amargun** é um dos protagonistas de [[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro (Série)\|Nunumia - O Último Tesouro (Série)]].
+
+Ananke sacrificou toda a nação de Amargun em um ritual para receber poderes divinos do Deus do Tempo. O que ele não sabia, é que a imortalidade vinha com um peso, carregar a cada ano mais e mais hospedeiros na sua própria mente.
 # História
 ---
 ## Passado

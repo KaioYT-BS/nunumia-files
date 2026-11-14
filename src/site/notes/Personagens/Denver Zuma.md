@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personagens/denver-zuma/","created":"2026-02-08T13:45:54.537-03:00","updated":"2026-11-03T22:24:38.831-03:00","dg-note-properties":{"aliases":["Denver"]}}
+{"dg-publish":true,"permalink":"/personagens/denver-zuma/","created":"2026-02-08T13:45:54.537-03:00","updated":"2026-11-13T21:49:31.028-03:00","dg-note-properties":{"aliases":["Denver"]}}
 ---
 
 #D #Personagens #Personagens_do_Mestre  #Personagens_Principais_em_OUTRPG  #Personagens_Principais_em_OUTRPG2 #Aliados_em_OUTRPG 
@@ -10,7 +10,7 @@
 > "_Eu jurei que te traria de volta e, eu vou. Nem que isso me custe a vida."  
 > — Denver Zuma_
 
-| Galeria        | ![Denver Zuma_2.png\|250](/img/user/0-Assets/Images/Icons/Personagens/Denver%20Zuma_2.png)<br>*Denver Zuma*                                                                                                                                                              |
+| Galeria        | ![Denver Zuma_2.png\|250](/img/user/0-Assets/Images/Icons/Personagens/Servi%C3%A7o%20Secreto%20de%20Zaun/Denver%20Zuma_2.png)<br>*Denver Zuma*                                                                                                                                                              |
 | -------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Intérprete** | [[Páginas/Jogadores/Kaiositos\|Kaiositos]]                                                                                                                                                                                             |
 | **Status**     | Vivo                                                                                                                                                                                                      |
@@ -44,4 +44,4 @@ Após o coma, Denver ficou extremamente traumatizado com a possibilidade de morr
 | [[Campanhas/Nunumia - O Último Tesouro/OUTRPG - EPISÓDIO 7 - BIFURCAÇÃO (TEMPO E ILUSÃO)\|OUTRPG - EPISÓDIO 7 - BIFURCAÇÃO (TEMPO E ILUSÃO)]] | Presente                                    |
 | [[Campanhas/Nunumia - O Último Tesouro Cinzas/OUTRPG 2 - EPISÓDIO 1 - MANCHAS DO FOGO\|OUTRPG 2 - EPISÓDIO 1 - MANCHAS DO FOGO]]           | Brevemente (visão de [[Personagens/Alger Baskerville\|Alger Baskerville]]) |
 | [[Campanhas/Nunumia - O Último Tesouro Cinzas/OUTRPG 2 - EPISÓDIO 2 - RENASCIMENTO\|OUTRPG 2 - EPISÓDIO 2 - RENASCIMENTO]]              | Presente                                    |
-| [[Campanhas/Nunumia - O Último Tesouro Cinzas/OUTRPG 2 - EPISÓDIO 3 - FALÁCIAS DO PASSADO\|OUTRPG 2 - EPISÓDIO 3 - FALÁCIAS DO PASSADO]]        | Brevemente                                  |
+| [[Campanhas/Nunumia - O Último Tesouro Cinzas/OUTRPG 2 - EPISÓDIO 3 - SUBMERSOS\|OUTRPG 2 - EPISÓDIO 3 - SUBMERSOS]]        | Brevemente                                  |

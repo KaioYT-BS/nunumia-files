@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/personagens/luka-maximoff/","created":"2026-09-24T20:02:37.124-03:00","updated":"2026-10-11T12:00:47.104-03:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/personagens/luka-maximoff/","created":"2026-09-24T20:02:37.124-03:00","updated":"2026-11-11T22:09:13.703-03:00","dg-note-properties":{}}
 ---
 
 #L #Personagens #Personagens_Principais_em_OUTRPG2 
+
 > "_Meu sangue.. 'tá' em você. Eu consigo sentir seu coração e sua corrente sanguínea. A gente tá se conectando.”
 > —  Luka para [[Personagens/Latiff Violett\|Latiff Violett]]._
 
@@ -20,7 +21,7 @@
 | **Associação** | [[Organizações e Equipes/O Pacto dos Cinco Cavaleiros/Guarda Revolucionária Azariana\|Guarda Revolucionária Azariana]]<br>[[Organizações e Equipes/O Pacto dos Cinco Cavaleiros/Guarda Revolucionária Azariana/M13 - Vampys\|M13 - Vampys]]<br>[[Organizações e Equipes/O Pacto dos Cinco Cavaleiros/Guarda Revolucionária Azariana/Esquadrão x24\|Esquadrão x24]]                                            |
 **Luka Maximoff** é um dos protagonistas da segunda temporada de [[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro (Série)\|Nunumia - O Último Tesouro (Série)]].
 
-Luka é um [[Raças/Vampiros\|vampiro]] da linhagem Maximoff, uma das três famílias da raça ainda ativa. 
+Luka é um [[Raças/Vampiros\|vampiro]] da linhagem Maximoff, uma das três famílias da raça ainda ativa.
  
 # História
 ---

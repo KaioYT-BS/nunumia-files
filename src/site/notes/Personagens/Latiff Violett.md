@@ -5,7 +5,7 @@
 #L #Personagens #Personagens_Principais_em_OUTRPG #Personagens_Principais_em_OUTRPG2 
 
 
-| **Galeria**    | ![Latiff_2.png\|250](/img/user/0-Assets/Images/Icons/Personagens/Latiff_2.png)                                                                                                                                                                  |
+| **Galeria**    | ![Latiff_2.png\|250](/img/user/0-Assets/Images/Icons/Personagens/Guarda%20Azariana/Latiff_2.png)                                                                                                                                                                  |
 | -------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Intérprete** | [[Páginas/Jogadores/Kaiositos\|Kaiositos]]                                                                                                                                                                           |
 | **Status**     | Vivo                                                                                                                                                                                    |

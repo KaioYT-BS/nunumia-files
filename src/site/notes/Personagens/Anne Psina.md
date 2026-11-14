@@ -12,7 +12,7 @@
 > — A Profeta_
 
 
-| **Galeria**    | ![Anne.png\|250](/img/user/0-Assets/Images/Icons/Personagens/Anne.png)                                                                                                  |
+| **Galeria**    | ![Anne.png\|250](/img/user/0-Assets/Images/Icons/Personagens/Servi%C3%A7o%20Secreto%20de%20Zaun/Anne.png)                                                                                                  |
 | -------------- | ------------------------------------------------------------------------------------------------------------------- |
 | **Intérprete** | [[Páginas/Jogadores/Kaiositos\|Kaiositos]]                                                                                                       |
 | **Status**     | Viva                                                                                                                |

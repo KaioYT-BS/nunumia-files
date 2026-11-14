@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personagens/emily-speavers-baskerville/","created":"2026-02-08T13:45:54.573-03:00","updated":"2026-10-28T20:58:42.036-03:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/personagens/emily-speavers-baskerville/","created":"2026-02-08T13:45:54.573-03:00","updated":"2026-11-08T00:33:48.547-03:00","dg-note-properties":{}}
 ---
 
 #E #Personagens #Personagens_Principais_em_OUTRPG #Pyraminx #Waifus_do_Caribe #Personagens_Principais_em_OUTRPG2 #Destinados 
@@ -15,7 +15,7 @@
 > "_Eu sou um monstro" 
 > — Evan Pale Archin_
 
-| **Galeria**    | ![Emily_2.png\|200](/img/user/0-Assets/Images/Icons/Personagens/Emily_2.png)![Evan.png\|200](/img/user/0-Assets/Images/Icons/Personagens/Evan.png)<br>![Dama de seda.png\|200](/img/user/0-Assets/Images/Icons/Personagens/Dama%20de%20seda.png)                                                                                                                                                                                                                                                                                                         |
+| **Galeria**    | ![Emily_2.png\|200](/img/user/0-Assets/Images/Icons/Personagens/Waifus%20do%20Caribe/Emily_2.png)![Evan.png\|200](/img/user/0-Assets/Images/Icons/Personagens/Waifus%20do%20Caribe/Evan.png)<br>![Dama de seda.png\|200](/img/user/0-Assets/Images/Icons/Personagens/Dama%20de%20seda.png)                                                                                                                                                                                                                                                                                                         |
 | -------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Intérprete** | [[Tomás Durão\|Tomás Durão]]                                                                                                                                                                                                                                                                                                                                                               |
 | **Status**     | Viva                                                                                                                                                                                                                                                                                                                                                                          |
@@ -357,3 +357,10 @@ Aquilo era o começo de alguma coisa.
 | [[Campanhas/Nunumia - O Último Tesouro Cinzas/OUTRPG 2 - EPISÓDIO 1 - MANCHAS DO FOGO\|OUTRPG 2 - EPISÓDIO 1 - MANCHAS DO FOGO]]           | Presente (Emily; visão de [[Personagens/Alger Baskerville\|Alger Baskerville]]) |
 | [[Campanhas/Nunumia - O Último Tesouro Cinzas/OUTRPG 2 - EPISÓDIO 2 - RENASCIMENTO\|OUTRPG 2 - EPISÓDIO 2 - RENASCIMENTO]]              | Presente                                         |
 
+PV: 39>40
+PD: 105%
+3PERÍCIAS
+1ATRIBUTO
+LV 10>14
+
+CRÍTICO DA AGULHA: X3 > X4
