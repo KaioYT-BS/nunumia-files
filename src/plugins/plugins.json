@@ -67,7 +67,7 @@
       "installedVersion": "1.1.5",
       "installedRef": "v1.1.5",
       "installedAt": "2026-11-16T20:37:21.116Z",
-      "enabled": true,
+      "enabled": false,
       "files": [
         "src/plugins/resizable-panes/LICENSE",
         "src/plugins/resizable-panes/README.md",
