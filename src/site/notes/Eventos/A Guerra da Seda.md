@@ -7,9 +7,9 @@
 | **Data**       | **1945-1950**                                                                        |
 | -------------- | ------------------------------------------------------------------------------------ |
 | **Envolvidos** | [[Raças/Tecelãs\|Tecelãs]]<br>Todas as Raças de Nunumia<br>[[Personagens/Aurora Admircov - △\|Aurora Admircov]] |
-| **Local**      | [[Nunumia\|Nunumia]]                                                                          |
+| **Local**      | [[Os Três Planos de Nunumia/Nunumia\|Nunumia]]                                                                          |
 
-A **Guerra da Seda** foi um evento marcante e importante na história de [[Nunumia\|Nunumia]]. Diferente de muitos conflitos, a Guerra da Seda não foi declarada oficialmente, muito menos organizada por uma única nação ou liderança.
+A **Guerra da Seda** foi um evento marcante e importante na história de [[Os Três Planos de Nunumia/Nunumia\|Nunumia]]. Diferente de muitos conflitos, a Guerra da Seda não foi declarada oficialmente, muito menos organizada por uma única nação ou liderança.
 
 Esse evento consistiu na **caça sistemática de toda e qualquer [[Raças/Tecelãs\|Tecelã]]** encontrada em Nunumia por Humanos.
 
@@ -32,7 +32,7 @@ A seda podia:
 - **retardar o envelhecimento humano**
     
 
-Alguns relatos da época afirmavam que nobres que utilizavam tecidos feitos dessa seda **viviam décadas a mais que o esperado**. Com o tempo, a seda tornou-se um dos materiais mais valiosos de toda [[Nunumia\|Nunumia]]. Isso, naturalmente, despertou o interesse de magos, mercadores, curandeiros e principalmente de quase toda a raça humana. Matar uma tecelã significava poder curar sua filha de uma doença. Esse fato transformou a raça inteira em um recurso vivo.
+Alguns relatos da época afirmavam que nobres que utilizavam tecidos feitos dessa seda **viviam décadas a mais que o esperado**. Com o tempo, a seda tornou-se um dos materiais mais valiosos de toda [[Os Três Planos de Nunumia/Nunumia\|Nunumia]]. Isso, naturalmente, despertou o interesse de magos, mercadores, curandeiros e principalmente de quase toda a raça humana. Matar uma tecelã significava poder curar sua filha de uma doença. Esse fato transformou a raça inteira em um recurso vivo.
 
 Ao mesmo tempo, o medo também crescia. Histórias diziam que uma Tecelã poderia sufocar alguém criando seda dentro de seus pulmões, ou prender um inimigo em fios impossíveis de romper. Seus quatro braços apenas alimentavam ainda mais essas histórias. Medo, valor e ambição começaram a se misturar. E então, a caça começou.
 
@@ -44,7 +44,7 @@ No início, a intenção de muitos não era exterminar as [[Raças/Tecelãs\|Tec
 
 Alguns nobres e organizações passaram a procurar Tecelãs para forçá-las a produzir seda encantada. Muitas foram mantidas em cativeiro, sendo tratadas como ferramentas vivas para a produção de tecidos regenerativos e materiais valiosos. Com o passar do tempo, entretanto, a situação saiu do controle.
 
-Pessoas passaram a pagar grandes quantias por qualquer quantidade de seda. Caçadores começaram a percorrer [[Nunumia\|Nunumia]] em busca de Tecelãs isoladas. Laboratórios e magos realizavam experimentos para tentar extrair o máximo possível do material. O que começou como captura rapidamente se transformou em **extermínio**. Em poucos anos, encontrar uma Tecelã tornou-se algo extremamente raro. 
+Pessoas passaram a pagar grandes quantias por qualquer quantidade de seda. Caçadores começaram a percorrer [[Os Três Planos de Nunumia/Nunumia\|Nunumia]] em busca de Tecelãs isoladas. Laboratórios e magos realizavam experimentos para tentar extrair o máximo possível do material. O que começou como captura rapidamente se transformou em **extermínio**. Em poucos anos, encontrar uma Tecelã tornou-se algo extremamente raro. 
 
 Essa caçada durou cerca de 5 anos, sobrando aproximadamente 60 [[Raças/Tecelãs\|Tecelãs]]. Vendo essa situação a imperadora de Unova agiu, [[Personagens/Aurora Admircov - △\|Aurora Admircov]] criou o [[Locais/Arquipélago Novo/Santuário da Seda\|Santuário da Seda]], um local seguro para as tecelãs.
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/as-nacoes-de-nunumia/sete-grandes-nacoes-de-nunumia/imperium-diamante/","created":"2026-03-23T21:17:50.564-03:00","updated":"2026-11-01T21:00:23.386-03:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/as-nacoes-de-nunumia/sete-grandes-nacoes-de-nunumia/imperium-diamante/","created":"2026-03-23T21:17:50.564-03:00","updated":"2026-11-16T20:56:37.519-03:00","dg-note-properties":{}}
 ---
 
 #Nações #Coleção_História_de_Imperium_Diamante 
@@ -8,21 +8,20 @@
 > "_El imperio eterno, el pueblo eterno."
 > — Lema de Imperium Diamante del Este_
 
-| **Nome Oficial**           | **Imperium Diamante del Este**                                                                                                                                                                                                  |
-| -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Bandeira**               | ![Bandeira do Imperium Diamante.png](/img/user/0-Assets/Images/Bandeiras/Bandeira%20do%20Imperium%20Diamante.png)                                                                                                                                                                                          |
-| **Território**             | ![Territorio de Imperium Diamante.png\|400](/img/user/0-Assets/Images/Mapas/Territorio%20de%20Imperium%20Diamante.png)                                                                                                                                                                                   |
-| **Status**                 | Ativa                                                                                                                                                                                                                           |
-| **Localização**            | [[Cryodiam\|Cryodiam]]                                                                                                                                                                                                                    |
-| **Capital e Maior Cidade** | Diamara                                                                                                                                                                                                                         |
-| **Gentílico**              | Diamantinos                                                                                                                                                                                                                     |
-| **Idioma**                 | [[Diamantiniun\|Diamantiniun]]                                                                                                                                                                                                                |
-| **Sistema**                | Monarquia Constitucional Absolutista                                                                                                                                                                                            |
-| **Hierarquia**             | **Imperadores** (1501 - presente ):<br>Vaelor Cryro I (I até VII)<br>[[Vaelor Cryro VIII\|Vaelor Cryro VIII]]                                                                                                                                      |
-| **População**              | 1 Bilhão (1.000.000.000)<br>                                                                                                                                                                                                    |
-| **Religião Oficial**       | [[Religiões/Glacianismo\|Glacianismo]]                                                                                                                                                                                                                 |
-| **Moeda**                  | Diam (Dianos) \| D$ \| DAM                                                                                                                                                                                                      |
-| **Organizações**           | **Governamental**:<br>[[Casa Cryro\|Casa Cryro]]<br>[[Organización Del tratado del Hemisfério Sur\|Organización Del tratado del Hemisfério Sur]]<br><br>**Militar**:<br>Exército Diamantino<br>Marinha Diamante<br>Força Aérea Diamantino<br><br>**Estatal**:<br>[[Organizações e Equipes/Imperium Diamante/Energía del Imperium\|Energía del Imperium]] |
+| **Nome Oficial**           | **Imperium Diamante del Este**                                                                                                                                                |
+| -------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Bandeira**               | ![Bandeira do Imperium Diamante.png\|300](/img/user/0-Assets/Images/Bandeiras/Bandeira%20do%20Imperium%20Diamante.png)                                                                                                                                   |
+| **Status**                 | Ativa                                                                                                                                                                         |
+| **Localização**            | [[Cryodiam\|Cryodiam]]                                                                                                                                                                  |
+| **Capital e Maior Cidade** | Diamara                                                                                                                                                                       |
+| **Gentílico**              | Diamantinos                                                                                                                                                                   |
+| **Idioma**                 | [[Diamantiniun\|Diamantiniun]]                                                                                                                                                              |
+| **Sistema**                | Monarquia Constitucional Absolutista                                                                                                                                          |
+| **Hierarquia**             | **Imperadores** (1501 - presente ):<br>Vaelor Cryro I (I até VII)<br>[[Vaelor Cryro VIII\|Vaelor Cryro VIII]]                                                                                    |
+| **População aproximada**   | 1 Bilhão (1.000.000.000)<br>                                                                                                                                                  |
+| **Religião oficial**       | [[Religiões/Glacianismo\|Glacianismo]]                                                                                                                                                               |
+| **Moeda**                  | Diam (Dianos) \| D$ \| DAM                                                                                                                                                    |
+| **Organizações**           | **Governamental**:<br>[[Casa Cryro\|Casa Cryro]]<br><br>**Militar**:<br>Exército Diamantino<br>Marinha Diamante<br>Força Aérea Diamantino<br><br>**Estatal**:<br>[[Organizações e Equipes/Imperium Diamante/Energía del Imperium\|Energía del Imperium]] |
 # História
 ---
 ## [[As Nações de Nunumia/Nações Extintas/Reino Oriental da Nunumia\|Reino Oriental da Nunumia]] e [[Republica del Diamante\|Republica del Diamante]]
@@ -56,7 +55,6 @@ Em 660, o movimento separatista, a [[Casa Cryro\|Casa Cryro]] e o governo da [[R
 | ------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![Mapa de Nunumia com Fulminária Norte e Sul.png\|500](/img/user/0-Assets/Images/Mapas/Mapa%20de%20Nunumia%20com%20Fulmin%C3%A1ria%20Norte%20e%20Sul.png)      | ![Mapa de REPUBLICA DEL DIAMANTE.jpeg\|500](/img/user/0-Assets/Images/Mapas/Mapa%20de%20REPUBLICA%20DEL%20DIAMANTE.jpeg)                                                                                                                                                            |
 | **![red ico.png\|20](/img/user/0-Assets/Images/Icons/red%20ico.png) Norte<br>![purple ico.png\|20](/img/user/0-Assets/Images/Icons/purple%20ico.png) Sul** | **![BLUE.png\|20](/img/user/0-Assets/Images/Icons/BLUE.png) [[Republica del Diamante\|Republica del Diamante]]<br>![purple ico.png\|20](/img/user/0-Assets/Images/Icons/purple%20ico.png) [[Estados Diamantinos de Fulminária#Estados Diamantinos de Fulminária do Norte\|Estados Diamantinos de Fulminária do Norte]]** |
-
 
 A permanência de [[Fulminária\|Fulminária do Sul]] na república deixou um sentimento de separação dos [[Povos Diamantes\|Povos Diamantes]] de Fulminária. Anos mais tarde, após a [[Casa Cryro\|Casa Cryro]] retirar todas as suas industrias e organizações de [[Fulminária\|Fulminária]] foi concretizada a [[Separação de Fulminária do Sul\|Separação de Fulminária do Sul]], região que futuramente seria anexada pela [[Federação de New Home\|Federação de New Home]].
 
@@ -117,7 +115,7 @@ Esse processo teve grande impacto geopolítico, ampliando a presença territoria
 
 ### [[Organización Del tratado del Hemisfério Sur\|Organización Del tratado del Hemisfério Sur]]
 
-Após sua saída do [[Organizações e Equipes/Conselho de Unova\|Conselho de Unova]] em 1975, o Império Diamante liderou a criação da [[Organización Del Tratado del Hemisfério Sur\|Organización Del Tratado del Hemisfério Sur]], uma organização internacional voltada à cooperação política, econômica e militar entre países do hemisfério sul de [[Nunumia\|Nunumia]], especialmente aqueles com origem no antigo [[As Nações de Nunumia/Nações Extintas/Reino Oriental da Nunumia\|Reino Oriental da Nunumia]], sendo eles [[As Nações de Nunumia/Sete Grandes Nações de Nunumia/HomeWorld\|HomeWorld]] e [[As Nações de Nunumia/Sete Grandes Nações de Nunumia/Azahor\|Azahor]].
+Após sua saída do [[Organizações e Equipes/Conselho de Unova\|Conselho de Unova]] em 1975, o Império Diamante liderou a criação da [[Organización Del Tratado del Hemisfério Sur\|Organización Del Tratado del Hemisfério Sur]], uma organização internacional voltada à cooperação política, econômica e militar entre países do hemisfério sul de [[Os Três Planos de Nunumia/Nunumia\|Nunumia]], especialmente aqueles com origem no antigo [[As Nações de Nunumia/Nações Extintas/Reino Oriental da Nunumia\|Reino Oriental da Nunumia]], sendo eles [[As Nações de Nunumia/Sete Grandes Nações de Nunumia/HomeWorld\|HomeWorld]] e [[As Nações de Nunumia/Sete Grandes Nações de Nunumia/Azahor\|Azahor]].
 
 A organização passou a funcionar como um bloco alternativo de poder, equilibrando a influência exercida por [[As Nações de Nunumia/Sete Grandes Nações de Nunumia/Unova\|Unova]] no cenário internacional.
 
@@ -127,7 +125,7 @@ O grande impacto da saída das nações do hemisfério sul do conselho de Unova 
 ---
 ## Relações Exteriores
 
-As relações exteriores do [[As Nações de Nunumia/Sete Grandes Nações de Nunumia/Imperium Diamante\|Imperium Diamante]] foram historicamente marcadas por busca por soberania e uma constante disputa por influência em [[Nunumia\|Nunumia]]. Desde sua consolidação, o império adotou uma postura cautelosa em relação a potências estrangeiras, priorizando a preservação de sua autonomia política e econômica.
+As relações exteriores do [[As Nações de Nunumia/Sete Grandes Nações de Nunumia/Imperium Diamante\|Imperium Diamante]] foram historicamente marcadas por busca por soberania e uma constante disputa por influência em [[Os Três Planos de Nunumia/Nunumia\|Nunumia]]. Desde sua consolidação, o império adotou uma postura cautelosa em relação a potências estrangeiras, priorizando a preservação de sua autonomia política e econômica.
 
 O principal eixo de sua política externa sempre foi a rivalidade com [[As Nações de Nunumia/Sete Grandes Nações de Nunumia/Unova\|Unova]]. Desde os tempos da [[Republica del Diamante\|Republica del Diamante]], os [[Povos Diamantes\|Povos Diamantes]] desenvolveram uma oposição estrutural ao modelo unovano de influência global. Enquanto o Império Diamante consolidava sua força internamente, [[As Nações de Nunumia/Sete Grandes Nações de Nunumia/Unova\|Unova]] expandia sua presença internacional, exercendo controle indireto sobre diversas nações. Essa diferença gerou uma rivalidade duradoura, marcada por disputas diplomáticas, competição econômica e conflitos indiretos por zonas de influência.
 
@@ -143,12 +141,12 @@ Essa aliança foi sustentada por interesses econômicos e geopolíticos em comum
 
 Além disso, o Império Diamante expandiu sua atuação internacional por meio de iniciativas estratégicas, como a participação na [[As Nações de Nunumia/Sete Grandes Nações de Nunumia/Azahor#Colonização\|Colonização de Azahor]], consolidando sua presença fora de suas fronteiras tradicionais e reforçando seu papel como potência regional.
 
-Dessa forma, a política externa do [[As Nações de Nunumia/Sete Grandes Nações de Nunumia/Imperium Diamante\|Imperium Diamante]] caracterizou-se por um equilíbrio entre projeção de poder e construção de alianças, garantindo sua posição como uma das principais forças de [[Nunumia\|Nunumia]] ao longo do período contemporâneo.
+Dessa forma, a política externa do [[As Nações de Nunumia/Sete Grandes Nações de Nunumia/Imperium Diamante\|Imperium Diamante]] caracterizou-se por um equilíbrio entre projeção de poder e construção de alianças, garantindo sua posição como uma das principais forças de [[Os Três Planos de Nunumia/Nunumia\|Nunumia]] ao longo do período contemporâneo.
 
 # Demografia
 ---
 ## Religião
-No Imperium Diamante, religião é um dos pilares fundamentais da identidade nacional, exercendo influência direta sobre a cultura, política e organização social. Diferente de outras nações de [[Nunumia\|Nunumia]], o império apresenta uma das maiores taxas de adesão religiosa do continente.
+No Imperium Diamante, religião é um dos pilares fundamentais da identidade nacional, exercendo influência direta sobre a cultura, política e organização social. Diferente de outras nações de [[Os Três Planos de Nunumia/Nunumia\|Nunumia]], o império apresenta uma das maiores taxas de adesão religiosa do continente.
 
 ```chartsview
 #-----------------#

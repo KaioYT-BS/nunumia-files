@@ -11,7 +11,7 @@
 | ---------------------- | ------------------------------- |
 | **Locais de ocupação** | Regiões geladas de [[Cryodiam\|Cryodiam]] |
 
-Os **Lobsomens** são uma raça de [[Nunumia\|Nunumia]], conhecidos por sua natureza dual entre forma humanoide e bestial. Associados historicamente a regiões selvagens e inóspitas, são frequentemente vistos como criaturas perigosas, embora essa percepção varie entre culturas.
+Os **Lobsomens** são uma raça de [[Os Três Planos de Nunumia/Nunumia\|Nunumia]], conhecidos por sua natureza dual entre forma humanoide e bestial. Associados historicamente a regiões selvagens e inóspitas, são frequentemente vistos como criaturas perigosas, embora essa percepção varie entre culturas.
 
 Dotados de força física elevada, sentidos aguçados e grande resistência, os Lobsomens desenvolveram uma reputação tanto como predadores quanto como protetores territoriais.
 
@@ -53,7 +53,7 @@ Em algumas regiões, especialmente em [[Fulminária\|Fulminária]], existem rela
 
 # História
 ---
-A origem dos Lobsomens é incerta, sendo atribuída a diferentes eventos ao longo da história de [[Nunumia\|Nunumia]]. Algumas teorias apontam para experimentos mágicos antigos, possivelmente ligados à [[Calamidade da Magia\|Calamidade da Magia]], enquanto outras sugerem uma origem natural, adaptativa.
+A origem dos Lobsomens é incerta, sendo atribuída a diferentes eventos ao longo da história de [[Os Três Planos de Nunumia/Nunumia\|Nunumia]]. Algumas teorias apontam para experimentos mágicos antigos, possivelmente ligados à [[Calamidade da Magia\|Calamidade da Magia]], enquanto outras sugerem uma origem natural, adaptativa.
 
 Durante períodos de instabilidade, como o [[Eventos/Fragmentum periodum\|Fragmentum periodum]], Lobsomens foram frequentemente utilizados como forças auxiliares em conflitos, seja como mercenários ou como unidades de choque.
 

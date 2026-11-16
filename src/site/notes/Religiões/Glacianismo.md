@@ -12,7 +12,7 @@
 | Seguidores        | Povos Diamantes de [[Cryodiam\|Cryodiam]]  |
 | Número de adeptos | 1.391.500.000                    |
 
-O **Glacianismo** é uma religião monoteísta centrada na adoração de [[Religiões/Deuses de Nunumia/Glacies\|Glacies]], o Deus do Gelo, da quietude e da permanência. Surgida nas regiões frias do norte de [[Nunumia\|Nunumia]], a fé glaciana se consolidou como uma das principais tradições associadas aos povos que valorizam disciplina, resistência e equilíbrio emocional.
+O **Glacianismo** é uma religião monoteísta centrada na adoração de [[Religiões/Deuses de Nunumia/Glacies\|Glacies]], o Deus do Gelo, da quietude e da permanência. Surgida nas regiões frias do norte de [[Os Três Planos de Nunumia/Nunumia\|Nunumia]], a fé glaciana se consolidou como uma das principais tradições associadas aos povos que valorizam disciplina, resistência e equilíbrio emocional.
 
 A religião ensina que o gelo representa a forma mais pura da existência: estável, imutável e resistente ao caos do mundo.
 
@@ -24,7 +24,7 @@ A religião ensina que o gelo representa a forma mais pura da existência: está
 Ele é descrito como uma presença silenciosa e distante, raramente intervindo diretamente, mas sempre observando. Seus seguidores acreditam que Glacies não pune nem recompensa, mas sim preserva ou deixa perecer aquilo que não é digno de permanecer.
 
 # O Mago do Gelo
-Além da veneração direta a [[Religiões/Deuses de Nunumia/Glacies\|Glacies]], o Glacianismo tradicionalmente reconhece a existência do chamado **Mago do Gelo**, uma entidade considerada a manifestação física de Glacies em [[Nunumia\|Nunumia]].
+Além da veneração direta a [[Religiões/Deuses de Nunumia/Glacies\|Glacies]], o Glacianismo tradicionalmente reconhece a existência do chamado **Mago do Gelo**, uma entidade considerada a manifestação física de Glacies em [[Os Três Planos de Nunumia/Nunumia\|Nunumia]].
 
 Segundo a doutrina clássica, a cada era surge um novo Mago do Gelo, escolhido ou moldado pela própria vontade de [[Religiões/Deuses de Nunumia/Glacies\|Glacies]], com a função de preservar o equilíbrio e agir como intermediário entre o divino e o mundo material. Esses indivíduos eram vistos não como deuses, mas como extensões vivas da vontade glaciana.
 
@@ -47,7 +47,7 @@ A valorização da resistência física e mental.
 
 A crença de que apenas o que resiste ao tempo é digno de existir.
 
-Ao longo de sua história, o [[Religiões/Glacianismo\|Glacianismo]] desenvolveu duas principais vertentes, diferenciadas principalmente pela interpretação da manifestação divina de [[Religiões/Deuses de Nunumia/Glacies\|Glacies]] em [[Nunumia\|Nunumia]].  
+Ao longo de sua história, o [[Religiões/Glacianismo\|Glacianismo]] desenvolveu duas principais vertentes, diferenciadas principalmente pela interpretação da manifestação divina de [[Religiões/Deuses de Nunumia/Glacies\|Glacies]] em [[Os Três Planos de Nunumia/Nunumia\|Nunumia]].  
   
 O **Glacianismo Maguinal** representa a forma mais antiga da religião, predominante antes da [[Caçada Mágica\|Caçada Mágica]]. Essa vertente reconhece a existência do **Mago do Gelo** como uma manifestação direta de [[Religiões/Deuses de Nunumia/Glacies\|Glacies]] no mundo material, acreditando que, a cada era, um novo indivíduo surge como seu representante. Figuras como [[Lerroy Vaelor\|Lerroy Vaelor]] e [[Personagens/Amon Vaelor\|Amon Vaelor]] são frequentemente associadas a esse papel.  
   
@@ -62,6 +62,6 @@ Templos glacianos, conhecidos como “Santuários de Cristal”, são construíd
 Os sacerdotes, chamados de “Guardas do Silêncio”, atuam como líderes espirituais e intérpretes da vontade de Glacies.
 
 # Expansão e Influência
-Embora tenha origem em regiões frias, o Glacianismo expandiu-se para outras partes de [[Nunumia\|Nunumia]], especialmente durante períodos de crise, quando sua filosofia de estabilidade e controle atraiu populações em busca de ordem.
+Embora tenha origem em regiões frias, o Glacianismo expandiu-se para outras partes de [[Os Três Planos de Nunumia/Nunumia\|Nunumia]], especialmente durante períodos de crise, quando sua filosofia de estabilidade e controle atraiu populações em busca de ordem.
 
 Em alguns momentos históricos, a religião influenciou estruturas políticas, sendo associada a governos que valorizavam disciplina e centralização.

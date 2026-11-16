@@ -48,7 +48,7 @@ A notícia abalou profundamente o [[Locais/Arquipélago Novo/Santuário da Seda\
 
 A **[[Locais/Arquipélago Novo/Ilha Armelia\|Ilha Armelia]] desapareceu**.
 
-Toda a ilha — incluindo o [[Locais/Arquipélago Novo/Santuário da Seda\|Santuário da Seda]] e praticamente todas as Tecelãs restantes — simplesmente sumiu de [[Nunumia\|Nunumia]].
+Toda a ilha — incluindo o [[Locais/Arquipélago Novo/Santuário da Seda\|Santuário da Seda]] e praticamente todas as Tecelãs restantes — simplesmente sumiu de [[Os Três Planos de Nunumia/Nunumia\|Nunumia]].
 
 Navios enviados ao local encontraram apenas oceano aberto. Assim, enquanto todo o seu povo desapareceu do mundo, **Emily foi deixada para trás com seu pai**.
 
@@ -126,7 +126,7 @@ Os interrogadores começaram a fazer perguntas cada vez mais específicas. Datas
 
 Para os agentes de Unova, Emily era muito mais do que uma garota desaparecida. Ela era **a única Tecelã conhecida que poderia ainda estar viva**. A única que havia deixado a cúpula junto de Herrah antes do desaparecimento da [[Locais/Arquipélago Novo/Ilha Armelia\|Ilha Armelia]].
 
-Se Emily ainda existisse em algum lugar de [[Nunumia\|Nunumia]], ela representava algo extremamente valioso. Evan, sentado diante deles, percebeu algo estranho. Eles estavam procurando por Emily sem perceber que **ela estava bem na frente deles**.
+Se Emily ainda existisse em algum lugar de [[Os Três Planos de Nunumia/Nunumia\|Nunumia]], ela representava algo extremamente valioso. Evan, sentado diante deles, percebeu algo estranho. Eles estavam procurando por Emily sem perceber que **ela estava bem na frente deles**.
 
 Evan fez joguinho, fingiu que não sabia de nada, mesmo sabendo que era a chave para tudo. Muitas coisas se passavam por sua cabeça, os crimes eram novidade para ele, os agentes se irritaram. Os agentes da Casa Umbrella pediram para a P.F.Z sair.
 
@@ -267,7 +267,7 @@ Saon ainda parecia em choque. Ela desviou o olhar por um segundo, respirou fundo
 
 Ela abriu o objeto nas mãos e começou a folhear. Página após página, mas nenhuma parecia completa. Eram fragmentos, introduções, começos de histórias que nunca chegavam ao fim.
 
-— Cada página contém um tópico. Um segredo, um mistério. Histórias, conhecimentos… coisas que não deveriam se perder. O Diário de Deus é considerado o maior repertório de conhecimento elemental de [[Nunumia\|Nunumia]]. Mas eu só tenho a capa… a primeira parte.
+— Cada página contém um tópico. Um segredo, um mistério. Histórias, conhecimentos… coisas que não deveriam se perder. O Diário de Deus é considerado o maior repertório de conhecimento elemental de [[Os Três Planos de Nunumia/Nunumia\|Nunumia]]. Mas eu só tenho a capa… a primeira parte.
 
 Evan observava tudo em silêncio, cada vez mais perdido — mas ao mesmo tempo, cada vez mais intrigado. Aquilo tudo parecia grande demais, distante demais… e ainda assim, de alguma forma, envolvia ele diretamente.
 

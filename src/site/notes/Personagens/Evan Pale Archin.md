@@ -42,7 +42,7 @@ A notícia abalou profundamente o [[Locais/Arquipélago Novo/Santuário da Seda\
 
 A **[[Locais/Arquipélago Novo/Ilha Armelia\|Ilha Armelia]] desapareceu**.
 
-Toda a ilha — incluindo o [[Locais/Arquipélago Novo/Santuário da Seda\|Santuário da Seda]] e praticamente todas as Tecelãs restantes — simplesmente sumiu de [[Nunumia\|Nunumia]].
+Toda a ilha — incluindo o [[Locais/Arquipélago Novo/Santuário da Seda\|Santuário da Seda]] e praticamente todas as Tecelãs restantes — simplesmente sumiu de [[Os Três Planos de Nunumia/Nunumia\|Nunumia]].
 
 Navios enviados ao local encontraram apenas oceano aberto. Assim, enquanto todo o seu povo desapareceu do mundo, **Emily foi deixada para trás com seu pai**.
 

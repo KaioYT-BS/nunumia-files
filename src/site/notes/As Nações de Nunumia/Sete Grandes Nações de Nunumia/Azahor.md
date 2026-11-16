@@ -22,7 +22,7 @@ A **Azahor Oriental** é a porção leste do território de [[As Nações de Nun
 ### Contexto Pré-Colonial
 Antes da colonização, [[As Nações de Nunumia/Sete Grandes Nações de Nunumia/Azahor\|Azahor]] era uma região politicamente fragmentada, composta por diversas comunidades locais com estruturas próprias de organização. A ausência de um governo central forte e sua localização estratégica tornaram o território alvo de interesse de potências externas.
 
-Além disso, Azahor possuía recursos naturais relevantes e uma posição geopolítica importante entre áreas de influência de [[As Nações de Nunumia/Sete Grandes Nações de Nunumia/Unova\|Unova]], [[As Nações de Nunumia/Sete Grandes Nações de Nunumia/HomeWorld\|HomeWorld]] e regiões do hemisfério sul de [[Nunumia\|Nunumia]].
+Além disso, Azahor possuía recursos naturais relevantes e uma posição geopolítica importante entre áreas de influência de [[As Nações de Nunumia/Sete Grandes Nações de Nunumia/Unova\|Unova]], [[As Nações de Nunumia/Sete Grandes Nações de Nunumia/HomeWorld\|HomeWorld]] e regiões do hemisfério sul de [[Os Três Planos de Nunumia/Nunumia\|Nunumia]].
 
 ### Colonização (1970–2000)
 

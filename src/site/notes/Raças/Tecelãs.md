@@ -14,7 +14,7 @@
 | ----------------------- | --------------------------------------------------- |
 | **Locais de oculpação** | [[Locais/Arquipélago Novo/Santuário da Seda\|Santuário da Seda]], Ilha Armalia (anteriormente) |
 
-As **Tecelãs** são uma das raças mais raras e misteriosas de [[Nunumia\|Nunumia]]. Conhecidas por sua habilidade única de produzir **seda orgânica**, elas possuem uma biologia incomum que lhes permite criar fios extremamente resistentes, leves e maleáveis.
+As **Tecelãs** são uma das raças mais raras e misteriosas de [[Os Três Planos de Nunumia/Nunumia\|Nunumia]]. Conhecidas por sua habilidade única de produzir **seda orgânica**, elas possuem uma biologia incomum que lhes permite criar fios extremamente resistentes, leves e maleáveis.
 
 Essa seda possui propriedades regenerativas raras, capazes de acelerar a cicatrização de ferimentos humanos e estabilizar corpos gravemente feridos. Devido a essas propriedades, a seda das Tecelãs tornou-se um dos materiais mais valiosos de toda Nunumia.
 
@@ -40,6 +40,6 @@ A tecelagem era vista não apenas como uma habilidade prática, mas também como
 
 # História
 ---
-Durante séculos, as Tecelãs viveram em relativa paz, até que o valor de sua seda se tornou amplamente conhecido em [[Nunumia\|Nunumia]]. Isso deu início à [[Eventos/A Guerra da Seda\|Guerra da Seda]], um período de perseguição sistemática da raça. Muitas Tecelãs foram capturadas, exploradas ou mortas.
+Durante séculos, as Tecelãs viveram em relativa paz, até que o valor de sua seda se tornou amplamente conhecido em [[Os Três Planos de Nunumia/Nunumia\|Nunumia]]. Isso deu início à [[Eventos/A Guerra da Seda\|Guerra da Seda]], um período de perseguição sistemática da raça. Muitas Tecelãs foram capturadas, exploradas ou mortas.
 
 Após o conflito, as sobreviventes foram levadas para o [[Locais/Arquipélago Novo/Santuário da Seda\|Santuário da Seda]], localizado na [[Locais/Arquipélago Novo/Ilha Armelia\|Ilha Armelia]] sob proteção de [[As Nações de Nunumia/Sete Grandes Nações de Nunumia/Unova\|Unova]]. Anos depois, após a morte de [[Herrah Speavers\|Herrah Speavers]], a ilha inteira desapareceu misteriosamente, levando consigo as últimas Tecelãs conhecidas.

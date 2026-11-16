@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/paginas/boas-vindas-a-nunumia-wiki/","tags":["gardenEntry"],"created":"2026-03-02T13:48:39.740-03:00","updated":"2026-11-15T23:00:02.050-03:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/paginas/boas-vindas-a-nunumia-wiki/","tags":["gardenEntry"],"created":"2026-03-02T13:48:39.740-03:00","updated":"2026-11-16T19:05:52.294-03:00","dg-note-properties":{}}
 ---
 
 
-#B #Páginas
+#B #Páginas #Wiki
 ![Nunumia FIles Logo.png](/img/user/0-Assets/Images/Nunumia%20FIles%20Logo.png)
 [[Páginas/Nunumia - Files\|Nunumia - Files]] é um projeto que consiste na liberação de artigos (estilo Wikipédia) de Personagens, Nações e qualquer outra coisa existente em Nunumia. Os artigos liberados no ***Nunumia: Files*** são criados pelo mestre ([[Páginas/Jogadores/Kaiositos\|Kaiositos]]), sendo os mesmo utilizados na criação de personagens, lugares e etc...
 

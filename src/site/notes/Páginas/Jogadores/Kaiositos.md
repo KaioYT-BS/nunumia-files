@@ -16,5 +16,5 @@
 | **Participações**                 | MSRPG (anteriormente)<br>[[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro (Série)\|Nunumia - O Último Tesouro (Série)]]<br>[[Campanhas/Nunumia - O Último Tesouro Cinzas/Nunumia - O Último Tesouro Cinzas\|Nunumia - O Último Tesouro Cinzas]]                                                                                                                                                                                                        |
 
 
-Kaio Gabriel ou Kaiositos, criou [[Nunumia: RPG\|Nunumia: RPG]] e [[Nunumia\|Nunumia]], Além de ser o mestre de [[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro (Série)\|Nunumia - O Último Tesouro (Série)]] e sua temporada seguinte. Seus personagens de interpretação principal são [[Personagens/Denver Zuma\|Denver Zuma]] e [[Personagens/Latiff Violett\|Latiff Violett]].
+Kaio Gabriel ou Kaiositos, criou [[Nunumia: RPG\|Nunumia: RPG]] e [[Os Três Planos de Nunumia/Nunumia\|Nunumia]], Além de ser o mestre de [[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro (Série)\|Nunumia - O Último Tesouro (Série)]] e sua temporada seguinte. Seus personagens de interpretação principal são [[Personagens/Denver Zuma\|Denver Zuma]] e [[Personagens/Latiff Violett\|Latiff Violett]].
 

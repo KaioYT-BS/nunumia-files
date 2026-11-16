@@ -7,7 +7,7 @@
 ---
 ## [[Cosmos\|Cosmos]]:
 O Cosmos é o lugar que abriga os três planos, sendo eles Skyline, Caterra e o Mundo invertido. Desde a criação, o cosmos sofre com as brigas pelo equilíbrio
-- [[Nunumia\|Nunumia]]
+- [[Os Três Planos de Nunumia/Nunumia\|Nunumia]]
 - [[Magia/Luz/Elementos da Luz\|Elementos da Luz]]
 - [[Magia/Trevas/Conceitos das Trevas\|Conceitos das Trevas]]
 - [[Nunumia Antiga\|Nunumia Antiga]]

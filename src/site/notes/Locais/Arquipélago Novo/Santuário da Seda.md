@@ -8,7 +8,7 @@
 | --------------- | -------------------------------------------- |
 | **Ocupada Por** | [[Raças/Tecelãs\|Tecelãs]]                                  |
 
-O **Santuário da Seda** foi um território criado após os eventos da [[Eventos/A Guerra da Seda\|Guerra da Seda]] com o objetivo de proteger e preservar as [[Raças/Tecelãs\|Tecelãs]], uma raça que havia sido quase completamente exterminada em [[Nunumia\|Nunumia]].
+O **Santuário da Seda** foi um território criado após os eventos da [[Eventos/A Guerra da Seda\|Guerra da Seda]] com o objetivo de proteger e preservar as [[Raças/Tecelãs\|Tecelãs]], uma raça que havia sido quase completamente exterminada em [[Os Três Planos de Nunumia/Nunumia\|Nunumia]].
 
 Localizado originalmente na [[Locais/Arquipélago Novo/Ilha Armelia\|Ilha Armelia]], território pertencente ao império de [[As Nações de Nunumia/Sete Grandes Nações de Nunumia/Unova\|Unova]], o santuário tornou-se o **último refúgio conhecido das Tecelãs**. O local era considerado neutro e protegido por decreto imperial, tornando ilegal qualquer tipo de perseguição ou violência contra a raça dentro de suas fronteiras.
 
@@ -24,7 +24,7 @@ Na época, estimava-se que **menos de cem Tecelãs ainda existiam em toda Nunumi
 
 Sob proteção de Unova, as sobreviventes foram levadas para a [[Locais/Arquipélago Novo/Ilha Armelia\|Ilha Armelia]], uma ilha isolada no território de Unova. O local foi rapidamente transformado em um refúgio seguro, contendo áreas residenciais construídas para as Tecelãs e postos militares da guarda do [[Organizações e Equipes/Império de Unova/Pyraminx\|Pyraminx]].
 
-Apesar de oficialmente ser um **refúgio humanitário**, muitos acreditam que a decisão de Aurora também possuía interesses políticos e principalmente científicos, afinal, a seda das Tecelãs continuava sendo um dos materiais mais raros e valiosos de [[Nunumia\|Nunumia]].
+Apesar de oficialmente ser um **refúgio humanitário**, muitos acreditam que a decisão de Aurora também possuía interesses políticos e principalmente científicos, afinal, a seda das Tecelãs continuava sendo um dos materiais mais raros e valiosos de [[Os Três Planos de Nunumia/Nunumia\|Nunumia]].
 
 E era verdade, em troca da proteção oferecida por Unova, as Tecelãs passaram a fornecer quantidades controladas de seda para **pesquisa científica** conduzida na capital imperial. Mesmo assim, para as sobreviventes, Armelia ainda era vista como **um lar**.
 

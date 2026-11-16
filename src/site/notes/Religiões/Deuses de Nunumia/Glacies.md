@@ -17,7 +17,7 @@ Segundo os textos sagrados glacianos, Glacies não interfere no mundo por vontad
 Essa visão estabelece Glacies como uma força mais próxima de uma lei universal do que de uma entidade com personalidade definida.
 # O Mago do Gelo
 ---
-Uma das principais extensões da presença de Glacies no mundo material é a figura do [[Mago do Gelo\|Mago do Gelo]]. Segundo a doutrina tradicional, essa entidade representa a manifestação direta da vontade de Glacies em [[Nunumia\|Nunumia]].
+Uma das principais extensões da presença de Glacies no mundo material é a figura do [[Mago do Gelo\|Mago do Gelo]]. Segundo a doutrina tradicional, essa entidade representa a manifestação direta da vontade de Glacies em [[Os Três Planos de Nunumia/Nunumia\|Nunumia]].
 
 Acredita-se que, a cada era, um novo Mago do Gelo surge, sendo escolhido ou moldado para atuar como intermediário entre o divino e o mundo físico. Esses indivíduos não são considerados deuses, mas sim instrumentos vivos da ordem glaciana.
 

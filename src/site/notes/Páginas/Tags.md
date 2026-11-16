@@ -10,7 +10,7 @@
 # #B
 ---
 - #B : Páginas que iniciam com a letra "b".
-- #Bestiário : Página de uma criatura de [[Nunumia\|Nunumia]].
+- #Bestiário : Página de uma criatura de [[Os Três Planos de Nunumia/Nunumia\|Nunumia]].
 # #C 
 ---
 - #C : Páginas que iniciam com a letra "c".
@@ -21,7 +21,7 @@
 - #D: Páginas que iniciam com a letra "d".
 - #Desambiguação : # 
 - #Destinados : Personagens destinados pelo [[Os Sete Segredos de Nunumia/Segredo de Aspheera/O Último Tesouro\|Último Tesouro]].
-- #Deuses_de_Nunumia : Deus de [[Nunumia\|Nunumia]].
+- #Deuses_de_Nunumia : Deus de [[Os Três Planos de Nunumia/Nunumia\|Nunumia]].
 # #P
 ---
 - #P: Páginas que iniciam com a letra "p".
