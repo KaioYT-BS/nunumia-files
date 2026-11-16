@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personagens/arkena-chronos/","created":"2026-02-08T13:45:54.734-03:00","updated":"2026-10-28T20:58:41.939-03:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/personagens/arkena-chronos/","created":"2026-02-08T13:45:54.734-03:00","updated":"2026-11-14T09:44:56.037-03:00","dg-note-properties":{}}
 ---
 
 #A #Personagens #Personagens_do_Mestre #Personagens_Principais_em_OUTRPG #Personagens_Principais_em_OUTRPG2 
@@ -16,7 +16,7 @@
 | **Intérprete** | [[Páginas/Jogadores/Kaiositos\|Kaiositos]]                               |
 | **Status**     | Viva                                        |
 | **Idade**      | Desconhecida                                |
-| **Ocupação**   | Portadora da [[Máscaras/Máscara do Tempo (Chronos)\|Máscara do Tempo (Chronos)]] |
+| **Ocupação**   | Portadora da [[Magia/Trevas/Relíquias do ShadowMantle/Chronos\|Chronos]] |
 | **Afinidade**  | Trevas - Tempo                              |
 | **Associação** | [[Organizações e Equipes/Filhos do Tempo\|Filhos do Tempo]]                         |
 

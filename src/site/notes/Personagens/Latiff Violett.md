@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personagens/latiff-violett/","created":"2026-02-08T13:45:54.588-03:00","updated":"2026-10-26T21:44:42.861-03:00","dg-note-properties":{"aliases":["Latiff"]}}
+{"dg-publish":true,"permalink":"/personagens/latiff-violett/","created":"2026-02-08T13:45:54.588-03:00","updated":"2026-11-14T09:43:27.574-03:00","dg-note-properties":{"aliases":["Latiff"]}}
 ---
 
 #L #Personagens #Personagens_Principais_em_OUTRPG #Personagens_Principais_em_OUTRPG2 
@@ -13,7 +13,7 @@
 | **Apelidos**   | "Gestor" ([[Personagens/Nathaniel Scompa ♱\|Nathaniel Scompa ♱]])<br>"Chefe" ([[Personagens/Ambrósio Coralar\|Ambrósio Coralar]])                                                                                                                     |
 | Relações       | [[Personagens/Luka Maximoff\|Luka Maximoff]] (namorado)<br>[[Personagens/Amon Vaelor\|Amon Vaelor]] (irmão)                                                                                                                                 |
 | **Ocupação**   | Líder dos [[Organizações e Equipes/Escarlates\|Escarlates]] (Anteriormente)<br>Diretor Supremo da [[Organizações e Equipes/O Pacto dos Cinco Cavaleiros/Corporação Gentileza\|Corporação Gentileza]]<br>Líder dos [[Organizações e Equipes/O Pacto dos Cinco Cavaleiros/Strikers\|Strikers]]<br>Tenente B da [[Organizações e Equipes/O Pacto dos Cinco Cavaleiros/Guarda Revolucionária Azariana\|Guarda Revolucionária Azariana]]<br>Gestor de Pacto |
-| **Afinidade**  | ![Elemento de Energia Imagem.png\|20](/img/user/0-Assets/Images/Icons/Elemento%20de%20Energia%20Imagem.png) [[Páginas/Elementos da Luz#! Elemento de Energia Imagem.png 70 Elemento de Energia\|Energia]] (via colar do ancião)<br>Trevas                           |
+| **Afinidade**  | ![Elemento de Energia.png\|20](/img/user/0-Assets/Images/Icons/Elementos/Elemento%20de%20Energia.png) [[Magia/Luz/Elementos da Luz#! Elemento de Energia Imagem.png 70 Elemento de Energia\|Energia]] (via colar do ancião)<br>Trevas                                  |
 | **Raça**       | Desconhecida                                                                                                                                                                            |
 | **Associação** | [[Páginas/Magos de Skyline\|Magos de Skyline]] (anteriormente)<br>[[Organizações e Equipes/Escarlates\|Escarlates]]<br>[[Organizações e Equipes/O Pacto dos Cinco Cavaleiros/Strikers\|Strikers]]<br>[[Organizações e Equipes/O Pacto dos Cinco Cavaleiros/Corporação Gentileza\|Corporação Gentileza]]<br>[[Organizações e Equipes/O Pacto dos Cinco Cavaleiros/Guarda Revolucionária Azariana\|Guarda Revolucionária Azariana]]                                                |
 

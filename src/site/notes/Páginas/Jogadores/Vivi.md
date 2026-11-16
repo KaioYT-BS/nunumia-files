@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/paginas/jogadores/vivi/","created":"2026-05-05T15:29:36.524-03:00","updated":"2026-10-24T23:40:40.219-03:00","dg-note-properties":{"aliases":["Davi"]}}
+{"dg-publish":true,"permalink":"/paginas/jogadores/vivi/","created":"2026-05-05T15:29:36.524-03:00","updated":"2026-11-15T22:10:47.951-03:00","dg-note-properties":{"aliases":["Davi"]}}
 ---
 
 #Jogadores #Jogadores_em_OUTRPG 
@@ -10,7 +10,7 @@
 | **Nascimento:**                   | 12/06/2011 - 15 anos                                                                                                                                                      |
 | **Nome**                          | Davi Lucas Rodrigues Alves da Cruz                                                                                                                                        |
 | **Ocupação**                      | Estudante<br>Militante LGBT+<br>Organizador de Batalha de Rima<br>- MC de batalha de rima<br>- Poeta<br>Comunista (capitalista)                                           |
-| **Personagens** **Interpretados** | [[Personagens/Mars Sailer\|Mars Sailer]] - [[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro (Série)\|OUTRPG-1]]; [[Campanhas/Nunumia - O Último Tesouro Cinzas/Nunumia - O Último Tesouro Cinzas\|OUTRPG-2]]<br>[[Personagens/Cético\|Cético]] - [[Campanhas/Nunumia - O Último Tesouro Cinzas/Nunumia - O Último Tesouro Cinzas\|Nunumia - O Último Tesouro Cinzas]] |
+| **Personagens** **Interpretados** | [[Personagens/Mars Sailer\|Mars Sailer]] - [[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro (Série)\|OUTRPG-1]]; [[Campanhas/Nunumia - O Último Tesouro Cinzas/Nunumia - O Último Tesouro Cinzas\|OUTRPG-2]]<br>[[Personagens/Cético ♱\|Cético ♱]] - [[Campanhas/Nunumia - O Último Tesouro Cinzas/Nunumia - O Último Tesouro Cinzas\|Nunumia - O Último Tesouro Cinzas]] |
 | **Participações**                 | [[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro (Série)\|Nunumia - O Último Tesouro (Série)]]<br>[[Campanhas/Nunumia - O Último Tesouro Cinzas/Nunumia - O Último Tesouro Cinzas\|O Último Tesouro Cinzas]]                                                                  |
 # Estilo de jogo
 ---

@@ -46,13 +46,13 @@ Alguns nobres e organizações passaram a procurar Tecelãs para forçá-las a p
 
 Pessoas passaram a pagar grandes quantias por qualquer quantidade de seda. Caçadores começaram a percorrer [[Nunumia\|Nunumia]] em busca de Tecelãs isoladas. Laboratórios e magos realizavam experimentos para tentar extrair o máximo possível do material. O que começou como captura rapidamente se transformou em **extermínio**. Em poucos anos, encontrar uma Tecelã tornou-se algo extremamente raro. 
 
-Essa caçada durou cerca de 5 anos, sobrando aproximadamente 60 [[Raças/Tecelãs\|Tecelãs]]. Vendo essa situação a imperadora de Unova agiu, [[Personagens/Aurora Admircov - △\|Aurora Admircov]] criou o [[Locais/Unova/Santuário da Seda\|Santuário da Seda]], um local seguro para as tecelãs.
+Essa caçada durou cerca de 5 anos, sobrando aproximadamente 60 [[Raças/Tecelãs\|Tecelãs]]. Vendo essa situação a imperadora de Unova agiu, [[Personagens/Aurora Admircov - △\|Aurora Admircov]] criou o [[Locais/Arquipélago Novo/Santuário da Seda\|Santuário da Seda]], um local seguro para as tecelãs.
 
 # Sumiço
 ---
 Após gerações vivendo entre perseguição, exploração e medo, as Tecelãs tomaram uma decisão. Era hora de desaparecer.
 
-Pouco se sabe sobre o que realmente aconteceu, mas em algum momento após a morte de Herrah, **toda a [[Locais/Unova/Ilha Armelia\|Ilha Armelia]] simplesmente desapareceu**.Navios enviados ao local encontraram apenas oceano aberto.
+Pouco se sabe sobre o que realmente aconteceu, mas em algum momento após a morte de Herrah, **toda a [[Locais/Arquipélago Novo/Ilha Armelia\|Ilha Armelia]] simplesmente desapareceu**.Navios enviados ao local encontraram apenas oceano aberto.
 
 Nenhum destroço.  
 Nenhum sinal de destruição.  

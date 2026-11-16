@@ -15,7 +15,7 @@
 | **Apelidos**   | "Deus da Imortalidade"                                                                                                                 |
 | **Relações**   | [[Personagens/Anne Psina\|Anne Psina]]                                                                                                                         |
 | **Ocupação**   | Membro dos [[Organizações e Equipes/O Pacto dos Cinco Cavaleiros/Strikers\|Strikers]]<br>Membro das [[Organizações e Equipes/Zaun/Palácio de Jade/Equipes/Waifus do Caribe\|Waifus do Caribe]]                                                                             |
-| **Afinidade**  | [[Páginas/Elementos da Luz\|Elementos da Luz]] (Gelo)                                                                                                            |
+| **Afinidade**  | [[Magia/Luz/Elementos da Luz\|Elementos da Luz]] (Gelo)                                                                                                            |
 | **Classe**     | Destruidor                                                                                                                             |
 | **Raça**       | [[Raças/Humanos\|Humanos]]                                                                                                                            |
 | **Associação** | [[Organizações e Equipes/Zaun/Palácio de Jade (Organização)\|Palácio de Jade]]<br>[[Organizações e Equipes/O Pacto dos Cinco Cavaleiros/Strikers\|Strikers]] (anteriormente)<br>[[Organizações e Equipes/Zaun/Palácio de Jade/Equipes/Waifus do Caribe\|Waifus do Caribe]]<br>[[Organizações e Equipes/O Pacto dos Cinco Cavaleiros/Corporação Gentileza\|Corporação Gentileza]] |

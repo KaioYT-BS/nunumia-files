@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personagens/nathaniel-scompa/","created":"2026-02-08T13:45:54.665-03:00","updated":"2026-10-18T15:27:28.194-03:00","dg-note-properties":{"aliases":["Marionetista"]}}
+{"dg-publish":true,"permalink":"/personagens/nathaniel-scompa/","created":"2026-02-08T13:45:54.665-03:00","updated":"2026-11-15T22:07:37.218-03:00","dg-note-properties":{"aliases":["Marionetista","Nathaniel Scompa"]}}
 ---
 
 #N #Personagens #Personagens_Principais_em_OUTRPG #Personagens_Principais_em_NEUP #Personagens_Principais_em_OUTRPG2 
@@ -18,10 +18,10 @@
 | **Relações**    | [[Personagens/Latiff Violett\|Latiff Violett]] (mestre)<br>[[Personagens/Denver Zuma\|Denver Zuma]] (ex-namorado)<br>[[Personagens/Scarlet Mana Jin-Can\|Scarlet Mana Jin-Can]] (ex-melhor amiga)<br>[[Personagens/Raiden Takada Ikari ♱\|Raiden Takada Ikari ♱]] ex-melhor amigo)                   |
 | **Ocupação**    | Parlamentar de [[As Nações de Nunumia/Sete Grandes Nações de Nunumia/Zaun\|Zaun]] (anteriormente)<br>Diplomata (anteriormente)<br>Membro da [[Organizações e Equipes/Zaun/Palácio de Jade/Equipes/Equipe Delta\|Equipe Delta]] (2019)<br>Membro dos [[Organizações e Equipes/Escarlates\|Escarlates]]                                     |
 | **Raça**        | Humano                                                                                                                                                                     |
-| **Associação**  | [[Organizações e Equipes/Zaun/Palácio de Jade (Organização)\|Palácio de Jade (Organização)]] (anteriormente)<br>[[Organizações e Equipes/Zaun/Palácio de Jade/Força Nacional de Segurança de Zaun\|Força Nacional de Segurança de Zaun]] (anteriormente)<br>[[As Nações de Nunumia/Sete Grandes Nações de Nunumia/Porto Royal\|Porto Royal]]<br>[[Organizações e Equipes/Escarlates\|Escarlates]]<br>[[Máscaras/Máscara da Ilusão\|Máscara da Ilusão]] |
+| **Associação**  | [[Organizações e Equipes/Zaun/Palácio de Jade (Organização)\|Palácio de Jade (Organização)]] (anteriormente)<br>[[Organizações e Equipes/Zaun/Palácio de Jade/Força Nacional de Segurança de Zaun\|Força Nacional de Segurança de Zaun]] (anteriormente)<br>[[As Nações de Nunumia/Sete Grandes Nações de Nunumia/Porto Royal\|Porto Royal]]<br>[[Organizações e Equipes/Escarlates\|Escarlates]]<br>[[Magia/Trevas/Relíquias do ShadowMantle/Ilusionos\|Ilusionos]] |
 
 
-**Nathaniel Scompa** era um dos [[Organizações e Equipes/Escarlates\|Escarlates]], sendo também anteriormente o portador da [[Máscaras/Máscara da Ilusão\|Máscara da Ilusão]].
+**Nathaniel Scompa** era um dos [[Organizações e Equipes/Escarlates\|Escarlates]], sendo também anteriormente o portador da [[Magia/Trevas/Relíquias do ShadowMantle/Ilusionos\|Ilusionos]].
 
 Ele foi um dos parlamentares de Zaun que posteriormente se juntou a [[Organizações e Equipes/Zaun/Palácio de Jade/Força Nacional de Segurança de Zaun\|Força Nacional de Segurança de Zaun]]. Após ser traído por seus amigos, Nathaniel vendeu informações do governo de Zaun para diversas nações e organizações, sendo seus principais compradores [[Personagens/Latiff Violett\|Latiff]] e o governo do [[As Nações de Nunumia/Sete Grandes Nações de Nunumia/Porto Royal\|Porto Royal]].
 

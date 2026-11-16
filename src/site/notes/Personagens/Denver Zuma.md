@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personagens/denver-zuma/","created":"2026-02-08T13:45:54.537-03:00","updated":"2026-11-13T21:49:31.028-03:00","dg-note-properties":{"aliases":["Denver"]}}
+{"dg-publish":true,"permalink":"/personagens/denver-zuma/","created":"2026-02-08T13:45:54.537-03:00","updated":"2026-11-14T09:31:32.157-03:00","dg-note-properties":{"aliases":["Denver"]}}
 ---
 
 #D #Personagens #Personagens_do_Mestre  #Personagens_Principais_em_OUTRPG  #Personagens_Principais_em_OUTRPG2 #Aliados_em_OUTRPG 
@@ -17,6 +17,7 @@
 | **Idade**      | 28                                                                                                                                                                                                        |
 | **Relações**   | [[Personagens/Mazor Zuma - ♱\|Mazor Zuma - ♱]]  (avô)<br>[[Personagens/Zacariv Zuma - ⁜\|Zacariv Zuma - ⁜]]  (pai)<br>[[Personagens/Maria Gálio Zuma\|Maria Gálio Zuma]] (irmã)<br>[[Personagens/Adam Smith\|Adam Smith]] (namorado)<br>[[Personagens/Nathaniel Scompa ♱\|Nathaniel Scompa ♱]] (ex-namorado)<br>[[Personagens/Scarlet Mana Jin-Can\|Scarlet Mana Jin-Can]] (melhor amiga)   |
 | **Ocupação**   | Membro do [[Esquadrão Primal\|Esquadrão Primal]] (anteriormente)<br>Primeiro Ministro de [[As Nações de Nunumia/Sete Grandes Nações de Nunumia/Zaun\|Zaun]] (anteriormente)<br>Imperador de [[As Nações de Nunumia/Sete Grandes Nações de Nunumia/Zaun\|Zaun]]<br>Diretor geral do [[Organizações e Equipes/Zaun/Palácio de Jade/Serviço Secreto de Zaun\|Serviço Secreto de Zaun]]                                  |
+| **Afinidade**  |                                                                                                                                                                                                           |
 | **Classe**     | Suporte                                                                                                                                                                                                   |
 | **Raça**       | Humano                                                                                                                                                                                                    |
 | **Associação** | [[Os Sete Segredos de Nunumia/Segredo de Aspheera/O Último Tesouro\|O Último Tesouro]]<br>[[Organizações e Equipes/Zaun/Palácio de Jade/Força Nacional de Segurança de Zaun\|Força Nacional de Segurança de Zaun]]<br>[[Organizações e Equipes/Zaun/Palácio de Jade (Organização)\|Palácio de Jade (Organização)]]<br>[[Organizações e Equipes/Zaun/Palácio de Jade/Equipes/Waifus do Caribe\|Waifus do Caribe]]<br>[[Esquadrão Primal\|Esquadrão Primal]] (anteriormente)<br>[[As Nações de Nunumia/Sete Grandes Nações de Nunumia/Zaun\|Zaun]]<br>[[Organizações e Equipes/Conselho de Unova\|Conselho de Unova]] |

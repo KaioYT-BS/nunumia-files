@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/paginas/guia-de-paginas/","created":"2026-06-09T17:16:16.566-03:00","updated":"2026-11-05T21:18:03.754-03:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/paginas/guia-de-paginas/","created":"2026-06-09T17:16:16.566-03:00","updated":"2026-11-14T20:12:01.768-03:00","dg-note-properties":{}}
 ---
 
 #Diário_de_Deus #Páginas
@@ -8,8 +8,8 @@
 ## [[Cosmos\|Cosmos]]:
 O Cosmos é o lugar que abriga os três planos, sendo eles Skyline, Caterra e o Mundo invertido. Desde a criação, o cosmos sofre com as brigas pelo equilíbrio
 - [[Nunumia\|Nunumia]]
-- [[Páginas/Elementos da Luz\|Elementos da Luz]]
-- [[Elementos das Trevas\|Elementos das Trevas]]
+- [[Magia/Luz/Elementos da Luz\|Elementos da Luz]]
+- [[Magia/Trevas/Conceitos das Trevas\|Conceitos das Trevas]]
 - [[Nunumia Antiga\|Nunumia Antiga]]
 - [[Calamidade da Magia\|Calamidade da Magia]]
 ## O Último Tesouro
@@ -56,10 +56,10 @@ Locais que aparecem como centros políticos, culturais, militares, religiosos ou
 - [[Locais/Numia\|Numia]]
 - [[Ilha Unova\|Ilha Unova]]
 - [[Industrial Valley of Zaun\|Industrial Valley of Zaun]]
-- [[Locais/Zaun/Palácio de Jade (Local)\|Palácio de Jade]]
-- [[Locais/Zaun/Taverna do Oswaldo\|Taverna do Oswaldo]]
-- [[Locais/Unova/Pyraminx (Local)\|Pyraminx]]
-- [[Locais/Unova/Santuário da Seda\|Santuário da Seda]]
+- [[Locais/Zaun/Bairro de Solaris/Palácio de Jade (Local)\|Palácio de Jade]]
+- [[Locais/Zaun/Bairro de Margarida/Taverna do Oswaldo\|Taverna do Oswaldo]]
+- [[Locais/Arquipélago Novo/Pyraminx (Local)\|Pyraminx]]
+- [[Locais/Arquipélago Novo/Santuário da Seda\|Santuário da Seda]]
 - [[Locais/Porto Royal/Base Militar de Ilha Marine\|Base Militar de Ilha Marine]]
 
 ## História e Acontecimentos
@@ -79,15 +79,15 @@ Eventos, guerras, reinícios, calamidades e mudanças históricas que alteraram 
 
 Regras de magia, elementos, condições, classes e funcionamento mecânico do RPG.
 
-- [[Páginas/Elementos da Luz\|Elementos da Luz]]
-- [[Elementos das Trevas\|Elementos das Trevas]]
+- [[Magia/Luz/Elementos da Luz\|Elementos da Luz]]
+- [[Magia/Trevas/Conceitos das Trevas\|Conceitos das Trevas]]
 - [[Páginas/Magos de Skyline\|Magos de Skyline]]
 - [[Eventos/Fragmentum periodum\|Fragmentum periodum]]
-- [[Páginas/Nunumia RPG/Nunumia RPG\|Nunumia RPG]]
-- [[Páginas/Nunumia RPG/12FACES - RPG\|12FACES - RPG]]
-- [[Páginas/Nunumia RPG/Classes (12FRPG)\|Classes (12FRPG)]]
-- [[Páginas/Nunumia RPG/Legados (12FRPG)\|Legados (12FRPG)]]
-- [[Páginas/Nunumia RPG/Condições (12FRPG)\|Condições de Nunumia - RPG]]
+- [[Páginas/12Faces RPG/Nunumia RPG\|Nunumia RPG]]
+- [[Páginas/12Faces RPG/12FACES - RPG\|12FACES - RPG]]
+- [[Páginas/12Faces RPG/Classes (12FRPG)\|Classes (12FRPG)]]
+- [[Páginas/12Faces RPG/Legados (12FRPG)\|Legados (12FRPG)]]
+- [[Páginas/12Faces RPG/Condições (12FRPG)\|Condições de Nunumia - RPG]]
 
 ## Itens, Relíquias e Artefatos
 ---
@@ -96,8 +96,8 @@ Itens gerais, tipos de equipamento, relíquias, máscaras e objetos ligados a ca
 
 - [[Páginas/Itens\|Itens]]
 - [[Páginas/Tipos de Itens\|Tipos de Itens]]
-- [[Máscaras/Máscara do Tempo (Chronos)\|Máscara do Tempo]]
-- [[Máscaras/Máscara da Ilusão\|Máscara da Ilusão]]
+- [[Magia/Trevas/Relíquias do ShadowMantle/Chronos\|Máscara do Tempo]]
+- [[Magia/Trevas/Relíquias do ShadowMantle/Ilusionos\|Máscara da Ilusão]]
 - [[Os Sete Segredos de Nunumia/Segredo de Aspheera/As Sete Joias do Último Tesouro\|As Sete Joias do Último Tesouro]]
 
 ## Religiões e Deuses

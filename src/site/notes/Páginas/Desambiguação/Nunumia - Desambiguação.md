@@ -6,7 +6,7 @@
 
 - Para mundo *high-fantasy*, veja [[Nunumia\|Nunumia]]
 	
-- Para sistema de RPG, veja [[Páginas/Nunumia RPG/Nunumia RPG\|Nunumia RPG]]
+- Para sistema de RPG, veja [[Páginas/12Faces RPG/Nunumia RPG\|Nunumia RPG]]
 	
 - Para período de **Nunumia** antes da [[Calamidade da Magia\|Calamidade da Magia]], veja [[Nunumia Unificada\|Nunumia Unificada]]
 	

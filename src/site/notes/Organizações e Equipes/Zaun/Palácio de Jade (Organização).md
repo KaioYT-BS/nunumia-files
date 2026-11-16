@@ -8,12 +8,12 @@
 | ---------------------------- | ------------------------------------------------------------------------------------------------------------------- |
 | **Tipo**                     | Organização Governamental Executiva                                                                                 |
 | **Jurisdição**               | [[As Nações de Nunumia/Sete Grandes Nações de Nunumia/Zaun\|Zaun]]                                                                                                            |
-| **Sede**                     | [[Locais/Zaun/Palácio de Jade (Local)\|Palácio de Jade (Local)]]                                                                                         |
+| **Sede**                     | [[Locais/Zaun/Bairro de Solaris/Palácio de Jade (Local)\|Palácio de Jade (Local)]]                                                                                         |
 | **Status**                   | Em atividade                                                                                                        |
 | **Integrantes conhecidos**   | [[Personagens/Denver Zuma\|Denver Zuma]] (Imperador)<br>[[Valeria Marques\|Valeria Marques]] (Primeira-Ministra)<br>[[Personagens/Ravel Kalister\|Ravel Kalister]] (Secretário de Defesa) |
 | **Organizações Subsidiadas** | [[Organizações e Equipes/Zaun/Palácio de Jade/Força Nacional de Segurança de Zaun\|Força Nacional de Segurança de Zaun]]<br>[[Organizações e Equipes/Zaun/Palácio de Jade/Serviço Secreto de Zaun\|Serviço Secreto de Zaun]]<br>[[Organizações e Equipes/Zaun/Palácio de Jade/Polícia Federal de Zaun\|Polícia Federal de Zaun]]               |
 
-O **Palácio de Jade** é o órgão central do Poder Executivo de [[As Nações de Nunumia/Sete Grandes Nações de Nunumia/Zaun\|Zaun]], funcionando simultaneamente como a sede da alta administração estatal, centro de comando estratégico e gabinete da regência imperial. Localizado no coração da [[Locais/Zaun/Cidadela de Solaris\|Cidadela de Solaris]], a instituição centraliza a formulação de diretrizes políticas, a coordenação financeira, a condução diplomática e o controle unificado das forças civis, policiais e militares do país.
+O **Palácio de Jade** é o órgão central do Poder Executivo de [[As Nações de Nunumia/Sete Grandes Nações de Nunumia/Zaun\|Zaun]], funcionando simultaneamente como a sede da alta administração estatal, centro de comando estratégico e gabinete da regência imperial. Localizado no coração da [[Locais/Zaun/Bairro de Solaris/Cidadela de Solaris\|Cidadela de Solaris]], a instituição centraliza a formulação de diretrizes políticas, a coordenação financeira, a condução diplomática e o controle unificado das forças civis, policiais e militares do país.
 
 A arquitetura administrativa do Palácio opera sob o modelo de **Monarquia Constitucional Parlamentar**, estruturada sobre uma tríade executiva. O poder é dividido rigorosamente entre as prerrogativas soberanas da Coroa, a governança civil do gabinete executivo e a administração de defesa de segurança nacional.
 
@@ -34,7 +34,7 @@ Sob o comando de [[Valeria Marques\|Valeria Marques]], a Primeiro-Ministra exerc
 
 - **Administração Financeira e Economia Civil:** Supervisiona a arrecadação de impostos, a gestão da moeda, o comércio interno e os serviços públicos gerais. É o responsável por executar o orçamento aprovado e manter a saúde financeira dos distritos municipais.
     
-- **Gestão e Infraestrutura da [[Locais/Zaun/Cidadela de Solaris\|Cidadela de Solaris]]:** Exerce a administração direta da capital, coordenando seus distritos urbanos, zeladoria, expansão estrutural e abastecimento estratégico.
+- **Gestão e Infraestrutura da [[Locais/Zaun/Bairro de Solaris/Cidadela de Solaris\|Cidadela de Solaris]]:** Exerce a administração direta da capital, coordenando seus distritos urbanos, zeladoria, expansão estrutural e abastecimento estratégico.
     
 - **Gabinete de Segurança Civil e Ordem Pública:** O Primeiro-Ministro é a autoridade máxima sobre a segurança interna e aplicação da lei contra o crime, subordinações civis e insurreições urbanas.
 ### Órgãos sob Subordinação Civil do Primeiro-Ministro:

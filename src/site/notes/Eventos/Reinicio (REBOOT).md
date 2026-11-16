@@ -16,4 +16,4 @@ O **Reinício** (ou **reboot**) foi um evento que ocorreu após a marca do 14º 
 # Eventos não canônicos
 ---
 - Morte de [[Personagens/Anne Psina\|Anne Psina]].
-- Confronto de [[Personagens/Alger Baskerville\|Alger Baskerville]] e [[Personagens/Bartholomew Baskerville\|Bartholomew Baskerville]] no [[Locais/Zaun/Palácio de Jade (Local)\|Palácio de Jade]].
+- Confronto de [[Personagens/Alger Baskerville\|Alger Baskerville]] e [[Personagens/Bartholomew Baskerville\|Bartholomew Baskerville]] no [[Locais/Zaun/Bairro de Solaris/Palácio de Jade (Local)\|Palácio de Jade]].

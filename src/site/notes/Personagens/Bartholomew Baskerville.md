@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personagens/bartholomew-baskerville/","created":"2026-02-08T13:45:54.526-03:00","updated":"2026-10-18T15:22:31.386-03:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/personagens/bartholomew-baskerville/","created":"2026-02-08T13:45:54.526-03:00","updated":"2026-11-14T09:23:14.638-03:00","dg-note-properties":{}}
 ---
 
 #B #Personagens #Personagens_Principais_em_OUTRPG #Personagens_do_Mestre 
@@ -14,7 +14,7 @@
 | **Idade**      | 52                                                                                                                        |
 | **Relações**   | [[Personagens/Alger Baskerville\|Alger Baskerville]] (Filho)<br>[[Personagens/Elisa Baskerville\|Elisa Baskerville]] (Ex-Esposa)<br>[[Personagens/Ambrósio Coralar\|Ambrósio Coralar]] (Namorada)                     |
 | **Ocupação**   | Investidor<br>CEO da [[Organizações e Equipes/Industrias Baskerville\|Industrias Baskerville]]                                                                           |
-| **Afinidade**  | ![Elemento de Fogo Imagem.png\|20](/img/user/0-Assets/Images/Icons/Elemento%20de%20Fogo%20Imagem.png) [[Páginas/Elementos da Luz#! Elemento de Fogo Imagem.png 70 Elemento de Fogo\|Fogo]]         |
+| **Afinidade**  | ![Elemento de Fogo.png\|20](/img/user/0-Assets/Images/Icons/Elementos/Elemento%20de%20Fogo.png) [[Magia/Luz/Elementos da Luz#! Elemento de Fogo Imagem.png 70 Elemento de Fogo\|Fogo]]         |
 | **Raça**       |                                                                                                                           |
 | **Associação** | [[Organizações e Equipes/O Pacto dos Cinco Cavaleiros/Corporação Gentileza\|Corporação Gentileza]]<br>[[Organizações e Equipes/Industrias Baskerville\|Industrias Baskerville]]<br>[[Industrial Valley of Zaun\|Industrial Valley of Zaun]]<br>[[Organizações e Equipes/O Pacto dos Cinco Cavaleiros/Strikers\|Strikers]]<br>[[Organizações e Equipes/Escarlates\|Escarlates]] |
 

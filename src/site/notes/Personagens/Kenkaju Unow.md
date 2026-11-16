@@ -1,25 +1,25 @@
 ---
-{"dg-publish":true,"permalink":"/personagens/kenkaju-unow/","created":"2026-09-24T20:36:26.125-03:00","updated":"2026-10-24T17:24:32.056-03:00","dg-note-properties":{"aliases":["Kenny"]}}
+{"dg-publish":true,"permalink":"/personagens/kenkaju-unow/","created":"2026-09-24T20:36:26.125-03:00","updated":"2026-11-14T09:23:04.462-03:00","dg-note-properties":{"aliases":["Kenny"]}}
 ---
 
 #K #Personagens #Personagens_Principais_em_OUTRPG2 #Destinados 
 
 > _"Ele não tem objetivos nobres, ou amigáveis. Pode não parecer, mas ele dá a vida pelo seu objetivo."
-> — Intérprete ([[Tomás Durão\|Tomás Durão]])_
+> — Intérprete ([[Páginas/Jogadores/Tomás Durão\|Tomás Durão]])_
 
 > _"Com a sua ajuda, Latiff... Eu vou finalmente iniciar meu projeto. E quando eu terminar, não haverá nada nesse mundo que eu não saiba."
 > — [[Personagens/Kenkaju Unow\|Kenkaju Unow]] para [[Personagens/Latiff Violett\|Latiff Violett]] em [[Campanhas/Nunumia - O Último Tesouro Cinzas/OUTRPG 2 - EPISÓDIO 1 - MANCHAS DO FOGO\|OUTRPG 2 - EPISÓDIO 1 - MANCHAS DO FOGO]]_
 
 | **Galeria**    | ![Kenny.png\|250](/img/user/0-Assets/Images/Icons/Personagens/Guarda%20Azariana/Kenny.png)                                                                                          |
 | -------------- | ------------------------------------------------------------------------------------------------------------ |
-| **Intérprete** | [[Tomás Durão\|Tomás Durão]]                                                                                              |
+| **Intérprete** | [[Páginas/Jogadores/Tomás Durão\|Tomás Durão]]                                                                                              |
 | **Status**     | Vivo                                                                                                         |
 | **Idade**      | Entre 20 e 23                                                                                                |
 | **Apelidos**   | Kenny                                                                                                        |
 | **Relações**   |                                                                                                              |
 | **Destino**    | [[Os Sete Segredos de Nunumia/Segredo de Aspheera/Destinos do Último Tesouro#Conhecimento ( Kenkaju Unow )\|Destino do Conhecimento]]                        |
 | **Ocupação**   | Membro da inteligência do [[Organizações e Equipes/Imperium Diamante/Setor 11\|Setor 11]]<br>Membro do [[Organizações e Equipes/O Pacto dos Cinco Cavaleiros/Guarda Revolucionária Azariana/Esquadrão x24\|Esquadrão x24]]<br>Braço direito de [[Personagens/Latiff Violett\|Latiff Violett]] |
-| **Afinidade**  | [[Páginas/Elementos da Luz#! Elemento de Ar Imagem.png 70 Elemento de Ar\|Ar]] ![Elemento de Ar Imagem.png\|20](/img/user/0-Assets/Images/Icons/Elemento%20de%20Ar%20Imagem.png)    |
+| **Afinidade**  | [[Magia/Luz/Elementos da Luz#! Elemento de Ar Imagem.png 70 Elemento de Ar\|Ar]] ![Elemento de Ar.png\|20](/img/user/0-Assets/Images/Icons/Elementos/Elemento%20de%20Ar.png)    |
 | **Classe**     | Suporte                                                                                                      |
 | **Raça**       | [[Mimicos\|Mimicos]]                                                                                                  |
 | **Associação** | [[Organizações e Equipes/O Pacto dos Cinco Cavaleiros/Guarda Revolucionária Azariana/Esquadrão x24\|Esquadrão x24]]<br>[[Organizações e Equipes/O Pacto dos Cinco Cavaleiros/Guarda Revolucionária Azariana\|Guarda Revolucionária Azariana]]<br>[[Organizações e Equipes/Imperium Diamante/Setor 11\|Setor 11]]                                      |

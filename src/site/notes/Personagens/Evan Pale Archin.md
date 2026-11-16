@@ -26,7 +26,7 @@ Durante os eventos de **[[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Últ
 
 Para mais detalhes, veja  [[Personagens/Emily Speavers Baskerville#Passado\|§ Emily Speavers]]
 
-Emily nasceu em **3 de dezembro de 2006**, na [[Locais/Unova/Ilha Armelia\|Ilha Armelia]], território de [[As Nações de Nunumia/Sete Grandes Nações de Nunumia/Unova\|Unova]]. Na época, Armelia abrigava o [[Locais/Unova/Santuário da Seda\|Santuário da Seda]], o último refúgio conhecido das [[Raças/Tecelãs\|Tecelãs]] após os eventos da [[Eventos/A Guerra da Seda\|Guerra da Seda]].
+Emily nasceu em **3 de dezembro de 2006**, na [[Locais/Arquipélago Novo/Ilha Armelia\|Ilha Armelia]], território de [[As Nações de Nunumia/Sete Grandes Nações de Nunumia/Unova\|Unova]]. Na época, Armelia abrigava o [[Locais/Arquipélago Novo/Santuário da Seda\|Santuário da Seda]], o último refúgio conhecido das [[Raças/Tecelãs\|Tecelãs]] após os eventos da [[Eventos/A Guerra da Seda\|Guerra da Seda]].
 
 Filha de [[Herrah Speavers\|Herrah Speavers]], líder das Tecelãs sobreviventes, Emily cresceu cercada pela cultura e pelos ensinamentos de sua raça. Sua mãe era extremamente protetora e fazia de tudo para garantir que a filha tivesse uma infância tranquila, mesmo carregando o peso de um legado tão grande.
 
@@ -38,11 +38,11 @@ O verdadeiro refúgio de Emily sempre foi a **música**. Com a ajuda de sua mãe
 
 Quando Emily tinha **8 anos**, o mundo mudou completamente. Sua mãe, [[Herrah Speavers\|Herrah Speavers]], foi encontrada morta no quintal da sua casa de férias durante uma viagem fora da ilha. As circunstâncias de sua morte nunca foram completamente esclarecidas. Mesmo com os problemas entre Xavier e Harrah, ambos sempre levavam Emily pelas ilhas de Unova. Após esse evento, Xavier e Emily desapareceram completamente se mudando para [[As Nações de Nunumia/Sete Grandes Nações de Nunumia/Zaun\|Zaun]].
 
-A notícia abalou profundamente o [[Locais/Unova/Santuário da Seda\|Santuário da Seda]]. Herrah não era apenas uma líder política — ela era o símbolo de sobrevivência das Tecelãs após décadas de perseguição. Pouco tempo depois da morte de Herrah, ocorreu um evento ainda mais inexplicável.
+A notícia abalou profundamente o [[Locais/Arquipélago Novo/Santuário da Seda\|Santuário da Seda]]. Herrah não era apenas uma líder política — ela era o símbolo de sobrevivência das Tecelãs após décadas de perseguição. Pouco tempo depois da morte de Herrah, ocorreu um evento ainda mais inexplicável.
 
-A **[[Locais/Unova/Ilha Armelia\|Ilha Armelia]] desapareceu**.
+A **[[Locais/Arquipélago Novo/Ilha Armelia\|Ilha Armelia]] desapareceu**.
 
-Toda a ilha — incluindo o [[Locais/Unova/Santuário da Seda\|Santuário da Seda]] e praticamente todas as Tecelãs restantes — simplesmente sumiu de [[Nunumia\|Nunumia]].
+Toda a ilha — incluindo o [[Locais/Arquipélago Novo/Santuário da Seda\|Santuário da Seda]] e praticamente todas as Tecelãs restantes — simplesmente sumiu de [[Nunumia\|Nunumia]].
 
 Navios enviados ao local encontraram apenas oceano aberto. Assim, enquanto todo o seu povo desapareceu do mundo, **Emily foi deixada para trás com seu pai**.
 
@@ -66,7 +66,7 @@ Foi assim que os “tratamentos” começaram. Primeiro vieram os comprimidos, d
 
 O pior não eram apenas as mudanças físicas, mas o que vinha junto com elas. Cada vez que Emily chorava, Xavier respondia da mesma forma: homens não choram. Quando ela tentava falar de sua mãe, ele a cortava dizendo que ela precisava parar de agir como Herrah. Quando pegava algum instrumento para tocar, ele dizia que música era coisa de gente fraca. Para Xavier, aquilo era um processo de fortalecimento. Para Emily, era como se cada dia apagasse um pedaço de quem ela era.
 
-Ela começou a sentir que estava desaparecendo dentro do próprio corpo. A menina que corria pela grama da [[Locais/Unova/Ilha Armelia\|Ilha Armelia]], que aprendia a tecer seda com a mãe e que acreditava que o mundo ainda tinha algum tipo de beleza parecia cada vez mais distante. O corpo mudava, a voz mudava, e o espelho já não mostrava alguém que ela reconhecia completamente. A mente de Emily, tentando sobreviver a tudo aquilo, acabou encontrando uma saída. Se o mundo exigia que ela fosse outra pessoa, então outra pessoa surgiria para suportar aquilo que ela não conseguia.
+Ela começou a sentir que estava desaparecendo dentro do próprio corpo. A menina que corria pela grama da [[Locais/Arquipélago Novo/Ilha Armelia\|Ilha Armelia]], que aprendia a tecer seda com a mãe e que acreditava que o mundo ainda tinha algum tipo de beleza parecia cada vez mais distante. O corpo mudava, a voz mudava, e o espelho já não mostrava alguém que ela reconhecia completamente. A mente de Emily, tentando sobreviver a tudo aquilo, acabou encontrando uma saída. Se o mundo exigia que ela fosse outra pessoa, então outra pessoa surgiria para suportar aquilo que ela não conseguia.
 
 Xavier acredita que Emily tem potencial para se tornar algo maior. Para ele, a mistura entre humano e tecelã não deveria resultar em fraqueza, mas em algo superior. Assim começam os experimentos. Utilizando tratamentos hormonais e alterações genéticas, Xavier passa a realizar procedimentos em Emily, dizendo que está tentando torná-la mais forte.
 

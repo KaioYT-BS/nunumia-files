@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/personagens/katarina-holt/","created":"2026-09-26T18:51:42.835-03:00","updated":"2026-11-11T00:01:48.610-03:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/personagens/katarina-holt/","created":"2026-09-26T18:51:42.835-03:00","updated":"2026-11-15T22:10:47.882-03:00","dg-note-properties":{}}
 ---
 
 #K #Personagens 
 
 > _"Finalmente, alguma pessoa sensata nessa equipe.”
-> —  Katarina para [[Personagens/Cético\|Cético]]_
+> —  Katarina para [[Personagens/Cético ♱\|Cético ♱]]_
 
 | **Galeria**    | ![Katarina.png\|250](/img/user/0-Assets/Images/Icons/Personagens/Guarda%20Azariana/Katarina.png)                                                                                                                                                                   |
 | -------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

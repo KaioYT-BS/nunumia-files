@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personagens/maximiliam-pegasus/","created":"2026-06-04T13:48:36.951-03:00","updated":"2026-10-28T19:48:07.653-03:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/personagens/maximiliam-pegasus/","created":"2026-06-04T13:48:36.951-03:00","updated":"2026-11-14T20:30:53.382-03:00","dg-note-properties":{}}
 ---
 
 #M #Personagens #Personagens_Principais_em_OUTRPG 
@@ -18,9 +18,9 @@
 | **Classe**     |                                                                                                                      |
 | **Raça**       |                                                                                                                      |
 | **Associação** | [[Organizações e Equipes/O Pacto dos Cinco Cavaleiros/Guarda Revolucionária Azariana\|Guarda Revolucionária Azariana]]<br>[[Organizações e Equipes/O Pacto dos Cinco Cavaleiros/Corporação Gentileza\|Corporação Gentileza]]<br>[[Organizações e Equipes/O Pacto dos Cinco Cavaleiros/Strikers\|Strikers]]<br>[[As Nações de Nunumia/Sete Grandes Nações de Nunumia/Porto Royal\|Porto Royal]]                    |
-Maximiliam Pegasus foi um grande empresário unoviano e CEO da [[Organizações e Equipes/O Pacto dos Cinco Cavaleiros/Corporação Gentileza\|Corporação Gentileza]] por ser o maior acionista da companhia. Após o incêndio da [[Locais/Porto Royal/Base Militar de Walinkin\|Base Militar de Walinkin]], Maximiliam começou uma caça com uma equipe tática da Corporação Gentileza a [[Personagens/Nathaniel Scompa ♱\|Nathaniel Scompa ♱]], após ser avisado por [[Personagens/Latiff Violett\|Latiff Violett]] de sua falsa traição. Após 2 dias de investigação, no dia 6 de Dezembro de 2025, ele e sua equipe acharam a localização de Nathaniel. Depois de invadir o local, o traidor acabou assassinando cada membro de sua equipe, até matar Maximiliam sem piedade com uma faca de Cozinha. 
+Maximiliam Pegasus foi um grande empresário unoviano e CEO da [[Organizações e Equipes/O Pacto dos Cinco Cavaleiros/Corporação Gentileza\|Corporação Gentileza]] por ser o maior acionista da companhia. Após o incêndio da [[Locais/Porto Royal/Base Provisória dos Escarlates em Walinkin\|Base Provisória dos Escarlates em Walinkin]], Maximiliam começou uma caça com uma equipe tática da Corporação Gentileza a [[Personagens/Nathaniel Scompa ♱\|Nathaniel Scompa ♱]], após ser avisado por [[Personagens/Latiff Violett\|Latiff Violett]] de sua falsa traição. Após 2 dias de investigação, no dia 6 de Dezembro de 2025, ele e sua equipe acharam a localização de Nathaniel. Depois de invadir o local, o traidor acabou assassinando cada membro de sua equipe, até matar Maximiliam sem piedade com uma faca de Cozinha. 
 
-Após sua morte, [[Personagens/Nathaniel Scompa ♱\|Nathaniel Scompa ♱]] assumiu sua forma a partir da [[Máscaras/Máscara da Ilusão\|Máscara da Ilusão]].
+Após sua morte, [[Personagens/Nathaniel Scompa ♱\|Nathaniel Scompa ♱]] assumiu sua forma a partir da [[Magia/Trevas/Relíquias do ShadowMantle/Ilusionos\|Ilusionos]].
 # História
 ---
 # Infância e Adolescência notável
