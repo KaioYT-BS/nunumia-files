@@ -1,14 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/bestiario/afogado-monstruoso/","created":"2026-11-10T00:03:09.723-03:00","updated":"2026-11-15T22:13:27.329-03:00","dg-note-properties":{"aliases":null}}
+{"dg-publish":true,"permalink":"/bestiario/afogado-monstruoso/","created":"2026-11-10T00:03:09.723-03:00","updated":"2026-11-15T22:13:52.046-03:00","dg-note-properties":{"aliases":null}}
 ---
 
 #A #Bestiário 
 
-| **Galeria**        | ![Jumpscare de Afogado Montruoso em SUBMERSOS.png\|500](/img/user/0-Assets/Images/Cutscenes/Jumpscare%20de%20Afogado%20Montruoso%20em%20SUBMERSOS.png)<br>***Jumpscare de Afogado Monstruoso em [[Campanhas/Nunumia - O Último Tesouro Cinzas/OUTRPG 2 - EPISÓDIO 3 - SUBMERSOS\|OUTRPG 2 - EPISÓDIO 3 - SUBMERSOS]]***                                      |
-| ------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Elementos**      | ![Elemento de Água.png\|20](/img/user/0-Assets/Images/Icons/Elementos/Elemento%20de%20%C3%81gua.png)[[Magia/Luz/Elementos da Luz#! Elemento de Água.png 70 Elemento de Água\|Água]]<br>[[Magia/Trevas/Conceitos das Trevas#Ilusão (Mentira, Caos)\|Conceito das Trevas: Caos]] |
-| **Pontos de Vida** | 225                                                                                                                                                                              |
-| **Aparições**      | [[Campanhas/Nunumia - O Último Tesouro Cinzas/Nunumia - O Último Tesouro Cinzas\|Nunumia - O Último Tesouro Cinzas]]<br>- Manifestado em [[Personagens/Meise - ♱\|Meise]]                                                                                                   |
+| **Galeria**        | ![Jumpscare de Afogado Montruoso em SUBMERSOS.png\|500](/img/user/0-Assets/Images/Cutscenes/Jumpscare%20de%20Afogado%20Montruoso%20em%20SUBMERSOS.png)<br>***Jumpscare de Afogado Monstruoso em [[Campanhas/Nunumia - O Último Tesouro Cinzas/OUTRPG 2 - EPISÓDIO 3 - SUBMERSOS\|OUTRPG 2 - EPISÓDIO 3 - SUBMERSOS]]***                                        |
+| ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Elementos**      | ![Elemento de Água.png\|20](/img/user/0-Assets/Images/Icons/Elementos/Elemento%20de%20%C3%81gua.png)[[Magia/Luz/Elementos da Luz#! Elemento de Água.png 70 Elemento de Água\|Água]]<br>[[Magia/Trevas/Conceitos das Trevas#Ilusão (Mentira, Caos)\|Conceito das Trevas: Ilusão]] |
+| **Pontos de Vida** | 225                                                                                                                                                                                |
+| **Aparições**      | [[Campanhas/Nunumia - O Último Tesouro Cinzas/Nunumia - O Último Tesouro Cinzas\|Nunumia - O Último Tesouro Cinzas]]<br>- Manifestado em [[Personagens/Meise - ♱\|Meise]]                                                                                                     |
 
 **O Afogado Monstruoso** é uma versão bestial de um [[Raças/Humano-Marinho\|Humano-Marinho]] morto por algum tipo de magia das trevas no fundo do mar. A criatura é constituída de dois elementos, sendo eles **Trevas com conceito de Ilusão** como opressor e **Água** como oprimido.
 
