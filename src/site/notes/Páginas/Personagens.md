@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/paginas/personagens/","created":"2026-02-08T13:45:13.450-03:00","updated":"2026-11-15T22:11:22.852-03:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/paginas/personagens/","created":"2026-02-08T13:45:13.450-03:00","updated":"2026-11-15T22:53:45.589-03:00","dg-note-properties":{}}
 ---
 
 #P  #Páginas
@@ -16,16 +16,9 @@ Esta pagina lista os personagens de [[Nunumia\|Nunumia]].
 ## [[Organizações e Equipes/O Pacto dos Cinco Cavaleiros/Guarda Revolucionária Azariana/Esquadrão x24\|Esquadrão x24]]:
 | ![Spectra.png\|200](/img/user/0-Assets/Images/Icons/Personagens/Guarda%20Azariana/Spectra.png)<br>[[Personagens/Spectra Vondergaist\|Spectra Vondergaist]]<br>**[[Campanhas/Nunumia - O Último Tesouro Cinzas/Nunumia - O Último Tesouro Cinzas\|OUTRPG2]]** | ![Kenny.png\|200](/img/user/0-Assets/Images/Icons/Personagens/Guarda%20Azariana/Kenny.png)<br>[[Personagens/Kenkaju Unow\|Kenkaju Unow]]<br>**[[Campanhas/Nunumia - O Último Tesouro Cinzas/Nunumia - O Último Tesouro Cinzas\|OUTRPG2]]** | ![Luka.png\|200](/img/user/0-Assets/Images/Icons/Personagens/Guarda%20Azariana/Luka.png)<br>[[Personagens/Luka Maximoff\|Luka Maximoff]]<br>**[[Campanhas/Nunumia - O Último Tesouro Cinzas/Nunumia - O Último Tesouro Cinzas\|OUTRPG2]]** | ![Malkor.png\|200](/img/user/0-Assets/Images/Icons/Personagens/Guarda%20Azariana/Malkor.png)<br>[[Malkor Tenebrae\|Malkor Tenebrae]]<br>**[[Campanhas/Nunumia - O Último Tesouro Cinzas/Nunumia - O Último Tesouro Cinzas\|OUTRPG2]]** |
 | :----------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------: |
-|     ![Hitori.png\|200](/img/user/0-Assets/Images/Icons/Personagens/Guarda%20Azariana/Hitori.png)<br>[[Personagens/Hitori ♱\|Hitori ♱]]<br> **[[Campanhas/Nunumia - O Último Tesouro Cinzas/Nunumia - O Último Tesouro Cinzas\|OUTRPG2]]**      |  ![Cético.png\|200](/img/user/0-Assets/Images/Icons/Personagens/Guarda%20Azariana/C%C3%A9tico.png)<br>[[Personagens/Cético ♱\|Cético ♱]]<br>**[[Campanhas/Nunumia - O Último Tesouro Cinzas/Nunumia - O Último Tesouro Cinzas\|OUTRPG2]]**   |  ![Xander.png\|200](/img/user/0-Assets/Images/Icons/Personagens/Guarda%20Azariana/Xander.png)<br>[[Personagens/Tenente X\|Tenente X]]<br>**[[Campanhas/Nunumia - O Último Tesouro Cinzas/Nunumia - O Último Tesouro Cinzas\|OUTRPG2]]**  | ![Katarina.png\|200](/img/user/0-Assets/Images/Icons/Personagens/Guarda%20Azariana/Katarina.png)<br>[[Personagens/Katarina Holt\|Katarina Holt]]<br>**[[Campanhas/Nunumia - O Último Tesouro Cinzas/Nunumia - O Último Tesouro Cinzas\|OUTRPG2]]** |
-# Organizações
+|      ![Hitori.png\|200](/img/user/0-Assets/Images/Icons/Personagens/Guarda%20Azariana/Hitori.png)<br>[[Personagens/Hitori ♱\|Hitori ♱]]<br> **[[Campanhas/Nunumia - O Último Tesouro Cinzas/Nunumia - O Último Tesouro Cinzas\|OUTRPG2]]**       |  ![Cético.png\|200](/img/user/0-Assets/Images/Icons/Personagens/Guarda%20Azariana/C%C3%A9tico.png)<br>[[Personagens/Cético ♱\|Cético ♱]]<br>**[[Campanhas/Nunumia - O Último Tesouro Cinzas/Nunumia - O Último Tesouro Cinzas\|OUTRPG2]]**   |  ![Xander.png\|200](/img/user/0-Assets/Images/Icons/Personagens/Guarda%20Azariana/Xander.png)<br>[[Personagens/Tenente X\|Tenente X]]<br>**[[Campanhas/Nunumia - O Último Tesouro Cinzas/Nunumia - O Último Tesouro Cinzas\|OUTRPG2]]**  | ![Katarina.png\|200](/img/user/0-Assets/Images/Icons/Personagens/Guarda%20Azariana/Katarina.png)<br>[[Personagens/Katarina Holt\|Katarina Holt]]<br>**[[Campanhas/Nunumia - O Último Tesouro Cinzas/Nunumia - O Último Tesouro Cinzas\|OUTRPG2]]** |
+# [[Organizações\|Organizações]]
 ---
-
-
-| ![Bartholomew.png\|200](/img/user/0-Assets/Images/Icons/Personagens/Bartholomew.png)<br>[[Personagens/Bartholomew Baskerville\|Bartholomew Baskerville]]<br>**[[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro (Série)\|OUTRPG]]** |     | ![Morgan.png\|200](/img/user/0-Assets/Images/Icons/Personagens/Morgan.png)<br>[[Personagens/Arkena Chronos\|Arkena Chronos]]<br>**[[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro (Série)\|OUTRPG]]** |
-| :------------------------------------------------------------------------------------------------------------: | :-: | :----------------------------------------------------------------------------------------------: |
-|      ![Ilusionista.png\|200](/img/user/0-Assets/Images/Icons/Personagens/Ilusionista.png)<br>[[Personagens/O Ilusionista\|O Ilusionista]]<br>**[[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro (Série)\|OUTRPG]]**      |     |                                                                                                  |
-
-
 ## [[Organizações e Equipes/Zaun/Palácio de Jade (Organização)\|Palácio de Jade (Organização)]]:
 
 | ![Denver Zuma_2.png\|200](/img/user/0-Assets/Images/Icons/Personagens/Servi%C3%A7o%20Secreto%20de%20Zaun/Denver%20Zuma_2.png)<br>[[Personagens/Denver Zuma\|Denver Zuma]]<br>**[[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro (Série)\|OUTRPG]] • [[Campanhas/Nunumia - O Último Tesouro Cinzas/Nunumia - O Último Tesouro Cinzas\|OUTRPG2]]** | ![Ravel Kalister.png\|200](/img/user/0-Assets/Images/Icons/Personagens/Servi%C3%A7o%20Secreto%20de%20Zaun/Ravel%20Kalister.png)<br>[[Personagens/Ravel Kalister\|Ravel Kalister]]<br>**[[Campanhas/Nunumia - O Último Tesouro Cinzas/Nunumia - O Último Tesouro Cinzas\|OUTRPG2]]** | ![William Emily_2.png\|200](/img/user/0-Assets/Images/Icons/Personagens/Servi%C3%A7o%20Secreto%20de%20Zaun/William%20Emily_2.png)<br>[[Personagens/William Emily ♱\|William Emily ♱]]<br>**[[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro (Série)\|OUTRPG]]** |
@@ -37,8 +30,8 @@ Esta pagina lista os personagens de [[Nunumia\|Nunumia]].
 | ![Gwen Kostento.png\|200](/img/user/0-Assets/Images/Icons/Personagens/Servi%C3%A7o%20Secreto%20de%20Zaun/Gwen%20Kostento.png)<br>[[Personagens/Gwen Kostenko\|Gwen Kostenko]]<br>**[[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro (Série)\|OUTRPG]] • [[Campanhas/Nunumia - O Último Tesouro Cinzas/Nunumia - O Último Tesouro Cinzas\|OUTRPG2]]** | ![maxi.png\|200](/img/user/0-Assets/Images/Icons/Personagens/Servi%C3%A7o%20Secreto%20de%20Zaun/Maxi.png)<br>[[Personagens/Maxi Frontier\|Maxi Frontier]]<br>**[[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro (Série)\|OUTRPG]] • [[Campanhas/Nunumia - O Último Tesouro Cinzas/Nunumia - O Último Tesouro Cinzas\|OUTRPG2]]** | ![Garry Sanderson.png\|200](/img/user/0-Assets/Images/Icons/Personagens/Servi%C3%A7o%20Secreto%20de%20Zaun/Garry%20Sanderson.png)<br>[[Personagens/Garry Sanderson\|Garry Sanderson]]<br>**[[Campanhas/Nunumia - O Último Tesouro Cinzas/Nunumia - O Último Tesouro Cinzas\|OUTRPG2]]** | ![Kali_Kaplam.png\|200](/img/user/0-Assets/Images/Icons/Personagens/Servi%C3%A7o%20Secreto%20de%20Zaun/Kali_Kaplam.png)<br>[[Personagens/Kali Kaplam\|Kali Kaplam]]<br>**[[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro (Série)\|OUTRPG]] • [[Campanhas/Nunumia - O Último Tesouro Cinzas/Nunumia - O Último Tesouro Cinzas\|OUTRPG2]]** |
 | :-----------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------: |
 ### [[Organizações e Equipes/Zaun/Palácio de Jade/Equipes/Equipe Alpha\|Equipe Alpha]]:
-| ![Scarlet_2.png\|200](/img/user/0-Assets/Images/Icons/Personagens/Servi%C3%A7o%20Secreto%20de%20Zaun/Scarlet_2.png)<br>[[Personagens/Scarlet Mana Jin-Can\|Scarlet Mana Jin-Can]]<br>**[[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro (Série)\|OUTRPG]] • [[Campanhas/Nunumia - O Último Tesouro Cinzas/Nunumia - O Último Tesouro Cinzas\|OUTRPG2]]** | ![Umbrella Parker.png\|200](/img/user/0-Assets/Images/Icons/Personagens/Servi%C3%A7o%20Secreto%20de%20Zaun/Umbrella%20Parker.png)<br>[[Personagens/Umbrella Parker\|Umbrella Parker]] |     |     |
-| :--------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------: | :-: | :-: |
+| ![Scarlet_2.png\|200](/img/user/0-Assets/Images/Icons/Personagens/Servi%C3%A7o%20Secreto%20de%20Zaun/Scarlet_2.png)<br>[[Personagens/Scarlet Mana Jin-Can\|Scarlet Mana Jin-Can]]<br>**[[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro (Série)\|OUTRPG]] • [[Campanhas/Nunumia - O Último Tesouro Cinzas/Nunumia - O Último Tesouro Cinzas\|OUTRPG2]]** | ![Umbrella Parker.png\|200](/img/user/0-Assets/Images/Icons/Personagens/Servi%C3%A7o%20Secreto%20de%20Zaun/Umbrella%20Parker.png)<br>[[Personagens/Umbrella Parker\|Umbrella Parker]]<br>**[[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro (Série)\|OUTRPG]] • [[Campanhas/Nunumia - O Último Tesouro Cinzas/Nunumia - O Último Tesouro Cinzas\|OUTRPG2]]** |     |     |
+| :--------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------: | :-: | :-: |
 
 ### Funcionários da Base:
 
@@ -55,14 +48,23 @@ Esta pagina lista os personagens de [[Nunumia\|Nunumia]].
 | [[Leon Maguffin\|Leon Maguffin]] | [[Amanda Gentilli\|Amanda Gentilli]] |
 | :---------------: | :-----------------: |
 ## [[Pacto dos Cinco Cavaleiros\|Pacto dos Cinco Cavaleiros]]:
+### Os Cinco Cavaleiros:
+
 |                         ![Shepherd Al-Asad.png\|200](/img/user/0-Assets/Images/Icons/Personagens/Shepherd%20Al-Asad.png)<br>[[Personagens/Shepherd Al-Asad\|Shepherd Al-Asad]]<br>**[[Campanhas/Nunumia - O Último Tesouro Cinzas/Nunumia - O Último Tesouro Cinzas\|OUTRPG2]]**                          | ![Latiff_2.png\|200](/img/user/0-Assets/Images/Icons/Personagens/Guarda%20Azariana/Latiff_2.png)<br>[[Personagens/Latiff Violett\|Latiff]]<br>**[[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro (Série)\|OUTRPG]] • [[Campanhas/Nunumia - O Último Tesouro Cinzas/Nunumia - O Último Tesouro Cinzas\|OUTRPG2]]** | ![Maximiliam Pegasus.png\|200](/img/user/0-Assets/Images/Icons/Personagens/Maximiliam%20Pegasus.png)<br>[[Personagens/Maximiliam Pegasus\|Maximiliam Pegasus]]<br>**[[Campanhas/Nunumia - O Último Tesouro Cinzas/Nunumia - O Último Tesouro Cinzas\|OUTRPG2]]** |
 | :-----------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------: |
 | ![Ambrósio Coralar.png\|200](/img/user/0-Assets/Images/Icons/Personagens/Ambr%C3%B3sio%20Coralar.png)<br>[[Personagens/Ambrósio Coralar\|Ambrósio Coralar]]<br>**[[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro (Série)\|OUTRPG]] • [[Campanhas/Nunumia - O Último Tesouro Cinzas/Nunumia - O Último Tesouro Cinzas\|OUTRPG2]]** |          ![Caveira_Vermelha.png\|200](/img/user/0-Assets/Images/Icons/Personagens/Guarda%20Azariana/Caveira_Vermelha.png)<br>[[Personagens/Verônika Kostenko Menendez\|Caveira Vermelha]]<br>**[[Campanhas/Nunumia - O Último Tesouro Cinzas/Nunumia - O Último Tesouro Cinzas\|OUTRPG2]]**           |                                                                                                                  |
 ### [[Organizações e Equipes/O Pacto dos Cinco Cavaleiros/Corporação Gentileza\|Corporação Gentileza]]:
-| ![Sophie Miller.png\|200](/img/user/0-Assets/Images/Icons/Personagens/Sophie%20Miller.png)<br>[[Personagens/Sophie Miller\|Sophie Miller]]<br>**[[Campanhas/Nunumia - O Último Tesouro Cinzas/Nunumia - O Último Tesouro Cinzas\|OUTRPG2]]**<br> | ![[\|200]]<br>[[Organizações e Equipes/O Pacto dos Cinco Cavaleiros/Corporação Gentileza#Agentes\|Agentes da Corporação Gentileza]]<br>**[[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro (Série)\|OUTRPG]] • [[Campanhas/Nunumia - O Último Tesouro Cinzas/Nunumia - O Último Tesouro Cinzas\|OUTRPG2]]** |
-| :--------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| ![Sophie Miller.png\|200](/img/user/0-Assets/Images/Icons/Personagens/Sophie%20Miller.png)<br>[[Personagens/Sophie Miller\|Sophie Miller]]<br>**[[Campanhas/Nunumia - O Último Tesouro Cinzas/Nunumia - O Último Tesouro Cinzas\|OUTRPG2]]**<br> | ![Agente_Gentileza_Token.png\|200](/img/user/0-Assets/Images/Tokens/Agente_Gentileza_Token.png)<br>[[Organizações e Equipes/O Pacto dos Cinco Cavaleiros/Corporação Gentileza#Agentes\|Agentes da Corporação Gentileza]]<br>**[[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro (Série)\|OUTRPG]] • [[Campanhas/Nunumia - O Último Tesouro Cinzas/Nunumia - O Último Tesouro Cinzas\|OUTRPG2]]** |
+| :--------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+### [[Guarda Revolucionária Azariana]
 
-# [[Páginas/Magos de Skyline\|Magos de Skyline]]:
+| ![Selene Maximoff.png\|200](/img/user/0-Assets/Images/Icons/Personagens/Selene%20Maximoff.png)<br>[[Selene Maximoff\|Selene Maximoff]]<br>**[[Campanhas/Nunumia - O Último Tesouro Cinzas/Nunumia - O Último Tesouro Cinzas\|OUTRPG2]]**<br> | ![Red Maximoff.png\|200](/img/user/0-Assets/Images/Icons/Personagens/Red%20Maximoff.png)<br>[[Personagens/Red Maximoff\|Red Maximoff]]<br>**[[Campanhas/Nunumia - O Último Tesouro Cinzas/Nunumia - O Último Tesouro Cinzas\|OUTRPG2]]** | ![Malakor Maximoff.png\|200](/img/user/0-Assets/Images/Icons/Personagens/Malakor%20Maximoff.png)<br>[[Malakor Maximoff\|Malakor Maximoff]]<br>**[[Campanhas/Nunumia - O Último Tesouro Cinzas/Nunumia - O Último Tesouro Cinzas\|OUTRPG2]]**<br> |
+| :------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------: |
+### [[Organizações e Equipes/O Pacto dos Cinco Cavaleiros/Partido Revolutionary Ultranationalist\|Ultranacionalistas do Porto Royal]]:
+
+| ![Agente_RPMC_Token.png\|200](/img/user/0-Assets/Images/Tokens/Agente_RPMC_Token.png)<br>[[Organizações e Equipes/Porto Royal/Royal Port Marine Corps#Agentes\|Agentes do RPMC]]<br>**[[Campanhas/Nunumia - O Último Tesouro Cinzas/Nunumia - O Último Tesouro Cinzas\|OUTRPG2]]** |
+| :-------------------------------------------------------------------------------------------------------------------------------------------: |
+# [[Páginas/Magos de Skyline\|Magos de Skyline]]
 ---
 ## 501 A.C.M - 500 D.C.M (ERA 0)
 
@@ -79,30 +81,59 @@ Esta pagina lista os personagens de [[Nunumia\|Nunumia]].
 
 ## 1501 - 2500 (ERA 2)
 
-| ![none.png\|200](/img/user/0-Assets/Images/Icons/Personagens/none.png)<br>[[Franklin Vaelor - △\|Franklin Vaelor - △]]<br> | ![Ancião.png\|200](/img/user/0-Assets/Images/Icons/Personagens/Anci%C3%A3o.png)<br>[[Personagens/Ancião de Segunda Era\|Ancião de Segunda Era]]<br>(Ancião)<br>**[[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro (Série)\|OUTRPG]]** | ![Amon.png\|200](/img/user/0-Assets/Images/Icons/Personagens/Waifus%20do%20Caribe/Amon.png)<br>[[Personagens/Amon Vaelor\|Amon Vaelor]]<br>**[[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro (Série)\|OUTRPG]]** | ![none.png\|200](/img/user/0-Assets/Images/Icons/Personagens/none.png)<br>[[Personagens/Elizabeth Vaelor - △\|Elizabeth Vaelor - △]]<br> |
-| :-----------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------: | :------------------------------------------------: |
-|  ![none.png\|200](/img/user/0-Assets/Images/Icons/Personagens/none.png)<br>[[Personagens/Rouxi Vaelor - △\|Rouxi Vaelor - △]]<br>   |                                    ![none.png\|200](/img/user/0-Assets/Images/Icons/Personagens/none.png)<br>[[Personagens/Nyla Vaelor - △\|Nyla Vaelor - △]]<br>                                    |                                                                                             |                                                    |
+| ![none.png\|200](/img/user/0-Assets/Images/Icons/Personagens/none.png)<br>[[Franklin Vaelor - △\|Franklin Vaelor - △]]<br> | ![Ancião.png\|200](/img/user/0-Assets/Images/Icons/Personagens/Anci%C3%A3o.png)<br>[[Personagens/Ancião de Segunda Era\|Ancião de Segunda Era]]<br>**[[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro (Série)\|OUTRPG]]** | ![Amon.png\|200](/img/user/0-Assets/Images/Icons/Personagens/Waifus%20do%20Caribe/Amon.png)<br>[[Personagens/Amon Vaelor\|Amon Vaelor]]<br>**[[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro (Série)\|OUTRPG]]** | ![none.png\|200](/img/user/0-Assets/Images/Icons/Personagens/none.png)<br>[[Personagens/Elizabeth Vaelor - △\|Elizabeth Vaelor - △]]<br> |
+| :-----------------------------------------------: | :-----------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------: | :------------------------------------------------: |
+|  ![none.png\|200](/img/user/0-Assets/Images/Icons/Personagens/none.png)<br>[[Personagens/Rouxi Vaelor - △\|Rouxi Vaelor - △]]<br>   |                              ![none.png\|200](/img/user/0-Assets/Images/Icons/Personagens/none.png)<br>[[Personagens/Nyla Vaelor - △\|Nyla Vaelor - △]]<br>                              |                                                                                             |                                                    |
 
-# [[Máscaras das Trevas\|Máscaras das Trevas]]:
+# [[Relíquias do ShadowMantle\|Relíquias do ShadowMantle]]
 ---
-## Portadores da Máscara da Ilusão:
+## Portadores da [[Magia/Trevas/Relíquias do ShadowMantle/Máscara da Ilusão\|Máscara da Ilusão]]:
 
 | ![Nathaniel_Scompa_2.png\|200](/img/user/0-Assets/Images/Icons/Personagens/Nathaniel_Scompa_2.png)<br>[[Personagens/Nathaniel Scompa ♱\|Nathaniel Scompa ♱]]<br>**[[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro (Série)\|OUTRPG]] • [[Campanhas/Nunumia - O Último Tesouro Cinzas/Nunumia - O Último Tesouro Cinzas\|OUTRPG2]] • [[Campanhas/Especial - Nunumia - Euphoria/Especial - Nunumia - Euphoria\|NEUP]]** |
 | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-## Portadores da Máscara do Tempo:
+## Portadores do [[Magia/Trevas/Relíquias do ShadowMantle/Chronos\|Chronos]]:
 
 | ![0-Assets/Images/Icons/Personagens/Arkena Chronos.png\|200](/img/user/0-Assets/Images/Icons/Personagens/Arkena%20Chronos.png)<br>[[Personagens/Arkena Chronos\|Arkena Chronos]]<br>**[[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro (Série)\|OUTRPG]] • [[Campanhas/Nunumia - O Último Tesouro Cinzas/Nunumia - O Último Tesouro Cinzas\|OUTRPG2]]** |
 | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+# [[As Nações de Nunumia/Sete Grandes Nações de Nunumia/Imperium Diamante\|Imperium Diamante]]
+---
+## [[Palácio de Inverno\|Palácio de Inverno]]
+| ![Vaelor_Cryro_VII_Token.png\|200](/img/user/0-Assets/Images/Tokens/Vaelor_Cryro_VII_Token.png)<br>[[Vaelor Cryro VIII\|Vaelor Cryro VIII]]<br>**[[Campanhas/Nunumia - O Último Tesouro Cinzas/Nunumia - O Último Tesouro Cinzas\|OUTRPG2]]**<br> |
+| :---------------------------------------------------------------------------------------------------------------------: |
+## [[Organizações e Equipes/Imperium Diamante/MI5\|MI5]]
+| ![Militar_Diamantino_Token.png\|200](/img/user/0-Assets/Images/Tokens/Militar_Diamantino_Token.png)<br>[[Organizações e Equipes/Imperium Diamante/MI5#Agentes\|Agentes do MI5]]<br>**[[Campanhas/Nunumia - O Último Tesouro Cinzas/Nunumia - O Último Tesouro Cinzas\|OUTRPG2]]**<br> |
+| :---------------------------------------------------------------------------------------------------------------------------------: |
+## Residentes do [[Locais/Imperium Diamante/Estado de Augusta/Bunker Secreto de Adamidian\|Bunker Secreto de Adamidian]] 
+
+| ![Geise.png\|200](/img/user/0-Assets/Images/Icons/Personagens/Geise.png)<br>[[Personagens/Geise ♱\|Geise ♱]]<br>**[[Campanhas/Nunumia - O Último Tesouro Cinzas/Nunumia - O Último Tesouro Cinzas\|OUTRPG2]]**<br> | ![none.png\|200](/img/user/0-Assets/Images/Icons/Personagens/none.png)<br>[[Personagens/Meise - ♱\|Meise - ♱]]<br>**[[Campanhas/Nunumia - O Último Tesouro Cinzas/Nunumia - O Último Tesouro Cinzas\|OUTRPG2]]** |
+| :----------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------: |
+# [[As Nações de Nunumia/Sete Grandes Nações de Nunumia/Porto Royal\|Porto Royal]]
+---
+
+| [[Charles Ressler\|Charles Ressler]] |
+| :-----------------: |
+## [[Organizações e Equipes/Porto Royal/Royal Port Marine Corps\|Royal Port Marine Corps]]:
+
 # [[As Nações de Nunumia/Sete Grandes Nações de Nunumia/Tornhill\|Tornhill]]
 ---
-## Habitantes de [[Citta di Palhosa\|Citta di Palhosa]]
+## Habitantes de [[Citta di Palhosa\|Citta di Palhosa]]:
+
 |     |     |     |
 | :-: | :-: | :-: |
+# [[As Nações de Nunumia/Sete Grandes Nações de Nunumia/Unova\|Unova]]
+---
+## Família Admircov:
+
+| ![none.png\|200](/img/user/0-Assets/Images/Icons/Personagens/none.png)<br>[[Personagens/Aurora Admircov - △\|Aurora Admircov - △]] | ![none.png\|200](/img/user/0-Assets/Images/Icons/Personagens/none.png)<br>[[Emanuel Admircov - △\|Emanuel Admircov - △]]<br> | ![none.png\|200](/img/user/0-Assets/Images/Icons/Personagens/none.png)<br>[[Personagens/Melissa Admircov - ⁜\|Melissa Admircov - ⁜]] | ![Saon.png\|200](/img/user/0-Assets/Images/Icons/Personagens/Saon.png)<br>[[Personagens/Saon Admircov\|Saon Admircov]]<br>**[[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro (Série)\|OUTRPG]]** |
+| :-------------------------------------------: | :------------------------------------------------: | :--------------------------------------------: | :-------------------------------------------------------------------------------------------: |
 # [[As Nações de Nunumia/Sete Grandes Nações de Nunumia/Zaun\|Zaun]]
 ---
+## Moradores de Margarida
+| ![[Astolfo.png\|200]]<br>[[Astolfo\|Astolfo]] |
+| :----------------------------------: |
 ## Família Zuma:
 
-| ![none.png\|200](/img/user/0-Assets/Images/Icons/Personagens/none.png)<br>[[Personagens/Mazor Zuma - ♱\|Mazor Zuma - ♱]] | ![none.png\|200](/img/user/0-Assets/Images/Icons/Personagens/none.png)<br>[[Personagens/Zacariv Zuma - ⁜\|Zacariv Zuma - ⁜]]<br> | ![none.png\|200](/img/user/0-Assets/Images/Icons/Personagens/none.png)<br>[[Personagens/Maria Gálio Zuma\|Maria Gálio Zuma]] |
+| ![none.png\|200](/img/user/0-Assets/Images/Icons/Personagens/none.png)<br>[[Personagens/Mazor Zuma ♱\|Mazor Zuma ♱]] | ![none.png\|200](/img/user/0-Assets/Images/Icons/Personagens/none.png)<br>[[Personagens/Zacariv Zuma ⁜\|Zacariv Zuma ⁜]]<br> | ![none.png\|200](/img/user/0-Assets/Images/Icons/Personagens/none.png)<br>[[Personagens/Maria Gálio Zuma ♱\|Maria Gálio Zuma ♱]] |
 | :--------------------------------------: | :--------------------------------------------: | :--------------------------------------------: |
 
 ## [[Organizações e Equipes/Industrias Baskerville\|Industrias Baskerville]]
@@ -110,17 +141,8 @@ Esta pagina lista os personagens de [[Nunumia\|Nunumia]].
 | ![Elisa.png\|200](/img/user/0-Assets/Images/Icons/Personagens/Elisa.png)<br>[[Personagens/Elisa Baskerville\|Elisa Baskerville]]<br>**[[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro (Série)\|OUTRPG]]** |
 | :----------------------------------------------------------------------------------------: |
 
-# [[As Nações de Nunumia/Sete Grandes Nações de Nunumia/Unova\|Unova]]
----
-## Família Admircov:
-
-| ![none.png\|200](/img/user/0-Assets/Images/Icons/Personagens/none.png)<br>[[Personagens/Aurora Admircov - △\|Aurora Admircov - △]] | ![none.png\|200](/img/user/0-Assets/Images/Icons/Personagens/none.png)<br>[[Emanuel Admircov - △\|Emanuel Admircov - △]]<br> | ![none.png\|200](/img/user/0-Assets/Images/Icons/Personagens/none.png)<br>[[Personagens/Melissa Admircov - ⁜\|Melissa Admircov - ⁜]] | ![Saon.png\|200](/img/user/0-Assets/Images/Icons/Personagens/Saon.png)<br>[[Personagens/Saon Admircov\|Saon Admircov]]<br>**[[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro (Série)\|OUTRPG]]** |
-| :-------------------------------------------: | :------------------------------------------------: | :--------------------------------------------: | :-------------------------------------------------------------------------------------------: |
-
-# [[As Nações de Nunumia/Sete Grandes Nações de Nunumia/Imperium Diamante\|Imperium Diamante]]
+# Não canônico
 ---
 
-## Guardiões do [[Locais/Imperium Diamante/Estado de Augusta/Bunker Secreto de Adamidian\|Bunker Secreto de Adamidian]] 
-
-| ![Geise.png\|200](/img/user/0-Assets/Images/Icons/Personagens/Geise.png)<br>[[Personagens/Geise ♱\|Geise ♱]]<br>**[[Campanhas/Nunumia - O Último Tesouro Cinzas/Nunumia - O Último Tesouro Cinzas\|OUTRPG2]]**<br> | ![none.png\|200](/img/user/0-Assets/Images/Icons/Personagens/none.png)<br>[[Personagens/Meise - ♱\|Meise - ♱]]<br>**[[Campanhas/Nunumia - O Último Tesouro Cinzas/Nunumia - O Último Tesouro Cinzas\|OUTRPG2]]** |
-| :----------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------: |
+| ![Ilusionista.png\|200](/img/user/0-Assets/Images/Icons/Personagens/Ilusionista.png)<br>[[Personagens/O Ilusionista\|O Ilusionista]]<br>**[[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro (Série)\|OUTRPG]]** |
+| ---------------------------------------------------------------------------------------------------- |
