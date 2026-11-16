@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/paginas/personagens/","created":"2026-02-08T13:45:13.450-03:00","updated":"2026-11-15T22:57:08.851-03:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/paginas/personagens/","created":"2026-02-08T13:45:13.450-03:00","updated":"2026-11-16T19:00:04.673-03:00","dg-note-properties":{}}
 ---
 
 #P  #Páginas
@@ -108,12 +108,12 @@ Esta pagina lista os personagens de [[Nunumia\|Nunumia]].
 
 | ![Geise.png\|200](/img/user/0-Assets/Images/Icons/Personagens/Geise.png)<br>[[Personagens/Geise ♱\|Geise ♱]]<br>**[[Campanhas/Nunumia - O Último Tesouro Cinzas/Nunumia - O Último Tesouro Cinzas\|OUTRPG2]]**<br> | ![none.png\|200](/img/user/0-Assets/Images/Icons/Personagens/none.png)<br>[[Personagens/Meise - ♱\|Meise - ♱]]<br>**[[Campanhas/Nunumia - O Último Tesouro Cinzas/Nunumia - O Último Tesouro Cinzas\|OUTRPG2]]** |
 | :----------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------: |
+
 # [[As Nações de Nunumia/Sete Grandes Nações de Nunumia/Porto Royal\|Porto Royal]]
 ---
 
 | [[Charles Ressler\|Charles Ressler]] |
 | :-----------------: |
-## [[Organizações e Equipes/Porto Royal/Royal Port Marine Corps\|Royal Port Marine Corps]]:
 
 # [[As Nações de Nunumia/Sete Grandes Nações de Nunumia/Tornhill\|Tornhill]]
 ---
@@ -121,12 +121,14 @@ Esta pagina lista os personagens de [[Nunumia\|Nunumia]].
 
 |     |     |     |
 | :-: | :-: | :-: |
+
 # [[As Nações de Nunumia/Sete Grandes Nações de Nunumia/Unova\|Unova]]
 ---
 ## Família Admircov:
 
 | ![none.png\|200](/img/user/0-Assets/Images/Icons/Personagens/none.png)<br>[[Personagens/Aurora Admircov - △\|Aurora Admircov - △]] | ![none.png\|200](/img/user/0-Assets/Images/Icons/Personagens/none.png)<br>[[Emanuel Admircov - △\|Emanuel Admircov - △]]<br> | ![none.png\|200](/img/user/0-Assets/Images/Icons/Personagens/none.png)<br>[[Personagens/Melissa Admircov - ⁜\|Melissa Admircov - ⁜]] | ![Saon.png\|200](/img/user/0-Assets/Images/Icons/Personagens/Saon.png)<br>[[Personagens/Saon Admircov\|Saon Admircov]]<br>**[[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro (Série)\|OUTRPG]]** |
 | :-------------------------------------------: | :------------------------------------------------: | :--------------------------------------------: | :-------------------------------------------------------------------------------------------: |
+
 # [[As Nações de Nunumia/Sete Grandes Nações de Nunumia/Zaun\|Zaun]]
 ---
 ## Moradores de Margarida
