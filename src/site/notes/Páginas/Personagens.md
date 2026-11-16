@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/paginas/personagens/","created":"2026-02-08T13:45:13.450-03:00","updated":"2026-11-16T19:00:04.673-03:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/paginas/personagens/","created":"2026-02-08T13:45:13.450-03:00","updated":"2026-11-16T19:05:23.154-03:00","dg-note-properties":{}}
 ---
 
 #P  #Páginas
@@ -105,22 +105,8 @@ Esta pagina lista os personagens de [[Nunumia\|Nunumia]].
 | ![Militar_Diamantino_Token.png\|200](/img/user/0-Assets/Images/Tokens/Militar_Diamantino_Token.png)<br>[[Organizações e Equipes/Imperium Diamante/MI5#Agentes\|Agentes do MI5]]<br>**[[Campanhas/Nunumia - O Último Tesouro Cinzas/Nunumia - O Último Tesouro Cinzas\|OUTRPG2]]**<br> |
 | :---------------------------------------------------------------------------------------------------------------------------------: |
 ## Residentes do [[Locais/Imperium Diamante/Estado de Augusta/Bunker Secreto de Adamidian\|Bunker Secreto de Adamidian]] 
-
 | ![Geise.png\|200](/img/user/0-Assets/Images/Icons/Personagens/Geise.png)<br>[[Personagens/Geise ♱\|Geise ♱]]<br>**[[Campanhas/Nunumia - O Último Tesouro Cinzas/Nunumia - O Último Tesouro Cinzas\|OUTRPG2]]**<br> | ![none.png\|200](/img/user/0-Assets/Images/Icons/Personagens/none.png)<br>[[Personagens/Meise - ♱\|Meise - ♱]]<br>**[[Campanhas/Nunumia - O Último Tesouro Cinzas/Nunumia - O Último Tesouro Cinzas\|OUTRPG2]]** |
 | :----------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------: |
-
-# [[As Nações de Nunumia/Sete Grandes Nações de Nunumia/Porto Royal\|Porto Royal]]
----
-
-| [[Charles Ressler\|Charles Ressler]] |
-| :-----------------: |
-
-# [[As Nações de Nunumia/Sete Grandes Nações de Nunumia/Tornhill\|Tornhill]]
----
-## Habitantes de [[Citta di Palhosa\|Citta di Palhosa]]:
-
-|     |     |     |
-| :-: | :-: | :-: |
 
 # [[As Nações de Nunumia/Sete Grandes Nações de Nunumia/Unova\|Unova]]
 ---
