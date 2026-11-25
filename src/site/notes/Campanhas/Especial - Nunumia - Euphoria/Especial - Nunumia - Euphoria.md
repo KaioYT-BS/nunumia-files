@@ -1,15 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/campanhas/especial-nunumia-euphoria/especial-nunumia-euphoria/","created":"2026-03-06T23:28:19.972-03:00","updated":"2026-11-03T22:21:14.681-03:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/campanhas/especial-nunumia-euphoria/especial-nunumia-euphoria/","created":"2026-03-06T23:28:19.972-03:00","updated":"2026-11-19T23:30:28.096-03:00","dg-note-properties":{}}
 ---
 
 #Campanha #Especial
 
-| **Elenco**                  | [[Páginas/Jogadores/Kaiositos\|Kaiositos]] (Mestre)                                             |
-| --------------------------- | ------------------------------------------------------------------ |
-| **Participações Especiais** | [[Páginas/Nath Pixels\|Nath Pixels]] ([[atlas-vtt/collections/Default/statblocks/Anne Psina Token Stats\|Anne Psina Token Stats]]) |
-| **Nº de partes**            | 2                                                                  |
-| **Primeira parte**          | [[NEUP - PARTE 1 - TEATRO\|NEUP - PARTE 1 - TEATRO]]                                        |
-| **Última parte**            | [[NEUP - PARTE 2 - EUPHORIA\|NEUP - PARTE 2 - EUPHORIA]]                                      |
+| **Elenco**         | [[Páginas/Jogadores/Kaiositos\|Kaiositos]] (Mestre)<br>[[Páginas/Jogadores/Nathaniel Pixels\|Nathaniel Balbino]] ()<br>[[Páginas/Jogadores/Ash\|Ash]] ()<br>[[Páginas/Jogadores/Guixy\|Guixy]]<br>[[]] |
+| ------------------ | -------------------------------------------------------------------------------------------------- |
+| **Nº de partes**   | 2                                                                                                  |
+| **Primeira parte** | [[NEUP - PARTE 1 - TEATRO\|NEUP - PARTE 1 - TEATRO]]                                                                        |
+| **Última parte**   | [[NEUP - PARTE 2 - EUPHORIA\|NEUP - PARTE 2 - EUPHORIA]]                                                                      |
 
 # Sinopse
 ---

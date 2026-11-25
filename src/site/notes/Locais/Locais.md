@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locais/locais/","created":"2026-10-11T10:33:43.466-03:00","updated":"2026-11-14T20:30:53.342-03:00","dg-note-properties":{"aliases":["Locais em Nunumia"]}}
+{"dg-publish":true,"permalink":"/locais/locais/","created":"2026-10-11T10:33:43.466-03:00","updated":"2026-11-25T09:52:29.775-03:00","dg-note-properties":{"aliases":["Locais em Nunumia"]}}
 ---
 
 #L #Páginas
@@ -17,8 +17,7 @@
 		- [[Santana d’ Maki\|Santana d’ Maki]]
 			- [[Galpão do Serviço Secreto em Santana d' Maki\|Galpão do Serviço Secreto em Santana d' Maki]]
 	- # [[Isla Lottus\|Isla Lottus]]
-		- [[Citta di Palhosa\|Citta di Palhosa]]
-			- [[Caverna de Lodo\|Caverna de Lodo]]
+		- [[Vilarejo de Amarginia\|Vilarejo de Amarginia]]
 - # [[Azarr\|Azarr]]
 	- [[Nova Delhai\|Nova Delhai]]
 	- [[Pryiat\|Pryiat]]

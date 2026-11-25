@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personagens/alger-baskerville/","created":"2026-03-15T20:10:40.926-03:00","updated":"2026-11-14T20:30:53.362-03:00","dg-note-properties":{"aliases":["Alger"]}}
+{"dg-publish":true,"permalink":"/personagens/alger-baskerville/","created":"2026-03-15T20:10:40.926-03:00","updated":"2026-11-19T21:31:32.119-03:00","dg-note-properties":{"aliases":["Alger"]}}
 ---
 
 #A #Personagens #Personagens_Principais_em_OUTRPG #Personagens_Principais_em_OUTRPG2  #Waifus_do_Caribe  #Destinados

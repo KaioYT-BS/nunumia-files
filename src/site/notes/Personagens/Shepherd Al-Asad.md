@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personagens/shepherd-al-asad/","created":"2026-09-22T20:57:59.816-03:00","updated":"2026-10-17T19:40:32.996-03:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/personagens/shepherd-al-asad/","created":"2026-09-22T20:57:59.816-03:00","updated":"2026-11-19T23:21:28.906-03:00","dg-note-properties":{}}
 ---
 
 #S #Personagens #Personagens_Principais_em_OUTRPG2 #Personagens_do_Mestre 
@@ -29,7 +29,7 @@ Al-Asad é um homem bem frio na maioria das vezes, tentando sempre manter sua po
 # Curiosidades
 ---
 - O nome de Al-Asad é uma referência a dois vilões da saga [Mordern Warfare](https://callofduty.fandom.com/wiki/Modern_Warfare_(series)), [Khaled_Al-Asad](https://callofduty.fandom.com/wiki/Khaled_Al-Asad)e [Shepherd](https://callofduty.fandom.com/wiki/Shepherd).
-- Ele já foi um personagem descartado de [[O começo da Passagem\|O começo da Passagem]], no enredo, ele seria um dos membros da [[Organizações e Equipes/Zaun/Palácio de Jade/Equipes/Equipe Beta\|Equipe Beta]].
+- Ele já foi um personagem descartado de [[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro O Começo da Passagem\|Nunumia - O Último Tesouro O Começo da Passagem]], no enredo, ele seria um dos membros da [[Organizações e Equipes/Zaun/Palácio de Jade/Equipes/Equipe Beta\|Equipe Beta]].
 # Aparições
 ---
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personagens/bartholomew-baskerville/","created":"2026-02-08T13:45:54.526-03:00","updated":"2026-11-14T09:23:14.638-03:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/personagens/bartholomew-baskerville/","created":"2026-02-08T13:45:54.526-03:00","updated":"2026-11-19T21:31:32.164-03:00","dg-note-properties":{}}
 ---
 
 #B #Personagens #Personagens_Principais_em_OUTRPG #Personagens_do_Mestre 

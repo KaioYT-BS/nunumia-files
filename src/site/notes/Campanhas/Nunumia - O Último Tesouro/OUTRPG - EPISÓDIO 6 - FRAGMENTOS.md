@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campanhas/nunumia-o-ultimo-tesouro/outrpg-episodio-6-fragmentos/","created":"2026-03-28T23:11:24.947-03:00","updated":"2026-11-03T22:21:14.818-03:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/campanhas/nunumia-o-ultimo-tesouro/outrpg-episodio-6-fragmentos/","created":"2026-03-28T23:11:24.947-03:00","updated":"2026-11-20T23:19:49.917-03:00","dg-note-properties":{}}
 ---
 
 
@@ -24,7 +24,6 @@
 - [[Páginas/Jogadores/Kaiositos\|Kaiositos]] (Mestre)
 - [[Páginas/Jogadores/Ash\|Ash]]  ([[Personagens/Amon Vaelor\|Amon Vaelor]])
 - [[Páginas/Jogadores/Guixy\|Guixy]] ([[Personagens/Ananke Amargun\|Ananke Amargun]])
-- [[Páginas/Jogadores/Garcia\|Garcia]] ([[Personagens/Cassidy Mazedy\|Cassidy Mazedy]])
 - Hanna ([[Personagens/Kenshi Takada\|Kenshi Takada]])
 - [[Páginas/Jogadores/Tomás Durão\|Tomás Durão]] ([[Personagens/Evan Pale Archin\|Evan Pale Archin]])
 # Curiosidades

@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/personagens/amon-vaelor/","created":"2026-02-08T13:45:54.488-03:00","updated":"2026-11-14T09:47:49.751-03:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/personagens/amon-vaelor/","created":"2026-02-08T13:45:54.488-03:00","updated":"2026-11-24T13:43:26.820-03:00","dg-note-properties":{}}
 ---
 
 #A #Personagens #Waifus_do_Caribe #Personagens_Principais_em_OUTRPG #Personagens_Principais_em_OUTRPG2 
-Para sua transformação, mentor e irmão, veja [[Personagens/Ancião de Segunda Era\|Ancião de Segunda Era]]
+Para sua antiga transformação, mentor e irmão, veja [[Personagens/Ancião de Segunda Era\|Ancião de Segunda Era]]
 > [!NOTE] Página quase completa
 > Está página está quase completa e, até o momento, se encontram faltantes os conteúdos relacionados a [[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro (Série)\|Nunumia - O Último Tesouro (Série)]].
 > Nível de conteúdo: Quase completo
@@ -19,8 +19,8 @@ Para sua transformação, mentor e irmão, veja [[Personagens/Ancião de Segunda
 | **Intérprete**                               | [[Páginas/Jogadores/Ash\|Ash]]                                                                                                                                                                                                                                              |
 | **Status**                                   | Vivo                                                                                                                                                                                                                                                 |
 | **Idade Atual**<br><br>**Registro de Idade** | 524 (20 anos)<br><br>**Durante [[Dia dos Magos\|Dia dos Magos]] (1751)**: 250 (10 anos)<br>**Depois do [[Dia dos Magos\|Dia dos Magos]] (1990):** 489 (19 anos)                                                                                                                    |
-| **Apelidos**                                 | Maninho ([[Personagens/Elizabeth Vaelor - △\|Ellie]], [[Personagens/Rouxi Vaelor - △\|Roll]], [[Personagens/Latiff Violett\|Latiff Violett]], [[Personagens/Nyla Vaelor - △\|Nyla Vaelor - △]], [[Franklin Vaelor\|Franklin Vaelor]])<br>Maguinho ([[Personagens/Mars Sailer\|Mars Sailer]], [[Personagens/Anne Psina\|Anne Psina]], [[Personagens/Gwen Kostenko\|Gwen Kostenko]])<br>[[Personagens/Ancião de Segunda Era\|Ancião]]            |
-| **Relações**                                 | Veja [[Personagens/Amon Vaelor#Relações\|§ Relações]]<br>[[Personagens/Elizabeth Vaelor - △\|Elizabeth Vaelor - △]] (irmã)<br>[[Franklin Vaelor\|Franklin Vaelor]] (irmão)<br>[[Personagens/Latiff Violett\|Latiff Violett]] (irmão)<br>[[Personagens/Rouxi Vaelor - △\|Rouxi Vaelor - △]] (irmão)<br>[[Personagens/Nyla Vaelor - △\|Nyla Vaelor - △]] (irmã)<br>[[Personagens/Ancião de Segunda Era\|Ancião]] (irmão) |
+| **Apelidos**                                 | Maninho ([[Personagens/Elizabeth Vaelor\|Ellie]], [[Personagens/Rouxi Vaelor - △\|Roll]], [[Personagens/Latiff Violett\|Latiff Violett]], [[Personagens/Nyla Vaelor - △\|Nyla Vaelor - △]], [[Franklin Vaelor\|Franklin Vaelor]])<br>Maguinho ([[Personagens/Mars Sailer\|Mars Sailer]], [[Personagens/Anne Psina\|Anne Psina]], [[Personagens/Gwen Kostenko\|Gwen Kostenko]])<br>[[Personagens/Ancião de Segunda Era\|Ancião]]            |
+| **Relações**                                 | Veja [[Personagens/Amon Vaelor#Relações\|§ Relações]]<br>[[Personagens/Elizabeth Vaelor\|Elizabeth Vaelor]] (irmã)<br>[[Franklin Vaelor\|Franklin Vaelor]] (irmão)<br>[[Personagens/Latiff Violett\|Latiff Violett]] (irmão)<br>[[Personagens/Rouxi Vaelor - △\|Rouxi Vaelor - △]] (irmão)<br>[[Personagens/Nyla Vaelor - △\|Nyla Vaelor - △]] (irmã)<br>[[Personagens/Ancião de Segunda Era\|Ancião]] (irmão) |
 | **Ocupação**                                 | Membro dos [[Páginas/Magos de Skyline\|Magos de Skyline]] (anteriormente)<br>Membro das [[Organizações e Equipes/Zaun/Palácio de Jade/Equipes/Waifus do Caribe\|Waifus do Caribe]]                                                                                                                                                                   |
 | **Afinidade**                                |                                                                                                                                                                                                                                                      |
 | **Classe**                                   | [[Páginas/12Faces RPG/Classes (12FRPG)#Suporte\|Suporte]]                                                                                                                                                                                                                |
@@ -30,7 +30,7 @@ Para sua transformação, mentor e irmão, veja [[Personagens/Ancião de Segunda
 
 **Amon Vaelor** é um dos protagonistas de [[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro (Série)\|Nunumia: O Último Tesouro]]
 
-Amon é um dos [[Páginas/Magos de Skyline\|Magos de Skyline]], um grupo de magos responsáveis por proteger, aconselhar e ajudar cada uma das Sete Grandes Nações de Nunumia: ***[[As Nações de Nunumia/Sete Grandes Nações de Nunumia/Zaun\|Zaun]], [[As Nações de Nunumia/Sete Grandes Nações de Nunumia/Porto Royal\|Porto Royal]], [[As Nações de Nunumia/Sete Grandes Nações de Nunumia/Tornhill\|Tornhill]], [[As Nações de Nunumia/Sete Grandes Nações de Nunumia/HomeWorld\|HomeWorld]], [[As Nações de Nunumia/Sete Grandes Nações de Nunumia/Azahor\|Azahor]], [[As Nações de Nunumia/Sete Grandes Nações de Nunumia/Imperium Diamante\|Imperium Diamante]] e [[As Nações de Nunumia/Sete Grandes Nações de Nunumia/Unova\|Unova]]***.
+Amon fazia parte dos [[Os Sete Magos\|Sete Magos]]. uma das gerações dos [[Páginas/Magos de Skyline\|Magos de Skyline]], um grupo de magos responsáveis por proteger, aconselhar e ajudar cada uma das Sete Grandes Nações de Nunumia.
 
 Em **[[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro (Série)\|Nunumia: O Último Tesouro]]**, Amon se juntou a [[Personagens/Alger Baskerville\|Alger Baskerville]], [[Personagens/Emily Speavers Baskerville\|Emily Speavers Baskerville]], [[Personagens/Ananke Amargun\|Ananke Amargun]] e [[Personagens/Cassidy Mazedy\|Cassidy Mazedy]] após seu resgate, que foi proveniente de [[Personagens/Denver Zuma\|Denver Zuma]], por motivos até então desconhecidos. Seus objetivos principais eram investigar o paradeiro dos outros magos. Na segunda temporada ([[Campanhas/Nunumia - O Último Tesouro Cinzas/Nunumia - O Último Tesouro Cinzas\|Nunumia - O Último Tesouro Cinzas]]), Amon ganhou um novo propósito...
 # História
@@ -44,27 +44,7 @@ A luz, ela aparece na sua visão, Amon. Você escutou palavras de seu Deus, sua 
 
 Amon Vaelor nasceu em Primeiro de Janeiro de 1501, ás meia-noite em ponto. O mesmo horário que a segunda era de Nunumia iniciou-se e [[Personagens/Ancião de Segunda Era\|Linker]] se tornou ancião.
 
-Amon nasceu no lugar em que todos os magos nascem, no centro de Nunumia. Nesse caso, bem em cima do que hoje é o [[Locais/Arquipélago Novo/Pyraminx (Local)\|Pyraminx]]. O pequeno despertou já com aplausos e de cara com seu ancião, que nem conseguia se quer lembrar seu nome. Ambos foram rapidamente recebidos pelo Imperador do [[Império Federativo da Ilha Unova\|Império Federativo da Ilha Unova]], império que após uma grande guerra de unificação se tornaria a [[As Nações de Nunumia/Sete Grandes Nações de Nunumia/Unova\|Unova]] Unificada.
-
-O pequeno mago tinha segundos de vida mas tinha aparência de uma criança humana de dez anos — O que se manteria até seus 450 anos. [[Constantino Umbrella\|Constantino Umbrella]] (O Imperador do Império) rapidamente fez um discurso após Amon se habituar.
-
-— Povo de Lumiose, hoje em Nunumia uma nova era começa, a segunda era. Nos de Lumiose, queríamos dar as boas-vindas a..
-
-— Amon Vaelor. — Exclama Ancião.
-
-— Amon Vaelor! Amon é o mago do gelo, ou seja, o mago do [[As Nações de Nunumia/Sete Grandes Nações de Nunumia/Imperium Diamante\|Imperium Diamante]].
-
-Amon tinha menos de trinta minutos de vida e já estava sendo condecorado, essa vida definitivamente era incrível. Após o encerramento do discurso sob os céus de Lumiose, a euforia da multidão tornou-se um zumbido distante à medida que Amon e Linker voavam para as profundezas elevadas do céu de Nunumia. O **Castelo da Luz**, uma estrutura que desafiava a gravidade e a própria compreensão da arquitetura de Nunumia, erguia-se soberano exatamente sobre o ponto zero de onde o pequeno mago havia despertado minutos antes.
-
-Tudo era muito novo e confuso. Amon acabou de voar para um castelo feito de luz em cima das nuvens. Após entrar em seu aposento e se deparar com uma sala aconchegante do castelo
-
-**Linker parou à soleira da porta, observando aquela criança que carregava o peso de um Deus. Ele tateou as próprias vestes, como se procurasse algo que o tempo lhe roubara, e finalmente olhou para Amon.**
-
-**— Este é o seu lugar, pequeno Vaelor. O ápice de tudo o que existe — disse o Ancião, sua voz agora mais firme, embora rouca. — Descanse. O Imperador acredita que você é um símbolo, mas Glacies sabe que você é uma arma e um escudo. Amanhã, o tempo começará a cobrar seu preço, e para você, ele passará de forma... diferente.**
-
-**Amon caminhou até a enorme vidraça. Lá embaixo, Nunumia brilhava em celebração. Ele ainda sentia o frio divino em seus pulmões, uma geada que nunca derreteria. Sem dizer uma palavra, ele tocou o vidro, e uma fina camada de cristais de gelo floresceu sob seus dedos, desenhando padrões que nenhum humano jamais conseguiria replicar. Ele estava em casa, no topo do mundo, mas o eco das palavras de seu Pai ainda vibrava em seu peito: _Seja... Bom._**
-
-**Naquela noite, enquanto o Império de Unova brindava ao futuro, o Mago do Gelo apenas observava o horizonte, sentindo o peso de milênios que ainda estavam por vir.**
+Amon nasceu no lugar em que todos os magos nascem, no centro de Nunumia. Nesse caso, bem em cima do que hoje são as [[Ruinas\|Ruinas]]. O pequeno despertou já com aplausos e de cara com seu ancião, que nem conseguia se quer lembrar seu nome.
 # Galeria
 ---
 ## Artes

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personagens/cetico/","created":"2026-09-26T20:27:41.135-03:00","updated":"2026-11-15T22:33:39.408-03:00","dg-note-properties":{"aliases":["Cético"]}}
+{"dg-publish":true,"permalink":"/personagens/cetico/","created":"2026-09-26T20:27:41.135-03:00","updated":"2026-11-17T19:19:09.350-03:00","dg-note-properties":{"aliases":["Cético"]}}
 ---
 
 #C #Personagens #Personagens_Principais_em_OUTRPG2  
@@ -8,7 +8,7 @@
 | -------------- | -------------------------------------------------------------------------------------- |
 | **Intérprete** | [[Páginas/Jogadores/Vivi\|Vivi]]                                                                               |
 | **Status**     | Falecido                                                                               |
-| **Morte**      | Devorado da cintura a cabeça por [[Personagens/Meise - ♱\|Meise - ♱]] ([[Bestiário/Afogado Monstruoso\|Afogado Monstruoso]])                |
+| **Morte**      | Devorado da cintura a cabeça por [[Personagens/Meise ♱\|Meise ♱]] ([[Bestiário/Afogado Monstruoso\|Afogado Monstruoso]])                |
 | **Idade**      | Desconhecida                                                                           |
 | **Relações**   | [[Personagens/Latiff Violett\|Latiff Violett]] (Líder)<br>[[Personagens/Katarina Holt\|Katarina Holt]] (Amiga)<br>[[Personagens/Tenente X\|Tenente X]] (Ex-Tentente) |
 | **Ocupação**   | Agente do [[Organizações e Equipes/Imperium Diamante/MI5\|MI5]]<br>Agente do [[Organizações e Equipes/O Pacto dos Cinco Cavaleiros/Guarda Revolucionária Azariana/Esquadrão x24\|Esquadrão x24]]                                       |

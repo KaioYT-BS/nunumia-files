@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campanhas/nunumia-o-ultimo-tesouro/outrpg-episodio-1-o-teste/","created":"2026-02-08T13:45:52.756-03:00","updated":"2026-11-14T09:54:45.052-03:00","dg-note-properties":{"aliases":["O TESTE"]}}
+{"dg-publish":true,"permalink":"/campanhas/nunumia-o-ultimo-tesouro/outrpg-episodio-1-o-teste/","created":"2026-02-08T13:45:52.756-03:00","updated":"2026-11-20T23:19:34.541-03:00","dg-note-properties":{"aliases":["O TESTE"]}}
 ---
 
 #O #Episódios_de_OUTRPG 
@@ -11,14 +11,14 @@
 >_"A ilusão nunca falha."
 >— [[Personagens/O Ilusionista\|O Ilusionista]]_
 
-| **Campanha**                | [[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro (Série)\|Nunumia - O Último Tesouro (Série)]]                                                                                                                                                                                                                                                                                              |
-| --------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Temporada**               | [[O começo da Passagem\|O começo da Passagem]] (T1A1)                                                                                                                                                                                                                                                                                                     |
-| **Elenco**                  | [[Páginas/Jogadores/Kaiositos\|Kaiositos]] (Mestre)<br>[[Páginas/Jogadores/Maacuja\|Maacuja]] ([[Personagens/Alger Baskerville\|Alger Baskerville]])<br>[[Páginas/Jogadores/Aguiar\|Aguiar]] ([[Personagens/O Ilusionista\|O Ilusionista]])<br>[[Páginas/Jogadores/Ash\|Ash]]  ([[Personagens/Amon Vaelor\|Amon Vaelor]])<br>[[Páginas/Jogadores/Guixy\|Guixy]] ([[Personagens/Ananke Amargun\|Ananke Amargun]])<br>[[Páginas/Jogadores/Garcia\|Garcia]] ([[Personagens/Cassidy Mazedy\|Cassidy Mazedy]])<br>[[Páginas/Jogadores/Tomás Durão\|Tomás Durão]] ([[Personagens/Evan Pale Archin\|Evan Pale Archin]])                                                                                   |
-| **Data da sessão**          | 30/01/2025                                                                                                                                                                                                                                                                                                                          |
+| **Campanha**                | [[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro (Série)\|Nunumia - O Último Tesouro (Série)]]                                                                                                                                                                                                                                                                                         |
+| --------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Temporada**               | [[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro O Começo da Passagem\|Nunumia - O Último Tesouro O Começo da Passagem]] (T1A1)                                                                                                                                                                                                                                                                     |
+| **Elenco**                  | [[Páginas/Jogadores/Kaiositos\|Kaiositos]] (Mestre)<br>[[Páginas/Jogadores/Maacuja\|Maacuja]] ([[Personagens/Alger Baskerville\|Alger Baskerville]])<br>[[Páginas/Jogadores/Aguiar\|Aguiar]] ([[Personagens/O Ilusionista\|O Ilusionista]])<br>[[Páginas/Jogadores/Ash\|Ash]]  ([[Personagens/Amon Vaelor\|Amon Vaelor]])<br>[[Páginas/Jogadores/Guixy\|Guixy]] ([[Personagens/Ananke Amargun\|Ananke Amargun]])<br>[[Páginas/Jogadores/Tomás Durão\|Tomás Durão]] ([[Personagens/Evan Pale Archin\|Evan Pale Archin]])                                                                                                                      |
+| **Data da sessão**          | 30/01/2025                                                                                                                                                                                                                                                                                                                     |
 | **Personagens no episódio** | Tripulação:<br>[[Personagens/Alger Baskerville\|Alger Baskerville]]<br>[[Personagens/Evan Pale Archin\|Evan Pale Archin]]<br>[[Personagens/Ananke Amargun\|Ananke Amargun]]<br>[[Personagens/Cassidy Mazedy\|Cassidy Mazedy]]<br><br>---<br><br>Palácio de Jade:<br>[[Personagens/Denver Zuma\|Denver Zuma]]<br>[[Personagens/Scarlet Mana Jin-Can\|Scarlet Mana Jin-Can]]<br>[[Personagens/Adam Smith\|Adam Smith]]<br><br>---<br><br>Strikers:<br>[[Personagens/O Ilusionista\|O Ilusionista]]<br>[[Organizações e Equipes/O Pacto dos Cinco Cavaleiros/Strikers\|Strikers]]<br><br>---<br><br>Outros:<br>[[Personagens/Amon Vaelor\|Amon Vaelor]]<br> |
-| **Locais no Episódio**      | [[As Nações de Nunumia/Sete Grandes Nações de Nunumia/Zaun\|Zaun]]:<br>[[Locais/Zaun/Bairro de Solaris/Palácio de Jade (Local)\|Palácio de Jade (Local)]]<br>Porto das [[Organizações e Equipes/Industrias Baskerville\|Industrias Baskerville]]<br><br>Mar:<br>Barco provisório do Ilusionista                                                                                                                                                                                                     |
-| ---                         | **Próximo episódio**:<br>[[Campanhas/Nunumia - O Último Tesouro/OUTRPG - EPISÓDIO 2 - A PROFETA\|OUTRPG - EPISÓDIO 2 - A PROFETA]]                                                                                                                                                                                                                                                                        |
+| **Locais no Episódio**      | [[As Nações de Nunumia/Sete Grandes Nações de Nunumia/Zaun\|Zaun]]:<br>[[Locais/Zaun/Bairro de Solaris/Palácio de Jade (Local)\|Palácio de Jade (Local)]]<br>Porto das [[Organizações e Equipes/Industrias Baskerville\|Industrias Baskerville]]<br><br>Mar:<br>Barco provisório do Ilusionista                                                                                                                                                                                                |
+| ---                         | **Próximo episódio**:<br>[[Campanhas/Nunumia - O Último Tesouro/OUTRPG - EPISÓDIO 2 - A PROFETA\|OUTRPG - EPISÓDIO 2 - A PROFETA]]                                                                                                                                                                                                                                                                   |
 
 **O Teste** é o primeiro episódio de [[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro (Série)\|Nunumia - O Último Tesouro (Série)]].
 
@@ -91,7 +91,6 @@ A tripulação nota algumas lanternas no mar a distância, alguém está vindo. 
 - [[Páginas/Jogadores/Aguiar\|Aguiar]] ([[Personagens/O Ilusionista\|O Ilusionista]])
 - [[Páginas/Jogadores/Ash\|Ash]]  ([[Personagens/Amon Vaelor\|Amon Vaelor]])
 - [[Páginas/Jogadores/Guixy\|Guixy]] ([[Personagens/Ananke Amargun\|Ananke Amargun]])
-- [[Páginas/Jogadores/Garcia\|Garcia]] ([[Personagens/Cassidy Mazedy\|Cassidy Mazedy]])
 - [[Páginas/Jogadores/Tomás Durão\|Tomás Durão]] ([[Personagens/Evan Pale Archin\|Evan Pale Archin]])
 # Curiosidades
 ---
@@ -100,12 +99,11 @@ A tripulação nota algumas lanternas no mar a distância, alguém está vindo. 
 - Inicialmente, os jogadores iriam jogar com os antagonistas da temporada.
 - Esse episódio inicialmente seria o episódio 0.
 
-# Pontuação (7.5|7) 
+# Pontuação (|6) 
 ---
 - [[Páginas/Jogadores/Kaiositos\|Kaiositos]] (8/10)
 - [[Páginas/Jogadores/Maacuja\|Maacuja]] (7/10)
 - [[Páginas/Jogadores/Aguiar\|Aguiar]] (8,5/10)
 - [[Páginas/Jogadores/Ash\|Ash]]  (6/10)
-- [[Páginas/Jogadores/Garcia\|Garcia]] (7/10)
 - [[Páginas/Jogadores/Guixy\|Guixy]] (10/10)
 - [[Páginas/Jogadores/Tomás Durão\|Tomás Durão]] (7/10)

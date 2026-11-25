@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personagens/ananke-amargun/","created":"2026-02-08T13:45:54.659-03:00","updated":"2026-11-14T09:44:55.988-03:00","dg-note-properties":{"aliases":["Morgan Voreal","Chromorios Solvaris"]}}
+{"dg-publish":true,"permalink":"/personagens/ananke-amargun/","created":"2026-02-08T13:45:54.659-03:00","updated":"2026-11-20T20:21:39.294-03:00","dg-note-properties":{"aliases":["Morgan Voreal","Chromorios Solvaris"]}}
 ---
 
 #A #Personagens #Personagens_Principais_em_OUTRPG #Destinados 
@@ -21,7 +21,7 @@
 | **Relações**    | [[Personagens/Arkena Chronos\|Arkena Chronos]] (mestra)                                                                                                     |
 | **Ocupação**    | Escrivão (Escriba)<br>Enviado pelo Tempo<br>==Primeiro Destinado==<br>Membro das [[Organizações e Equipes/Zaun/Palácio de Jade/Equipes/Waifus do Caribe\|Waifus do Caribe]]                           |
 | **Classe**      | Suporte                                                                                                                         |
-| **Raça**        | Vazimo (Chromorios)<br>[[Raças/Elfos\|Elfos]]<br>[[Raças/Humano-Marinho\|Humano-Marinho]]<br>[[Raças/Lobos\|Lobos]]<br>[[Raças/Vazimos\|Vazimos]] (Atualmente)                                 |
+| **Raça**        | Vazimo (Chromorios)<br>[[Raças/Elfos\|Elfos]]<br>[[Raças/Humano Marinho\|Humano Marinho]]<br>[[Raças/Lobos\|Lobos]]<br>[[Raças/Vazimos\|Vazimos]] (Atualmente)                                 |
 | **Associação**  | [[Organizações e Equipes/Filhos do Tempo\|Filhos do Tempo]]<br>[[Personagens/Overlord\|Overlord]]<br>[[Magia/Trevas/Relíquias do ShadowMantle/Chronos\|Chronos]]<br>[[Organizações e Equipes/Zaun/Palácio de Jade/Equipes/Waifus do Caribe\|Waifus do Caribe]]                                   |
 **Ananke Amargun** é um dos protagonistas de [[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro (Série)\|Nunumia - O Último Tesouro (Série)]].
 

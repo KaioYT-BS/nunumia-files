@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personagens/adam-smith/","created":"2026-02-08T13:45:54.424-03:00","updated":"2026-11-14T09:41:04.960-03:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/personagens/adam-smith/","created":"2026-02-08T13:45:54.424-03:00","updated":"2026-11-19T20:59:28.586-03:00","dg-note-properties":{}}
 ---
 
 #A #Personagens #Personagens_Principais_em_OUTRPG  #Destinados 
@@ -26,7 +26,7 @@
 
 **Adam Smith** é um dos protagonistas de [[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro (Série)\|Nunumia: O Último Tesouro]]. 
 
-Adam é um homem de cabelos loiros, pele clara e olhos amarelos. Ele é o diplomata de Zaun na [[Organizações e Equipes/Império de Unova/Casas de Unova#Casa Umbrella\|Casa Umbrella]], em Unova. Antes dos eventos de [[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro (Série)\|Nunumia - O Último Tesouro (Série)]] ele entregou as cartas de Denver Zuma para os tripulantes das [[Organizações e Equipes/Zaun/Palácio de Jade/Equipes/Waifus do Caribe\|Waifus do Caribe]]. 
+Ele é um homem de cabelos loiros, pele clara e olhos amarelos. Adam é o diplomata de Zaun na [[Organizações e Equipes/Império de Unova/Casas de Unova#Casa Umbrella\|Casa Umbrella]], em Unova. Antes dos eventos de [[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro (Série)\|Nunumia - O Último Tesouro (Série)]] ele entregou as cartas de [[Personagens/Denver Zuma\|Denver Zuma]] para os tripulantes das [[Organizações e Equipes/Zaun/Palácio de Jade/Equipes/Waifus do Caribe\|Waifus do Caribe]]. 
 
 Em **[[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro Desmoronando\|Nunumia - O Último Tesouro Desmoronando]]**, Adam se juntou aos remanescentes da [[Organizações e Equipes/Zaun/Palácio de Jade/Equipes/Equipe Delta\|Equipe Delta]] e [[Organizações e Equipes/Zaun/Palácio de Jade/Equipes/Waifus do Caribe\|Waifus do Caribe]] para impedir que os [[Organizações e Equipes/Escarlates\|Escarlates]] tomassem posse das sete joias do último tesouro.
 
@@ -41,3 +41,4 @@ Na nova temporada, [[Campanhas/Nunumia - O Último Tesouro Cinzas/Nunumia - O Ú
 | [[Campanhas/Nunumia - O Último Tesouro/OUTRPG - EPISÓDIO 5 - JOGOS\|OUTRPG - EPISÓDIO 5 - JOGOS]]                       | Presente          |
 | [[Campanhas/Nunumia - O Último Tesouro/OUTRPG - EPISÓDIO 6 - FRAGMENTOS\|OUTRPG - EPISÓDIO 6 - FRAGMENTOS]]                  | Presente          |
 | [[Campanhas/Nunumia - O Último Tesouro/OUTRPG - EPISÓDIO 7 - BIFURCAÇÃO (TEMPO E ILUSÃO)\|OUTRPG - EPISÓDIO 7 - BIFURCAÇÃO (TEMPO E ILUSÃO)]] | Presente          |
+| [[Campanhas/Nunumia - O Último Tesouro Cinzas/OUTRPG 2 - EPISÓDIO 2 - RENASCIMENTO\|OUTRPG 2 - EPISÓDIO 2 - RENASCIMENTO]]              | Presente          |

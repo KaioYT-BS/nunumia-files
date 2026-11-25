@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/paginas/guia-de-paginas/","created":"2026-06-09T17:16:16.566-03:00","updated":"2026-11-14T20:12:01.768-03:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/paginas/guia-de-paginas/","created":"2026-06-09T17:16:16.566-03:00","updated":"2026-11-16T22:03:02.535-03:00","dg-note-properties":{}}
 ---
 
 #Diário_de_Deus #Páginas
@@ -82,7 +82,7 @@ Regras de magia, elementos, condições, classes e funcionamento mecânico do RP
 - [[Magia/Luz/Elementos da Luz\|Elementos da Luz]]
 - [[Magia/Trevas/Conceitos das Trevas\|Conceitos das Trevas]]
 - [[Páginas/Magos de Skyline\|Magos de Skyline]]
-- [[Eventos/Fragmentum periodum\|Fragmentum periodum]]
+- [[Fragmentum periodum\|Fragmentum periodum]]
 - [[Páginas/12Faces RPG/Nunumia RPG\|Nunumia RPG]]
 - [[Páginas/12Faces RPG/12FACES - RPG\|12FACES - RPG]]
 - [[Páginas/12Faces RPG/Classes (12FRPG)\|Classes (12FRPG)]]
@@ -97,7 +97,7 @@ Itens gerais, tipos de equipamento, relíquias, máscaras e objetos ligados a ca
 - [[Páginas/Itens\|Itens]]
 - [[Páginas/Tipos de Itens\|Tipos de Itens]]
 - [[Magia/Trevas/Relíquias do ShadowMantle/Chronos\|Máscara do Tempo]]
-- [[Magia/Trevas/Relíquias do ShadowMantle/Ilusionos\|Máscara da Ilusão]]
+- [[Magia/Trevas/Relíquias do ShadowMantle/Máscara da Ilusão\|Máscara da Ilusão]]
 - [[Os Sete Segredos de Nunumia/Segredo de Aspheera/As Sete Joias do Último Tesouro\|As Sete Joias do Último Tesouro]]
 
 ## Religiões e Deuses
