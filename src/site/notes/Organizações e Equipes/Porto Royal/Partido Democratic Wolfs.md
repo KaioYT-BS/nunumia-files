@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/organizacoes-e-equipes/porto-royal/partido-democratic-wolfs/","created":"2026-10-11T13:32:06.486-03:00","updated":"2026-11-04T23:22:50.560-03:00","dg-note-properties":{"aliases":["Democratic Wolfs Party","Partido Democrata Royalense","Wolfs Party","Partido Wolfs"]}}
+{"dg-publish":true,"permalink":"/organizacoes-e-equipes/porto-royal/partido-democratic-wolfs/","noteIcon":"","created":"2026-10-11T13:32:06.486-03:00","updated":"2026-11-04T23:22:50.560-03:00","dg-note-properties":{"aliases":["Democratic Wolfs Party","Partido Democrata Royalense","Wolfs Party","Partido Wolfs"]}}
 ---
 
 

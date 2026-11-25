@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/as-nacoes-de-nunumia/sete-grandes-nacoes-de-nunumia/imperium-diamante/","created":"2026-03-23T21:17:50.564-03:00","updated":"2026-11-16T21:24:08.599-03:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/as-nacoes-de-nunumia/sete-grandes-nacoes-de-nunumia/imperium-diamante/","noteIcon":"","created":"2026-03-23T21:17:50.564-03:00","updated":"2026-11-16T21:24:08.599-03:00","dg-note-properties":{}}
 ---
 
 #Nações #Coleção_História_de_Imperium_Diamante 

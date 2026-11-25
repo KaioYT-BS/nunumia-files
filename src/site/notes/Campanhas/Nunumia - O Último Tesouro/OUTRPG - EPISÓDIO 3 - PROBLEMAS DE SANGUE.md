@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campanhas/nunumia-o-ultimo-tesouro/outrpg-episodio-3-problemas-de-sangue/","created":"2026-02-08T13:45:54.176-03:00","updated":"2026-11-19T23:21:28.870-03:00","dg-note-properties":{"aliases":["PROBLEMAS DE SANGUE"]}}
+{"dg-publish":true,"permalink":"/campanhas/nunumia-o-ultimo-tesouro/outrpg-episodio-3-problemas-de-sangue/","noteIcon":"","created":"2026-02-08T13:45:54.176-03:00","updated":"2026-11-19T23:21:28.870-03:00","dg-note-properties":{"aliases":["PROBLEMAS DE SANGUE"]}}
 ---
 
 #Episódios_de_OUTRPG 

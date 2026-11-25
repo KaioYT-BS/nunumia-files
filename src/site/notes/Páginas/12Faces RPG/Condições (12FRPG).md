@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/paginas/12-faces-rpg/condicoes-12-frpg/","created":"2026-03-09T22:23:11.704-03:00","updated":"2026-11-20T15:13:13.552-03:00","dg-note-properties":{"aliases":["Condições"]}}
+{"dg-publish":true,"permalink":"/paginas/12-faces-rpg/condicoes-12-frpg/","noteIcon":"","created":"2026-03-09T22:23:11.704-03:00","updated":"2026-11-20T15:13:13.552-03:00","dg-note-properties":{"aliases":["Condições"]}}
 ---
 
 #C #12FRPG #Páginas 

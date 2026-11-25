@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/organizacoes-e-equipes/o-pacto-dos-cinco-cavaleiros/guarda-revolucionaria-azariana/","created":"2026-09-22T20:47:19.191-03:00","updated":"2026-11-16T22:09:06.143-03:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/organizacoes-e-equipes/o-pacto-dos-cinco-cavaleiros/guarda-revolucionaria-azariana/","noteIcon":"","created":"2026-09-22T20:47:19.191-03:00","updated":"2026-11-16T22:09:06.143-03:00","dg-note-properties":{}}
 ---
 
 #G #Organizações 

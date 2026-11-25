@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campanhas/nunumia-o-ultimo-tesouro/outrpg-episodio-2-a-profeta/","created":"2026-02-08T13:45:54.166-03:00","updated":"2026-11-20T23:20:45.350-03:00","dg-note-properties":{"aliases":["A PROFETA"]}}
+{"dg-publish":true,"permalink":"/campanhas/nunumia-o-ultimo-tesouro/outrpg-episodio-2-a-profeta/","noteIcon":"","created":"2026-02-08T13:45:54.166-03:00","updated":"2026-11-20T23:20:45.350-03:00","dg-note-properties":{"aliases":["A PROFETA"]}}
 ---
 
 #Episódios_de_OUTRPG 

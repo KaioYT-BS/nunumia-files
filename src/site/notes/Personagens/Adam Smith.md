@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personagens/adam-smith/","created":"2026-02-08T13:45:54.424-03:00","updated":"2026-11-19T20:59:28.586-03:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/personagens/adam-smith/","noteIcon":"","created":"2026-02-08T13:45:54.424-03:00","updated":"2026-11-19T20:59:28.586-03:00","dg-note-properties":{}}
 ---
 
 #A #Personagens #Personagens_Principais_em_OUTRPG  #Destinados 

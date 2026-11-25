@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/eventos/reinicio-reboot/","created":"2026-03-24T21:15:07.491-03:00","updated":"2026-11-07T22:11:50.033-03:00","dg-note-properties":{"aliases":["REBOOT","Reboot"]}}
+{"dg-publish":true,"permalink":"/eventos/reinicio-reboot/","noteIcon":"","created":"2026-03-24T21:15:07.491-03:00","updated":"2026-11-07T22:11:50.033-03:00","dg-note-properties":{"aliases":["REBOOT","Reboot"]}}
 ---
 
 #R #Eventos 

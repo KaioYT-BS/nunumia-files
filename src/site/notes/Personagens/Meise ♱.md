@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personagens/meise/","created":"2026-11-14T22:23:24.247-03:00","updated":"2026-11-21T00:32:29.550-03:00","dg-note-properties":{"aliases":["Meise"]}}
+{"dg-publish":true,"permalink":"/personagens/meise/","noteIcon":"","created":"2026-11-14T22:23:24.247-03:00","updated":"2026-11-21T00:32:29.550-03:00","dg-note-properties":{"aliases":["Meise"]}}
 ---
 
 #M #Personagens 

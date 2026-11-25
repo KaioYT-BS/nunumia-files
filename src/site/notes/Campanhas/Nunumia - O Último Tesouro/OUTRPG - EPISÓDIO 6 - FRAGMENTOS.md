@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campanhas/nunumia-o-ultimo-tesouro/outrpg-episodio-6-fragmentos/","created":"2026-03-28T23:11:24.947-03:00","updated":"2026-11-20T23:19:49.917-03:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/campanhas/nunumia-o-ultimo-tesouro/outrpg-episodio-6-fragmentos/","noteIcon":"","created":"2026-03-28T23:11:24.947-03:00","updated":"2026-11-20T23:19:49.917-03:00","dg-note-properties":{}}
 ---
 
 

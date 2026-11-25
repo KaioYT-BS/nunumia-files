@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/organizacoes-e-equipes/o-pacto-dos-cinco-cavaleiros/corporacao-gentileza/","created":"2026-08-08T13:35:10.495-03:00","updated":"2026-11-19T21:31:32.099-03:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/organizacoes-e-equipes/o-pacto-dos-cinco-cavaleiros/corporacao-gentileza/","noteIcon":"","created":"2026-08-08T13:35:10.495-03:00","updated":"2026-11-19T21:31:32.099-03:00","dg-note-properties":{}}
 ---
 
 #C #Organizações 

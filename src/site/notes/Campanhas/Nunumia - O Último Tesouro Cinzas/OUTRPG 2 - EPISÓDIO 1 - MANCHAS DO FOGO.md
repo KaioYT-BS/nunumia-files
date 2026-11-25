@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campanhas/nunumia-o-ultimo-tesouro-cinzas/outrpg-2-episodio-1-manchas-do-fogo/","created":"2026-05-30T10:30:55.210-03:00","updated":"2026-11-20T23:19:57.608-03:00","dg-note-properties":{"aliases":["MANCHAS DO FOGO"]}}
+{"dg-publish":true,"permalink":"/campanhas/nunumia-o-ultimo-tesouro-cinzas/outrpg-2-episodio-1-manchas-do-fogo/","noteIcon":"","created":"2026-05-30T10:30:55.210-03:00","updated":"2026-11-20T23:19:57.608-03:00","dg-note-properties":{"aliases":["MANCHAS DO FOGO"]}}
 ---
 
 #M #Episódios_de_OUTRPG_2

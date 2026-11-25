@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personagens/geise-maximoff/","created":"2026-11-14T08:04:57.176-03:00","updated":"2026-11-21T00:33:28.461-03:00","dg-note-properties":{"aliases":["Geise"]}}
+{"dg-publish":true,"permalink":"/personagens/geise-maximoff/","noteIcon":"","created":"2026-11-14T08:04:57.176-03:00","updated":"2026-11-21T00:33:28.461-03:00","dg-note-properties":{"aliases":["Geise"]}}
 ---
 
 #G #Personagens 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/paginas/personagens/","created":"2026-02-08T13:45:13.450-03:00","updated":"2026-11-24T13:33:41.689-03:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/paginas/personagens/","noteIcon":"","created":"2026-02-08T13:45:13.450-03:00","updated":"2026-11-24T13:33:41.689-03:00","dg-note-properties":{}}
 ---
 
 #P  #Páginas #Wiki

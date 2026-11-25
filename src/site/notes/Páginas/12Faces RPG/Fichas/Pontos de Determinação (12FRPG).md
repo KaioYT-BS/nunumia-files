@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/paginas/12-faces-rpg/fichas/pontos-de-determinacao-12-frpg/","created":"2026-11-20T12:12:20.847-03:00","updated":"2026-11-25T12:23:30.199-03:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/paginas/12-faces-rpg/fichas/pontos-de-determinacao-12-frpg/","noteIcon":"","created":"2026-11-20T12:12:20.847-03:00","updated":"2026-11-25T12:23:30.199-03:00","dg-note-properties":{}}
 ---
 
 #P #12FRPG #Páginas 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/paginas/tags/","created":"2026-04-22T19:07:32.512-03:00","updated":"2026-11-14T20:28:11.067-03:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/paginas/tags/","noteIcon":"","created":"2026-04-22T19:07:32.512-03:00","updated":"2026-11-14T20:28:11.067-03:00","dg-note-properties":{}}
 ---
 
 #Páginas 

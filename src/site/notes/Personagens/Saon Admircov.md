@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personagens/saon-admircov/","created":"2026-02-08T13:45:54.695-03:00","updated":"2026-10-04T00:41:46.548-03:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/personagens/saon-admircov/","noteIcon":"","created":"2026-02-08T13:45:54.695-03:00","updated":"2026-10-04T00:41:46.548-03:00","dg-note-properties":{}}
 ---
 
 #S #Personagens #Personagens_do_Mestre #Aliados_em_OUTRPG #Personagens_Principais_em_OUTRPG 

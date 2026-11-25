@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campanhas/nunumia-o-ultimo-tesouro/nunumia-o-ultimo-tesouro-desmoronando/","created":"2026-10-16T22:13:31.136-03:00","updated":"2026-11-20T23:19:10.388-03:00","dg-note-properties":{"aliases":["O Último Tesouro Desmoronando","Desmoronando"]}}
+{"dg-publish":true,"permalink":"/campanhas/nunumia-o-ultimo-tesouro/nunumia-o-ultimo-tesouro-desmoronando/","noteIcon":"","created":"2026-10-16T22:13:31.136-03:00","updated":"2026-11-20T23:19:10.388-03:00","dg-note-properties":{"aliases":["O Último Tesouro Desmoronando","Desmoronando"]}}
 ---
 
 #D #Temporadas_de_OUTRPG 

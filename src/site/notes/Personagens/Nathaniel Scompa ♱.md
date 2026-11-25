@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personagens/nathaniel-scompa/","created":"2026-02-08T13:45:54.665-03:00","updated":"2026-11-16T22:03:02.443-03:00","dg-note-properties":{"aliases":["Marionetista","Nathaniel Scompa"]}}
+{"dg-publish":true,"permalink":"/personagens/nathaniel-scompa/","noteIcon":"","created":"2026-02-08T13:45:54.665-03:00","updated":"2026-11-16T22:03:02.443-03:00","dg-note-properties":{"aliases":["Marionetista","Nathaniel Scompa"]}}
 ---
 
 #N #Personagens #Personagens_Principais_em_OUTRPG #Personagens_Principais_em_NEUP #Personagens_Principais_em_OUTRPG2 

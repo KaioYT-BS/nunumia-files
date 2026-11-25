@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personagens/de-x/","created":"2026-02-08T13:45:54.549-03:00","updated":"2026-04-22T18:31:12.723-03:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/personagens/de-x/","noteIcon":"","created":"2026-02-08T13:45:54.549-03:00","updated":"2026-04-22T18:31:12.723-03:00","dg-note-properties":{}}
 ---
 
 #Personagens #Aliados_em_OUTRPG 

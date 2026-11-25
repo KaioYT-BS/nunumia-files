@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personagens/william-emily/","created":"2026-02-08T13:45:54.717-03:00","updated":"2026-11-15T22:37:49.760-03:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/personagens/william-emily/","noteIcon":"","created":"2026-02-08T13:45:54.717-03:00","updated":"2026-11-15T22:37:49.760-03:00","dg-note-properties":{}}
 ---
 
 #W #Personagens #Aliados_em_OUTRPG 

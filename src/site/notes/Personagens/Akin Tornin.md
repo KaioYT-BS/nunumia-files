@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personagens/akin-tornin/","created":"2026-08-08T22:51:23.801-03:00","updated":"2026-11-19T22:34:13.051-03:00","dg-note-properties":{"aliases":null}}
+{"dg-publish":true,"permalink":"/personagens/akin-tornin/","noteIcon":"","created":"2026-08-08T22:51:23.801-03:00","updated":"2026-11-19T22:34:13.051-03:00","dg-note-properties":{"aliases":null}}
 ---
 
 #A  #Personagens 

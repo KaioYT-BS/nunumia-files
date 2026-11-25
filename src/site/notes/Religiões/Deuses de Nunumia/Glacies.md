@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/religioes/deuses-de-nunumia/glacies/","created":"2026-10-04T13:29:14.643-03:00","updated":"2026-11-01T21:02:27.724-03:00","dg-note-properties":{"aliases":["Deus do Gelo"]}}
+{"dg-publish":true,"permalink":"/religioes/deuses-de-nunumia/glacies/","noteIcon":"","created":"2026-10-04T13:29:14.643-03:00","updated":"2026-11-01T21:02:27.724-03:00","dg-note-properties":{"aliases":["Deus do Gelo"]}}
 ---
 
 #G #Deuses_de_Nunumia

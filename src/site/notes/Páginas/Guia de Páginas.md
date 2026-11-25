@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/paginas/guia-de-paginas/","created":"2026-06-09T17:16:16.566-03:00","updated":"2026-11-16T22:03:02.535-03:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/paginas/guia-de-paginas/","noteIcon":"","created":"2026-06-09T17:16:16.566-03:00","updated":"2026-11-16T22:03:02.535-03:00","dg-note-properties":{}}
 ---
 
 #Diário_de_Deus #Páginas

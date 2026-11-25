@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campanhas/nunumia-o-ultimo-tesouro-cinzas/nunumia-o-ultimo-tesouro-cinzas/","created":"2026-09-27T08:51:27.297-03:00","updated":"2026-11-20T23:20:54.731-03:00","dg-note-properties":{"aliases":["OUTRPG-2","O Último Tesouro Cinzas"]}}
+{"dg-publish":true,"permalink":"/campanhas/nunumia-o-ultimo-tesouro-cinzas/nunumia-o-ultimo-tesouro-cinzas/","noteIcon":"","created":"2026-09-27T08:51:27.297-03:00","updated":"2026-11-20T23:20:54.731-03:00","dg-note-properties":{"aliases":["OUTRPG-2","O Último Tesouro Cinzas"]}}
 ---
 
 #Campanha #Temporadas_de_OUTRPG

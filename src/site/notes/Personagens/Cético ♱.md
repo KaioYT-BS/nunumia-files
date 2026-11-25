@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personagens/cetico/","created":"2026-09-26T20:27:41.135-03:00","updated":"2026-11-17T19:19:09.350-03:00","dg-note-properties":{"aliases":["Cético"]}}
+{"dg-publish":true,"permalink":"/personagens/cetico/","noteIcon":"","created":"2026-09-26T20:27:41.135-03:00","updated":"2026-11-17T19:19:09.350-03:00","dg-note-properties":{"aliases":["Cético"]}}
 ---
 
 #C #Personagens #Personagens_Principais_em_OUTRPG2  

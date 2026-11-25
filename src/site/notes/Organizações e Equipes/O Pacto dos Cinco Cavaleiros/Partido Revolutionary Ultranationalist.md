@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/organizacoes-e-equipes/o-pacto-dos-cinco-cavaleiros/partido-revolutionary-ultranationalist/","created":"2026-10-11T15:22:55.847-03:00","updated":"2026-11-16T21:45:50.554-03:00","dg-note-properties":{"aliases":["Revolutionary Ultranationalist Party","Partido Revolucionário Ultranationalista","Royalense Revolutionary Party","Partido Revolucionário Royalense","Partido Ultranacionalista","Ultranacionalistas do Porto Royal"]}}
+{"dg-publish":true,"permalink":"/organizacoes-e-equipes/o-pacto-dos-cinco-cavaleiros/partido-revolutionary-ultranationalist/","noteIcon":"","created":"2026-10-11T15:22:55.847-03:00","updated":"2026-11-16T21:45:50.554-03:00","dg-note-properties":{"aliases":["Revolutionary Ultranationalist Party","Partido Revolucionário Ultranationalista","Royalense Revolutionary Party","Partido Revolucionário Royalense","Partido Ultranacionalista","Ultranacionalistas do Porto Royal"]}}
 ---
 
 

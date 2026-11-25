@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personagens/amon-vaelor/","created":"2026-02-08T13:45:54.488-03:00","updated":"2026-11-24T13:43:26.820-03:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/personagens/amon-vaelor/","noteIcon":"","created":"2026-02-08T13:45:54.488-03:00","updated":"2026-11-24T13:43:26.820-03:00","dg-note-properties":{}}
 ---
 
 #A #Personagens #Waifus_do_Caribe #Personagens_Principais_em_OUTRPG #Personagens_Principais_em_OUTRPG2 

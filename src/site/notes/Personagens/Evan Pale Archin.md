@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personagens/evan-pale-archin/","created":"2026-02-08T13:45:54.583-03:00","updated":"2026-10-28T20:58:42.097-03:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/personagens/evan-pale-archin/","noteIcon":"","created":"2026-02-08T13:45:54.583-03:00","updated":"2026-10-28T20:58:42.097-03:00","dg-note-properties":{}}
 ---
 
 #Página_Descontinuada 

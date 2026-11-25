@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/paginas/jogadores/kaiositos/","created":"2026-02-08T13:45:54.230-03:00","updated":"2026-10-16T22:25:30.417-03:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/paginas/jogadores/kaiositos/","noteIcon":"","created":"2026-02-08T13:45:54.230-03:00","updated":"2026-10-16T22:25:30.417-03:00","dg-note-properties":{}}
 ---
 
 #Mestre #Jogadores #Jogadores_em_OUTRPG 

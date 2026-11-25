@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personagens/latiff-violett/","created":"2026-02-08T13:45:54.588-03:00","updated":"2026-11-14T09:43:27.574-03:00","dg-note-properties":{"aliases":["Latiff"]}}
+{"dg-publish":true,"permalink":"/personagens/latiff-violett/","noteIcon":"","created":"2026-02-08T13:45:54.588-03:00","updated":"2026-11-14T09:43:27.574-03:00","dg-note-properties":{"aliases":["Latiff"]}}
 ---
 
 #L #Personagens #Personagens_Principais_em_OUTRPG #Personagens_Principais_em_OUTRPG2 
