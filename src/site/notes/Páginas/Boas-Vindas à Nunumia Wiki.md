@@ -1,13 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/paginas/boas-vindas-a-nunumia-wiki/","tags":["gardenEntry"],"created":"2026-03-02T13:48:39.740-03:00","updated":"2026-11-16T21:19:51.998-03:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/paginas/boas-vindas-a-nunumia-wiki/","tags":["gardenEntry"],"created":"2026-03-02T13:48:39.740-03:00","updated":"2026-11-25T17:08:51.501-03:00","dg-note-properties":{"aliases":["Home"]}}
 ---
 
 
 #B #Páginas #Wiki
-![Nunumia FIles Logo.png](/img/user/0-Assets/Images/Nunumia%20FIles%20Logo.png)
-[[Páginas/Nunumia - Files\|Nunumia - Files]] é um projeto que consiste na liberação de artigos (estilo Wikipédia) de Personagens, Nações e qualquer outra coisa existente em Nunumia. Os artigos liberados no ***Nunumia: Files*** são criados pelo mestre ([[Páginas/Jogadores/Kaiositos\|Kaiositos]]), sendo os mesmo utilizados na criação de personagens, lugares e etc...
-
-Nunumia: Files também abriga as campanhas de RPG de Nunumia, como [[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro (Série)\|Nunumia - O Último Tesouro (Série)]] ou sua sequencia [[Campanhas/Nunumia - O Último Tesouro Cinzas/Nunumia - O Último Tesouro Cinzas\|Nunumia - O Último Tesouro Cinzas]].
+![Nunumia_Wiki_600x260.png](/img/user/Nunumia_Wiki_600x260.png)
+*Nunumia* é um universo mágico *high-fantasy* criado por [[Páginas/Jogadores/Kaiositos\|Kaiositos]]. O projeto nasceu dia 7 de Novembro de 2025 e teve sua primeira campanha, [[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro O Começo da Passagem\|Nunumia - O Último Tesouro O Começo da Passagem]] estreada em 30 de Novembro de 2025.
 
 # Calendário
 ---
@@ -15,16 +13,15 @@ Nunumia: Files também abriga as campanhas de RPG de Nunumia, como [[Campanhas/N
 # Artigos em Destaque!
 ---
 
-|                      Principal Artigo em Destaque                      |
-| :--------------------------------------------------------------------: |
-| ![Afogado Montruoso em SUBMERSOS.png\|300](/img/user/0-Assets/Images/Cutscenes/Afogado%20Montruoso%20em%20SUBMERSOS.png)<br>[[Bestiário/Afogado Monstruoso\|Afogado Monstruoso]] |
+|                      Principal Artigo em Destaque                      | **Outros Artigos**                                         |
+| :--------------------------------------------------------------------: | ---------------------------------------------------------- |
+| ![Afogado Montruoso em SUBMERSOS.png\|300](/img/user/0-Assets/Images/Cutscenes/Afogado%20Montruoso%20em%20SUBMERSOS.png)<br>[[Bestiário/Afogado Monstruoso\|Afogado Monstruoso]] | [[Páginas/12Faces RPG/12FACES - RPG\|12FACES - RPG]]<br>[[Páginas/Personagens\|Personagens]]<br>[[Personagens/Cassidy Mazedy\|Cassidy Mazedy]] |
 
 # Campanhas e Especiais
 ---
 
-| ![OUTRPG BANNER.png\|300](/img/user/0-Assets/Images/OUTRPG%20BANNER.png)<br>[[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro (Série)\|Nunumia - O Último Tesouro (Série)]] |     |
-| :-------------------------------------------------------------------: | --- |
-
+| ![OUTRPG BANNER.png\|300](/img/user/0-Assets/Images/OUTRPG%20BANNER.png)<br>[[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro (Série)\|Nunumia - O Último Tesouro (Série)]] |
+| :-------------------------------------------------------------------: |
 # Personagens (Protagonistas - Por Organização)
 ---
 [[Páginas/Personagens#Protagonistas\|Protagonistas]] - [[Páginas/Personagens#Organizações\|Por Organização]]
