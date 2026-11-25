@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campanhas/nunumia-o-ultimo-tesouro/outrpg-episodio-1-o-teste/","noteIcon":"","created":"2026-02-08T13:45:52.756-03:00","updated":"2026-11-20T23:19:34.541-03:00","dg-note-properties":{"aliases":["O TESTE"]}}
+{"dg-publish":true,"permalink":"/campanhas/nunumia-o-ultimo-tesouro/outrpg-episodio-1-o-teste/","created":"2026-02-08T13:45:52.756-03:00","updated":"2026-11-20T23:19:34.541-03:00","dg-note-properties":{"aliases":["O TESTE"]}}
 ---
 
 #O #Episódios_de_OUTRPG 

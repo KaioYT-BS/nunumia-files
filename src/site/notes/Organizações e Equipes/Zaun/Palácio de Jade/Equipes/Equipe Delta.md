@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/organizacoes-e-equipes/zaun/palacio-de-jade/equipes/equipe-delta/","noteIcon":"","created":"2026-02-08T13:45:54.393-03:00","updated":"2026-10-17T20:03:59.324-03:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/organizacoes-e-equipes/zaun/palacio-de-jade/equipes/equipe-delta/","created":"2026-02-08T13:45:54.393-03:00","updated":"2026-10-17T20:03:59.324-03:00","dg-note-properties":{}}
 ---
 
 #E #Organizações 

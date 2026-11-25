@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campanhas/nunumia-o-ultimo-tesouro/outrpg-episodio-5-jogos/","noteIcon":"","created":"2026-03-22T23:53:18.480-03:00","updated":"2026-11-21T20:30:26.787-03:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/campanhas/nunumia-o-ultimo-tesouro/outrpg-episodio-5-jogos/","created":"2026-03-22T23:53:18.480-03:00","updated":"2026-11-21T20:30:26.787-03:00","dg-note-properties":{}}
 ---
 
 #Episódios_de_OUTRPG 

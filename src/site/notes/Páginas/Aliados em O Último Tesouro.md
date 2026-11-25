@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/paginas/aliados-em-o-ultimo-tesouro/","noteIcon":"","created":"2026-04-26T21:48:18.779-03:00","updated":"2026-10-28T21:00:57.046-03:00","dg-note-properties":{"aliases":["Aliados"]}}
+{"dg-publish":true,"permalink":"/paginas/aliados-em-o-ultimo-tesouro/","created":"2026-04-26T21:48:18.779-03:00","updated":"2026-10-28T21:00:57.046-03:00","dg-note-properties":{"aliases":["Aliados"]}}
 ---
 
 #A #Aliados_em_OUTRPG #Páginas 

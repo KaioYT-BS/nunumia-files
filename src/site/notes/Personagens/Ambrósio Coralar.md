@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personagens/ambrosio-coralar/","noteIcon":"","created":"2026-02-08T13:45:54.484-03:00","updated":"2026-11-19T21:31:32.142-03:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/personagens/ambrosio-coralar/","created":"2026-02-08T13:45:54.484-03:00","updated":"2026-11-19T21:31:32.142-03:00","dg-note-properties":{}}
 ---
 
 #A #Personagens #Personagens_Principais_em_OUTRPG #Personagens_do_Mestre 

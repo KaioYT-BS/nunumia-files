@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/religioes/glacianismo/","noteIcon":"","created":"2026-04-02T16:19:41.743-03:00","updated":"2026-11-16T21:28:27.315-03:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/religioes/glacianismo/","created":"2026-04-02T16:19:41.743-03:00","updated":"2026-11-16T21:28:27.315-03:00","dg-note-properties":{}}
 ---
 
 #Religião 

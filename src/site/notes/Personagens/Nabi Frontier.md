@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personagens/nabi-frontier/","noteIcon":"","created":"2026-02-08T13:45:13.389-03:00","updated":"2026-11-04T22:13:52.377-03:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/personagens/nabi-frontier/","created":"2026-02-08T13:45:13.389-03:00","updated":"2026-11-04T22:13:52.377-03:00","dg-note-properties":{}}
 ---
 
 #N #Personagens #Aliados_em_OUTRPG 

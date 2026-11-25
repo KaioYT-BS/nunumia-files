@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personagens/ananke-amargun/","noteIcon":"","created":"2026-02-08T13:45:54.659-03:00","updated":"2026-11-20T20:21:39.294-03:00","dg-note-properties":{"aliases":["Morgan Voreal","Chromorios Solvaris"]}}
+{"dg-publish":true,"permalink":"/personagens/ananke-amargun/","created":"2026-02-08T13:45:54.659-03:00","updated":"2026-11-20T20:21:39.294-03:00","dg-note-properties":{"aliases":["Morgan Voreal","Chromorios Solvaris"]}}
 ---
 
 #A #Personagens #Personagens_Principais_em_OUTRPG #Destinados 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/paginas/jogadores/vivi/","noteIcon":"","created":"2026-05-05T15:29:36.524-03:00","updated":"2026-11-15T22:10:47.951-03:00","dg-note-properties":{"aliases":["Davi"]}}
+{"dg-publish":true,"permalink":"/paginas/jogadores/vivi/","created":"2026-05-05T15:29:36.524-03:00","updated":"2026-11-15T22:10:47.951-03:00","dg-note-properties":{"aliases":["Davi"]}}
 ---
 
 #Jogadores #Jogadores_em_OUTRPG 

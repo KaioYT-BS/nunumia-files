@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personagens/denver-zuma/","noteIcon":"","created":"2026-02-08T13:45:54.537-03:00","updated":"2026-11-15T22:37:53.948-03:00","dg-note-properties":{"aliases":["Denver"]}}
+{"dg-publish":true,"permalink":"/personagens/denver-zuma/","created":"2026-02-08T13:45:54.537-03:00","updated":"2026-11-15T22:37:53.948-03:00","dg-note-properties":{"aliases":["Denver"]}}
 ---
 
 #D #Personagens #Personagens_do_Mestre  #Personagens_Principais_em_OUTRPG  #Personagens_Principais_em_OUTRPG2 #Aliados_em_OUTRPG 
