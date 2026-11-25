@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personagens/satoru-tomio-gojou/","noteIcon":"","created":"2026-02-08T13:45:54.700-03:00","updated":"2026-10-11T11:10:18.929-03:00","dg-note-properties":{"aliases":["Satoru Tomio Gojou","Satoru Gojou"]}}
+{"dg-publish":true,"permalink":"/personagens/satoru-tomio-gojou/","created":"2026-02-08T13:45:54.700-03:00","updated":"2026-10-11T11:10:18.929-03:00","dg-note-properties":{"aliases":["Satoru Tomio Gojou","Satoru Gojou"]}}
 ---
 
 #S #Personagens #Personagens_do_Mestre #Personagens_Principais_em_OUTRPG 

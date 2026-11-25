@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/paginas/jogadores/tomas-durao/","noteIcon":"","created":"2026-10-01T21:23:06.372-03:00","updated":"2026-10-11T12:00:48.081-03:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/paginas/jogadores/tomas-durao/","created":"2026-10-01T21:23:06.372-03:00","updated":"2026-10-11T12:00:48.081-03:00","dg-note-properties":{}}
 ---
 
 #Jogadores #Jogadores_em_OUTRPG

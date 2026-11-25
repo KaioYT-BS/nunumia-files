@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campanhas/especial-nunumia-euphoria/especial-nunumia-euphoria/","noteIcon":"","created":"2026-03-06T23:28:19.972-03:00","updated":"2026-11-19T23:30:28.096-03:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/campanhas/especial-nunumia-euphoria/especial-nunumia-euphoria/","created":"2026-03-06T23:28:19.972-03:00","updated":"2026-11-19T23:30:28.096-03:00","dg-note-properties":{}}
 ---
 
 #Campanha #Especial

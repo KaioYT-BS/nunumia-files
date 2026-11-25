@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personagens/anne-psina/","noteIcon":"","created":"2026-02-08T13:45:54.507-03:00","updated":"2026-10-11T13:31:19.917-03:00","dg-note-properties":{"aliases":["Profeta","A Profeta"]}}
+{"dg-publish":true,"permalink":"/personagens/anne-psina/","created":"2026-02-08T13:45:54.507-03:00","updated":"2026-10-11T13:31:19.917-03:00","dg-note-properties":{"aliases":["Profeta","A Profeta"]}}
 ---
 
 #Personagens

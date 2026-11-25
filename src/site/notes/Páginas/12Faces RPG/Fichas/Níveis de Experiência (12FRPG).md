@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/paginas/12-faces-rpg/fichas/niveis-de-experiencia-12-frpg/","noteIcon":"","created":"2026-11-05T21:03:12.143-03:00","updated":"2026-11-25T12:23:24.643-03:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/paginas/12-faces-rpg/fichas/niveis-de-experiencia-12-frpg/","created":"2026-11-05T21:03:12.143-03:00","updated":"2026-11-25T12:23:24.643-03:00","dg-note-properties":{}}
 ---
 
 #N #12FRPG #Páginas 

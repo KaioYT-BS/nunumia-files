@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/paginas/jogadores/maacuja/","noteIcon":"","created":"2026-02-08T13:45:54.236-03:00","updated":"2026-10-24T20:22:16.510-03:00","dg-note-properties":{"aliases":["Manuella Pontes"]}}
+{"dg-publish":true,"permalink":"/paginas/jogadores/maacuja/","created":"2026-02-08T13:45:54.236-03:00","updated":"2026-10-24T20:22:16.510-03:00","dg-note-properties":{"aliases":["Manuella Pontes"]}}
 ---
 
 #Jogadores #Jogadores_em_OUTRPG

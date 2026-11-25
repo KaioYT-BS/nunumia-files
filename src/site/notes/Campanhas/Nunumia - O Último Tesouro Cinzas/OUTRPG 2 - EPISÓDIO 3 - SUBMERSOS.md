@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campanhas/nunumia-o-ultimo-tesouro-cinzas/outrpg-2-episodio-3-submersos/","noteIcon":"","created":"2026-10-26T21:20:49.196-03:00","updated":"2026-11-21T00:32:29.344-03:00","dg-note-properties":{"aliases":["SUBMERSOS"]}}
+{"dg-publish":true,"permalink":"/campanhas/nunumia-o-ultimo-tesouro-cinzas/outrpg-2-episodio-3-submersos/","created":"2026-10-26T21:20:49.196-03:00","updated":"2026-11-21T00:32:29.344-03:00","dg-note-properties":{"aliases":["SUBMERSOS"]}}
 ---
 
 #Episódios_de_OUTRPG_2 

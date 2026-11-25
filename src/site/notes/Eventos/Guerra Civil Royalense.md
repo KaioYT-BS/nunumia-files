@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/eventos/guerra-civil-royalense/","noteIcon":"","created":"2026-10-17T19:40:46.049-03:00","updated":"2026-11-16T21:29:52.889-03:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/eventos/guerra-civil-royalense/","created":"2026-10-17T19:40:46.049-03:00","updated":"2026-11-16T21:29:52.889-03:00","dg-note-properties":{}}
 ---
 
 #G #Eventos 

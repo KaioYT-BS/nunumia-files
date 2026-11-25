@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/organizacoes-e-equipes/porto-royal/partido-republican-eagles/","noteIcon":"","created":"2026-10-11T13:51:47.105-03:00","updated":"2026-10-11T15:45:13.012-03:00","dg-note-properties":{"aliases":["Republican Eagles Party","Partido Republicano Royalense","Eagles Party","Partido Eagles"]}}
+{"dg-publish":true,"permalink":"/organizacoes-e-equipes/porto-royal/partido-republican-eagles/","created":"2026-10-11T13:51:47.105-03:00","updated":"2026-10-11T15:45:13.012-03:00","dg-note-properties":{"aliases":["Republican Eagles Party","Partido Republicano Royalense","Eagles Party","Partido Eagles"]}}
 ---
 
 

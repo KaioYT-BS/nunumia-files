@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personagens/maximiliam-pegasus/","noteIcon":"","created":"2026-06-04T13:48:36.951-03:00","updated":"2026-11-16T22:03:02.393-03:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/personagens/maximiliam-pegasus/","created":"2026-06-04T13:48:36.951-03:00","updated":"2026-11-16T22:03:02.393-03:00","dg-note-properties":{}}
 ---
 
 #M #Personagens #Personagens_Principais_em_OUTRPG 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locais/arquipelago-novo/santuario-da-seda/","noteIcon":"","created":"2026-03-06T23:53:19.191-03:00","updated":"2026-11-14T20:12:28.953-03:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/locais/arquipelago-novo/santuario-da-seda/","created":"2026-03-06T23:53:19.191-03:00","updated":"2026-11-14T20:12:28.953-03:00","dg-note-properties":{}}
 ---
 
 #Locais #Locais_em_Unova 

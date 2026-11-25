@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personagens/arkena-chronos/","noteIcon":"","created":"2026-02-08T13:45:54.734-03:00","updated":"2026-11-14T09:44:56.037-03:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/personagens/arkena-chronos/","created":"2026-02-08T13:45:54.734-03:00","updated":"2026-11-14T09:44:56.037-03:00","dg-note-properties":{}}
 ---
 
 #A #Personagens #Personagens_do_Mestre #Personagens_Principais_em_OUTRPG #Personagens_Principais_em_OUTRPG2 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/organizacoes-e-equipes/zaun/palacio-de-jade/equipes/waifus-do-caribe/","noteIcon":"","created":"2026-02-08T13:45:54.399-03:00","updated":"2026-10-28T20:58:41.540-03:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/organizacoes-e-equipes/zaun/palacio-de-jade/equipes/waifus-do-caribe/","created":"2026-02-08T13:45:54.399-03:00","updated":"2026-10-28T20:58:41.540-03:00","dg-note-properties":{}}
 ---
 
 #W #Organizações 

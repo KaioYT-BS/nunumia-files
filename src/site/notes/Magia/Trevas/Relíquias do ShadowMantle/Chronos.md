@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/magia/trevas/reliquias-do-shadow-mantle/chronos/","noteIcon":"","created":"2026-02-08T13:45:13.880-03:00","updated":"2026-09-29T23:47:20.346-03:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/magia/trevas/reliquias-do-shadow-mantle/chronos/","created":"2026-02-08T13:45:13.880-03:00","updated":"2026-09-29T23:47:20.346-03:00","dg-note-properties":{}}
 ---
 
 

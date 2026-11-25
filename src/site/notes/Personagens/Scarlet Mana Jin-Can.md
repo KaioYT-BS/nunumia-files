@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personagens/scarlet-mana-jin-can/","noteIcon":"","created":"2026-02-08T13:45:54.707-03:00","updated":"2026-10-30T22:52:21.017-03:00","dg-note-properties":{"aliases":["Scarlet"]}}
+{"dg-publish":true,"permalink":"/personagens/scarlet-mana-jin-can/","created":"2026-02-08T13:45:54.707-03:00","updated":"2026-10-30T22:52:21.017-03:00","dg-note-properties":{"aliases":["Scarlet"]}}
 ---
 
 #S #Personagens #Personagens_Principais_em_OUTRPG #Aliados_em_OUTRPG

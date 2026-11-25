@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/eventos/a-guerra-da-seda/","noteIcon":"","created":"2026-03-08T00:45:30.636-03:00","updated":"2026-10-17T19:43:15.507-03:00","dg-note-properties":{"aliases":["Guerra da Seda"]}}
+{"dg-publish":true,"permalink":"/eventos/a-guerra-da-seda/","created":"2026-03-08T00:45:30.636-03:00","updated":"2026-10-17T19:43:15.507-03:00","dg-note-properties":{"aliases":["Guerra da Seda"]}}
 ---
 
 #A #Eventos

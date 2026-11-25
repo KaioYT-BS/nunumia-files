@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personagens/mars-sailer/","noteIcon":"","created":"2026-02-08T13:45:54.631-03:00","updated":"2026-11-11T21:58:19.625-03:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/personagens/mars-sailer/","created":"2026-02-08T13:45:54.631-03:00","updated":"2026-11-11T21:58:19.625-03:00","dg-note-properties":{}}
 ---
 
 #M #Personagens #Personagens_Principais_em_OUTRPG #Episódios_de_OUTRPG_2 

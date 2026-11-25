@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/organizacoes-e-equipes/porto-royal/royalence-inteligence-agency/","noteIcon":"","created":"2026-07-29T20:52:11.617-03:00","updated":"2026-11-11T00:02:51.114-03:00","dg-note-properties":{"aliases":["RIA"]}}
+{"dg-publish":true,"permalink":"/organizacoes-e-equipes/porto-royal/royalence-inteligence-agency/","created":"2026-07-29T20:52:11.617-03:00","updated":"2026-11-11T00:02:51.114-03:00","dg-note-properties":{"aliases":["RIA"]}}
 ---
 
 #R #Organizações 

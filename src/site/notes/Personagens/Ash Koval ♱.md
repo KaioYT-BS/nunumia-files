@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personagens/ash-koval/","noteIcon":"","created":"2026-02-08T13:45:54.751-03:00","updated":"2026-10-28T20:15:27.736-03:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/personagens/ash-koval/","created":"2026-02-08T13:45:54.751-03:00","updated":"2026-10-28T20:15:27.736-03:00","dg-note-properties":{}}
 ---
 
 #Personagens

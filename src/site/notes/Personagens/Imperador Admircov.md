@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personagens/imperador-admircov/","noteIcon":"","created":"2026-02-08T13:45:54.603-03:00","updated":"2026-11-13T21:13:39.410-03:00","dg-note-properties":{"aliases":["Emanuel Admircov"]}}
+{"dg-publish":true,"permalink":"/personagens/imperador-admircov/","created":"2026-02-08T13:45:54.603-03:00","updated":"2026-11-13T21:13:39.410-03:00","dg-note-properties":{"aliases":["Emanuel Admircov"]}}
 ---
 
 #I #Personagens #Personagens_do_Mestre #Personagens_Principais_em_OUTRPG #Personagens_Principais_em_OUTRPG2 
