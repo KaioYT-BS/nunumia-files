@@ -1,10 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/organizacoes-e-equipes/porto-royal/royal-port-marine-corps/","created":"2026-11-03T22:40:11.299-03:00","updated":"2026-11-16T21:42:11.656-03:00","dg-note-properties":{"aliases":["RPMC"]}}
+{"dg-publish":true,"permalink":"/organizacoes-e-equipes/porto-royal/royal-port-marine-corps/","created":"2026-11-03T22:40:11.299-03:00","updated":"2026-11-26T13:04:42.873-03:00","dg-note-properties":{"aliases":["RPMC"]}}
 ---
 
 
-| **Tipo**                  | Infantaria naval                                                          |
+| **Comandante**            | [[Personagens/Sophie Miller\|Sophie Miller]]                                                         |
 | ------------------------- | ------------------------------------------------------------------------- |
+| **Tipo**                  | Infantaria naval                                                          |
 | **Organização Associada** | Forças Armadas de Porto Royal (Anteriormente)<br>[[Organizações e Equipes/O Pacto dos Cinco Cavaleiros/Corporação Gentileza\|Corporação Gentileza]] |
 | **Jurisdição**            | [[As Nações de Nunumia/Sete Grandes Nações de Nunumia/Porto Royal\|Porto Royal]]                                                           |
 | **Sede**                  | [[Athelgard RP\|Athelgard RP]]                                                          |

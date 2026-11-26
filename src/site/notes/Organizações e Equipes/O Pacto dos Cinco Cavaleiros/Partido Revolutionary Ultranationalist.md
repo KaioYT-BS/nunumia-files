@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/organizacoes-e-equipes/o-pacto-dos-cinco-cavaleiros/partido-revolutionary-ultranationalist/","created":"2026-10-11T15:22:55.847-03:00","updated":"2026-11-16T21:45:50.554-03:00","dg-note-properties":{"aliases":["Revolutionary Ultranationalist Party","Partido Revolucionário Ultranationalista","Royalense Revolutionary Party","Partido Revolucionário Royalense","Partido Ultranacionalista","Ultranacionalistas do Porto Royal"]}}
+{"dg-publish":true,"permalink":"/organizacoes-e-equipes/o-pacto-dos-cinco-cavaleiros/partido-revolutionary-ultranationalist/","created":"2026-10-11T15:22:55.847-03:00","updated":"2026-11-26T13:02:50.543-03:00","dg-note-properties":{"aliases":["Revolutionary Ultranationalist Party","Partido Revolucionário Ultranationalista","Royalense Revolutionary Party","Partido Revolucionário Royalense","Partido Ultranacionalista","Ultranacionalistas do Porto Royal"]}}
 ---
 
 
@@ -17,4 +17,4 @@ Os *ultranacionalistas* controlavam diversas organizações e instituições do 
 
 A Corporação Gentileza faz parte dos Ultranacionalistas, sendo ela responsável por toda a coordenação militar e pela produção dos armamentos utilizados por todo o partido e seus aliados.
 
-Em janeiro de 2026, O partido ilegal iniciou a [[Eventos/Guerra Civil Royalense\|Guerra Civil Royalense]], sendo considerado a grande oposição ao grupo dos legalistas apoiados pelos membros do [[Organizações e Equipes/Conselho de Unova\|Conselho de Unova]]. Mais em frente, em março, o [[Organizações e Equipes/Porto Royal/Royal Port Marine Corps\|Royal Port Marine Corps]] iniciou junto dos guerrilheiros da [[Guarda Revolucionária de Priyat\|Guarda Revolucionária de Priyat]] uma extensa invasão pelas ilhas noroestes de [[As Nações de Nunumia/Sete Grandes Nações de Nunumia/Unova\|Unova]], assim começando a [[Guerra do Apocalipse\|Guerra do Apocalipse]].
+Em janeiro de 2026, O partido ilegal iniciou a [[Eventos/Guerra Civil Royalense\|Guerra Civil Royalense]], sendo considerado a grande oposição ao grupo dos legalistas apoiados pelos membros do [[Organizações e Equipes/Conselho de Unova\|Conselho de Unova]].
