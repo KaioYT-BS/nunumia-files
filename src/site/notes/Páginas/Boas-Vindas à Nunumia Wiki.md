@@ -1,11 +1,17 @@
 ---
-{"dg-publish":true,"permalink":"/paginas/boas-vindas-a-nunumia-wiki/","tags":["gardenEntry"],"created":"2026-03-02T13:48:39.740-03:00","updated":"2026-11-25T17:08:51.501-03:00","dg-note-properties":{"aliases":["Home"]}}
+{"dg-publish":true,"permalink":"/paginas/boas-vindas-a-nunumia-wiki/","tags":["gardenEntry"],"created":"2026-03-02T13:48:39.740-03:00","updated":"2026-11-26T12:50:27.759-03:00","dg-note-properties":{"aliases":["Home"]}}
 ---
 
 
 #B #Páginas #Wiki
 ![Nunumia_Wiki_600x260.png](/img/user/Nunumia_Wiki_600x260.png)
 *Nunumia* é um universo mágico *high-fantasy* criado por [[Páginas/Jogadores/Kaiositos\|Kaiositos]]. O projeto nasceu dia 7 de Novembro de 2025 e teve sua primeira campanha, [[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro O Começo da Passagem\|Nunumia - O Último Tesouro O Começo da Passagem]] estreada em 30 de Novembro de 2025.
+
+Aqui na 12FRPG & Nunumia Wiki você encontra artigos sobre o sistema **12FRPG** e sobre personagens, lendas, episódios e criaturas do universo de Nunumia. Os episódios do RPG gravados ficam disponíveis em uma playlist privada no Youtube [@Kaiositos2](https://www.youtube.com/@Kaiositos2).
+
+
+> [!NOTE] Dica
+> Você pode achar artigos de três formas: Pesquisando na barra de pesquisa uma tag(#) ou uma página especifica, pelos [[Páginas/Boas-Vindas à Nunumia Wiki#Artigos em Destaque!\|#Artigos em Destaque!]], logo aqui em baixo e também pelo [[Páginas/Guia de Páginas\|Guia de Páginas]], que exibe páginas importantes e outras páginas de navegação.
 
 # Calendário
 ---

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/paginas/personagens/","created":"2026-02-08T13:45:13.450-03:00","updated":"2026-11-24T13:33:41.689-03:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/paginas/personagens/","created":"2026-02-08T13:45:13.450-03:00","updated":"2026-11-26T12:43:10.108-03:00","dg-note-properties":{}}
 ---
 
 #P  #Páginas #Wiki
@@ -30,28 +30,26 @@ Para mais detalhes, veja: [[Páginas/Organizações\|Organizações]].
 | ![Gwen Kostento.png\|200](/img/user/0-Assets/Images/Icons/Personagens/Servi%C3%A7o%20Secreto%20de%20Zaun/Gwen%20Kostento.png)<br>[[Personagens/Gwen Kostenko\|Gwen Kostenko]]<br>**[[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro (Série)\|OUTRPG]] • [[Campanhas/Nunumia - O Último Tesouro Cinzas/Nunumia - O Último Tesouro Cinzas\|OUTRPG2]]** | ![maxi.png\|200](/img/user/0-Assets/Images/Icons/Personagens/Servi%C3%A7o%20Secreto%20de%20Zaun/Maxi.png)<br>[[Personagens/Maxi Frontier\|Maxi Frontier]]<br>**[[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro (Série)\|OUTRPG]] • [[Campanhas/Nunumia - O Último Tesouro Cinzas/Nunumia - O Último Tesouro Cinzas\|OUTRPG2]]** | ![Garry Sanderson.png\|200](/img/user/0-Assets/Images/Icons/Personagens/Servi%C3%A7o%20Secreto%20de%20Zaun/Garry%20Sanderson.png)<br>[[Personagens/Garry Sanderson\|Garry Sanderson]]<br>**[[Campanhas/Nunumia - O Último Tesouro Cinzas/Nunumia - O Último Tesouro Cinzas\|OUTRPG2]]** | ![Kali_Kaplam.png\|200](/img/user/0-Assets/Images/Icons/Personagens/Servi%C3%A7o%20Secreto%20de%20Zaun/Kali_Kaplam.png)<br>[[Personagens/Kali Kaplam\|Kali Kaplam]]<br>**[[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro (Série)\|OUTRPG]] • [[Campanhas/Nunumia - O Último Tesouro Cinzas/Nunumia - O Último Tesouro Cinzas\|OUTRPG2]]** |
 | :-----------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------: |
 ### [[Organizações e Equipes/Zaun/Palácio de Jade/Equipes/Equipe Alpha\|Equipe Alpha]] ([[Organizações e Equipes/Zaun/Palácio de Jade/Força Nacional de Segurança de Zaun\|F.N.S.]]):
-| ![Scarlet_2.png\|200](/img/user/0-Assets/Images/Icons/Personagens/Servi%C3%A7o%20Secreto%20de%20Zaun/Scarlet_2.png)<br>[[Personagens/Scarlet Mana Jin-Can\|Scarlet Mana Jin-Can]]<br>**[[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro (Série)\|OUTRPG]] • [[Campanhas/Nunumia - O Último Tesouro Cinzas/Nunumia - O Último Tesouro Cinzas\|OUTRPG2]]** | ![Umbrella Parker.png\|200](/img/user/0-Assets/Images/Icons/Personagens/Servi%C3%A7o%20Secreto%20de%20Zaun/Umbrella%20Parker.png)<br>[[Personagens/Umbrella Parker\|Umbrella Parker]]<br>**[[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro (Série)\|OUTRPG]] • [[Campanhas/Nunumia - O Último Tesouro Cinzas/Nunumia - O Último Tesouro Cinzas\|OUTRPG2]]** |     |     |
-| :--------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------: | :-: | :-: |
-### Funcionários da Base:
+| ![Scarlet_2.png\|200](/img/user/0-Assets/Images/Icons/Personagens/Servi%C3%A7o%20Secreto%20de%20Zaun/Scarlet_2.png)<br>[[Personagens/Scarlet Mana Jin-Can\|Scarlet Mana Jin-Can]]<br>**[[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro (Série)\|OUTRPG]] • [[Campanhas/Nunumia - O Último Tesouro Cinzas/Nunumia - O Último Tesouro Cinzas\|OUTRPG2]]** | ![Umbrella Parker.png\|200](/img/user/0-Assets/Images/Icons/Personagens/Servi%C3%A7o%20Secreto%20de%20Zaun/Umbrella%20Parker.png)<br>[[Personagens/Umbrella Parker\|Umbrella Parker]]<br>**[[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro (Série)\|OUTRPG]] • [[Campanhas/Nunumia - O Último Tesouro Cinzas/Nunumia - O Último Tesouro Cinzas\|OUTRPG2]]** | ![Nabi Frontier.png\|200](/img/user/0-Assets/Images/Icons/Personagens/Servi%C3%A7o%20Secreto%20de%20Zaun/Nabi%20Frontier.png)<br>[[Personagens/Nabi Frontier\|Nabi Frontier]]<br>**[[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro (Série)\|OUTRPG]] • [[Campanhas/Nunumia - O Último Tesouro Cinzas/Nunumia - O Último Tesouro Cinzas\|OUTRPG2]]** | ![Anne.png\|200](/img/user/0-Assets/Images/Icons/Personagens/Servi%C3%A7o%20Secreto%20de%20Zaun/Anne.png)<br>[[Personagens/Anne Psina\|Anne Psina]]<br>**[[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro (Série)\|OUTRPG]] • [[Campanhas/Nunumia - O Último Tesouro Cinzas/Nunumia - O Último Tesouro Cinzas\|OUTRPG2]]** |
+| :--------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------: |
+### Funcionários da Base
 
-| ![Anne.png\|200](/img/user/0-Assets/Images/Icons/Personagens/Servi%C3%A7o%20Secreto%20de%20Zaun/Anne.png)<br>[[Personagens/Anne Psina\|Anne Psina]]<br>**[[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro (Série)\|OUTRPG]] • [[Campanhas/Nunumia - O Último Tesouro Cinzas/Nunumia - O Último Tesouro Cinzas\|OUTRPG2]]** | ![Nabi Frontier.png\|200](/img/user/0-Assets/Images/Icons/Personagens/Servi%C3%A7o%20Secreto%20de%20Zaun/Nabi%20Frontier.png)<br>[[Personagens/Nabi Frontier\|Nabi Frontier]]<br>**[[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro (Série)\|OUTRPG]] • [[Campanhas/Nunumia - O Último Tesouro Cinzas/Nunumia - O Último Tesouro Cinzas\|OUTRPG2]]** | ![Vênus Starli.png\|200](/img/user/0-Assets/Images/Icons/Personagens/Servi%C3%A7o%20Secreto%20de%20Zaun/V%C3%AAnus%20Starli.png)<br>[[Personagens/Vênus Starli\|Vênus Starli]]<br>**[[Campanhas/Nunumia - O Último Tesouro Cinzas/Nunumia - O Último Tesouro Cinzas\|OUTRPG2]]** |
-| :-----------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------: |
-### [[Organizações e Equipes/Zaun/Palácio de Jade/Equipes/Equipe Delta\|Equipe Delta]] (Dissolvida):
+| ![Vênus Starli.png\|200](/img/user/0-Assets/Images/Icons/Personagens/Servi%C3%A7o%20Secreto%20de%20Zaun/V%C3%AAnus%20Starli.png)<br>[[Personagens/Vênus Starli\|Vênus Starli]]<br>**[[Campanhas/Nunumia - O Último Tesouro Cinzas/Nunumia - O Último Tesouro Cinzas\|OUTRPG2]]** |
+| :--------------------------------------------------------------------------------------------------: |
+### [[Organizações e Equipes/Zaun/Palácio de Jade/Equipes/Equipe Delta\|Equipe Delta]] (Dissolvida)
 
 | ![DeX_2.png\|200](/img/user/0-Assets/Images/Icons/Personagens/DeX_2.png)<br>[[Personagens/DeX ♱\|DeX ♱]]<br>**[[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro (Série)\|OUTRPG]]**<br> | ![Satoru_Gojou_2.png\|200](/img/user/0-Assets/Images/Icons/Personagens/Satoru_Gojou_2.png)<br>[[Personagens/Satoru Tomio Gojou ♱\|Satoru Tomio Gojou ♱]]<br>**[[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro (Série)\|OUTRPG]]** | ![Raiden_2.png\|200](/img/user/0-Assets/Images/Icons/Personagens/Raiden_2.png)<br>[[Personagens/Raiden Takada Ikari ♱\|Raiden Takada Ikari ♱]]<br>**[[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro (Série)\|OUTRPG]]** | ![Ash_2.png\|200](/img/user/0-Assets/Images/Icons/Personagens/Ash_2.png)<br>[[Personagens/Ash Koval ♱\|Ash Koval ♱]]<br>**[[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro (Série)\|OUTRPG]]** |
 | :--------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------: |
-#### [[Equipe Delta (Primeira Formação)\|Equipe Delta (Primeira Formação)]] (Dissolvida):
+#### [[Equipe Delta (Primeira Formação)\|Equipe Delta (Primeira Formação)]] (Dissolvida)
 
 | [[Leon Maguffin\|Leon Maguffin]] | [[Amanda Gentilli\|Amanda Gentilli]] |
 | :---------------: | :-----------------: |
 ## Waifus do Caribe:
 
 | ![Cassy.png\|200](/img/user/0-Assets/Images/Icons/Personagens/Waifus%20do%20Caribe/Cassy.png)<br>[[Personagens/Cassidy Mazedy\|Cassidy Mazedy]]<br>**[[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro (Série)\|OUTRPG]] • [[Campanhas/Nunumia - O Último Tesouro Cinzas/Nunumia - O Último Tesouro Cinzas\|OUTRPG2]]** |
-| ------------------------------------------------------------------------------------------------------------------------------------------------ |
-
-
-## [[Pacto dos Cinco Cavaleiros\|Pacto dos Cinco Cavaleiros]]:
-### Os Cinco Cavaleiros:
+| :----------------------------------------------------------------------------------------------------------------------------------------------: |
+## [[Pacto dos Cinco Cavaleiros\|Pacto dos Cinco Cavaleiros]]
+### Os Cinco Cavaleiros
 
 |                         ![Shepherd Al-Asad.png\|200](/img/user/0-Assets/Images/Icons/Personagens/Shepherd%20Al-Asad.png)<br>[[Personagens/Shepherd Al-Asad\|Shepherd Al-Asad]]<br>**[[Campanhas/Nunumia - O Último Tesouro Cinzas/Nunumia - O Último Tesouro Cinzas\|OUTRPG2]]**                          | ![Latiff_2.png\|200](/img/user/0-Assets/Images/Icons/Personagens/Guarda%20Azariana/Latiff_2.png)<br>[[Personagens/Latiff Violett\|Latiff]]<br>**[[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro (Série)\|OUTRPG]] • [[Campanhas/Nunumia - O Último Tesouro Cinzas/Nunumia - O Último Tesouro Cinzas\|OUTRPG2]]** | ![Maximiliam Pegasus.png\|200](/img/user/0-Assets/Images/Icons/Personagens/Maximiliam%20Pegasus.png)<br>[[Personagens/Maximiliam Pegasus\|Maximiliam Pegasus]]<br>**[[Campanhas/Nunumia - O Último Tesouro Cinzas/Nunumia - O Último Tesouro Cinzas\|OUTRPG2]]** |
 | :-----------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------: |
@@ -111,20 +109,23 @@ Para mais detalhes, veja: [[Páginas/Magos de Skyline\|Magos de Skyline]]
 
 # Tornhill
 ---
+## Moradores de ???
+| ![tuîba'e de amarginha.png\|200](/img/user/0-Assets/Images/Icons/Personagens/Tu%C3%AEba'e%20de%20Amarginha.png)<br>[[Tuîba'e de Amarginha\|Tuîba'e de Amarginha]]<br>**[[Campanhas/Nunumia - O Último Tesouro Cinzas/Nunumia - O Último Tesouro Cinzas\|OUTRPG2]]** | ![none.png\|200](/img/user/0-Assets/Images/Icons/Personagens/none.png)<br>[[Frottus\|Frottus]]<br>**[[Campanhas/Nunumia - O Último Tesouro Cinzas/Nunumia - O Último Tesouro Cinzas\|OUTRPG2]]** |
+| :------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------: |
 
-# [[As Nações de Nunumia/Sete Grandes Nações de Nunumia/Unova\|Unova]]
+# Unova
 ---
 ## Família Admircov:
 
 | ![none.png\|200](/img/user/0-Assets/Images/Icons/Personagens/none.png)<br>[[Personagens/Aurora Admircov - △\|Aurora Admircov - △]] | ![none.png\|200](/img/user/0-Assets/Images/Icons/Personagens/none.png)<br>[[Emanuel Admircov - △\|Emanuel Admircov - △]]<br> | ![none.png\|200](/img/user/0-Assets/Images/Icons/Personagens/none.png)<br>[[Personagens/Melissa Admircov - ⁜\|Melissa Admircov - ⁜]] | ![Saon.png\|200](/img/user/0-Assets/Images/Icons/Personagens/Saon.png)<br>[[Personagens/Saon Admircov\|Saon Admircov]]<br>**[[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro (Série)\|OUTRPG]]** |
 | :-------------------------------------------: | :------------------------------------------------: | :--------------------------------------------: | :-------------------------------------------------------------------------------------------: |
 
-# [[As Nações de Nunumia/Sete Grandes Nações de Nunumia/Zaun\|Zaun]]
+# Zaun
 ---
 ## Moradores de Margarida
-| ![[Astolfo.png\|200]]<br>[[Astolfo\|Astolfo]] |
-| :----------------------------------: |
-## Família Zuma:
+| [[Astolfo Mene\|Astolfo Mene]] |
+| :--------------: |
+## Família Zuma
 
 | ![none.png\|200](/img/user/0-Assets/Images/Icons/Personagens/none.png)<br>[[Personagens/Mazor Zuma ♱\|Mazor Zuma ♱]] | ![none.png\|200](/img/user/0-Assets/Images/Icons/Personagens/none.png)<br>[[Personagens/Zacariv Zuma ⁜\|Zacariv Zuma ⁜]]<br> | ![none.png\|200](/img/user/0-Assets/Images/Icons/Personagens/none.png)<br>[[Personagens/Maria Gálio Zuma ♱\|Maria Gálio Zuma ♱]] |
 | :--------------------------------------: | :--------------------------------------------: | :--------------------------------------------: |

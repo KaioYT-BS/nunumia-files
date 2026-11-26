@@ -1,8 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/paginas/12-faces-rpg/condicoes-12-frpg/","created":"2026-03-09T22:23:11.704-03:00","updated":"2026-11-20T15:13:13.552-03:00","dg-note-properties":{"aliases":["Condições"]}}
+{"dg-publish":true,"permalink":"/paginas/12-faces-rpg/condicoes-12-frpg/","created":"2026-03-09T22:23:11.704-03:00","updated":"2026-11-26T11:51:20.252-03:00","dg-note-properties":{"aliases":["Condições"]}}
 ---
 
 #C #12FRPG #Páginas 
+# Apavorado
+---
+Você está apavorado, realize um [[Páginas/12Faces RPG/Testes Especiais (12FRPG)#Teste de Pavor\|Teste Especial de Pavor]] toda rodada enquanto durar a condição.
 # Desprevenido
 ---
 Despreparado para reagir.. Você fica desprevenido contra inimigos que não possa perceber.
