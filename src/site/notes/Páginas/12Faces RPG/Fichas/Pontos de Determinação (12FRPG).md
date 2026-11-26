@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/paginas/12-faces-rpg/fichas/pontos-de-determinacao-12-frpg/","created":"2026-11-20T12:12:20.847-03:00","updated":"2026-11-25T12:23:30.199-03:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/paginas/12-faces-rpg/fichas/pontos-de-determinacao-12-frpg/","created":"2026-11-20T12:12:20.847-03:00","updated":"2026-11-26T13:27:23.459-03:00","dg-note-properties":{}}
 ---
 
 #P #12FRPG #Páginas 
@@ -37,6 +37,6 @@ Sempre que seus **PD atuais** forem reduzidos a **0** (seja por gastar energia e
 | 1d12        | Trauma                   | Efeito Mecânico e Narrativo                                                                                                                                                                                                                                                                              |
 | ----------- | ------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **1 – 3**   | **Paralisia / Estupor**  | O choque congela seus reflexos. Você fica **Paralisado** (não pode realizar ações ou se mover) até o fim do seu próximo turno. Após passar o choque inicial, sofre **–1 passo de dado** em todos os testes de _Físico_ até recuperar ao menos 1 PD.                                                      |
-| **4 – 6**   | **Fobia Aguda / Pânico** | O instinto de autopreservação assume o controle. Você precisa usar todo o seu deslocamento para **fugir** da fonte do trauma (ou buscar cobertura fechada) no seu próximo turno. Enquanto estiver com 0 PD, sofre **–1 passo de dado** em testes de _Emoção_ sempre que estiver na presença do gatilho.  |
+| **4 – 6**   | **Fobia Aguda / Pânico** | O instinto de autopreservação assume o controle. Você precisa usar todo o seu deslocamento para **fugir** da fonte do trauma (ou buscar cobertura fechada) no seu próximo turno. Enquanto estiver com 0 PD, sofre **–1 passo de dado** em testes de *Mente* sempre que estiver na presença do gatilho.   |
 | **7 – 9**   | **Dissociação / Apatia** | Sua mente se desliga da realidade para se proteger. Você perde a capacidade de usar reações e não pode prestar nem receber ajuda de aliados. Além disso, sofre **–1 passo de dado** em todos os testes de _Mente_ (percepção, investigação e raciocínio) até recuperar ao menos 1 PD.                    |
 | **10 – 12** | **Surtos / Frenesi**     | A pressão se transforma em desespero agressivo ou paranóia. Você interpreta qualquer movimento brusco como uma ameaça mortal: no seu próximo turno, deve atacar ou empurrar o alvo mais próximo (aliado ou inimigo). Até recuperar 1 PD, você não pode realizar testes que exijam calma ou concentração. |
