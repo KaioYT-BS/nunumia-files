@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/paginas/boas-vindas-a-nunumia-wiki/","tags":["gardenEntry"],"created":"2026-03-02T13:48:39.740-03:00","updated":"2026-11-26T12:50:27.759-03:00","dg-note-properties":{"aliases":["Home"]}}
+{"dg-publish":true,"permalink":"/paginas/boas-vindas-a-nunumia-wiki/","tags":["gardenEntry"],"created":"2026-03-02T13:48:39.740-03:00","updated":"2026-11-26T13:21:33.480-03:00","dg-note-properties":{"aliases":["Home"]}}
 ---
 
 
@@ -7,7 +7,7 @@
 ![Nunumia_Wiki_600x260.png](/img/user/Nunumia_Wiki_600x260.png)
 *Nunumia* é um universo mágico *high-fantasy* criado por [[Páginas/Jogadores/Kaiositos\|Kaiositos]]. O projeto nasceu dia 7 de Novembro de 2025 e teve sua primeira campanha, [[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro O Começo da Passagem\|Nunumia - O Último Tesouro O Começo da Passagem]] estreada em 30 de Novembro de 2025.
 
-Aqui na 12FRPG & Nunumia Wiki você encontra artigos sobre o sistema **12FRPG** e sobre personagens, lendas, episódios e criaturas do universo de Nunumia. Os episódios do RPG gravados ficam disponíveis em uma playlist privada no Youtube [@Kaiositos2](https://www.youtube.com/@Kaiositos2).
+Na 12FRPG & Nunumia Wiki você encontra artigos sobre o sistema **12FRPG** e sobre personagens, lendas, episódios e criaturas do universo de Nunumia. Os episódios do RPG gravados ficam disponíveis em uma playlist privada no Youtube [@Kaiositos2](https://www.youtube.com/@Kaiositos2).
 
 
 > [!NOTE] Dica
@@ -15,7 +15,7 @@ Aqui na 12FRPG & Nunumia Wiki você encontra artigos sobre o sistema **12FRPG** 
 
 # Calendário
 ---
-- 31/11: [[Campanhas/Nunumia - O Último Tesouro Cinzas/OUTRPG 2 - EPISÓDIO 4 - A CAVERNA\|OUTRPG 2 - EPISÓDIO 4 - A CAVERNA]]
+- 29/11: [[Campanhas/Nunumia - O Último Tesouro Cinzas/OUTRPG 2 - EPISÓDIO 4 - A CAVERNA\|OUTRPG 2 - EPISÓDIO 4 - A CAVERNA]]
 # Artigos em Destaque!
 ---
 
