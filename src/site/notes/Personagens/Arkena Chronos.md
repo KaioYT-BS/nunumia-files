@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personagens/arkena-chronos/","created":"2026-02-08T13:45:54.734-03:00","updated":"2026-11-14T09:44:56.037-03:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/personagens/arkena-chronos/","created":"2026-02-08T13:45:54.734-03:00","updated":"2026-11-27T10:16:06.430-03:00","dg-note-properties":{}}
 ---
 
 #A #Personagens #Personagens_do_Mestre #Personagens_Principais_em_OUTRPG #Personagens_Principais_em_OUTRPG2 
@@ -11,14 +11,14 @@
 > _"Você, disse que jogou a vida fora, mas sua vida, começa.. AGORA!"
 >— [[Personagens/Arkena Chronos\|Arkena Chronos]] para [[Personagens/Ananke Amargun\|Ananke Amargun]] em [[Campanhas/Nunumia - O Último Tesouro/OUTRPG - EPISÓDIO 7 - BIFURCAÇÃO (TEMPO E ILUSÃO)\|OUTRPG - EPISÓDIO 7 - BIFURCAÇÃO (TEMPO E ILUSÃO)]]._
 
-| **Galeria**    |                                             |
-| -------------- | ------------------------------------------- |
-| **Intérprete** | [[Páginas/Jogadores/Kaiositos\|Kaiositos]]                               |
-| **Status**     | Viva                                        |
-| **Idade**      | Desconhecida                                |
-| **Ocupação**   | Portadora da [[Magia/Trevas/Relíquias do ShadowMantle/Chronos\|Chronos]] |
-| **Afinidade**  | Trevas - Tempo                              |
-| **Associação** | [[Organizações e Equipes/Filhos do Tempo\|Filhos do Tempo]]                         |
+| **Galeria**    | ![Arkena Chronos.png\|250](/img/user/0-Assets/Images/Icons/Personagens/Arkena%20Chronos.png) |
+| -------------- | ---------------------------- |
+| **Intérprete** | [[Páginas/Jogadores/Kaiositos\|Kaiositos]]                |
+| **Status**     | Viva                         |
+| **Idade**      | Desconhecida                 |
+| **Ocupação**   | Portadora da [[Magia/Trevas/Relíquias do ShadowMantle/Chronos\|Chronos]]     |
+| **Afinidade**  | Trevas - Tempo               |
+| **Associação** | [[Organizações e Equipes/Filhos do Tempo\|Filhos do Tempo]]          |
 
 # História
 ---

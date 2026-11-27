@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/organizacoes-e-equipes/o-pacto-dos-cinco-cavaleiros/corporacao-gentileza/","created":"2026-08-08T13:35:10.495-03:00","updated":"2026-11-26T13:02:18.000-03:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/organizacoes-e-equipes/o-pacto-dos-cinco-cavaleiros/corporacao-gentileza/","created":"2026-08-08T13:35:10.495-03:00","updated":"2026-11-26T13:52:59.130-03:00","dg-note-properties":{}}
 ---
 
 #C #Organizações 
@@ -16,3 +16,5 @@
 | **Membros conhecidos**     | [[Personagens/Maximiliam Pegasus\|Maximiliam Pegasus]]<br>[[Personagens/Sophie Miller\|Sophie Miller]]<br>[[Personagens/Ambrósio Coralar\|Ambrósio Coralar]]<br>[[Personagens/Latiff Violett\|Latiff Violett]] (anteriormente)<br>[[Personagens/Anne Psina\|Anne Psina]] (anteriormente)<br>[[Personagens/Nathaniel Scompa ♱\|Nathaniel Scompa ♱]] (anteriormente)<br> |
 | **Organizações aliadas**   | [[Organizações e Equipes/O Pacto dos Cinco Cavaleiros/Partido Revolutionary Ultranationalist\|Partido Revolucionário Ultranationalista]]<br>[[Organizações e Equipes/O Pacto dos Cinco Cavaleiros/Strikers\|Strikers]]<br>[[Organizações e Equipes/O Pacto dos Cinco Cavaleiros/Guarda Revolucionária Azariana\|Guarda Revolucionária Azariana]]                                                |
 | **Inimigos**               | [[Organizações e Equipes/Zaun/Palácio de Jade/Força Nacional de Segurança de Zaun\|Força Nacional de Segurança de Zaun]]<br>[[Organizações e Equipes/Conselho de Unova\|Conselho de Unova]]                                                                                                                          |
+# Agentes
+---

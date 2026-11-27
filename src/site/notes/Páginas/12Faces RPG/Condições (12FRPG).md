@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/paginas/12-faces-rpg/condicoes-12-frpg/","created":"2026-03-09T22:23:11.704-03:00","updated":"2026-11-26T11:51:20.252-03:00","dg-note-properties":{"aliases":["Condições"]}}
+{"dg-publish":true,"permalink":"/paginas/12-faces-rpg/condicoes-12-frpg/","created":"2026-03-09T22:23:11.704-03:00","updated":"2026-11-26T13:42:57.046-03:00","dg-note-properties":{"aliases":["Condições"]}}
 ---
 
 #C #12FRPG #Páginas 
@@ -11,7 +11,7 @@ Você está apavorado, realize um [[Páginas/12Faces RPG/Testes Especiais (12FRP
 Despreparado para reagir.. Você fica desprevenido contra inimigos que não possa perceber.
 # Enlouquecendo
 ---
-O personagem fica com todos os seus *Pontos de Determinação* zerados. Além disso, suas ações ficam instáveis e irracionais. Para sair da condição, é necessário um teste de *Diplomacia* (**DT: 10-35**).
+O personagem fica enlouquecido quando todos os seus *Pontos de Determinação* zerados. Além disso, suas ações ficam instáveis e irracionais. Para sair da condição, é necessário um teste de *Influência* (**DT: 10-35**).
 # Em Chamas
 ---
 O personagem está pegando fogo. No início de seus turnos, sofre 1d4 pontos de dano. O personagem pode gastar uma ação padrão para apagar o fogo com as mãos. Caso haja imersão em água as chamas são apagadas.
@@ -25,7 +25,7 @@ O personagem fica invisível por uma quantidade determinada de turnos, causando
 ---
 # Morrendo
 ---
-Com 0 pontos de vida (PV). Um personagem morrendo fica inconsciente e, se terminar mais de três rodadas (não necessariamente consecutivas) morrendo na mesma cena, morre. Esta condição se encerra se o personagem voltar a ter pelo menos 1 PV.
+Entra em morrendo com 0 pontos de vida (PV). A cada rodada faz um teste de *Vigor* para se manter de pé, caso contrario o personagem fica inconsciente e, se terminar mais de três rodadas (não necessariamente consecutivas) morrendo na mesma cena, morre. Esta condição se encerra se o personagem voltar a ter pelo menos 1 PV.
 # Paralisia
 ---
 O personagem fica imóvel e indefeso e só pode realizar ações que envolvam a mente.

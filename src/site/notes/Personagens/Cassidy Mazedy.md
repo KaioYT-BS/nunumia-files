@@ -1,22 +1,20 @@
 ---
-{"dg-publish":true,"permalink":"/personagens/cassidy-mazedy/","created":"2026-02-08T13:45:54.531-03:00","updated":"2026-11-25T11:40:22.214-03:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/personagens/cassidy-mazedy/","created":"2026-02-08T13:45:54.531-03:00","updated":"2026-11-27T10:58:51.066-03:00","dg-note-properties":{}}
 ---
 
 #Personagens #Personagens_Principais_em_OUTRPG #Destinados #Waifus_do_Caribe 
 
-
-
-| Galeria         | ![Cassy.png\|250](/img/user/0-Assets/Images/Icons/Personagens/Waifus%20do%20Caribe/Cassy.png)<br>Cassidy Mazedy                                                                                                                                                                                                                   |
-| --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Intérpretes** | [[Páginas/Jogadores/Kaiositos\|Kaiositos]]                                                                                                                                                                                                                                           |
-| **Status**      | Viva                                                                                                                                                                                                                                                    |
-| **Idade**       | 25                                                                                                                                                                                                                                                      |
-| **Apelidos**    | Estranho ([[Personagens/Denver Zuma\|Denver Zuma]])<br>Garotinha ([[Personagens/Scarlet Mana Jin-Can\|Scarlet Mana Jin-Can]])                                                                                                                                                                                      |
-| **Relações**    | Veja [[Personagens/Cassidy Mazedy#Relações\|§ Relações]]<br>Andrew Mazedy ♱ (irmão)<br>Liban Mazedy ♱ (pai)<br>Jessica Mazedy (mãe)<br>[[Personagens/Denver Zuma\|Denver Zuma]] (amigo)<br>[[Personagens/Amon Vaelor\|Amon Vaelor]] (amigo)<br>[[Personagens/Alger Baskerville\|Alger Baskerville]] (amigo))<br>[[Personagens/Kenshi Takada\|Kenshi Takada]] (colega de equipe) |
-| **Ocupação**    | Membra das [[Organizações e Equipes/Zaun/Palácio de Jade/Equipes/Waifus do Caribe\|Waifus do Caribe]]                                                                                                                                                                                                                         |
-| **Classe**      | Tanque                                                                                                                                                                                                                                                  |
-| **Raça**        | Humano                                                                                                                                                                                                                                                  |
-| **Associação**  | [[Organizações e Equipes/Zaun/Palácio de Jade (Organização)\|Palácio de Jade (Organização)]]<br>[[Organizações e Equipes/Zaun/Palácio de Jade/Equipes/Waifus do Caribe\|Waifus do Caribe]]                                                                                                                                                                                               |
+| Galeria         | ![Cassy.png\|250](/img/user/0-Assets/Images/Icons/Personagens/Waifus%20do%20Caribe/Cassy.png)<br>Cassidy Mazedy                                                                                                                                                                                                                  |
+| --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Intérpretes** | [[Páginas/Jogadores/Kaiositos\|Kaiositos]]                                                                                                                                                                                                                                          |
+| **Status**      | Viva                                                                                                                                                                                                                                                   |
+| **Idade**       | 25                                                                                                                                                                                                                                                     |
+| **Apelidos**    | Estranha ([[Personagens/Denver Zuma\|Denver Zuma]])<br>Garotinha ([[Personagens/Scarlet Mana Jin-Can\|Scarlet Mana Jin-Can]])                                                                                                                                                                                     |
+| **Relações**    | Veja [[Personagens/Cassidy Mazedy#Relações\|§ Relações]]<br>Andrew Mazedy ♱ (irmão)<br>Liban Mazedy ♱ (pai)<br>Jessica Mazedy (mãe)<br>[[Personagens/Denver Zuma\|Denver Zuma]] (amigo)<br>[[Personagens/Amon Vaelor\|Amon Vaelor]] (amigo)<br>[[Personagens/Alger Baskerville\|Alger Baskerville]] (amigo)<br>[[Personagens/Kenshi Takada\|Kenshi Takada]] (colega de equipe) |
+| **Ocupação**    | Membra das [[Organizações e Equipes/Zaun/Palácio de Jade/Equipes/Waifus do Caribe\|Waifus do Caribe]]                                                                                                                                                                                                                        |
+| **Classe**      | Tanque                                                                                                                                                                                                                                                 |
+| **Raça**        | Humano                                                                                                                                                                                                                                                 |
+| **Associação**  | [[Organizações e Equipes/Zaun/Palácio de Jade (Organização)\|Palácio de Jade (Organização)]]<br>[[Organizações e Equipes/Zaun/Palácio de Jade/Equipes/Waifus do Caribe\|Waifus do Caribe]]                                                                                                                                                                                              |
 
 **Cassidy Mazedy** é uma das personagens principais de [[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro (Série)\|Nunumia: O Último Tesouro]].
 
@@ -26,7 +24,7 @@ Em [[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro O Começo
 
 Em [[Campanhas/Nunumia - O Último Tesouro Cinzas/Nunumia - O Último Tesouro Cinzas\|Nunumia - O Último Tesouro Cinzas]], ela retorna do coma depois de dois meses, dessa vez mais determinada do que nunca para achar [[Os Sete Segredos de Nunumia/Segredo de Aspheera/As Sete Joias do Último Tesouro\|As Sete Joias do Último Tesouro]]. Posteriormente em [[Campanhas/Nunumia - O Último Tesouro Cinzas/OUTRPG 2 - EPISÓDIO 4 - A CAVERNA\|OUTRPG 2 - EPISÓDIO 4 - A CAVERNA]], Cassy mudou completamente de visual além de soltar seu cabelo preso.
 
-
+Cassy considera Kenshi alguém especial, principalmente pelo tempo que ela passou com ele e Raiden no barco. 
 
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personagens/adam-smith/","created":"2026-02-08T13:45:54.424-03:00","updated":"2026-11-19T20:59:28.586-03:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/personagens/adam-smith/","created":"2026-02-08T13:45:54.424-03:00","updated":"2026-11-26T22:28:45.502-03:00","dg-note-properties":{}}
 ---
 
 #A #Personagens #Personagens_Principais_em_OUTRPG  #Destinados 
@@ -13,7 +13,7 @@
 
 | Galeria         | ![Adam.png\|250](/img/user/0-Assets/Images/Icons/Personagens/Waifus%20do%20Caribe/Adam.png)<br>*Adam Smith*                                                                                                                             |
 | --------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Intérpretes** | [[Páginas/Jogadores/Kaiositos\|Kaiositos]] <br>[[Páginas/Jogadores/Aguiar\|Aguiar]] ([[Eventos/Reinicio (REBOOT)\|REBOOT]])                                                                                                   |
+| **Intérpretes** | [[Páginas/Jogadores/Kaiositos\|Kaiositos]] ([[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro O Começo da Passagem\|Nunumia - O Último Tesouro O Começo da Passagem]])<br>---<br>[[Páginas/Jogadores/Aguiar\|Aguiar]]                                                                       |
 | **Status**      | Vivo                                                                                                                                                           |
 | **Idade**       | 25                                                                                                                                                             |
 | **Apelidos**    | Meu bem ([[Personagens/Denver Zuma\|Denver Zuma]]) <br>Loirinho ([[Personagens/Scarlet Mana Jin-Can\|Scarlet Mana Jin-Can]], [[Personagens/Nathaniel Scompa ♱\|Nathaniel Scompa ♱]])                                                                      |
@@ -26,7 +26,7 @@
 
 **Adam Smith** é um dos protagonistas de [[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro (Série)\|Nunumia: O Último Tesouro]]. 
 
-Ele é um homem de cabelos loiros, pele clara e olhos amarelos. Adam é o diplomata de Zaun na [[Organizações e Equipes/Império de Unova/Casas de Unova#Casa Umbrella\|Casa Umbrella]], em Unova. Antes dos eventos de [[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro (Série)\|Nunumia - O Último Tesouro (Série)]] ele entregou as cartas de [[Personagens/Denver Zuma\|Denver Zuma]] para os tripulantes das [[Organizações e Equipes/Zaun/Palácio de Jade/Equipes/Waifus do Caribe\|Waifus do Caribe]]. 
+Ele é o diplomata de Zaun na [[Organizações e Equipes/Império de Unova/Casas de Unova#Casa Umbrella\|Casa Umbrella]], em Unova. Antes dos eventos de [[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro (Série)\|Nunumia - O Último Tesouro (Série)]] ele entregou as cartas de [[Personagens/Denver Zuma\|Denver Zuma]] para os tripulantes das [[Organizações e Equipes/Zaun/Palácio de Jade/Equipes/Waifus do Caribe\|Waifus do Caribe]]. 
 
 Em **[[Campanhas/Nunumia - O Último Tesouro/Nunumia - O Último Tesouro Desmoronando\|Nunumia - O Último Tesouro Desmoronando]]**, Adam se juntou aos remanescentes da [[Organizações e Equipes/Zaun/Palácio de Jade/Equipes/Equipe Delta\|Equipe Delta]] e [[Organizações e Equipes/Zaun/Palácio de Jade/Equipes/Waifus do Caribe\|Waifus do Caribe]] para impedir que os [[Organizações e Equipes/Escarlates\|Escarlates]] tomassem posse das sete joias do último tesouro.
 

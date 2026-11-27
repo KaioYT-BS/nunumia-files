@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personagens/ambrosio-coralar/","created":"2026-02-08T13:45:54.484-03:00","updated":"2026-11-19T21:31:32.142-03:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/personagens/ambrosio-coralar/","created":"2026-02-08T13:45:54.484-03:00","updated":"2026-11-26T13:53:52.347-03:00","dg-note-properties":{}}
 ---
 
 #A #Personagens #Personagens_Principais_em_OUTRPG #Personagens_do_Mestre 
@@ -11,8 +11,9 @@
 > Está página não está completa e, até o momento, sem nada além de partes da INFOBOX.
 > Nível de conteúdo: Escasso
 
-| **Intérpretes** | [[Páginas/Jogadores/Kaiositos\|Kaiositos]]                                                                                                                                                                                |
+| **Galeria**     | ![Ambrósio Coralar.png\|250](/img/user/0-Assets/Images/Icons/Personagens/Ambr%C3%B3sio%20Coralar.png)                                                                                                                                                               |
 | --------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Intérpretes** | [[Páginas/Jogadores/Kaiositos\|Kaiositos]]                                                                                                                                                                                |
 | **Status**      | Viva                                                                                                                                                                                         |
 | **Idade**       | 34                                                                                                                                                                                           |
 | **Apelidos**    | "Incompetente" ([[Personagens/Nathaniel Scompa ♱\|Nathaniel Scompa ♱]])                                                                                                                                                      |
